@@ -1,0 +1,42 @@
+[
+    {
+        "country": "Belarus",
+        "capital": "Minsk",
+        "population": "9200000"
+    },
+    {
+        "country": "Ukraine",
+        "capital": "Kyiv",
+        "population": "43800000"
+    },
+    {
+        "country": "Poland",
+        "capital": "Warsaw",
+        "population": "37750000"
+    },
+    {
+        "country": "Uzbekistan",
+        "capital": "Tashkent",
+        "population": "34920000"
+    },
+    {
+        "country": "Kazakhstan",
+        "capital": "Astana",
+        "population": "19000000"
+    },
+    {
+        "country": "Azerbaijan",
+        "capital": "Baku",
+        "population": "10140000"
+    },
+    {
+        "country": "Kyrgyzstan",
+        "capital": "Bishkek",
+        "population": "6692000"
+    },
+    {
+        "country": "Kyrgyzstan",
+        "capital": "Bishkek",
+        "population": "6692000"
+    }
+]
