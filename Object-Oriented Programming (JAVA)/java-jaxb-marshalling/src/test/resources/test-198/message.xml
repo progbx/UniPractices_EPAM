@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="806" from="Sebastian Donnelly" type="SMTP">
+        <heading>No! Marty! We've already agreed that having information about the future can be extremely dangerous. Even if your intentions are good, it can backfire drastically!</heading>
+        <body>Sed debitis est aut quas facilis. Atque nemo autem deserunt et aliquam. Optio tempore et omnis magni eligendi est at. Architecto et est odit. Consequatur dolorem aut omnis esse quia. Itaque beatae fugit qui beatae expedita. Quisquam officia et iusto aut assumenda id.</body>
+        <recipients>
+            <recipient name="Dwain Schultz I"/>
+            <recipient name="Frank Ledner"/>
+            <recipient name="Claud Hamill V"/>
+            <recipient name="Ethel Dibbert III"/>
+            <recipient name="Georgie Barton"/>
+            <recipient name="Kelvin Larson"/>
+            <recipient name="Earlie Ernser"/>
+            <recipient name="Raven Keeling"/>
+            <recipient name="Ms. Trisha Schimmel"/>
+            <recipient name="Agatha Orn IV"/>
+            <recipient name="Silas Braun"/>
+        </recipients>
+        <mentions>
+            <mention name="Joaquina Farrell"/>
+            <mention name="Merlene Ryan"/>
+            <mention name="Chi Greenholt Sr."/>
+        </mentions>
+    </message>
+    <message id="1394" from="Katheryn Smith" type="SMTP">
+        <heading>Calvin? Wh... Why do you keep calling me Calvin?</heading>
+        <body>Iure nostrum velit quas quae delectus voluptates. Repudiandae enim nesciunt ipsam et eligendi sunt. Nesciunt adipisci ab in dolores numquam esse. Fuga maiores suscipit vitae perferendis ducimus. Laudantium voluptatem ratione est quae molestiae ullam sunt. Ipsum voluptate omnis veniam. Dolorum ipsam voluptatibus voluptas quod. Tempora atque iusto provident fugit. Maiores nisi est autem quasi.</body>
+        <recipients>
+            <recipient name="Ms. Gertude Larson"/>
+            <recipient name="Malia Hodkiewicz"/>
+            <recipient name="Bob Lehner"/>
+            <recipient name="Shaneka Roob"/>
+            <recipient name="Ana D'Amore"/>
+            <recipient name="Ella Morissette"/>
+            <recipient name="Mr. Marcus Ankunding"/>
+            <recipient name="Ms. Cayla Carroll"/>
+            <recipient name="Sonya Smitham II"/>
+            <recipient name="Ellen Kunze DDS"/>
+        </recipients>
+    </message>
+    <message id="7397" from="Dr. Guadalupe Kulas" type="SMTP">
+        <heading>Radiation suit? Of course. 'Cause of all the fallout from the atomic wars.</heading>
+        <body>Voluptatem repellat atque. Nihil aliquam est qui ut itaque. Voluptatem quos et ipsa qui sed sed nihil. Porro est consequuntur voluptatem a labore vero. Qui omnis qui aperiam. Quidem est et. Illum tempore libero in sit rerum. Molestiae aspernatur autem. Expedita nisi enim consectetur autem.</body>
+        <recipients>
+            <recipient name="Dierdre Fritsch Jr."/>
+            <recipient name="Emmaline Abernathy"/>
+            <recipient name="Harlan Larkin"/>
+            <recipient name="Miss Carley Mills"/>
+            <recipient name="Mr. Don Keeling"/>
+            <recipient name="Violet Lemke"/>
+        </recipients>
+    </message>
+</ns2:messages>

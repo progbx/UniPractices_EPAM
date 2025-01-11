@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="2514" from="Isabella Heidenreich" type="SMS">
+        <heading>Stand tall, boy. Have some respect for yourself. Don't you know, if you let people walk over you now, they'll be walking over you for the rest of your life. Look at me. You think I'm gonna spend the rest of my life in this slop house?</heading>
+        <body>Quod voluptates qui perferendis dolor sapiente. Autem voluptas error aperiam. Nihil voluptatibus corrupti quia et. Tenetur qui dignissimos animi beatae voluptatem est necessitatibus. Veniam consequatur sed. Quos voluptas quisquam cumque et aliquam. Ullam sit rerum deleniti corrupti labore. Similique corrupti impedit.</body>
+        <recipients>
+            <recipient name="King Smith"/>
+            <recipient name="Dr. Paula Kessler"/>
+            <recipient name="Oswaldo Ziemann II"/>
+            <recipient name="Bernita Shields"/>
+            <recipient name="Mr. Edgar Mante"/>
+            <recipient name="Mrs. Soo Kiehn"/>
+            <recipient name="Douglass Lowe"/>
+            <recipient name="Clay Kozey"/>
+            <recipient name="Gil Moore"/>
+            <recipient name="Mr. Cecil Kemmer"/>
+        </recipients>
+    </message>
+    <message id="2567" from="Sylvester Kirlin" type="SMS">
+        <heading>Okay, thank you. That's enough. Hold it now. Hold it. Hold it, fellas. I'm afraid you're just too darn loud. Next, please. Bring in the next group, please.</heading>
+        <body>Et reiciendis dicta esse omnis autem. Minima voluptatibus unde laborum quas qui. Similique ut similique quia. Quia est debitis. Nobis eligendi vel dignissimos a hic occaecati est. Quo praesentium error alias vero eligendi dolores. Sint aliquid quia necessitatibus a officia assumenda. Modi et tenetur ut.</body>
+        <recipients>
+            <recipient name="Marco Daugherty II"/>
+            <recipient name="Mr. Roxann Zulauf"/>
+            <recipient name="Dr. Lamar Dickinson"/>
+        </recipients>
+        <mentions>
+            <mention name="Ms. Ray Kohler"/>
+            <mention name="Carmina Roberts"/>
+            <mention name="Mindy Altenwerth IV"/>
+            <mention name="Osvaldo Sporer"/>
+        </mentions>
+    </message>
+</ns2:messages>

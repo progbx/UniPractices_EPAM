@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="5167" from="Conrad Brekke" type="SMS">
+        <heading>Hey, McFly! I thought I told you never to come in here.</heading>
+        <body>Veniam asperiores reiciendis vero quidem molestiae voluptatum aut. Et deleniti ex nulla. Omnis vel libero qui. Mollitia et totam exercitationem aut. Velit omnis ut laborum hic et. Sit non iusto. Ea sed eum et. Ut sequi veniam quos vel. Autem qui est.</body>
+        <recipients>
+            <recipient name="Angila Batz Jr."/>
+            <recipient name="Bennett Flatley"/>
+            <recipient name="Gabrielle Dicki"/>
+            <recipient name="Oleta Schmidt"/>
+            <recipient name="Santos Dooley"/>
+            <recipient name="Saran Pouros"/>
+            <recipient name="Ms. Shawana Smith"/>
+            <recipient name="Lara Macejkovic"/>
+            <recipient name="Mr. Titus Botsford"/>
+            <recipient name="Barbra Mante"/>
+            <recipient name="Allyson McClure"/>
+            <recipient name="Lionel Kub"/>
+            <recipient name="Oliver Johns V"/>
+            <recipient name="Miss Jacqualine Braun"/>
+        </recipients>
+    </message>
+    <message id="9019" from="Cierra Schroeder" type="SMS">
+        <heading>If my calculations are correct, when this baby hits 88 miles per hour... you're gonna see some serious shit.</heading>
+        <body>Aut vel consequatur deleniti ea magni. Explicabo eligendi aperiam sed. Impedit voluptatum eaque maxime. Possimus dolorem sed non quas cumque. Reprehenderit aperiam natus. Voluptatem illo voluptates reprehenderit sint corporis voluptatum. Doloremque consequatur tempora adipisci adipisci ducimus corporis. Itaque nostrum quia.</body>
+        <recipients>
+            <recipient name="Miss Raphael Feeney"/>
+            <recipient name="Anglea Shanahan"/>
+            <recipient name="Darrin White"/>
+            <recipient name="Rickie Lubowitz DVM"/>
+            <recipient name="Mr. Alysa Schulist"/>
+        </recipients>
+    </message>
+    <message id="909" from="Doria Kirlin" type="SMS">
+        <heading>Calm down, Marty. I didn't disintegrate anything. The molecular structure of both Einstein and the car are completely intact.</heading>
+        <body>Facilis maxime accusantium asperiores perferendis ducimus. Et eius velit. Laborum nulla sunt porro mollitia provident ut dolorem. Explicabo et consequatur perspiciatis. Non iusto omnis distinctio. Illo architecto quo. Quasi suscipit ea quibusdam debitis.</body>
+        <recipients>
+            <recipient name="Norbert Huel"/>
+            <recipient name="Michel Emmerich"/>
+            <recipient name="Dr. Claribel Zieme"/>
+            <recipient name="Selma Lehner"/>
+            <recipient name="Mrs. Shakita Heidenreich"/>
+            <recipient name="Ms. Tawny Schinner"/>
+        </recipients>
+    </message>
+</ns2:messages>

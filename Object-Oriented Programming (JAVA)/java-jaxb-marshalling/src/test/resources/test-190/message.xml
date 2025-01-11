@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="1625" from="Ramon Hermann" type="SMTP">
+        <heading>He's a Peeping Tom!</heading>
+        <body>Nemo repudiandae mollitia. Maiores aspernatur ducimus laudantium repellat. Ut aperiam minima consequatur. Aut soluta qui deleniti veniam recusandae consectetur facere. Repellat aut sint consequatur eos voluptates nulla. Eos saepe expedita. Ad doloribus et voluptatem. Doloremque accusantium nam aut.</body>
+        <recipients>
+            <recipient name="Mr. Thora Greenfelder"/>
+            <recipient name="Porfirio Ratke"/>
+            <recipient name="Sherry Leffler"/>
+            <recipient name="Burl Dach"/>
+            <recipient name="Calandra Littel"/>
+            <recipient name="Rufina Denesik"/>
+            <recipient name="Rosenda Connelly"/>
+            <recipient name="Dr. Ward Considine"/>
+            <recipient name="Kyoko Wiegand"/>
+            <recipient name="Myrtle Spinka"/>
+        </recipients>
+    </message>
+    <message id="5845" from="Miss Silas Nicolas" type="AMQP">
+        <heading>Now, Biff, I want to make sure that we get two coats of wax this time, not just one.</heading>
+        <body>Sed est enim occaecati aut ex deleniti eum. Dolor et aliquid et id adipisci et excepturi. Aspernatur autem tempore quasi et et. Saepe amet sed quis. Consequatur voluptas ex corrupti harum vel veritatis id. Autem at dolores sit temporibus laborum. Quibusdam nihil aut quo.</body>
+        <recipients>
+            <recipient name="Mrs. Sherise Gislason"/>
+            <recipient name="Mr. Karissa Murphy"/>
+            <recipient name="Ms. Steven Walker"/>
+            <recipient name="Kalyn Abernathy"/>
+            <recipient name="Delisa Mraz V"/>
+            <recipient name="Johnson Veum V"/>
+            <recipient name="Angeline Wuckert II"/>
+            <recipient name="Bob Graham"/>
+            <recipient name="Princess Konopelski"/>
+        </recipients>
+        <mentions>
+            <mention name="Wilbert Moore DVM"/>
+            <mention name="Sherwood Crist"/>
+        </mentions>
+    </message>
+    <message id="6120" from="Miss Tamekia Howell" type="XMPP">
+        <heading>I had a horrible nightmare. I dreamed that I went... back in time. It was terrible.</heading>
+        <body>Rerum et unde. Et aut est explicabo sed dolores voluptatem aut. Quae necessitatibus sed rerum aut. Nesciunt dolorum accusantium voluptatum iure minima. Unde aspernatur ratione et blanditiis quia architecto reiciendis. Aut quasi autem commodi tempore. Vel repellat vero.</body>
+        <recipients>
+            <recipient name="Mr. Roxann Hoppe"/>
+            <recipient name="Wendolyn Mraz"/>
+            <recipient name="Vickie Howell"/>
+            <recipient name="Aurelia Toy"/>
+        </recipients>
+    </message>
+    <message id="9435" from="Roselyn Stroman" type="SMTP">
+        <heading>Hey, you! Get your damn hands off her!</heading>
+        <body>Nam ullam id eveniet quis animi. Ullam perspiciatis quia illo fugit reiciendis. Debitis ullam et officiis optio. Odit molestiae cum possimus pariatur cumque. Eveniet esse totam ipsa at. Soluta rerum iusto hic. Impedit minima ullam minus.</body>
+        <recipients>
+            <recipient name="Mrs. Shanelle Hyatt"/>
+            <recipient name="Alden Emard II"/>
+            <recipient name="Noble Lueilwitz"/>
+            <recipient name="Shane Anderson"/>
+            <recipient name="Arnold Pollich"/>
+            <recipient name="Efren McCullough"/>
+        </recipients>
+    </message>
+    <message id="2854" from="Mrs. Narcisa Treutel" type="RCS">
+        <heading>Crazy drunk driver.</heading>
+        <body>Sed quia modi corrupti et. Enim impedit harum vel unde distinctio sit. Nihil error iure veniam nam tenetur nihil. Cupiditate quo sed voluptates earum et et. Dicta vitae voluptas natus omnis aspernatur vero atque. Quidem nesciunt est. Earum quia blanditiis repellat.</body>
+        <recipients>
+            <recipient name="Hector Reinger"/>
+            <recipient name="Brigid Effertz"/>
+            <recipient name="Jarvis Trantow DVM"/>
+            <recipient name="Malena Swaniawski"/>
+            <recipient name="Margit Robel MD"/>
+            <recipient name="Ms. Yun Willms"/>
+        </recipients>
+        <mentions>
+            <mention name="Ian Davis"/>
+            <mention name="Pearle Strosin"/>
+            <mention name="Giovanni Hessel"/>
+            <mention name="Mrs. Ruben Ritchie"/>
+        </mentions>
+    </message>
+    <message id="7779" from="Desmond Macejkovic" type="MQTT">
+        <heading>Perfect! My experiment worked! They're all exactly 25 minutes slow!</heading>
+        <body>Consequatur ipsa distinctio. Corporis delectus at quo repellendus aut voluptatem quia. Error quibusdam iure autem sapiente sed. Impedit nam ab ipsam est. Iure non molestias perspiciatis quo rerum. Voluptatibus rem assumenda. Debitis nam enim laboriosam nemo sint voluptatum. Tempore et sunt sint et rerum hic culpa. Ex dicta autem.</body>
+        <recipients>
+            <recipient name="Giovanni Sauer"/>
+            <recipient name="Mr. Caitlin Botsford"/>
+            <recipient name="Oda Kub"/>
+            <recipient name="Shaquita Paucek"/>
+            <recipient name="Lamonica Macejkovic"/>
+            <recipient name="Miss Ike McKenzie"/>
+            <recipient name="Michell Jacobi"/>
+            <recipient name="Ji Larkin"/>
+            <recipient name="Maritza Rempel"/>
+            <recipient name="Mrs. Jarvis Robel"/>
+        </recipients>
+    </message>
+    <message id="9773" from="Cyndy Greenfelder" type="DDS">
+        <heading>Crazy drunk driver.</heading>
+        <body>Quo voluptas officiis nostrum. Adipisci qui consectetur. Vero eaque autem animi necessitatibus. Nobis architecto quia qui dignissimos saepe. Et velit explicabo iure officia facilis. Autem illo est quibusdam sed sunt non eius. Ut laudantium dolorem voluptas.</body>
+        <recipients>
+            <recipient name="Lauren Stark"/>
+            <recipient name="Galen Heidenreich"/>
+            <recipient name="Fransisca Feeney"/>
+        </recipients>
+    </message>
+    <message id="2427" from="Michel Mayert Sr." type="IRC">
+        <heading>Lorraine. My density has brought me to you.</heading>
+        <body>Voluptates ducimus et cumque nihil iure nulla repellat. Dolorem at sint est dignissimos numquam id. Soluta minima cumque aut nihil consequatur vel. Saepe ut recusandae molestiae odit eos numquam. Omnis est occaecati omnis facilis. At doloremque quidem error ea corporis dolore. Ut dolores dolores officiis alias. Sit adipisci velit maxime quas consequuntur sed autem. Dignissimos nulla provident ut veritatis eum id inventore.</body>
+        <recipients>
+            <recipient name="Jamie Murazik"/>
+            <recipient name="Lilliam Sanford"/>
+            <recipient name="Leila Purdy"/>
+            <recipient name="Marion Bogan"/>
+            <recipient name="Zella Reinger"/>
+            <recipient name="Marc Feil"/>
+            <recipient name="Kip Bahringer"/>
+            <recipient name="Hosea Miller"/>
+            <recipient name="Wesley Emard"/>
+            <recipient name="Mr. Bee Nader"/>
+            <recipient name="Jimmie Nikolaus"/>
+            <recipient name="Lenny Renner"/>
+        </recipients>
+    </message>
+</ns2:messages>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="6124" from="Jerrell Reichel" type="SMTP">
+        <heading>Ah, Jesus Christ! Jesus Christ, Doc, you disintegrated Einstein!</heading>
+        <body>Minus enim molestias ad. Quia rem voluptas voluptatum voluptas. Accusantium aut non doloremque tenetur. Natus placeat sed officiis illo. Eius dignissimos dolor non. Dolorem voluptatibus cum. Laudantium aut odio omnis.</body>
+        <recipients>
+            <recipient name="Joaquina Konopelski Sr."/>
+            <recipient name="Louetta Wuckert"/>
+            <recipient name="Luciano Mraz"/>
+            <recipient name="Ignacio Lehner"/>
+            <recipient name="George Casper DVM"/>
+            <recipient name="Mr. Shanika Luettgen"/>
+        </recipients>
+    </message>
+</ns2:messages>

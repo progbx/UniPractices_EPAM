@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="1349" from="Novella Wintheiser" type="MMS">
+        <heading>Roads? Where we're going, we don't need roads.</heading>
+        <body>Facilis ducimus ut a totam. Voluptatum repellendus vel consequatur. Ut consequatur autem facilis. Et delectus est sed dolorem. Consequatur id voluptatibus pariatur vitae ex rerum ratione. Quia nostrum qui quaerat fugiat. Molestiae qui accusantium. Quasi quisquam repellendus dolorum. Natus ea quas aspernatur.</body>
+        <recipients>
+            <recipient name="Andy Wilkinson"/>
+            <recipient name="Wendie Lindgren"/>
+            <recipient name="Tereasa Crooks"/>
+            <recipient name="Miss Susannah Cronin"/>
+            <recipient name="Chi Bauch DDS"/>
+            <recipient name="Klara Bartell"/>
+            <recipient name="Winston Ryan"/>
+            <recipient name="Ms. Mozella O'Connell"/>
+        </recipients>
+        <mentions>
+            <mention name="Bong Mosciski DVM"/>
+        </mentions>
+    </message>
+</ns2:messages>
