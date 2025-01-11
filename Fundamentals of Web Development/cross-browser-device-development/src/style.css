@@ -1,0 +1,53 @@
+.print-only {
+    display: none;
+  }
+  
+  @media print {
+    .print-only {
+      display: block;
+    }
+    body {
+        color: rgb(0, 0, 0);
+        hyphens: auto;
+    }
+    .card, h1 {
+        color: rgb(0, 0, 0);
+    }
+    .logo {
+        width: 200px;
+    }
+    section h2 {
+        padding: 0 var(--space-size);
+        margin: 0;
+    }
+    .main-column {
+        height: auto;
+        padding: 0;
+        color: #000;
+    }
+    nav, footer img, .header_button, .title_section figure, .subtitle {
+        display: none;
+    }
+    .title_section, main section div {
+        display: block;
+        padding: 0;
+    }
+    .column {
+        padding: 0;
+        margin: 0;
+    }
+    footer address {
+        display: block;
+        width: 100%;
+        font-size: 20px;
+        text-align: left;
+    }
+    footer address a::after {
+        content: attr(href);
+        margin-left: 5px;
+        text-decoration: underline;
+    }
+    @page {
+        margin-left: 2cm;
+    }  
+}
