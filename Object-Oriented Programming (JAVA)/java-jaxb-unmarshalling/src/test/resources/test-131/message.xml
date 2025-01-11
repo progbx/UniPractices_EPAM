@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="6690" from="Bruce Prohaska" type="MQTT">
+        <heading>Marty, will we ever see you again?</heading>
+        <body>Ut voluptas veniam omnis veritatis tenetur. Autem sint hic nulla ut qui ut. Quia tempora sint eos molestiae. Ad vero vel rerum qui. Accusamus velit et odio qui sed ad. Numquam eum maxime officiis consequatur est. Quo sed enim amet dignissimos.</body>
+        <recipients>
+            <recipient name="Brant Bosco"/>
+            <recipient name="Beau Cole"/>
+            <recipient name="Miss Perla Lakin"/>
+            <recipient name="Cody Carroll"/>
+            <recipient name="Whitney Murray"/>
+            <recipient name="Pattie Muller"/>
+            <recipient name="Tiana Beahan"/>
+            <recipient name="Christian Toy III"/>
+            <recipient name="Lilly Armstrong DDS"/>
+            <recipient name="Rocio Rau"/>
+            <recipient name="Jesse Johnson Jr."/>
+            <recipient name="Rickey Olson"/>
+            <recipient name="Nelson Blick"/>
+            <recipient name="Angel Stoltenberg"/>
+            <recipient name="Mr. Rick Altenwerth"/>
+        </recipients>
+    </message>
+    <message id="7920" from="Rebbeca Harris" type="IRC">
+        <heading>So you're my Uncle Joey. Better get used to these bars, kid.</heading>
+        <body>Eum est voluptas sed repudiandae suscipit quia. Eum temporibus voluptas sequi magnam exercitationem fugit explicabo. Et amet dolor unde ratione sapiente. Iusto suscipit molestiae qui. Molestiae quis neque consequatur. Molestiae velit sunt veritatis sit ea. Architecto quia laborum nostrum quo maxime magni repellendus.</body>
+        <recipients>
+            <recipient name="Jose Satterfield"/>
+            <recipient name="Clarita Grant"/>
+            <recipient name="Gale Thompson"/>
+            <recipient name="Bernardo Steuber"/>
+        </recipients>
+        <mentions>
+            <mention name="Gilbert Hettinger IV"/>
+            <mention name="Emmett Schroeder"/>
+        </mentions>
+    </message>
+    <message id="6622" from="Hubert Greenholt" type="DDS">
+        <heading>Crazy drunk driver.</heading>
+        <body>Consequatur voluptates tenetur assumenda rerum deserunt voluptas. Nemo quo nihil modi nam iusto quod reprehenderit. Veniam pariatur dolor vero sed et. Dignissimos quod rerum aut possimus laborum minus. Quia expedita tenetur doloribus sed quidem rerum. Et maiores ratione blanditiis delectus. Architecto debitis velit maiores sunt ipsam. Qui quaerat architecto consequuntur magnam. Recusandae pariatur impedit ab qui praesentium aut aliquam.</body>
+        <recipients>
+            <recipient name="Orval Murazik"/>
+            <recipient name="Mrs. Isa Wisozk"/>
+            <recipient name="Evita Gusikowski"/>
+            <recipient name="Debi Schimmel"/>
+            <recipient name="Ima Breitenberg I"/>
+            <recipient name="Joane Hoppe"/>
+            <recipient name="Heriberto Bergstrom"/>
+        </recipients>
+    </message>
+    <message id="7186" from="Mrs. Linnie West" type="MMS">
+        <heading>Save the clock tower!</heading>
+        <body>Harum dolorum ullam. Asperiores rerum inventore rerum ut. Doloribus dolor recusandae fuga quibusdam et et. Et animi placeat et. Doloribus ut nam ut quod. Perspiciatis iste cupiditate suscipit quam. Quia facere et nesciunt odio porro qui.</body>
+        <recipients>
+            <recipient name="Miyoko Cassin MD"/>
+            <recipient name="Rosann Quitzon"/>
+            <recipient name="Mrs. Andera Jones"/>
+            <recipient name="Clemencia Windler"/>
+            <recipient name="Chuck Turner"/>
+            <recipient name="Mozella O'Kon DDS"/>
+            <recipient name="Mrs. Maria Feest"/>
+            <recipient name="Lavern Rempel"/>
+            <recipient name="Noelia Lubowitz"/>
+            <recipient name="Dale Bailey"/>
+            <recipient name="Mrs. Sparkle Romaguera"/>
+            <recipient name="Nigel Mayer"/>
+            <recipient name="Nita Robel"/>
+            <recipient name="Mrs. Jacki McLaughlin"/>
+            <recipient name="Latrina Bauch"/>
+        </recipients>
+    </message>
+    <message id="3525" from="Roxanne Bernier" type="XMPP">
+        <heading>He's an idiot. Comes from upbringing. His parents are probably idiots, too. Lorraine, you ever have a kid who acts that way, I'll disown you.</heading>
+        <body>Alias aliquam aut iure hic ea. Qui culpa modi ipsa earum eum et. Nihil culpa quia omnis necessitatibus enim. Distinctio molestias unde quasi voluptatem voluptatem qui et. Aut et incidunt temporibus neque. Sint et ad sapiente quaerat consequatur. Fugit aut modi at. Ratione eveniet quia velit odit ipsa natus. Corporis nihil necessitatibus quo corporis amet.</body>
+        <recipients>
+            <recipient name="Nyla Spencer"/>
+            <recipient name="Arline Bins"/>
+            <recipient name="Dr. Jeff Boyle"/>
+            <recipient name="Miss Nikia Christiansen"/>
+            <recipient name="Moshe Heidenreich"/>
+            <recipient name="Hoyt Lesch"/>
+            <recipient name="Maryam Mayer Jr."/>
+            <recipient name="Dr. Sari Treutel"/>
+            <recipient name="Alfredia Wintheiser"/>
+            <recipient name="Albert Mohr"/>
+        </recipients>
+    </message>
+</ns2:messages>

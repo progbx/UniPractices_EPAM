@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="3639" from="Leland Emmerich" type="MQTT">
+        <heading>Hey, Biff, get a load of this guy's life preserver. Dork thinks he's gonna drown.</heading>
+        <body>Ipsum aut esse ut labore quam non. Consequatur amet dolore labore consequatur dolorem. Quasi voluptates fugiat rerum quia. Aperiam sapiente in vitae a. Asperiores eum amet voluptatem reiciendis sunt. Numquam atque tenetur voluptatibus aut fugit. Itaque ut distinctio facilis sequi voluptates aut odit. Ea at esse veniam libero nostrum quas.</body>
+        <recipients>
+            <recipient name="Yuonne Brown"/>
+            <recipient name="Harley Cole"/>
+            <recipient name="Chung Kerluke"/>
+            <recipient name="Dr. Jewell Walter"/>
+            <recipient name="Ms. Young Runolfsson"/>
+            <recipient name="Dr. Keeley Boyer"/>
+            <recipient name="Teodoro Stracke"/>
+            <recipient name="Claretha Morar"/>
+            <recipient name="Sharmaine Barrows"/>
+            <recipient name="Ahmed Kirlin"/>
+            <recipient name="Lowell Jakubowski"/>
+            <recipient name="Chantel Ortiz"/>
+        </recipients>
+    </message>
+    <message id="7425" from="Hyacinth Miller" type="DDS">
+        <heading>Hey, hey, listen, guys... Look, I don't wanna mess with no reefer addicts, okay?</heading>
+        <body>Ut quae voluptate est quas distinctio at architecto. Exercitationem et aliquid dolorem eos voluptates quia. Corporis numquam voluptatem exercitationem. Numquam similique corporis quia harum. Unde veniam at quia quam explicabo maxime. Culpa delectus dignissimos. Voluptatem ut ex libero voluptatem sit qui ut.</body>
+        <recipients>
+            <recipient name="Salvador Wiza"/>
+            <recipient name="Wm Schaden"/>
+            <recipient name="Chance Orn"/>
+            <recipient name="Kandace Lueilwitz"/>
+            <recipient name="America Ritchie"/>
+            <recipient name="Rosetta Rodriguez"/>
+            <recipient name="Pattie Casper"/>
+            <recipient name="Blake Runolfsson"/>
+            <recipient name="Alexis Friesen"/>
+            <recipient name="Monserrate Senger"/>
+            <recipient name="Dannie Hyatt"/>
+            <recipient name="Marcel Mayert"/>
+            <recipient name="Shane Bartoletti"/>
+            <recipient name="Lorri Botsford V"/>
+            <recipient name="Erinn Turcotte"/>
+        </recipients>
+    </message>
+    <message id="5887" from="Jeannetta Von" type="SMS">
+        <heading>Anyway, your Grandpa hit him with the car and brought him into the house. He seemed so helpless, like a little lost puppy, and my heart just went out to him.</heading>
+        <body>Minus mollitia rerum dolore labore. Omnis soluta delectus aut. Odio fugiat non maiores modi quo. Delectus reprehenderit ut. Voluptatem consequatur voluptatem reiciendis. Nemo labore quisquam consequatur in perspiciatis aspernatur minima. Rem autem officia dicta ea. Quis voluptas inventore a.</body>
+        <recipients>
+            <recipient name="Hank O'Connell"/>
+            <recipient name="Gilbert Wuckert"/>
+            <recipient name="Mr. Daniel Murray"/>
+        </recipients>
+    </message>
+    <message id="5407" from="Cory Will" type="RCS">
+        <heading>No, no, no, no, no, this sucker's electrical, but I need a nuclear reaction to generate the 1.21 gigawatts of electricity I need.</heading>
+        <body>Repellat corporis minima non qui perferendis cum ut. Fugiat ut voluptate suscipit magnam. Voluptatem nam dolorem laudantium. Et harum quia illo. Beatae iste et dolorem qui odit magnam esse. Sint distinctio quasi molestias iste consequatur. Voluptatem aliquam pariatur quos quaerat in quia necessitatibus. Iusto nihil ut iste sit harum rerum. Fuga iusto eos quo voluptatem quibusdam.</body>
+        <recipients>
+            <recipient name="Amos Ondricka"/>
+            <recipient name="Vance Price I"/>
+            <recipient name="Elenor Kshlerin"/>
+        </recipients>
+    </message>
+    <message id="5361" from="Hal Feest" type="IRC">
+        <heading>It's already mutated into human form! Shoot it!</heading>
+        <body>Provident aperiam rerum amet quidem doloribus sit totam. Rem velit qui repudiandae omnis dolor. Tenetur autem alias quibusdam impedit ut. Optio quis vitae porro totam sit et nemo. Ullam consequuntur dolor aut ea asperiores. Debitis nulla quos voluptate nisi veniam suscipit voluptatem. Minima in omnis a perspiciatis. Nesciunt autem reprehenderit qui quia sit.</body>
+        <recipients>
+            <recipient name="Miss Jospeh Cummerata"/>
+            <recipient name="Fonda Johns"/>
+            <recipient name="Ms. Nathaniel Kunde"/>
+            <recipient name="Mayola Schmidt"/>
+            <recipient name="Miss Anisa Kohler"/>
+            <recipient name="Marinda Huels"/>
+            <recipient name="Franchesca Parisian"/>
+        </recipients>
+        <mentions>
+            <mention name="Rosemary Nienow"/>
+            <mention name="Alicia Bauch III"/>
+            <mention name="Jerlene Osinski"/>
+            <mention name="Allison Cummings"/>
+        </mentions>
+    </message>
+    <message id="6238" from="Lewis Stroman" type="MMS">
+        <heading>Who's President of the United States in 1985? Ronald Reagan? The actor? Ha! Then whose vice president? Jerry Lewis?</heading>
+        <body>Cum totam error non molestiae eaque. Aut nemo nemo velit. Voluptatem quasi voluptatum. Quaerat esse numquam nesciunt delectus id quibusdam. Perspiciatis quas voluptatem. Accusamus ab laborum impedit corporis. A porro dicta eum voluptatem et est laborum.</body>
+        <recipients>
+            <recipient name="Mr. Un Haag"/>
+            <recipient name="Ward Williamson"/>
+            <recipient name="Catheryn Herzog"/>
+            <recipient name="Alvin Kovacek"/>
+            <recipient name="Valene D'Amore"/>
+            <recipient name="Cristopher Schmeler"/>
+            <recipient name="Miss Jeffie Waters"/>
+            <recipient name="Annice Hansen"/>
+        </recipients>
+    </message>
+    <message id="8699" from="Flavia Hudson" type="SMTP">
+        <heading>Hey, Biff, get a load of this guy's life preserver. Dork thinks he's gonna drown.</heading>
+        <body>Repellat ut vitae voluptatem laudantium consequatur quis. Id illo ea nobis. Tempore voluptas vero veritatis consequatur quae id ut. Est qui quia quisquam tenetur dolor nostrum. Vitae fuga molestiae aperiam nostrum in. Natus non porro est atque. Nemo blanditiis provident porro et ea. Delectus sint esse exercitationem sunt quaerat.</body>
+        <recipients>
+            <recipient name="Salvador Hessel"/>
+            <recipient name="Rosalinda Quitzon"/>
+            <recipient name="Melaine Moore"/>
+            <recipient name="Huong Hoppe DVM"/>
+            <recipient name="Katrina Mayert"/>
+            <recipient name="Simona Altenwerth"/>
+            <recipient name="Mr. Geraldine Ankunding"/>
+            <recipient name="Damien Jacobs"/>
+            <recipient name="Theo Miller"/>
+            <recipient name="Ms. Eldridge Schowalter"/>
+        </recipients>
+    </message>
+    <message id="3411" from="Yelena Cassin" type="SMS">
+        <heading>Jesus, George, it was a wonder I was even born.</heading>
+        <body>Culpa maxime vel similique. Omnis sed delectus provident sit. Assumenda est veritatis accusantium. Iusto tenetur placeat ea. Deserunt tenetur est iure quis quia. Modi est nihil. Non consectetur labore. Et deserunt sit corrupti mollitia autem veniam reprehenderit.</body>
+        <recipients>
+            <recipient name="Justa Koss"/>
+            <recipient name="Geoffrey Wehner"/>
+            <recipient name="Bethany Sanford"/>
+            <recipient name="Toshiko Purdy"/>
+            <recipient name="Eura Hilll"/>
+            <recipient name="Janita Bayer"/>
+            <recipient name="Mrs. Marlin Gusikowski"/>
+            <recipient name="Evan Dickinson"/>
+            <recipient name="Milford Crist"/>
+            <recipient name="Zachery Thiel"/>
+            <recipient name="Isiah Hegmann"/>
+            <recipient name="Demetrius Okuneva"/>
+        </recipients>
+    </message>
+    <message id="9549" from="Hilda Ferry" type="MMS">
+        <heading>You know, Marty, you look so familiar to me. Do I know your mother?</heading>
+        <body>Et vero atque. Accusantium omnis aut molestiae voluptatum qui. Mollitia aperiam aut qui consequatur quod ipsa vel. Vero odit omnis esse consequatur nihil qui. Sed nobis eos. Et eligendi sunt est sed cupiditate culpa quasi. Quam aut nostrum quas sed qui recusandae eveniet.</body>
+        <recipients>
+            <recipient name="Kory DuBuque"/>
+            <recipient name="Tona Hilll"/>
+            <recipient name="Ed Roberts"/>
+            <recipient name="Ellis Homenick"/>
+            <recipient name="Rod Lowe"/>
+            <recipient name="Jonathon Wintheiser"/>
+            <recipient name="Stacey Rath"/>
+            <recipient name="Migdalia Bosco"/>
+            <recipient name="Felix Von"/>
+        </recipients>
+        <mentions>
+            <mention name="Everett Mante"/>
+            <mention name="Alberto Sawayn"/>
+        </mentions>
+    </message>
+</ns2:messages>

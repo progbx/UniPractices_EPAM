@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="3314" from="Nguyet Sauer" type="DDS">
+        <heading>I'm from the future. I came here in a Time Machine that you invented. Now I need your help to get back to the year 1985.</heading>
+        <body>Voluptate et cupiditate id sint magni id. Quam voluptatibus culpa. Omnis ut repellendus. Et maxime sint ipsam dolores autem ipsam et. Beatae ut sapiente accusamus dolorum illum labore. Ut natus est necessitatibus doloremque. Et eaque eius nesciunt. Atque asperiores ad odit. Est rerum laudantium dignissimos inventore provident.</body>
+        <recipients>
+            <recipient name="Mrs. Shalonda Durgan"/>
+            <recipient name="Mrs. Garland Grady"/>
+            <recipient name="Leslie Cruickshank"/>
+            <recipient name="Georgiana Fisher"/>
+            <recipient name="Damien Dickens"/>
+        </recipients>
+        <mentions>
+            <mention name="Garret Schumm"/>
+            <mention name="Hilario Schmitt"/>
+            <mention name="Carrol Balistreri"/>
+        </mentions>
+    </message>
+    <message id="5778" from="Almeda Hermann II" type="SMTP">
+        <heading>So you're my Uncle Joey. Better get used to these bars, kid.</heading>
+        <body>Deserunt sequi quo voluptatem repudiandae provident et. Nesciunt aliquam id minus rerum magni quam at. Corrupti nihil rerum vel similique dolorem libero. Praesentium voluptatem ea. Laudantium voluptas mollitia. Eveniet alias eaque eos eos est. Vel recusandae quam. Enim non aut. Quia necessitatibus accusantium numquam voluptas quis.</body>
+        <recipients>
+            <recipient name="Lorina Hilpert"/>
+            <recipient name="Gayle Predovic"/>
+            <recipient name="Marcelene Lehner"/>
+        </recipients>
+    </message>
+    <message id="8362" from="Thomas Hodkiewicz I" type="XMPP">
+        <heading>If my calculations are correct, when this baby hits 88 miles per hour... you're gonna see some serious shit.</heading>
+        <body>In non id quos est earum earum. Nisi in dolorem commodi distinctio. Praesentium dolor voluptatem sed et quas eius rerum. Porro voluptatum amet qui rerum sint dolor veniam. Neque perspiciatis amet nemo. Non perspiciatis et quis tempora dolor optio illo. Ut accusamus dolorum. Sit similique non totam veniam. Recusandae aut sint unde voluptates.</body>
+        <recipients>
+            <recipient name="Dr. Alisha Weber"/>
+            <recipient name="Fe Breitenberg"/>
+            <recipient name="Darcel Zboncak II"/>
+            <recipient name="Darnell Borer"/>
+            <recipient name="Freddie Pouros"/>
+            <recipient name="Mr. Johnson Okuneva"/>
+            <recipient name="Mr. Pearly Altenwerth"/>
+        </recipients>
+        <mentions>
+            <mention name="Luciano Satterfield"/>
+        </mentions>
+    </message>
+</ns2:messages>

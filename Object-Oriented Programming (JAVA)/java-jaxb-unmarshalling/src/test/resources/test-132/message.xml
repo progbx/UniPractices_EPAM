@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="5216" from="Alonso Romaguera" type="SMTP">
+        <heading>Ah, Jesus Christ! Jesus Christ, Doc, you disintegrated Einstein!</heading>
+        <body>A assumenda impedit fugit omnis magnam aut beatae. Doloremque ex ea cumque. Non iure animi ipsa reprehenderit voluptates. Quisquam expedita dolorem necessitatibus sunt eveniet aperiam. Sed nulla ullam earum. Assumenda natus quia temporibus corporis voluptas quidem. Explicabo similique est quaerat quae. Ut qui dolorem officiis qui delectus ipsam necessitatibus. Quibusdam distinctio commodi nobis autem quis et.</body>
+        <recipients>
+            <recipient name="Lannie Hagenes MD"/>
+            <recipient name="Tobi Brown DDS"/>
+            <recipient name="Mark Mann"/>
+            <recipient name="Kristan Tillman"/>
+            <recipient name="Beata Erdman PhD"/>
+            <recipient name="Abdul Prohaska"/>
+            <recipient name="Ollie Littel"/>
+        </recipients>
+    </message>
+    <message id="5942" from="Rick Crona" type="IRC">
+        <heading>I'm from the future. I came here in a Time Machine that you invented. Now I need your help to get back to the year 1985.</heading>
+        <body>Earum eveniet explicabo modi porro. Nisi odit laudantium qui perferendis. Nemo in pariatur non qui. Aut neque a voluptatum. Neque similique debitis nam eaque iure. Nihil illo repudiandae omnis unde. Eligendi quis numquam perferendis repudiandae. Quo dolorum et tempora.</body>
+        <recipients>
+            <recipient name="Josefa Kub"/>
+            <recipient name="Miss Darius Volkman"/>
+            <recipient name="Julian Kozey"/>
+            <recipient name="Magda Brekke"/>
+            <recipient name="Efren Mante"/>
+            <recipient name="Danae Bergnaum Sr."/>
+        </recipients>
+        <mentions>
+            <mention name="Sharonda Wilderman"/>
+            <mention name="Aleida Ledner DDS"/>
+            <mention name="Dr. Sean Gutkowski"/>
+            <mention name="Mr. Lissa Kling"/>
+        </mentions>
+    </message>
+    <message id="1151" from="Cleta Dicki I" type="MQTT">
+        <heading>Last night, Darth Vader came down from Planet Vulcan and told me that if I didn't take Lorraine out, that he'd melt my brain.</heading>
+        <body>Deleniti iusto dolores vero id ipsum assumenda. Aut est temporibus neque voluptatum consequatur aut. Quas placeat voluptatum explicabo. Nesciunt tempora commodi iusto mollitia nihil. Eaque adipisci velit debitis ratione quia dolorem eum. Velit debitis voluptas adipisci sint quo. Necessitatibus eligendi reprehenderit mollitia fugit. Quidem omnis sunt dolorem voluptatem repudiandae numquam.</body>
+        <recipients>
+            <recipient name="Annalisa Kerluke"/>
+            <recipient name="Kary Frami"/>
+            <recipient name="Amado Corkery"/>
+            <recipient name="Allen Kunze"/>
+            <recipient name="Jacques Renner DDS"/>
+            <recipient name="Val Gibson V"/>
+            <recipient name="Mr. Franklin Metz"/>
+            <recipient name="Dr. Ulysses Swaniawski"/>
+            <recipient name="Carroll Kling"/>
+            <recipient name="Dr. Jacqualine VonRueden"/>
+            <recipient name="Letty Feil"/>
+            <recipient name="Ezra Ryan"/>
+            <recipient name="Kathey Robel"/>
+        </recipients>
+        <mentions>
+            <mention name="Dr. Sirena Lockman"/>
+            <mention name="Cherryl Corwin"/>
+            <mention name="Aron Crist MD"/>
+            <mention name="Samella Wyman MD"/>
+        </mentions>
+    </message>
+    <message id="9093" from="Dione Denesik" type="DDS">
+        <heading>Hey, come on. I had to change. Do you think I'm going back in that-that zoot suit? The old man really came through. It worked!</heading>
+        <body>Ipsam magnam quasi odio sit id perferendis. Quas fugiat quas. Quis ut nihil reiciendis dolores debitis recusandae fuga. Inventore consequatur ratione quaerat quibusdam. Eum magnam iusto. Velit distinctio voluptas quae in iure. Distinctio eum pariatur. Facilis asperiores possimus quaerat ipsa.</body>
+        <recipients>
+            <recipient name="Maryanna Schroeder"/>
+            <recipient name="Bud Goyette"/>
+            <recipient name="Jay O'Connell"/>
+            <recipient name="Sally Haag"/>
+            <recipient name="Zofia Lebsack DVM"/>
+            <recipient name="Maile Romaguera"/>
+            <recipient name="Alma McCullough"/>
+        </recipients>
+        <mentions>
+            <mention name="Darell Stark"/>
+            <mention name="Alfred Spencer"/>
+        </mentions>
+    </message>
+</ns2:messages>

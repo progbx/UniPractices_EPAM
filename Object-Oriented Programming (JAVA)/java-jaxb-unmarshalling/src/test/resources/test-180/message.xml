@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="4465" from="Dr. Bobbie Stamm" type="DDS">
+        <heading>Look, you're not gonna be picking a fight, Dad... Dad-Dad-Daddy-O.</heading>
+        <body>Cumque dolores quas eum est dolorem voluptatibus incidunt. Reprehenderit neque in tenetur corporis eum. Veniam quo id officia. Dolor eveniet id. Sint veritatis et totam voluptatem. Consequatur non qui incidunt. Aut provident est et nulla veniam. Commodi fugit sit aliquid voluptatem iure corrupti. Ut ex enim.</body>
+        <recipients>
+            <recipient name="Barbara Johnson"/>
+            <recipient name="Hiram Mertz IV"/>
+            <recipient name="Mrs. Drucilla Lang"/>
+            <recipient name="Dr. Merle Oberbrunner"/>
+            <recipient name="Marvis Ortiz"/>
+            <recipient name="Alfonzo Kemmer"/>
+            <recipient name="Harlan Turner"/>
+            <recipient name="Miranda Turcotte DDS"/>
+            <recipient name="Hayden Feest"/>
+            <recipient name="Numbers Emard"/>
+            <recipient name="Love Kassulke"/>
+            <recipient name="Dr. Arnetta Ernser"/>
+            <recipient name="Armanda Larkin"/>
+        </recipients>
+    </message>
+    <message id="9193" from="Chang Veum" type="SMS">
+        <heading>Maybe you were adopted.</heading>
+        <body>Quo suscipit maiores doloribus. Praesentium officiis porro quis exercitationem rem totam qui. Quod ipsum qui voluptatem magni reprehenderit quia ipsum. Repellat autem suscipit sed architecto culpa illo autem. Facere et et consequuntur. Est odit quo. Provident aut maxime corporis omnis in. Neque est non ut dolorem repellendus mollitia a. Sed minus reprehenderit dolor.</body>
+        <recipients>
+            <recipient name="Birgit Crooks"/>
+            <recipient name="Ardella Friesen"/>
+            <recipient name="Melonie Mertz"/>
+            <recipient name="Jose Beahan"/>
+            <recipient name="Dr. Jamar Adams"/>
+            <recipient name="Marylou Murray"/>
+            <recipient name="Sherlene Parisian"/>
+            <recipient name="Donnie Kuhn"/>
+            <recipient name="Rickey Daniel"/>
+            <recipient name="Otha Stehr"/>
+            <recipient name="Mohammed Walter"/>
+            <recipient name="Shandi Ritchie Sr."/>
+        </recipients>
+    </message>
+</ns2:messages>

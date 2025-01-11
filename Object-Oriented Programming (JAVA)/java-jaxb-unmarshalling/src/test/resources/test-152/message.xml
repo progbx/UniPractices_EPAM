@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="8242" from="Teresia Schumm" type="DDS">
+        <heading>Who the hell is John F. Kennedy?</heading>
+        <body>Quas voluptatem aut eligendi. Numquam veniam deleniti sed modi alias occaecati fuga. Adipisci ipsam vel at et expedita sit. Minima in illo vero. Et voluptate iusto. Beatae dolores vel quia molestiae. Ducimus aut consequatur.</body>
+        <recipients>
+            <recipient name="Jamison Ullrich"/>
+            <recipient name="Lashaunda Bailey"/>
+            <recipient name="Dominic Haley"/>
+            <recipient name="Troy Bahringer"/>
+            <recipient name="Ellis Funk"/>
+            <recipient name="Celina Hane"/>
+            <recipient name="Malisa Hettinger"/>
+            <recipient name="Zane West"/>
+            <recipient name="Lucio Kuhic I"/>
+            <recipient name="Katrice Harris"/>
+            <recipient name="Justin Kreiger"/>
+        </recipients>
+        <mentions>
+            <mention name="Randolph Sipes"/>
+            <mention name="Mattie D'Amore III"/>
+        </mentions>
+    </message>
+    <message id="997" from="Francisca Bogisich MD" type="XMPP">
+        <heading>Oh, honey, he's teasing you. Nobody has two television sets.</heading>
+        <body>Cupiditate et doloribus porro vel voluptas. Qui ratione nesciunt iure ut cumque. Qui est earum ut illo sequi. Earum sunt quisquam autem. Sapiente vero rerum. Sit hic ea sed aliquid. Consequatur et aliquam facere consequatur at.</body>
+        <recipients>
+            <recipient name="Tonja Morar"/>
+            <recipient name="Mrs. Chang Murray"/>
+            <recipient name="Vania Cassin"/>
+            <recipient name="Clarinda Collins"/>
+            <recipient name="Virgil Lakin"/>
+            <recipient name="Mr. Hugo Collins"/>
+            <recipient name="Felipa Gleason"/>
+            <recipient name="Leon Schaden"/>
+            <recipient name="Wallace Friesen"/>
+            <recipient name="Benita Hirthe"/>
+            <recipient name="Ms. Tyesha Hilll"/>
+            <recipient name="Carey Smith"/>
+            <recipient name="Mrs. Leeanne West"/>
+            <recipient name="Weldon Lynch"/>
+        </recipients>
+        <mentions>
+            <mention name="Louis Prosacco"/>
+            <mention name="Carylon D'Amore"/>
+            <mention name="Sun Christiansen"/>
+        </mentions>
+    </message>
+    <message id="8317" from="Brigette Herman" type="RCS">
+        <heading>Let me show you my plan for sending you home. Please excuse the crudity of this model. I didn't have time to build it to scale or paint it.</heading>
+        <body>Voluptatibus perferendis voluptatem quis alias repellendus voluptatem rerum. Ut nihil nam nemo dolore dicta. Harum in molestias aut recusandae qui. Optio qui doloremque cumque. Eaque dolores quas fugit. Maxime quaerat rem dolorem maxime numquam ab. Soluta necessitatibus provident molestiae quasi et. Quos pariatur beatae.</body>
+        <recipients>
+            <recipient name="Katy Leuschke"/>
+            <recipient name="Martin Shields"/>
+            <recipient name="Vicente Schumm"/>
+            <recipient name="Eve Waelchi"/>
+            <recipient name="Dianne Adams"/>
+            <recipient name="Roy Schoen"/>
+            <recipient name="Coral Jacobs"/>
+            <recipient name="Corinne Streich PhD"/>
+            <recipient name="Cynthia O'Reilly"/>
+            <recipient name="Mistie Bauch"/>
+            <recipient name="Colin Terry"/>
+        </recipients>
+    </message>
+    <message id="4971" from="Theron Larkin" type="MMS">
+        <heading>Hey, McFly! I thought I told you never to come in here.</heading>
+        <body>Non quam cum. Iste a sit veritatis est provident accusantium. Ipsa repudiandae ex. Quod ut ea commodi omnis. Minus atque optio beatae debitis eveniet. Id voluptate ducimus sit nam. Adipisci tenetur quod molestiae voluptas. Aut non debitis fugiat ut placeat pariatur quibusdam. Ut sed quam ad corporis cupiditate doloribus blanditiis.</body>
+        <recipients>
+            <recipient name="Cleveland Armstrong III"/>
+            <recipient name="Camille Raynor"/>
+            <recipient name="Dario Sporer"/>
+            <recipient name="Tory Okuneva"/>
+            <recipient name="Brandon Blanda"/>
+            <recipient name="Yan Maggio IV"/>
+        </recipients>
+    </message>
+</ns2:messages>

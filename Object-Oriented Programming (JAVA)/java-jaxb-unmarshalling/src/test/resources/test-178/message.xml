@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="400" from="Gaynell Powlowski" type="AMQP">
+        <heading>Oh, honey, he's teasing you. Nobody has two television sets.</heading>
+        <body>Ut rerum aliquam. Quae asperiores ullam non odio voluptatem iste sint. Saepe fuga officia. Voluptatibus dolorum perferendis laboriosam. Reprehenderit reprehenderit tempore sed id sed ipsa modi. Nihil sed incidunt debitis enim voluptas. Et reiciendis quasi vitae nulla quidem in maiores. Aut dolorem atque est quidem optio sunt optio. Nihil earum eligendi.</body>
+        <recipients>
+            <recipient name="Merlene Stroman"/>
+            <recipient name="Mrs. Jack Schimmel"/>
+            <recipient name="Major Zemlak"/>
+            <recipient name="Dino Jacobi"/>
+            <recipient name="Timothy McLaughlin MD"/>
+            <recipient name="Miss Charla Padberg"/>
+            <recipient name="Cayla Kub Jr."/>
+            <recipient name="Aretha Balistreri"/>
+            <recipient name="Tory Stokes"/>
+        </recipients>
+    </message>
+    <message id="7476" from="Sydney Brekke" type="SMS">
+        <heading>I g-guess you guys aren't ready for that yet. But your kids are gonna love it.</heading>
+        <body>Quia et et. Reprehenderit officia cupiditate minus quod alias. Accusamus ut et possimus. Ratione tempore officia. Fugiat blanditiis voluptatum et accusantium enim atque accusamus. Sit similique unde et enim soluta. Ut ut ut officia animi velit repellat. Modi veniam alias fugit fugiat qui perferendis consequatur.</body>
+        <recipients>
+            <recipient name="Fletcher Murazik PhD"/>
+            <recipient name="Dong Boehm"/>
+            <recipient name="Ranee Mertz I"/>
+            <recipient name="Seema Keeling Sr."/>
+            <recipient name="Marissa Kovacek"/>
+            <recipient name="Lilian Mitchell"/>
+            <recipient name="Dr. Kenton Bergstrom"/>
+            <recipient name="Perry Koelpin"/>
+            <recipient name="Lenny Gislason"/>
+            <recipient name="Moshe Luettgen"/>
+            <recipient name="Graig Hintz"/>
+            <recipient name="Stacey Labadie DVM"/>
+        </recipients>
+    </message>
+    <message id="7990" from="Hershel Kutch" type="AMQP">
+        <heading>Marty, I'm sorry, but the only power source capable of generating 1.21 gigawatts of electricity is a bolt of lightning.</heading>
+        <body>Tenetur dolores dolores. In sint in odit. Neque optio quidem incidunt. Harum aut qui non eveniet quia laudantium. Tempore ut est a. Soluta assumenda facere. Et quam consequatur beatae. Qui et reiciendis.</body>
+        <recipients>
+            <recipient name="Ai Kassulke"/>
+            <recipient name="Merrill Stark"/>
+            <recipient name="Dr. Calandra Fadel"/>
+            <recipient name="Iva Block Sr."/>
+            <recipient name="Laurence VonRueden"/>
+            <recipient name="Dr. Alice Kessler"/>
+            <recipient name="Dr. Kip Wisozk"/>
+            <recipient name="Toney Baumbach"/>
+            <recipient name="Arnulfo Littel"/>
+            <recipient name="Dr. Domenic Daniel"/>
+            <recipient name="Mr. Daniell Kessler"/>
+            <recipient name="Kenton Gislason Sr."/>
+            <recipient name="Dania Paucek"/>
+        </recipients>
+        <mentions>
+            <mention name="Avery Brakus"/>
+            <mention name="Sherwood Prosacco Sr."/>
+            <mention name="Eugena Lynch"/>
+            <mention name="Heriberto Hilpert"/>
+        </mentions>
+    </message>
+    <message id="2093" from="Lon Powlowski" type="IRC">
+        <heading>Who the hell is John F. Kennedy?</heading>
+        <body>Soluta ut non alias corrupti repudiandae delectus. Adipisci autem quod dolorum dignissimos delectus dolor et. Sit non dolores culpa corporis. Qui est corporis voluptatem. Aut veritatis magni magni. Atque doloribus voluptates exercitationem velit. Aut aut quis. Maxime ex quas consequatur aut praesentium.</body>
+        <recipients>
+            <recipient name="Tamar Murazik"/>
+            <recipient name="Johnson Morar"/>
+            <recipient name="Marcos Erdman Sr."/>
+            <recipient name="Chris Beatty"/>
+            <recipient name="Angelo Zieme"/>
+            <recipient name="Dwain Waelchi"/>
+        </recipients>
+    </message>
+    <message id="7317" from="Lavonne Welch" type="MQTT">
+        <heading>Next saturday night we're sending you back to the future!</heading>
+        <body>Quis tempore adipisci eum occaecati. Occaecati inventore numquam excepturi. Ea consequuntur consequatur amet quia inventore. Voluptate in minus et quasi eligendi. Distinctio aut veritatis ducimus ducimus. Vitae labore maxime. Dolore autem et et sit nihil.</body>
+        <recipients>
+            <recipient name="Mrs. Gale Okuneva"/>
+            <recipient name="Hollis Veum"/>
+            <recipient name="Stanley Leuschke"/>
+            <recipient name="Evan Reichert I"/>
+            <recipient name="Boyce Hodkiewicz MD"/>
+            <recipient name="Stella Luettgen"/>
+            <recipient name="Damian Ondricka"/>
+            <recipient name="Danyell Wilkinson"/>
+            <recipient name="Dustin Auer"/>
+        </recipients>
+        <mentions>
+            <mention name="Dewey Connelly"/>
+            <mention name="Sarina Murray"/>
+        </mentions>
+    </message>
+</ns2:messages>

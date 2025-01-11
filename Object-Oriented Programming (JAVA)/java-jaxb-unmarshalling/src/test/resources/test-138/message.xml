@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="110" from="Gerald Koepp Jr." type="RCS">
+        <heading>Great Scott!</heading>
+        <body>Quisquam iste aperiam explicabo atque. Omnis labore quae ea dolor earum. Est porro quia aut esse nam. Nam voluptas quas cum aut. Exercitationem qui ullam reiciendis placeat. Rerum officia nostrum in ut voluptas. Ut id et assumenda blanditiis consequatur omnis quidem. Praesentium eligendi possimus laborum beatae consectetur. Beatae vitae enim facilis corrupti praesentium incidunt voluptates.</body>
+        <recipients>
+            <recipient name="Lon Pfeffer V"/>
+            <recipient name="Mr. Damon Lang"/>
+            <recipient name="Cyrus Bosco"/>
+            <recipient name="Mickey Feeney"/>
+            <recipient name="Verdie Gerlach"/>
+            <recipient name="Suk Oberbrunner"/>
+            <recipient name="Evelyne Berge"/>
+            <recipient name="Mr. Abdul Trantow"/>
+        </recipients>
+    </message>
+    <message id="9730" from="Jalisa Bergnaum" type="AMQP">
+        <heading>Give me a Pepsi Free.</heading>
+        <body>A voluptatem culpa sint. Vel id quisquam hic ut dolorem provident saepe. Qui molestiae facilis iste harum optio aut. Accusamus repudiandae asperiores quia facere eos. Rerum dolores sit voluptatem quia ut error. Molestias cupiditate unde consequatur quasi accusamus. Esse autem nobis in maxime voluptates deleniti maxime. Dolorem repellat omnis dolores. Consectetur recusandae sapiente accusamus labore.</body>
+        <recipients>
+            <recipient name="Raul Wilderman"/>
+            <recipient name="Melvin Streich"/>
+            <recipient name="Augustus Christiansen Sr."/>
+            <recipient name="Euna Runte DDS"/>
+            <recipient name="Tanesha Gusikowski DVM"/>
+            <recipient name="Patrick Denesik"/>
+        </recipients>
+        <mentions>
+            <mention name="Christia Cummerata"/>
+            <mention name="Claudette Brakus"/>
+            <mention name="Lakendra Jacobson"/>
+        </mentions>
+    </message>
+    <message id="3118" from="Garret Wolff" type="SMTP">
+        <heading>Things have certainly changed around here. I remember when this was all farmland as far the eye could see. Old man Peabody owned all of this. He had this crazy idea about breeding pine trees.</heading>
+        <body>In commodi et autem fugit. Tempora illo fugit id harum error. Accusantium aliquam qui fuga sunt aliquam. Sunt et quis. Eos similique ratione consequuntur magni. Animi qui tenetur velit excepturi molestiae ducimus. Dolorum quis quidem eos exercitationem cum. Ut atque voluptatem ullam dolore nemo cupiditate sed. Cum qui sit et deserunt sunt rerum illo.</body>
+        <recipients>
+            <recipient name="Rogelio Kemmer"/>
+            <recipient name="Sharon Mayert"/>
+            <recipient name="Laurena Miller V"/>
+            <recipient name="Ms. Yuonne Armstrong"/>
+            <recipient name="Herminia Purdy IV"/>
+            <recipient name="Mitchell Gusikowski"/>
+            <recipient name="Emeline Schoen"/>
+            <recipient name="Irina Ruecker Jr."/>
+            <recipient name="Claude Becker"/>
+            <recipient name="Sigrid Mayer"/>
+        </recipients>
+        <mentions>
+            <mention name="Polly Schimmel I"/>
+        </mentions>
+    </message>
+    <message id="6783" from="Roxie Barrows" type="MMS">
+        <heading>Okay. Time circuit's on. Flux capacitor, fluxing. Engine running. All right.</heading>
+        <body>Veritatis ut quam voluptatem quo quisquam illum qui. Sed iure ex magni est omnis. Nisi voluptatem nihil nostrum repellendus dicta. Illum et quam exercitationem nihil quam exercitationem. Consequatur dolorum amet ut aut impedit occaecati. Blanditiis vel sint dolorum consectetur id doloribus. Perspiciatis laudantium quis ipsa expedita quibusdam at harum. Eveniet alias dolores exercitationem delectus.</body>
+        <recipients>
+            <recipient name="Rashad Gleichner"/>
+            <recipient name="Lenard Dietrich"/>
+            <recipient name="Rafaela Bogisich"/>
+            <recipient name="Santos Lueilwitz"/>
+            <recipient name="Marylee Murazik"/>
+            <recipient name="Julian Wehner"/>
+            <recipient name="Lyndon Fahey"/>
+            <recipient name="Zina Gorczany"/>
+            <recipient name="Ms. Rufina Hilpert"/>
+            <recipient name="Tiana Ruecker"/>
+            <recipient name="Eugene Zulauf"/>
+            <recipient name="Lucilla Cartwright"/>
+            <recipient name="Carroll Runte"/>
+            <recipient name="Karlene Jast"/>
+            <recipient name="Lemuel Hintz"/>
+        </recipients>
+        <mentions>
+            <mention name="Ira Kuhn"/>
+            <mention name="Isreal Swaniawski"/>
+        </mentions>
+    </message>
+</ns2:messages>

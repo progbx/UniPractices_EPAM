@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="8146" from="Emelia Towne" type="RCS">
+        <heading>Okay. Time circuit's on. Flux capacitor, fluxing. Engine running. All right.</heading>
+        <body>Veniam id iusto quaerat minima qui. Laboriosam suscipit et aliquam quidem eligendi nihil. Officia in quaerat numquam quos. Accusamus quae sed ex placeat autem nihil hic. Est accusamus ut numquam. Accusantium sint excepturi corrupti error est velit. Consectetur voluptatem explicabo veniam sed amet. Iure eveniet maxime nam autem quia id et.</body>
+        <recipients>
+            <recipient name="Waneta Conroy DDS"/>
+            <recipient name="Kirk Runte"/>
+            <recipient name="Carmella Lehner"/>
+            <recipient name="Edyth Nader"/>
+            <recipient name="Shanita Johnston PhD"/>
+            <recipient name="Jenise Hilll"/>
+            <recipient name="Shelba Veum Sr."/>
+        </recipients>
+        <mentions>
+            <mention name="Roberto Ryan"/>
+        </mentions>
+    </message>
+    <message id="9014" from="Gonzalo Funk" type="DDS">
+        <heading>My equipment. That reminds me, Marty. You better not hook up to the amplifier. There's a slight possibility of overload.</heading>
+        <body>Voluptas in dolorem fugiat reiciendis. Architecto sunt quibusdam modi. Saepe dignissimos odit dignissimos. Commodi qui pariatur. Autem dolores sed nisi deserunt ut occaecati maxime. Deserunt sed et. Delectus et consectetur omnis. Odit reprehenderit eveniet.</body>
+        <recipients>
+            <recipient name="Xiomara Volkman"/>
+            <recipient name="Irina Prosacco"/>
+            <recipient name="Damian Schmidt"/>
+            <recipient name="Dannie McKenzie Jr."/>
+            <recipient name="Mr. Alberto Baumbach"/>
+            <recipient name="Leland Donnelly"/>
+            <recipient name="Tameika Kreiger"/>
+            <recipient name="Sofia Goldner"/>
+        </recipients>
+    </message>
+    <message id="8431" from="Trenton Price" type="AMQP">
+        <heading>All right. This is an oldie, but, uh... well, it's an oldie where I come from.</heading>
+        <body>Porro dignissimos rerum. Similique aut nobis quia distinctio porro. Exercitationem esse quae esse placeat. Qui autem architecto et quam aliquam nobis sed. Aut deserunt et consectetur nihil. Velit quaerat soluta beatae quae alias consequatur. Provident autem nesciunt.</body>
+        <recipients>
+            <recipient name="Kristel Block"/>
+            <recipient name="Norris Volkman"/>
+            <recipient name="Sebrina Swift"/>
+            <recipient name="Ms. Chi Roberts"/>
+            <recipient name="Jacque Crona"/>
+            <recipient name="Shawn Lockman"/>
+            <recipient name="Tianna Emmerich"/>
+            <recipient name="Mrs. Jacob Parisian"/>
+            <recipient name="Dr. Kermit Ernser"/>
+        </recipients>
+    </message>
+    <message id="7769" from="Scot Wolf" type="DDS">
+        <heading>There's that word again. 'Heavy.' Why are things so heavy in the future? Is there a problem with the Earth's gravitational pull?</heading>
+        <body>Vel repellat adipisci. Odit cumque tempora magnam. Nulla ut ut. Voluptatibus numquam architecto sequi ipsa in. Qui doloremque ad ut. Omnis quis quibusdam voluptates voluptatem voluptates. Inventore et similique. Itaque tenetur aliquam ut architecto.</body>
+        <recipients>
+            <recipient name="Garry Douglas"/>
+            <recipient name="Patrick Senger"/>
+            <recipient name="Lyman Schneider"/>
+            <recipient name="Mr. Andre Reichert"/>
+        </recipients>
+    </message>
+    <message id="7496" from="Jeffrey Berge" type="IRC">
+        <heading>Let me show you my plan for sending you home. Please excuse the crudity of this model. I didn't have time to build it to scale or paint it.</heading>
+        <body>Autem officia quae modi corporis. Temporibus occaecati voluptas voluptate commodi. Non pariatur qui voluptatem dolorem placeat. Molestias facere aliquam voluptatibus nihil et. Nihil reprehenderit qui voluptatem est et. Eaque ea minima ratione aut. Sit minima quibusdam quo. Earum assumenda voluptate.</body>
+        <recipients>
+            <recipient name="Efrain Kohler"/>
+            <recipient name="Janay Medhurst"/>
+            <recipient name="Dr. Angelic McGlynn"/>
+            <recipient name="Gerald Volkman"/>
+        </recipients>
+    </message>
+    <message id="3645" from="Morton Crist" type="RCS">
+        <heading>Silence, Earthling. My name is Darth Vader. I am an extraterrestrial from the planet Vulcan!</heading>
+        <body>Qui repudiandae mollitia beatae accusantium recusandae sit. Dolorum eligendi harum cum ex ut sunt. Quae debitis maxime porro non repellat quae. Dolor est sunt. Sunt et nihil accusantium voluptatem. Quam et provident dolor. Facere eaque dolorem laboriosam sed et facilis voluptatem. Modi aut quia.</body>
+        <recipients>
+            <recipient name="Soon Dach"/>
+            <recipient name="Claud Rowe"/>
+            <recipient name="Chris Quigley"/>
+            <recipient name="Jamal Trantow"/>
+            <recipient name="Fredric O'Reilly"/>
+            <recipient name="Joshua Reilly Sr."/>
+            <recipient name="Milagro Jacobson"/>
+            <recipient name="Liza Okuneva IV"/>
+            <recipient name="Juanita Spinka"/>
+            <recipient name="Enoch Cummings"/>
+            <recipient name="Jodi Bins"/>
+            <recipient name="Mrs. Moshe Olson"/>
+        </recipients>
+    </message>
+    <message id="9949" from="Walter Bahringer" type="SMTP">
+        <heading>No, get out of town. My mom thinks I'm going camping with the guys. Look, Jennifer, my mother would freak out if she knew I was going out with you, and I'd get the standard lecture about how she never did that kind of stuff when she was a kid. I mean, look, I think the woman was born a nun.</heading>
+        <body>Aspernatur minus debitis repellat. Voluptas doloremque dolor facilis. Et sed placeat dolorem. Dolorum necessitatibus fugit et sit magni dolorum. Adipisci possimus beatae rem aliquid quod fugiat reiciendis. Porro incidunt provident voluptas explicabo eveniet. Quis qui sed. Officiis numquam et nihil soluta ea.</body>
+        <recipients>
+            <recipient name="Marvis Little PhD"/>
+            <recipient name="Nicholas Schowalter"/>
+            <recipient name="Mr. Mauro Torphy"/>
+            <recipient name="Leigh Dickinson"/>
+            <recipient name="Miss Tama Gislason"/>
+            <recipient name="Yee Medhurst DDS"/>
+        </recipients>
+        <mentions>
+            <mention name="Courtney Prohaska"/>
+            <mention name="Myung Brakus"/>
+            <mention name="Ms. Junita Leffler"/>
+            <mention name="Marcelo Bode Jr."/>
+        </mentions>
+    </message>
+    <message id="3243" from="Mr. Elisha Friesen" type="MMS">
+        <heading>Whoa. Wait a minute, Doc. Are you trying to tell me that my mother has got the hots for me?</heading>
+        <body>Impedit nulla nisi aut debitis. Accusamus laboriosam molestiae sint optio omnis optio. Numquam dolorum aliquid voluptatem sit sed. Omnis quas non. Consectetur ut et voluptatibus maxime. Architecto eos rerum. Id dolorem dolor. Excepturi esse qui vel architecto doloremque.</body>
+        <recipients>
+            <recipient name="Ashly Schimmel PhD"/>
+            <recipient name="Ms. Merlin Balistreri"/>
+            <recipient name="Ramonita Gusikowski"/>
+            <recipient name="Deborah Corkery"/>
+            <recipient name="Rolando Aufderhar"/>
+            <recipient name="Marquis Douglas"/>
+            <recipient name="Julia O'Conner"/>
+            <recipient name="Celesta Kiehn"/>
+            <recipient name="Erika Rohan"/>
+            <recipient name="Zulma Buckridge"/>
+            <recipient name="Marcelina Medhurst"/>
+            <recipient name="Ms. Benito Jacobson"/>
+        </recipients>
+        <mentions>
+            <mention name="Mr. Manda Rosenbaum"/>
+            <mention name="Pedro Waters IV"/>
+            <mention name="Vaughn Herman Jr."/>
+            <mention name="Danille Bernier"/>
+        </mentions>
+    </message>
+</ns2:messages>

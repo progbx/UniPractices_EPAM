@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="5104" from="Scott Daugherty" type="MMS">
+        <heading>Course! From a group of Lybian Nationalists They wanted me to build them a bomb, so I took their plutonium and in turn I gave them a shiny bomb caseing full of used pinball machine parts!</heading>
+        <body>Voluptas perferendis laborum aut alias officiis velit voluptatem. Delectus rem repellendus et quasi unde reiciendis. Iste neque dolore aut at. Qui eius omnis autem aut eveniet. Atque dolor assumenda quae est qui. Qui hic rerum quibusdam autem quis officiis. Molestiae qui nostrum voluptates officiis. Nobis tempore necessitatibus.</body>
+        <recipients>
+            <recipient name="Era Bauch"/>
+            <recipient name="Boris Schoen"/>
+            <recipient name="Jospeh Zemlak"/>
+            <recipient name="Kymberly Halvorson"/>
+            <recipient name="Josefa Romaguera"/>
+        </recipients>
+    </message>
+    <message id="404" from="Wendell Ratke" type="DDS">
+        <heading>Save the clock tower!</heading>
+        <body>Quo eligendi earum et repellat. Expedita rerum eius odit praesentium. Non magnam eos aliquid. Alias odio provident. Sed odio ut voluptatem quia necessitatibus quasi. Dolorem quos dolor quod quia voluptate. Aut ea placeat deserunt laboriosam laudantium atque ea.</body>
+        <recipients>
+            <recipient name="Bradley Kulas"/>
+            <recipient name="Leonardo Spencer"/>
+            <recipient name="Keneth Hilll DDS"/>
+        </recipients>
+    </message>
+    <message id="5635" from="Casey Heaney" type="AMQP">
+        <heading>Silence, Earthling. My name is Darth Vader. I am an extraterrestrial from the planet Vulcan!</heading>
+        <body>Aut blanditiis dignissimos minima ea consequatur blanditiis eum. Ut vero excepturi voluptate aperiam voluptatem aut. Est vel earum accusantium aut exercitationem veritatis. Repudiandae veritatis tempora sit et est dolorum adipisci. Iure nobis eum. A dignissimos animi id quae. Ea error quisquam quis nulla omnis. Cumque in nesciunt maiores reiciendis sapiente qui possimus.</body>
+        <recipients>
+            <recipient name="Shantell Cummerata PhD"/>
+            <recipient name="Garrett Schneider"/>
+            <recipient name="Johnnie Rowe"/>
+            <recipient name="Assunta McLaughlin"/>
+            <recipient name="Sherryl Rath"/>
+            <recipient name="Darell Gusikowski"/>
+            <recipient name="Neal Ziemann"/>
+        </recipients>
+        <mentions>
+            <mention name="Darin Schmeler"/>
+        </mentions>
+    </message>
+    <message id="8187" from="Olevia Pacocha" type="SMTP">
+        <heading>It's already mutated into human form! Shoot it!</heading>
+        <body>Assumenda labore iste omnis iusto at. Magni laborum impedit nulla et dolores sed et. Iste ad fugiat quos optio reiciendis. Dignissimos et et. Fugit repellendus veritatis ipsum. Sint veritatis quis earum ipsa culpa eligendi voluptas. Quisquam porro hic dolores nihil quia fugit. Est corrupti sed animi sint quis. Officiis enim maxime at non libero placeat atque.</body>
+        <recipients>
+            <recipient name="Thersa Cormier"/>
+            <recipient name="Ahmed Wiegand"/>
+            <recipient name="Stephan Rau"/>
+            <recipient name="Gaylord Konopelski"/>
+            <recipient name="Buffy Stehr"/>
+        </recipients>
+        <mentions>
+            <mention name="Ayesha Rath"/>
+            <mention name="Julieann Ortiz Jr."/>
+            <mention name="Regine McCullough"/>
+            <mention name="Ms. Pasquale Tillman"/>
+        </mentions>
+    </message>
+    <message id="1577" from="Jamel Grant" type="MQTT">
+        <heading>Oh. One other thing. If you guys ever have kids, and one of them, when he's eight years old, accidentally sets fire to the living room rug... go easy on him.</heading>
+        <body>Sint in nihil. Amet voluptatum id repellat et distinctio. Molestias rerum cum saepe quia. Tempore accusamus magnam illum nihil animi molestiae sint. Reiciendis cumque libero perspiciatis aliquid accusantium. Facilis quia est distinctio et voluptates est. Distinctio hic doloremque laborum quasi. In asperiores blanditiis ut. Dolorum ea repellat.</body>
+        <recipients>
+            <recipient name="Eduardo Kuphal"/>
+            <recipient name="Everett Pfannerstill"/>
+            <recipient name="Aisha Wisozk PhD"/>
+            <recipient name="Kenya O'Kon IV"/>
+            <recipient name="Hal Ernser"/>
+            <recipient name="Mr. Kasey Schimmel"/>
+            <recipient name="Eryn Bosco"/>
+        </recipients>
+    </message>
+    <message id="8927" from="Suzie Klocko" type="XMPP">
+        <heading>Yeah, well, history is gonna change.</heading>
+        <body>Facere praesentium atque. Est voluptate autem libero et sed aliquam. Eum omnis rerum. Eligendi iusto eum qui. Quos error quas deleniti reprehenderit in exercitationem in. Doloremque neque accusantium minima. Velit et iusto animi rerum aspernatur et. Id sit laboriosam voluptas nemo provident. Odit quasi ut aut nihil beatae.</body>
+        <recipients>
+            <recipient name="Kayla Gusikowski"/>
+            <recipient name="Mervin Hintz"/>
+            <recipient name="Casandra Kerluke"/>
+            <recipient name="Jonas Connelly"/>
+            <recipient name="Eloy Jerde"/>
+            <recipient name="Miss Kirby VonRueden"/>
+            <recipient name="Kathie Torphy"/>
+        </recipients>
+    </message>
+    <message id="5439" from="Miss Keenan Barton" type="DDS">
+        <heading>So you're my Uncle Joey. Better get used to these bars, kid.</heading>
+        <body>Iusto quae accusamus quae accusantium distinctio atque dolore. Autem delectus perspiciatis ullam quam optio adipisci quas. Qui et beatae ad. Architecto quas autem voluptatem illo atque tempora eveniet. Nostrum ad sint enim dolorum. Maiores et molestiae autem velit sed. Ullam nisi molestiae occaecati dolorum ut maxime eaque. Repudiandae cum aliquam sequi. Repudiandae quo qui.</body>
+        <recipients>
+            <recipient name="Miss Kimbra Howell"/>
+            <recipient name="Lissette Wisoky"/>
+            <recipient name="Dr. Lise MacGyver"/>
+            <recipient name="Colby Koepp"/>
+            <recipient name="Dakota Williamson"/>
+            <recipient name="Dee Schroeder"/>
+            <recipient name="Ms. Nichol Shields"/>
+            <recipient name="Kenia Moen"/>
+        </recipients>
+    </message>
+    <message id="7077" from="Mrs. Eloy Dicki" type="MQTT">
+        <heading>All right. This is an oldie, but, uh... well, it's an oldie where I come from.</heading>
+        <body>Neque unde voluptatem necessitatibus aut iusto nam. Est aliquid aliquid et temporibus corporis natus. Aperiam explicabo at eum modi. Est consectetur quia assumenda non. Repudiandae sit recusandae vel vel amet quod. Ratione assumenda laudantium corporis beatae. Ut ut aut nihil iusto praesentium expedita voluptates. Qui non necessitatibus ut dignissimos reiciendis. Deleniti sunt necessitatibus.</body>
+        <recipients>
+            <recipient name="Ayesha Lockman"/>
+            <recipient name="Thaddeus Shields"/>
+            <recipient name="Jannie Oberbrunner"/>
+            <recipient name="Mr. Desmond Doyle"/>
+            <recipient name="Nicola Sporer DDS"/>
+            <recipient name="Derrick Nienow"/>
+            <recipient name="Georgianna Yundt"/>
+            <recipient name="Drema Wiza"/>
+            <recipient name="Teodoro Doyle III"/>
+            <recipient name="Odell Welch"/>
+            <recipient name="Long Von II"/>
+            <recipient name="Joan Corkery"/>
+            <recipient name="Stewart Koelpin"/>
+        </recipients>
+        <mentions>
+            <mention name="Mr. Clemente Rosenbaum"/>
+        </mentions>
+    </message>
+    <message id="8019" from="Megan Huel" type="MMS">
+        <heading>Look! There's a rhythmic ceremonial ritual coming up.</heading>
+        <body>Doloribus fugit et est est eos. Ex eos dignissimos et. Velit quasi est fugiat aspernatur. Accusantium delectus rerum. Ipsum rerum quidem. Dolore possimus ducimus eos tempora maxime ullam. Aut odit vel eius rerum quia ratione.</body>
+        <recipients>
+            <recipient name="Miss Brendon Nader"/>
+            <recipient name="Mika Ullrich"/>
+            <recipient name="Oswaldo Jenkins"/>
+            <recipient name="Ronny Hettinger"/>
+            <recipient name="Elden Stanton"/>
+            <recipient name="Dr. Aaron McLaughlin"/>
+            <recipient name="Ashanti Ullrich"/>
+            <recipient name="Tommy Bartoletti"/>
+            <recipient name="Edgar Mosciski"/>
+            <recipient name="Jocelyn Ebert"/>
+        </recipients>
+    </message>
+</ns2:messages>

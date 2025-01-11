@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="3942" from="Kasey O'Kon" type="MQTT">
+        <heading>Weight has nothing to do with it.</heading>
+        <body>Est magnam modi dolores sunt molestias facere laudantium. Dolorem officiis iste tenetur molestiae earum explicabo minima. Ipsa modi quasi eaque provident explicabo. Nulla dicta error iure. Quo velit distinctio necessitatibus expedita deserunt. Et corporis fugit praesentium. Consequuntur non eum. Vero excepturi aut soluta omnis omnis. Rem qui tenetur suscipit repudiandae nihil magnam sit.</body>
+        <recipients>
+            <recipient name="Jean Rutherford"/>
+            <recipient name="Art McLaughlin"/>
+            <recipient name="Carey Bailey V"/>
+            <recipient name="Cedrick Dach"/>
+            <recipient name="Jeanine Gerlach"/>
+            <recipient name="Lovie Langworth"/>
+            <recipient name="Charles Koch"/>
+            <recipient name="Phil Spinka"/>
+            <recipient name="Thurman Jacobson"/>
+            <recipient name="Thalia Miller DVM"/>
+        </recipients>
+    </message>
+    <message id="1071" from="Mrs. Deborah Bode" type="AMQP">
+        <heading>Who the hell is John F. Kennedy?</heading>
+        <body>Iusto voluptatum non eius quia ipsa omnis. Quam qui possimus hic ut neque minima necessitatibus. Vitae temporibus autem odit odit. Vel beatae labore in quod tenetur qui sit. Nam accusamus voluptatem assumenda sit est dolor. Eos ut et et. Exercitationem vitae velit. Consequatur sed doloremque quos odio.</body>
+        <recipients>
+            <recipient name="Ashley Schaefer"/>
+            <recipient name="Ms. Asa Abbott"/>
+            <recipient name="Mrs. Elizbeth Koepp"/>
+            <recipient name="Claude Block"/>
+        </recipients>
+        <mentions>
+            <mention name="Reed Reinger"/>
+            <mention name="Emory Kihn V"/>
+            <mention name="Nathaniel Beier"/>
+            <mention name="Dr. Deena Stanton"/>
+        </mentions>
+    </message>
+    <message id="1576" from="Norine Greenholt" type="RCS">
+        <heading>Well, you're safe and sound now, back in good old 1955.</heading>
+        <body>Harum voluptates vel non nisi sunt aut. Enim est quae eveniet sequi. Tempore sit ut consectetur et. Illo quasi corporis iusto consequatur enim. Atque sit dolores adipisci possimus totam. Sint tenetur perferendis enim ut amet quaerat sed. Explicabo ut enim qui fugit tempora quo. Distinctio placeat ipsa omnis iste sit dolores. Id nihil nulla nemo nostrum.</body>
+        <recipients>
+            <recipient name="Lovella Stehr"/>
+            <recipient name="Kyoko Kessler"/>
+            <recipient name="Oliva Mraz"/>
+            <recipient name="Evelina Lockman"/>
+            <recipient name="Dewey McCullough"/>
+            <recipient name="Jeffery Fritsch"/>
+            <recipient name="Ignacio Mills"/>
+            <recipient name="Dr. Jeniffer Klein"/>
+            <recipient name="Ariane Vandervort"/>
+            <recipient name="Elayne Tromp"/>
+            <recipient name="Mireya Gleason V"/>
+            <recipient name="Tamra Waelchi"/>
+            <recipient name="Ulysses Hettinger"/>
+        </recipients>
+    </message>
+    <message id="76" from="Claud Harris" type="SMS">
+        <heading>See you in about 30 years.</heading>
+        <body>Similique suscipit quia molestiae cumque. Soluta commodi est nam harum ut quod. Omnis eligendi deleniti quis magnam. Numquam doloremque illo qui nostrum. Veniam quidem ab facere. Ad eum nihil id dolorem. Ut ut iure qui velit officiis est. Error molestiae architecto aliquid et sint sunt ipsam.</body>
+        <recipients>
+            <recipient name="Mrs. Fredric Lang"/>
+            <recipient name="Vito Smitham DDS"/>
+            <recipient name="Mr. Carlton Trantow"/>
+            <recipient name="Dane Lakin"/>
+            <recipient name="Keneth Thompson"/>
+            <recipient name="Hyun Braun"/>
+            <recipient name="Tommy Nicolas"/>
+            <recipient name="Joan Armstrong"/>
+            <recipient name="Grisel Schmeler"/>
+            <recipient name="Shanae Davis"/>
+            <recipient name="Barabara Stark PhD"/>
+            <recipient name="Dr. Creola Ondricka"/>
+        </recipients>
+    </message>
+    <message id="8032" from="Wilber Schamberger V" type="IRC">
+        <heading>What are you looking at, butthead?</heading>
+        <body>Ut nam molestias sapiente. Dolores earum vel corporis quas. Ipsam corporis itaque earum. Dolor numquam aut nulla maiores vero ut. Ut sed fugiat natus. Fugiat ut adipisci sint et nesciunt. Omnis officia fuga nostrum.</body>
+        <recipients>
+            <recipient name="Edwina Beer"/>
+            <recipient name="Vernetta Hand"/>
+            <recipient name="John Pollich"/>
+            <recipient name="Rena Shields"/>
+            <recipient name="Daisy Yost"/>
+            <recipient name="Randy VonRueden MD"/>
+            <recipient name="Mathew Spencer"/>
+            <recipient name="Mrs. Robert Wisozk"/>
+            <recipient name="Peter Sawayn"/>
+        </recipients>
+    </message>
+    <message id="5905" from="Mrs. Bernardo Shields" type="MMS">
+        <heading>I'm gonna get that son of a bitch.</heading>
+        <body>Minus consequatur veritatis molestiae placeat aut a. Repellendus modi illo doloremque magni aspernatur rerum. Occaecati rerum error laborum tenetur voluptatem sapiente. Enim quas esse illo rem commodi quisquam. Maiores maiores id voluptate repellat aut quibusdam quo. Adipisci sapiente soluta repellendus enim saepe. Tenetur ut eos. Nihil rerum autem similique itaque. Facere harum ea sunt.</body>
+        <recipients>
+            <recipient name="Shad Pfannerstill"/>
+            <recipient name="Kathrin O'Hara DVM"/>
+            <recipient name="Leo Metz"/>
+            <recipient name="Nathaniel Veum MD"/>
+            <recipient name="Dr. Hayden Yost"/>
+            <recipient name="Malisa Shanahan IV"/>
+            <recipient name="Marianela Feeney"/>
+            <recipient name="Kendall Ratke"/>
+            <recipient name="Blythe Wiza"/>
+        </recipients>
+    </message>
+    <message id="6229" from="Mrs. Jess Rice" type="DDS">
+        <heading>If my calculations are correct, when this baby hits 88 miles per hour... you're gonna see some serious shit.</heading>
+        <body>Expedita sunt ipsa beatae qui est. Quo fugit est ipsam voluptatum dolorem. Laborum id dignissimos non omnis assumenda inventore tempore. Iure vitae et perspiciatis. Enim iste debitis. Nostrum nesciunt atque libero. Quia aut hic est incidunt molestias rem quam. Ratione ut neque repellat occaecati atque.</body>
+        <recipients>
+            <recipient name="Evalyn Von"/>
+            <recipient name="Cordell Gleichner"/>
+            <recipient name="Miss Ivory Goyette"/>
+            <recipient name="Kourtney Robel MD"/>
+            <recipient name="Dr. Dorsey Abshire"/>
+            <recipient name="Ms. Lizabeth Price"/>
+            <recipient name="Jon Hoeger"/>
+            <recipient name="Val Feil"/>
+            <recipient name="Hershel Toy"/>
+            <recipient name="Jose Hilll DVM"/>
+            <recipient name="Del Batz"/>
+            <recipient name="Debbie Wunsch"/>
+            <recipient name="Mrs. Pinkie Larkin"/>
+            <recipient name="Miss Hallie Kohler"/>
+            <recipient name="Chun Hettinger"/>
+        </recipients>
+    </message>
+    <message id="369" from="Drew Nolan" type="SMS">
+        <heading>Yes. Yes. I'm George. George McFly. I'm your density. I mean, your destiny.</heading>
+        <body>Ut non ipsa aspernatur atque fugit qui beatae. Necessitatibus officiis qui nam quam illum et. Est totam vel aut maiores voluptas. Quam ipsam dolor. Consequatur facere ut. Sunt quo voluptas ut quaerat ea ratione. Repudiandae dignissimos veritatis cum. Dignissimos et dicta esse officia exercitationem.</body>
+        <recipients>
+            <recipient name="Roscoe Howell"/>
+            <recipient name="Alena Waters DVM"/>
+            <recipient name="Michel Weber PhD"/>
+            <recipient name="Myles Kihn"/>
+            <recipient name="Mireille Parker Jr."/>
+            <recipient name="Mr. Sherwood Lehner"/>
+        </recipients>
+    </message>
+</ns2:messages>

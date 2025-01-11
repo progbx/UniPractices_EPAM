@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="9143" from="Lorrie Goldner" type="MMS">
+        <heading>Course! From a group of Lybian Nationalists They wanted me to build them a bomb, so I took their plutonium and in turn I gave them a shiny bomb caseing full of used pinball machine parts!</heading>
+        <body>Magnam excepturi iusto magni. Necessitatibus delectus soluta. Sequi voluptates deleniti. Incidunt et enim blanditiis. Tenetur veritatis ut explicabo velit aut sunt. Cumque quis nesciunt ipsa ullam. Quia tempore aut est autem velit in explicabo.</body>
+        <recipients>
+            <recipient name="Ms. Stephan Fay"/>
+            <recipient name="Randell Mosciski"/>
+            <recipient name="Shelli Skiles"/>
+            <recipient name="Garfield Brekke"/>
+            <recipient name="Camellia Marvin"/>
+            <recipient name="Brain Mante MD"/>
+            <recipient name="Kenny Doyle PhD"/>
+            <recipient name="Ms. Cecil Armstrong"/>
+            <recipient name="Tennille Batz II"/>
+            <recipient name="Eleonora Corkery IV"/>
+            <recipient name="Deetta Fahey"/>
+            <recipient name="Miss Georgiana Simonis"/>
+            <recipient name="Cory Homenick"/>
+            <recipient name="Angelic Blick"/>
+        </recipients>
+    </message>
+    <message id="7601" from="Carlos Wisozk DVM" type="MMS">
+        <heading>He's a Peeping Tom!</heading>
+        <body>Voluptas sapiente et illum amet. Culpa quia rerum et consequatur rerum facere. Ex ab sunt perspiciatis nobis saepe. Facere quia id. Officia vel minima nemo ut ut. Ea nihil at vel error qui. Fugiat dicta quod animi corporis.</body>
+        <recipients>
+            <recipient name="Claudio Mills"/>
+            <recipient name="Mrs. Nigel Torphy"/>
+            <recipient name="Ginger Hartmann"/>
+            <recipient name="Miss Gerda Collier"/>
+            <recipient name="Patsy Yundt"/>
+            <recipient name="Dusti Schultz"/>
+            <recipient name="Herma Koelpin"/>
+            <recipient name="Berta O'Hara"/>
+            <recipient name="Mrs. Rigoberto Oberbrunner"/>
+            <recipient name="Miss George Graham"/>
+            <recipient name="Dr. Zenaida Marks"/>
+        </recipients>
+    </message>
+    <message id="5415" from="Lavelle Ward DVM" type="SMTP">
+        <heading>I g-guess you guys aren't ready for that yet. But your kids are gonna love it.</heading>
+        <body>Quos incidunt mollitia facere. Pariatur voluptate rerum expedita. Aliquid eligendi natus aut ex iste. Iure iure doloremque error sint quis. Sapiente sit totam quos autem iste deserunt iure. Omnis officiis ipsum hic architecto quia nihil. Quo dolor saepe aut omnis. Maxime culpa dolorem aut eligendi laborum rerum praesentium. Ducimus iste omnis sed.</body>
+        <recipients>
+            <recipient name="Jay Spencer MD"/>
+            <recipient name="Keesha Crona DDS"/>
+            <recipient name="Glenn Lubowitz I"/>
+        </recipients>
+    </message>
+</ns2:messages>

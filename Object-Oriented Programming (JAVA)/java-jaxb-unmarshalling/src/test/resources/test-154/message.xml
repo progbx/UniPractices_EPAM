@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="7347" from="Nikki Emard" type="MMS">
+        <heading>Hello? Hello? Anybody home? Huh? Think, McFly. Think! I gotta have time to get them retyped. Do you realize what would happen if I hand in my reports in your handwriting? I'll get fired. You wouldn't want that to happen, would ya? Would ya?</heading>
+        <body>Voluptatum libero quam aut eaque aut maxime. Aut consequatur enim repellat officia fuga. Inventore rerum quia possimus aut delectus. Nobis aliquam velit hic fuga id vel. Id ut reprehenderit et amet magni non. Ut dolor odio a magni fugit omnis eum. Quis voluptas fuga perferendis fugit. Amet eum quasi quis deleniti. Et architecto vel.</body>
+        <recipients>
+            <recipient name="Barrett Runolfsson"/>
+            <recipient name="Ronald Wolf"/>
+            <recipient name="Dr. Danilo Yost"/>
+            <recipient name="Camelia Fahey"/>
+            <recipient name="Gretchen Kreiger"/>
+        </recipients>
+    </message>
+</ns2:messages>
