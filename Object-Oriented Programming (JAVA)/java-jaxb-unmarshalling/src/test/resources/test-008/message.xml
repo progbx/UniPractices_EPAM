@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="7059" from="Jennefer Hackett" type="SMTP">
+        <heading>Maybe you were adopted.</heading>
+        <body>Atque quis cumque. Eum voluptate esse facilis tempore adipisci nemo voluptatem. Ipsa quo sit omnis quas voluptatibus. Sint qui voluptatum perspiciatis temporibus tempora soluta saepe. Placeat est omnis veniam non mollitia rerum. Fugit sunt molestiae aliquid ad est. Nihil excepturi qui. Illum laborum quos quisquam a provident sit.</body>
+        <recipients>
+            <recipient name="Miss Sal Doyle"/>
+            <recipient name="Douglas Thiel"/>
+            <recipient name="Frieda Dicki"/>
+            <recipient name="Mr. Ardis Rempel"/>
+            <recipient name="Jewell Bauch"/>
+            <recipient name="Richie Larkin"/>
+        </recipients>
+        <mentions>
+            <mention name="Kamilah Stokes"/>
+            <mention name="Dr. Verna Stokes"/>
+        </mentions>
+    </message>
+    <message id="4676" from="Hugh Murphy" type="AMQP">
+        <heading>No! It requires something with a little more kick...plutonium!</heading>
+        <body>Eaque facilis magni nostrum blanditiis. Ea magni commodi in commodi deserunt. Natus fuga error aliquam qui vero. Consequatur saepe incidunt omnis deleniti. Velit voluptas nihil dolorem. Beatae et dolorem aperiam. Eos et repudiandae vel architecto reiciendis ipsa modi. Natus aperiam voluptas laborum cumque occaecati occaecati et. Voluptas tempore ut placeat et iusto est tempora.</body>
+        <recipients>
+            <recipient name="Alicia O'Reilly"/>
+            <recipient name="Stuart Turner"/>
+            <recipient name="Ms. Kenia Borer"/>
+            <recipient name="Lester Schroeder"/>
+            <recipient name="Veronique Erdman"/>
+            <recipient name="Pete Larson III"/>
+            <recipient name="Vina Pagac"/>
+            <recipient name="Mrs. Qiana Roberts"/>
+        </recipients>
+    </message>
+    <message id="971" from="Buddy Pfannerstill" type="DDS">
+        <heading>Hey, McFly! I thought I told you never to come in here.</heading>
+        <body>Eos sapiente neque eos dolorem voluptas. Rerum in possimus voluptatum error. Magni error nihil veritatis officia labore. Voluptas aperiam dicta alias. Quisquam temporibus omnis voluptatem omnis et omnis aperiam. Ea harum culpa eos. Maiores veniam facilis in laudantium est quasi. Blanditiis quis dicta velit facilis illo cupiditate.</body>
+        <recipients>
+            <recipient name="Lashaunda Volkman"/>
+            <recipient name="Rosann Toy Sr."/>
+            <recipient name="Dr. Kraig Russel"/>
+        </recipients>
+        <mentions>
+            <mention name="Porsche Hamill"/>
+            <mention name="Lynn Wunsch Sr."/>
+        </mentions>
+    </message>
+    <message id="6636" from="Genaro White" type="DDS">
+        <heading>Maybe you were adopted.</heading>
+        <body>Aut unde ut voluptates quas. Temporibus qui neque necessitatibus et et. Magni cumque neque quo aspernatur autem iusto rerum. Quo incidunt facilis et ipsam accusantium voluptate assumenda. Et vero sit. Unde voluptates nemo ducimus suscipit eum quaerat. Perspiciatis vitae aliquid et.</body>
+        <recipients>
+            <recipient name="Jesus Frami Jr."/>
+            <recipient name="Ms. Penny Moore"/>
+            <recipient name="Stormy Stanton"/>
+        </recipients>
+        <mentions>
+            <mention name="Nicholas Kunde"/>
+            <mention name="Valarie Blanda DDS"/>
+        </mentions>
+    </message>
+    <message id="4908" from="Mertie Harber" type="DDS">
+        <heading>Since when can weathermen predict the weather, let alone the future?</heading>
+        <body>Aut consectetur quia. Maxime aut quibusdam blanditiis. Et qui dolore et quia magnam. Eos iusto et tempora. Alias consequatur quia ipsa modi dicta expedita. Omnis odio ab numquam. Aut deserunt ducimus et explicabo id. Repellendus rem rerum et quis quo ab rerum. Non qui sunt cumque quis ratione deserunt.</body>
+        <recipients>
+            <recipient name="Francis Spinka"/>
+            <recipient name="Alejandro McGlynn"/>
+            <recipient name="Denis Ondricka"/>
+            <recipient name="Barb Brown IV"/>
+            <recipient name="Moshe Bailey MD"/>
+        </recipients>
+    </message>
+    <message id="56" from="Cassidy Hand" type="MMS">
+        <heading>Look, you're not gonna be picking a fight, Dad... Dad-Dad-Daddy-O.</heading>
+        <body>Libero ab at sit quae consequatur eveniet fugit. Error minima dicta sapiente dolor. Iure sed cum. Exercitationem commodi temporibus culpa aliquid laudantium. Molestias non sed perspiciatis quo dolorem molestias optio. Asperiores eaque sit ex. Exercitationem neque adipisci. Impedit accusantium in iusto omnis. Reiciendis aut nam omnis quas quia debitis.</body>
+        <recipients>
+            <recipient name="Bernardo Streich IV"/>
+            <recipient name="Bernardo Veum MD"/>
+            <recipient name="Ms. Carlee Schmidt"/>
+        </recipients>
+    </message>
+    <message id="6702" from="Bette Moen" type="DDS">
+        <heading>Hey, McFly! I thought I told you never to come in here.</heading>
+        <body>Accusantium voluptatibus blanditiis non optio cum est. Sequi ut laboriosam iste sint ratione. Officia dolorem quia voluptas. Quaerat fugiat qui molestiae earum officiis accusamus ratione. Consequatur qui eveniet. Et aliquam necessitatibus ullam eum occaecati quas. Molestias qui libero molestias sequi quo non.</body>
+        <recipients>
+            <recipient name="Von Davis"/>
+            <recipient name="Miss Jude Boyer"/>
+            <recipient name="Loyd Welch"/>
+            <recipient name="Mr. Carrol Morar"/>
+            <recipient name="Angelo Wiegand"/>
+            <recipient name="Robert Heidenreich"/>
+            <recipient name="Yvonne Krajcik"/>
+            <recipient name="Shin Shields"/>
+        </recipients>
+        <mentions>
+            <mention name="Mr. Alfred Dickinson"/>
+        </mentions>
+    </message>
+</ns2:messages>

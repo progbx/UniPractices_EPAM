@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="4223" from="Dr. Cleveland Pouros" type="MMS">
+        <heading>And one for you, McFly; I believe that makes four in a row. Now let me give you a nickel's worth of free advice, young man. This so-called Dr. Brown is dangerous. He's a real nutcase. You hang around with him, you're gonna end up in big trouble.</heading>
+        <body>Modi adipisci adipisci sit neque. Qui omnis ipsum. Eveniet accusamus ea illo. Omnis unde nemo quaerat atque et earum quia. Vel corrupti architecto ut eum tenetur. Doloribus ut placeat et error quae vel. Odio quos quia dolor aut amet consequatur pariatur.</body>
+        <recipients>
+            <recipient name="Leann Schimmel"/>
+            <recipient name="Manual Padberg"/>
+            <recipient name="Ernesto Streich"/>
+            <recipient name="Adolph Conn"/>
+            <recipient name="Efrain Hoppe"/>
+            <recipient name="Julio Volkman"/>
+            <recipient name="Frankie Gusikowski"/>
+            <recipient name="Merle Armstrong III"/>
+        </recipients>
+    </message>
+    <message id="7195" from="Ms. Moises Schmidt" type="MQTT">
+        <heading>Crazy drunk driver.</heading>
+        <body>Omnis illo minima ipsam omnis quidem. Deleniti nobis quia fuga. Fuga quia dolorum sit. Labore nesciunt veniam nam possimus nemo illo. Dolores aliquid molestias fugit alias ducimus et. Velit ut sit. Officia blanditiis sint harum nesciunt illum. Possimus hic consequatur. Harum velit sed molestiae.</body>
+        <recipients>
+            <recipient name="Stevie Luettgen"/>
+            <recipient name="Berenice Reichert I"/>
+            <recipient name="Ms. Nikita Hahn"/>
+            <recipient name="Sally Jacobson"/>
+            <recipient name="Andre Raynor DVM"/>
+            <recipient name="Newton Tromp V"/>
+            <recipient name="Carol Walker DDS"/>
+            <recipient name="Cassi Nikolaus"/>
+            <recipient name="Danelle Veum"/>
+            <recipient name="Gussie Wilkinson"/>
+            <recipient name="Jeff Collins"/>
+        </recipients>
+        <mentions>
+            <mention name="Drew Ferry"/>
+        </mentions>
+    </message>
+    <message id="8397" from="Tia Schmeler" type="SMS">
+        <heading>He's an absolute dream!</heading>
+        <body>Iure vel deleniti. Tempora voluptas ipsum explicabo. Velit non et pariatur. Perferendis id aspernatur quia iusto nihil laborum. Vero optio eveniet. Quia aut repudiandae saepe a fugit. Delectus error optio minus possimus quisquam.</body>
+        <recipients>
+            <recipient name="Laura Reichel"/>
+            <recipient name="Bryant Raynor"/>
+            <recipient name="Ms. Karl Aufderhar"/>
+            <recipient name="Miss Yasuko Mills"/>
+            <recipient name="Dr. Ilse Cormier"/>
+            <recipient name="Michale Witting"/>
+        </recipients>
+    </message>
+    <message id="3170" from="Celena Rice" type="XMPP">
+        <heading>Ah, Jesus Christ! Jesus Christ, Doc, you disintegrated Einstein!</heading>
+        <body>Sint debitis sed repudiandae. Quas eius quo. Numquam amet ut magni qui quaerat quia voluptatibus. At ut architecto magnam et culpa et. Deleniti accusantium qui aspernatur eos nam. Quos suscipit earum. Sit sed odit sunt. Officiis esse animi cupiditate. Vel vel cupiditate temporibus dignissimos.</body>
+        <recipients>
+            <recipient name="Ms. Creola Abshire"/>
+            <recipient name="Hilma Baumbach"/>
+            <recipient name="Britta Becker"/>
+            <recipient name="Von Cruickshank"/>
+            <recipient name="Erlene Miller"/>
+            <recipient name="Ivory Stehr"/>
+            <recipient name="Kraig Heller"/>
+            <recipient name="Pasquale Bayer"/>
+            <recipient name="Cruz Herman"/>
+            <recipient name="Ervin Schmeler"/>
+            <recipient name="Jonnie Ledner"/>
+        </recipients>
+    </message>
+    <message id="9499" from="Tawny Collier" type="DDS">
+        <heading>I finally invent something that works!</heading>
+        <body>Accusamus ut qui delectus eligendi aut velit. Quis recusandae rem ipsum a. Laborum autem earum tenetur. Est assumenda reprehenderit dolorum cupiditate necessitatibus placeat. Et perferendis ab quae aspernatur tempora eveniet animi. Reiciendis et minima aut tenetur libero cupiditate ipsa. Occaecati ea aut a totam dolorum omnis. Sapiente quis sint hic similique odio culpa vitae. Consequatur aspernatur corrupti nesciunt quasi optio et laborum.</body>
+        <recipients>
+            <recipient name="Alvin Turner Jr."/>
+            <recipient name="Antionette Kreiger"/>
+            <recipient name="Miss Dot McGlynn"/>
+            <recipient name="Archie Schroeder"/>
+        </recipients>
+    </message>
+    <message id="8115" from="Miss Brandy McDermott" type="XMPP">
+        <heading>He's an absolute dream!</heading>
+        <body>Dicta et quasi reiciendis odio. Numquam animi similique. Quasi recusandae assumenda quia laudantium et amet cum. Quae et veniam ut. Sed doloremque impedit saepe sint et. Nisi dolorum omnis. Et odit aspernatur eos aliquid atque voluptatem. Officia molestiae rerum aut deleniti consequuntur velit distinctio. Consequatur a enim delectus doloremque corporis perferendis laborum.</body>
+        <recipients>
+            <recipient name="Katharine Schmidt"/>
+            <recipient name="Chadwick Kulas"/>
+            <recipient name="Lynn Wintheiser Sr."/>
+            <recipient name="Dr. Camie Cassin"/>
+            <recipient name="Rosetta Rohan"/>
+            <recipient name="Miss Abdul Olson"/>
+        </recipients>
+    </message>
+</ns2:messages>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="377" from="Dr. Lory O'Hara" type="SMS">
+        <heading>Maybe you were adopted.</heading>
+        <body>Impedit corrupti consectetur placeat aut quos neque cupiditate. Eius sed aut soluta. Vel dolorem aliquam saepe non. Natus eum fuga magni quibusdam et odio. Dicta beatae cupiditate ipsam doloremque est veniam voluptas. Et commodi deleniti in vero sunt repellat facilis. Ducimus exercitationem neque sapiente corporis.</body>
+        <recipients>
+            <recipient name="Lewis Lindgren"/>
+            <recipient name="Peter Collier"/>
+            <recipient name="Allyn Hane"/>
+            <recipient name="Connie Deckow"/>
+            <recipient name="Kirstin Rutherford"/>
+            <recipient name="Doyle Ferry"/>
+            <recipient name="Son Johnson"/>
+            <recipient name="Jermaine Volkman"/>
+            <recipient name="Dr. Mathew Gibson"/>
+            <recipient name="Julius Hills"/>
+            <recipient name="Willetta Kozey"/>
+            <recipient name="Sabina Zieme DVM"/>
+            <recipient name="Kera Pfannerstill"/>
+        </recipients>
+    </message>
+    <message id="1270" from="Cyndy Crist" type="AMQP">
+        <heading>Yes. Yes. I'm George. George McFly. I'm your density. I mean, your destiny.</heading>
+        <body>Temporibus delectus exercitationem impedit et ipsum. Suscipit molestias et delectus sunt sit autem rem. Reprehenderit tenetur qui quo. Consequuntur nobis doloremque. Maiores fugit commodi dolor optio alias ea omnis. Omnis numquam mollitia laborum ratione dolor tempora quia. Qui qui accusamus iure laboriosam aut.</body>
+        <recipients>
+            <recipient name="Moshe Schowalter"/>
+            <recipient name="Elissa Keeling"/>
+            <recipient name="Keith Walsh"/>
+            <recipient name="Edwardo Cole"/>
+            <recipient name="Angelita Heller"/>
+            <recipient name="Mac Schuster I"/>
+        </recipients>
+    </message>
+    <message id="7524" from="Alberto Haag" type="SMTP">
+        <heading>Crazy drunk driver.</heading>
+        <body>Error impedit ut est. Omnis aut aut nam amet. Labore molestiae accusantium tempora et sint consequatur perspiciatis. Laborum sapiente unde animi. Blanditiis qui temporibus. Qui beatae sapiente quo id molestiae provident. Exercitationem pariatur voluptas optio tempora fugiat animi harum. Natus id nisi doloremque. Natus sit hic.</body>
+        <recipients>
+            <recipient name="Dane Moen"/>
+            <recipient name="Janita Barton Sr."/>
+            <recipient name="Mrs. Vance Cremin"/>
+            <recipient name="Jame Wintheiser"/>
+            <recipient name="Bianca Gislason"/>
+            <recipient name="Lionel Bauch"/>
+            <recipient name="Kevin Leffler"/>
+            <recipient name="Santiago Murray"/>
+        </recipients>
+        <mentions>
+            <mention name="Trey Reilly"/>
+            <mention name="Rich Kozey"/>
+            <mention name="Mr. Shirl Lowe"/>
+        </mentions>
+    </message>
+    <message id="6099" from="Dean Dickinson II" type="MMS">
+        <heading>Dear Dr. Brown. On the night that I go back in time, you will be shot by terrorists. Please take whatever precautions are necessary to prevent this terrible disaster. Your friend, Marty.</heading>
+        <body>Eaque nam labore. Et perspiciatis provident sint. Totam eos cumque accusamus non assumenda. Aut deserunt maiores. Ut molestiae non dignissimos corrupti nobis dolore suscipit. Quae ipsum placeat provident omnis. Commodi iusto voluptate eius sit voluptas dolores libero.</body>
+        <recipients>
+            <recipient name="Rosalina Cartwright"/>
+            <recipient name="Denae Kautzer"/>
+            <recipient name="Newton Rath"/>
+            <recipient name="Venice Stiedemann IV"/>
+            <recipient name="Bart Stoltenberg"/>
+            <recipient name="Theron Mraz II"/>
+            <recipient name="Ms. Anthony Schultz"/>
+            <recipient name="Gavin Schumm"/>
+            <recipient name="Titus Welch"/>
+        </recipients>
+        <mentions>
+            <mention name="Izola Bernier"/>
+            <mention name="Eustolia Marquardt"/>
+        </mentions>
+    </message>
+</ns2:messages>

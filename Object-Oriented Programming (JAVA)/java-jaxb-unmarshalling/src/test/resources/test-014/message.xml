@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="8009" from="Vito Hilll" type="IRC">
+        <heading>Course! From a group of Lybian Nationalists They wanted me to build them a bomb, so I took their plutonium and in turn I gave them a shiny bomb caseing full of used pinball machine parts!</heading>
+        <body>Iste numquam quisquam illo id. Dolor officiis soluta qui vero voluptatem non inventore. Provident nemo porro est optio dolores iure assumenda. Eaque harum non minus nisi qui quae ut. Dolorum occaecati nihil nemo est corporis laboriosam perferendis. Quisquam accusamus eum asperiores. Saepe aut et ab eos.</body>
+        <recipients>
+            <recipient name="Paul Kuphal"/>
+            <recipient name="Clay Williamson"/>
+            <recipient name="Arnoldo McGlynn"/>
+            <recipient name="Georgeanna Schmidt"/>
+            <recipient name="Wilson Hoeger II"/>
+            <recipient name="Michale Bayer"/>
+            <recipient name="Darryl Swift"/>
+            <recipient name="Ms. Evita Dare"/>
+            <recipient name="Freeman Mosciski IV"/>
+            <recipient name="Gisela Crist I"/>
+            <recipient name="Miss Hilario Koelpin"/>
+        </recipients>
+    </message>
+</ns2:messages>

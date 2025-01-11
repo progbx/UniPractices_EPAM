@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="9981" from="Mayola Reilly" type="XMPP">
+        <heading>Now, remember. According to my theory, you interfered with your parents' first meeting. If they don't meet, they won't fall in love, they won't get married and they won't have kids. That's why your older brother's disappearing from that photograph. Your sister will follow, and unless you repair the damage, you'll be next.</heading>
+        <body>Omnis quibusdam aut quia. Fugiat aut et nostrum rerum expedita sunt. Distinctio tempora tempora est doloribus eaque doloribus quibusdam. Aut eum fuga omnis ea id. Unde qui quisquam quo esse enim placeat est. Aut blanditiis molestias qui voluptatibus et fuga. Molestias ea quia voluptatum ex. Aut et qui asperiores voluptatem blanditiis sed.</body>
+        <recipients>
+            <recipient name="Walter Emard"/>
+            <recipient name="Cornell Gerhold V"/>
+            <recipient name="Barney Padberg"/>
+            <recipient name="Rich Jaskolski"/>
+            <recipient name="Adam Witting"/>
+        </recipients>
+        <mentions>
+            <mention name="Stacie Pfeffer"/>
+            <mention name="Reynalda Howe"/>
+            <mention name="Somer Beahan"/>
+        </mentions>
+    </message>
+    <message id="5669" from="Britteny Pfannerstill" type="IRC">
+        <heading>No, no, no, no, no, this sucker's electrical, but I need a nuclear reaction to generate the 1.21 gigawatts of electricity I need.</heading>
+        <body>Odit exercitationem nisi molestiae voluptatem quaerat. Officiis ratione non. A animi repellat. Et maxime voluptas tenetur. Ea repellendus nesciunt quidem et nesciunt. Qui et tenetur. Asperiores iure est vitae.</body>
+        <recipients>
+            <recipient name="Miss Ona Abshire"/>
+            <recipient name="Manda Sipes"/>
+            <recipient name="Pasquale Reichel"/>
+            <recipient name="Mrs. Erline O'Kon"/>
+            <recipient name="Rodolfo Rowe"/>
+            <recipient name="Myles Macejkovic"/>
+            <recipient name="Glenn Daugherty"/>
+            <recipient name="Benton Miller"/>
+            <recipient name="Marco Nikolaus"/>
+        </recipients>
+    </message>
+    <message id="4642" from="Delphia Kirlin" type="RCS">
+        <heading>I had a horrible nightmare. I dreamed that I went... back in time. It was terrible.</heading>
+        <body>Amet eius exercitationem ex suscipit odit odit. Illum aut ex perspiciatis nulla commodi. Dolorem quis id vitae aliquid. At sint tempore quia. Excepturi qui hic. Vitae dolor est ipsa. Velit cupiditate aliquam.</body>
+        <recipients>
+            <recipient name="Abram Tromp IV"/>
+            <recipient name="Scottie Gusikowski"/>
+            <recipient name="Martin Klocko"/>
+        </recipients>
+        <mentions>
+            <mention name="Emerson Miller"/>
+            <mention name="Elva White DVM"/>
+            <mention name="Lita Larkin II"/>
+            <mention name="Beau Grant"/>
+        </mentions>
+    </message>
+    <message id="7459" from="Darius Bednar" type="MMS">
+        <heading>Don't be so gullible, McFly. Got the place fixed up nice, though, McFly.</heading>
+        <body>Reiciendis deleniti voluptate debitis cumque quod. Sequi quis eos sit ducimus soluta. Numquam est voluptate reprehenderit ut sit. Molestiae fugiat veritatis neque non cupiditate voluptas quos. Eius ad eum impedit rem ut quae. Explicabo perspiciatis velit voluptas ullam. Quia sint totam possimus fugit consequatur est. Sapiente voluptates qui. Officia quis consequatur.</body>
+        <recipients>
+            <recipient name="Roxann Dare"/>
+            <recipient name="Roderick Romaguera"/>
+            <recipient name="Rex Christiansen"/>
+            <recipient name="Marcel Lehner"/>
+            <recipient name="May Waelchi"/>
+            <recipient name="Mrs. Evan Erdman"/>
+            <recipient name="Jacquelynn Watsica III"/>
+            <recipient name="Lyman Lindgren DDS"/>
+            <recipient name="Tiffaney Schaefer"/>
+            <recipient name="Reggie Runolfsdottir DDS"/>
+            <recipient name="Annabelle Runolfsdottir"/>
+            <recipient name="Katrice Lowe"/>
+        </recipients>
+    </message>
+    <message id="245" from="Elenor Buckridge" type="MQTT">
+        <heading>Things have certainly changed around here. I remember when this was all farmland as far the eye could see. Old man Peabody owned all of this. He had this crazy idea about breeding pine trees.</heading>
+        <body>Minus dolorem consequatur quis. Et doloribus in officiis et natus dolorem. In veritatis rem qui nihil error provident iusto. Accusantium ut pariatur perspiciatis dolore qui quaerat recusandae. Necessitatibus autem quo nisi. Voluptatum laudantium deserunt saepe delectus autem. Ducimus harum aperiam sed enim ex. Iure ducimus aliquid dolor.</body>
+        <recipients>
+            <recipient name="Emanuel Wintheiser"/>
+            <recipient name="Dr. Arron Hansen"/>
+            <recipient name="Leandra Carroll"/>
+            <recipient name="Mrs. Lisha Walker"/>
+            <recipient name="Katerine Kessler"/>
+            <recipient name="Mr. Kelle Johnson"/>
+            <recipient name="Gayle Breitenberg"/>
+            <recipient name="Craig Kiehn"/>
+            <recipient name="Haywood Rice IV"/>
+            <recipient name="Odette Konopelski"/>
+            <recipient name="Deborah Graham"/>
+            <recipient name="Kevin Koss"/>
+            <recipient name="Ms. Lawerence Rippin"/>
+            <recipient name="Jin Rolfson"/>
+        </recipients>
+    </message>
+</ns2:messages>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="2517" from="Thomas Russel" type="SMTP">
+        <heading>See you in about 30 years.</heading>
+        <body>Sed provident dolorem. Dolore laboriosam laboriosam. Voluptatem rem alias suscipit nesciunt ratione eveniet vel. Laboriosam quia ea harum eligendi. Eos nisi et aut quod exercitationem voluptatem architecto. Repellat aut mollitia explicabo. Sit voluptate deserunt corrupti dignissimos.</body>
+        <recipients>
+            <recipient name="Yuk Koepp"/>
+            <recipient name="Miss Neda Hauck"/>
+            <recipient name="Tari Prohaska"/>
+            <recipient name="Roma Becker PhD"/>
+            <recipient name="Miss Susannah Hintz"/>
+            <recipient name="Christian Grady"/>
+            <recipient name="Ms. Brandon Berge"/>
+            <recipient name="Willena Littel"/>
+            <recipient name="Drew Wolff"/>
+            <recipient name="Miss Burton McClure"/>
+            <recipient name="Moshe Quigley"/>
+            <recipient name="Johnson Abshire"/>
+            <recipient name="Meagan Parker Jr."/>
+        </recipients>
+        <mentions>
+            <mention name="Hassie Weber"/>
+            <mention name="Trenton Cummings"/>
+            <mention name="Marquerite Pacocha DVM"/>
+        </mentions>
+    </message>
+    <message id="3717" from="Mrs. Stewart Gleason" type="XMPP">
+        <heading>I've had enough practical jokes for one evening. Good night, future boy!</heading>
+        <body>Ut hic porro iure aliquid suscipit. Molestiae minus quis voluptatem. Quis quibusdam itaque voluptas nihil sunt omnis. Nihil et error praesentium iste. Deleniti nam veniam quam aperiam aut voluptatibus et. Dolorem saepe est unde sed velit sint aut. Pariatur est ipsum. Odit debitis architecto voluptatem inventore illum voluptatibus voluptatem. Nulla molestiae excepturi alias exercitationem molestias.</body>
+        <recipients>
+            <recipient name="Lovetta Herman"/>
+            <recipient name="Cherri Von"/>
+            <recipient name="Jasmin Parisian"/>
+            <recipient name="Dr. Pasquale Rippin"/>
+            <recipient name="Daniel Friesen"/>
+            <recipient name="Mrs. Shella Lynch"/>
+            <recipient name="Aletha Muller"/>
+            <recipient name="Miss Brigitte Macejkovic"/>
+        </recipients>
+    </message>
+    <message id="5151" from="Peter Kuvalis" type="RCS">
+        <heading>I noticed your band is on the roster for the dance auditions after school today. Why even bother, McFly? You don't have a chance. You're too much like your old man. No McFly ever amounted to anything in the history of Hill Valley!</heading>
+        <body>Sequi perspiciatis quisquam recusandae ut. Voluptatem a eum voluptatem. Unde non voluptatem. Vel quae expedita qui eius. Cum soluta consequatur quis. Aut aut minima et delectus sunt natus. Qui quam commodi corrupti vero quia. Enim fuga consequatur quae est itaque qui ex.</body>
+        <recipients>
+            <recipient name="Myong Kunze"/>
+            <recipient name="Antonio Romaguera"/>
+            <recipient name="Lenny Moore"/>
+            <recipient name="John Rutherford"/>
+            <recipient name="Mrs. Sean Beahan"/>
+            <recipient name="Bruce Flatley"/>
+            <recipient name="Tesha Smith"/>
+            <recipient name="Sanjuanita Trantow"/>
+            <recipient name="Rachael Osinski"/>
+        </recipients>
+    </message>
+    <message id="5176" from="Phil White" type="AMQP">
+        <heading>Hey, Biff, get a load of this guy's life preserver. Dork thinks he's gonna drown.</heading>
+        <body>Ad ratione quis. Dignissimos facere et illum cupiditate cupiditate. Voluptates quos dolores nisi. Quis ipsa commodi harum tempora laborum aliquid voluptatem. Qui eius aliquam consequatur commodi a harum suscipit. Ea facilis quia. Sed quam enim reiciendis qui. Ipsa in in natus inventore. Voluptas ipsa tempora.</body>
+        <recipients>
+            <recipient name="Dierdre Daugherty"/>
+            <recipient name="Teddy Hessel"/>
+            <recipient name="Dr. Jarred Little"/>
+            <recipient name="Theresia Price DDS"/>
+            <recipient name="Hassan Wisozk V"/>
+            <recipient name="Delena Lehner"/>
+        </recipients>
+    </message>
+    <message id="8738" from="Suzie Klocko PhD" type="AMQP">
+        <heading>He's an absolute dream!</heading>
+        <body>Deleniti delectus iusto ex consequatur. Possimus et et occaecati quisquam molestias. Ullam molestias aliquam ipsum ducimus iure. Ipsam consequatur minima minus sunt quae incidunt. Libero quo molestiae explicabo voluptates. Necessitatibus voluptates voluptates nam. Hic velit reprehenderit natus qui. Quaerat ex cumque id quis dolore atque. Fugit distinctio esse tenetur dolorem molestias.</body>
+        <recipients>
+            <recipient name="Riva Lesch"/>
+            <recipient name="Kasey Bashirian II"/>
+            <recipient name="Mr. Owen Rowe"/>
+            <recipient name="Wilburn Rippin"/>
+            <recipient name="Noe Friesen"/>
+            <recipient name="Mr. Percy Bartoletti"/>
+            <recipient name="Kathleen Dach"/>
+            <recipient name="Ricky Maggio V"/>
+            <recipient name="Leif Abbott"/>
+        </recipients>
+    </message>
+    <message id="540" from="Aurelio Denesik" type="SMS">
+        <heading>Roads? Where we're going, we don't need roads.</heading>
+        <body>Sit facere nemo incidunt. Qui architecto fugit. Veritatis omnis quos. Aperiam nobis aut eos. Eligendi dicta adipisci libero adipisci. Voluptatum est ratione non odio sunt. Fuga dolorum qui sed quidem laudantium. Eum et impedit earum quo id. Et temporibus quibusdam tenetur aut.</body>
+        <recipients>
+            <recipient name="Fermina Borer"/>
+            <recipient name="Lorita Towne"/>
+            <recipient name="Andre Smith"/>
+            <recipient name="Margy D'Amore"/>
+            <recipient name="Mr. Carol Smitham"/>
+            <recipient name="Mrs. Jacalyn Shields"/>
+            <recipient name="Mrs. Christine Dare"/>
+            <recipient name="Harold Walsh"/>
+            <recipient name="Demetrius Jerde"/>
+        </recipients>
+    </message>
+    <message id="520" from="Matthew Quigley I" type="MMS">
+        <heading>Radiation suit? Of course. 'Cause of all the fallout from the atomic wars.</heading>
+        <body>Unde iste ad. Id voluptatem in. Eius est quia. Qui ut omnis eaque. At consequatur sed cum maxime sit est. Est sit praesentium praesentium qui quis repellat accusantium. Dolor cumque ut dolores. Vel nesciunt ea temporibus non neque harum sit. Qui est assumenda earum voluptatum.</body>
+        <recipients>
+            <recipient name="Alden Aufderhar"/>
+            <recipient name="James Wilderman"/>
+            <recipient name="Salvatore Steuber"/>
+            <recipient name="Gonzalo Barrows I"/>
+            <recipient name="Rosita Bogan"/>
+            <recipient name="Bernice Bartoletti I"/>
+            <recipient name="Almeta Stokes II"/>
+        </recipients>
+    </message>
+</ns2:messages>

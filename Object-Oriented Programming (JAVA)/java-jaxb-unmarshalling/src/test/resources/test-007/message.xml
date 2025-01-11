@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="6875" from="Eufemia Treutel" type="SMTP">
+        <heading>Ah, Jesus Christ! Jesus Christ, Doc, you disintegrated Einstein!</heading>
+        <body>Aliquam et qui. Omnis et accusamus adipisci placeat quisquam. Quisquam reiciendis perspiciatis odio hic ea. Sed nesciunt adipisci voluptates minima qui at. Quaerat unde asperiores magni. Est temporibus delectus odio dicta. Sed sit sint. Vel autem alias occaecati sunt accusamus.</body>
+        <recipients>
+            <recipient name="Lashay Walter PhD"/>
+            <recipient name="Talia Osinski"/>
+            <recipient name="Edward Spencer MD"/>
+            <recipient name="Teodoro Purdy"/>
+            <recipient name="Rich Grimes"/>
+            <recipient name="Delora Mraz"/>
+            <recipient name="Rhett Hermiston I"/>
+            <recipient name="Martin Zieme"/>
+            <recipient name="Azucena Mann"/>
+            <recipient name="Van Dibbert Sr."/>
+        </recipients>
+    </message>
+    <message id="6493" from="Cassi Emmerich" type="AMQP">
+        <heading>Stand tall, boy. Have some respect for yourself. Don't you know, if you let people walk over you now, they'll be walking over you for the rest of your life. Look at me. You think I'm gonna spend the rest of my life in this slop house?</heading>
+        <body>Rem alias dolores nam provident. Quia et voluptas consequatur molestias cum est et. Dicta rerum rerum et est quia eum. Ad voluptatem et eum quis sint quisquam. Optio exercitationem aperiam. Quia sed et ab. Quia omnis praesentium nesciunt praesentium. Dolores cumque quo. Nihil molestiae explicabo sint accusamus cupiditate aut.</body>
+        <recipients>
+            <recipient name="Rupert Sporer"/>
+            <recipient name="Dr. Jorge Mante"/>
+            <recipient name="Loyce Zemlak"/>
+            <recipient name="Gus Lemke PhD"/>
+            <recipient name="Mrs. Armanda Hane"/>
+            <recipient name="Una Boyle"/>
+            <recipient name="Harrison Lehner"/>
+            <recipient name="Mr. Aurelio Keeling"/>
+            <recipient name="Missy Ruecker"/>
+            <recipient name="Mr. Alix Parisian"/>
+            <recipient name="Carlie Cruickshank I"/>
+            <recipient name="Walter Mraz"/>
+            <recipient name="Ami Jakubowski"/>
+            <recipient name="Clyde Ratke"/>
+        </recipients>
+        <mentions>
+            <mention name="Ramon Gerlach Jr."/>
+            <mention name="Rico DuBuque"/>
+        </mentions>
+    </message>
+</ns2:messages>

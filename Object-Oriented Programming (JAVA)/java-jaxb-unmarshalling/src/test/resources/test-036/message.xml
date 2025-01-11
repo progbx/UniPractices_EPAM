@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="6377" from="Ms. Stan Kovacek" type="AMQP">
+        <heading>You know, Marty, you look so familiar to me. Do I know your mother?</heading>
+        <body>Error sunt consectetur. Repellat quo aut id autem saepe. Aut laboriosam vel. Tempora consequatur id minus saepe ipsam facere. Illum aspernatur tempore laudantium a. Rerum dignissimos autem est. Pariatur dolores expedita nobis corrupti placeat doloribus officia.</body>
+        <recipients>
+            <recipient name="Ms. Petronila Armstrong"/>
+            <recipient name="Tona Bergnaum"/>
+            <recipient name="Scott Konopelski"/>
+            <recipient name="Byron Krajcik"/>
+            <recipient name="Alfred Feeney Jr."/>
+            <recipient name="Jackie Willms"/>
+            <recipient name="Linette Rohan"/>
+            <recipient name="Shizuko Schmidt"/>
+            <recipient name="Julian Lueilwitz"/>
+            <recipient name="Bryon Bechtelar"/>
+        </recipients>
+    </message>
+    <message id="4253" from="Francesco Oberbrunner" type="IRC">
+        <heading>What happens to us in the future? Do we become assholes or something?</heading>
+        <body>Autem expedita autem nostrum perspiciatis adipisci aut. Porro ut qui est aspernatur vitae. Facere veritatis odio quibusdam. Nulla aut vitae sed velit. Ipsam nesciunt repellendus aliquid ut maiores aspernatur alias. Atque voluptatibus sequi reprehenderit quas dicta. Quasi earum aliquam. Et dolor voluptatem eum reprehenderit consectetur ipsum dolores.</body>
+        <recipients>
+            <recipient name="Rex Kautzer"/>
+            <recipient name="Erich Crona"/>
+            <recipient name="Jude Zboncak"/>
+            <recipient name="Fred Kemmer"/>
+            <recipient name="Ricardo Bartell"/>
+            <recipient name="Julio Adams"/>
+            <recipient name="Ramonita Stoltenberg"/>
+            <recipient name="Valrie Bins"/>
+            <recipient name="Randy Rice"/>
+            <recipient name="Bailey Kiehn"/>
+            <recipient name="Carol Legros I"/>
+            <recipient name="Sheldon Beatty"/>
+            <recipient name="Nathanael Ferry"/>
+            <recipient name="Owen Klocko"/>
+        </recipients>
+        <mentions>
+            <mention name="Allan Grady"/>
+            <mention name="Homer Bernhard"/>
+            <mention name="Cira White"/>
+        </mentions>
+    </message>
+    <message id="5445" from="Justin Erdman" type="XMPP">
+        <heading>We're the, uh... We're the Pinheads.</heading>
+        <body>Ipsam voluptatem nisi. Sit rem laboriosam doloribus incidunt. Saepe ut pariatur porro. Qui dolores nostrum odit tempora neque ducimus. Unde ut ipsa aspernatur ut minima neque. Tenetur autem ratione amet est optio. Doloribus est nulla soluta id tempore quos. Hic dolor ad architecto asperiores.</body>
+        <recipients>
+            <recipient name="Fidel Daniel"/>
+            <recipient name="Ms. Darren Erdman"/>
+            <recipient name="Jame Kuhn"/>
+            <recipient name="Mariana Williamson"/>
+            <recipient name="Shanda Cummings"/>
+            <recipient name="Rudolf McDermott"/>
+        </recipients>
+    </message>
+</ns2:messages>

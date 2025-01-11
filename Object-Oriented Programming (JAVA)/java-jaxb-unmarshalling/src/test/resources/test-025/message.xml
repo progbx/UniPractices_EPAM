@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="4742" from="Mr. Taunya Funk" type="IRC">
+        <heading>Oh. One other thing. If you guys ever have kids, and one of them, when he's eight years old, accidentally sets fire to the living room rug... go easy on him.</heading>
+        <body>Quo et ut necessitatibus facere. Et nisi voluptas qui nisi id dignissimos qui. Dolor laborum nulla. Quis delectus exercitationem laboriosam. Modi vel optio delectus alias ratione repudiandae. Voluptate ea fugit. Voluptatem provident enim maxime minus est. Sed aspernatur rerum. Sapiente provident harum est.</body>
+        <recipients>
+            <recipient name="Mr. Nyla Prohaska"/>
+            <recipient name="Orlando Willms"/>
+            <recipient name="Jacquetta Conroy Sr."/>
+            <recipient name="Mr. Nerissa Barton"/>
+            <recipient name="Ms. Clementine Hane"/>
+            <recipient name="Dustin Reinger Sr."/>
+            <recipient name="Irwin Parker"/>
+            <recipient name="Quentin Shields"/>
+            <recipient name="Dr. Tomoko Anderson"/>
+            <recipient name="Gena Cummerata"/>
+            <recipient name="Tommy Ritchie"/>
+            <recipient name="Rodger Cronin"/>
+        </recipients>
+    </message>
+    <message id="2229" from="Ricky Walsh" type="SMTP">
+        <heading>I can't believe you'd loan me your car without telling me it had a blind spot. I could've been killed!</heading>
+        <body>Ab unde iure qui culpa neque et. Tempore ea in quisquam autem ut assumenda. Eius ab commodi consequatur. Facere est enim sit. Eos in quia iste. Possimus soluta neque quo porro dolorem beatae. Autem libero veritatis est quis consectetur magni et.</body>
+        <recipients>
+            <recipient name="Miss Loura Jenkins"/>
+            <recipient name="Kieth Lubowitz"/>
+            <recipient name="Carlene Lebsack"/>
+            <recipient name="Sherlene Wisoky"/>
+            <recipient name="Sha Labadie"/>
+            <recipient name="Dong Daniel MD"/>
+            <recipient name="Shawna Hane"/>
+            <recipient name="Valentine Schimmel"/>
+        </recipients>
+        <mentions>
+            <mention name="Maureen Blick"/>
+        </mentions>
+    </message>
+</ns2:messages>

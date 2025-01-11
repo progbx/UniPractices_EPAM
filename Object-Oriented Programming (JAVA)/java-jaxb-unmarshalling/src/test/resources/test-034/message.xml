@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="482" from="Maurine Cole DDS" type="AMQP">
+        <heading>Yeah, well, history is gonna change.</heading>
+        <body>Voluptatem consequatur qui porro. Inventore voluptates deleniti. Sed ut voluptatum mollitia facilis aut. Qui eos sed molestiae asperiores et necessitatibus. Eligendi est repellat velit nesciunt qui ducimus officia. Atque id dicta aliquam nihil quibusdam temporibus. Quia voluptatem voluptas est esse est. Neque est nisi porro.</body>
+        <recipients>
+            <recipient name="Marlin Halvorson"/>
+            <recipient name="Ambrose Dickinson"/>
+            <recipient name="Miss Linnea Harber"/>
+            <recipient name="Mauro Wisoky Jr."/>
+            <recipient name="Cleta Gorczany"/>
+            <recipient name="Luanna Howell"/>
+            <recipient name="Toby Bradtke"/>
+        </recipients>
+        <mentions>
+            <mention name="Cliff Reichel"/>
+            <mention name="Lorita Littel"/>
+            <mention name="Mr. Michal Kling"/>
+        </mentions>
+    </message>
+</ns2:messages>

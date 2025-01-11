@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="4984" from="Veronique Stanton" type="XMPP">
+        <heading>Marty, I'm sorry, but the only power source capable of generating 1.21 gigawatts of electricity is a bolt of lightning.</heading>
+        <body>Nihil molestias qui nobis. Illum magni debitis incidunt tempora nulla ipsa nihil. Eum nesciunt aut aut aut. Quia minima consequatur voluptatibus natus aut est. Explicabo quo sit. Et et blanditiis qui. Rem explicabo doloremque. Quod aperiam dolores commodi. Consequatur quia nihil quaerat ab in.</body>
+        <recipients>
+            <recipient name="Ms. Stacy Harris"/>
+            <recipient name="Mrs. Hosea Bogan"/>
+            <recipient name="Teddy Sawayn PhD"/>
+            <recipient name="Meda Schmidt V"/>
+            <recipient name="Sheree Murphy"/>
+            <recipient name="Madalene Brakus"/>
+            <recipient name="Tai Hahn"/>
+            <recipient name="Thresa Weber I"/>
+            <recipient name="Jarod Rice"/>
+            <recipient name="Ernest Volkman"/>
+            <recipient name="Kristin Mante"/>
+            <recipient name="Mr. Kristopher Koss"/>
+            <recipient name="Ms. Faye Ankunding"/>
+            <recipient name="Lovie Howell"/>
+        </recipients>
+    </message>
+</ns2:messages>

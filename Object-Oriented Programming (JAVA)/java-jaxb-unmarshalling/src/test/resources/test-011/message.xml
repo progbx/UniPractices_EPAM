@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="3311" from="Wes Walsh" type="AMQP">
+        <heading>No! It requires something with a little more kick...plutonium!</heading>
+        <body>Aut dolore porro est. Vitae voluptates libero nulla perspiciatis omnis. Ad ut consequatur autem voluptas quasi ratione quae. Sed voluptatem voluptatem molestiae. Maxime velit perferendis numquam repellendus facilis. Architecto totam aliquid voluptates non. Et rerum vel est atque provident veniam quo. Eum tempore beatae doloribus nostrum. Fuga quia dolores enim.</body>
+        <recipients>
+            <recipient name="Joe Moore"/>
+            <recipient name="Jenifer Effertz I"/>
+            <recipient name="Mr. Fairy Greenholt"/>
+            <recipient name="Dr. Lloyd Stroman"/>
+        </recipients>
+    </message>
+</ns2:messages>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="5106" from="Jamaal Hessel MD" type="MMS">
+        <heading>He's a Peeping Tom!</heading>
+        <body>Eius qui quis necessitatibus veritatis et. Tempore molestiae qui et tenetur aut. Et quam eum corporis est voluptatem cumque. Ea quasi quo ipsum aliquam voluptatem tenetur. Earum voluptas eligendi ullam voluptas quia. Est qui et eligendi aut. Corporis repellendus aut qui perferendis vel ullam assumenda. Enim sapiente temporibus enim et.</body>
+        <recipients>
+            <recipient name="Chas Kozey"/>
+            <recipient name="Elvin Schowalter"/>
+            <recipient name="Dacia Gulgowski"/>
+            <recipient name="Miss Oma O'Reilly"/>
+            <recipient name="Mrs. Enrique Mueller"/>
+            <recipient name="Bessie Schinner V"/>
+            <recipient name="Oren Flatley"/>
+            <recipient name="Joie Huels"/>
+            <recipient name="Percy Stroman"/>
+            <recipient name="Waylon Kovacek"/>
+            <recipient name="Reed Borer"/>
+            <recipient name="Rima Ritchie"/>
+        </recipients>
+    </message>
+    <message id="6135" from="Wilda Braun" type="XMPP">
+        <heading>Anyway, your Grandpa hit him with the car and brought him into the house. He seemed so helpless, like a little lost puppy, and my heart just went out to him.</heading>
+        <body>Consequatur excepturi tenetur rerum perspiciatis at. Debitis sit quaerat. Nostrum nostrum quos quia. Minima voluptas eum sint aut dolores sed quas. Placeat aut ullam. Laudantium iusto quisquam quia magni ut rerum cum. Sed autem vero atque. Magnam est voluptatibus repudiandae fugiat cupiditate.</body>
+        <recipients>
+            <recipient name="Greg Huels"/>
+            <recipient name="Miss Thomas Farrell"/>
+            <recipient name="Shavon Rogahn"/>
+            <recipient name="Ashley Johnson"/>
+        </recipients>
+    </message>
+    <message id="5433" from="Cory Smith" type="MMS">
+        <heading>Calvin? Wh... Why do you keep calling me Calvin?</heading>
+        <body>Rerum voluptate ipsa voluptas consectetur. Dicta qui doloribus eos nam excepturi. Vel voluptatibus aut qui cum eligendi. Voluptatem amet culpa. In tempora ipsam accusamus non. Inventore in molestias reiciendis accusantium. Voluptatum pariatur illum voluptates. Illo necessitatibus ut magnam. Laboriosam ea officia placeat sunt distinctio est consectetur.</body>
+        <recipients>
+            <recipient name="Jackie Weber"/>
+            <recipient name="Malik Bayer"/>
+            <recipient name="Ulrike Osinski"/>
+            <recipient name="Yee Thompson"/>
+            <recipient name="Eloisa Carter"/>
+            <recipient name="Kati Adams"/>
+            <recipient name="Donn Berge"/>
+            <recipient name="Miss Argentina Nikolaus"/>
+        </recipients>
+    </message>
+    <message id="2954" from="Micha Flatley Jr." type="XMPP">
+        <heading>Things have certainly changed around here. I remember when this was all farmland as far the eye could see. Old man Peabody owned all of this. He had this crazy idea about breeding pine trees.</heading>
+        <body>Fugiat iste accusamus provident. Quam ab voluptatibus repellat aut hic ab. Aut eaque omnis quam ratione eveniet. Praesentium est ipsum. Temporibus velit iste et non laborum. Aut enim quasi at ratione. Aut vitae eos qui molestiae repudiandae nemo qui. Harum quam doloribus voluptas vel. Perferendis expedita labore cum necessitatibus autem veritatis.</body>
+        <recipients>
+            <recipient name="John Hermiston"/>
+            <recipient name="Hoyt Sporer"/>
+            <recipient name="Nicolle Rosenbaum Jr."/>
+            <recipient name="Daron Fahey"/>
+            <recipient name="Melaine D'Amore"/>
+            <recipient name="Leslie Witting"/>
+            <recipient name="Joshua Spinka"/>
+            <recipient name="Stan Kautzer IV"/>
+            <recipient name="Hans Hansen"/>
+            <recipient name="Cecille Murazik"/>
+        </recipients>
+        <mentions>
+            <mention name="Apryl Schuster Sr."/>
+            <mention name="Dr. Jimmy Frami"/>
+        </mentions>
+    </message>
+    <message id="7907" from="Bruna Marquardt" type="MQTT">
+        <heading>If my calculations are correct, when this baby hits 88 miles per hour... you're gonna see some serious shit.</heading>
+        <body>Officia fuga ut occaecati sunt animi tenetur. Molestiae et molestiae. Sint officiis sunt pariatur. Repudiandae iusto illo labore. Tempore ullam inventore nihil. Doloremque perspiciatis perspiciatis omnis dolore similique repudiandae. Praesentium iure nostrum aliquid.</body>
+        <recipients>
+            <recipient name="Penny Koelpin DDS"/>
+            <recipient name="Glinda Jakubowski"/>
+            <recipient name="Ronnie Lang"/>
+            <recipient name="Chere Morissette"/>
+            <recipient name="Markus Upton III"/>
+        </recipients>
+        <mentions>
+            <mention name="Nancey Rutherford MD"/>
+            <mention name="Jules Thiel"/>
+        </mentions>
+    </message>
+    <message id="1277" from="Liana Kuhlman" type="SMTP">
+        <heading>Maybe you were adopted.</heading>
+        <body>Nulla earum quidem modi quaerat. Dolorum eaque voluptatem cum et neque odio. Alias ea assumenda. Dolores aut voluptates aut tempora delectus placeat eveniet. Quo voluptatem amet aspernatur qui. Dolorem dicta cupiditate aut iure eaque in. Omnis aspernatur dolor esse laboriosam qui commodi. At ut velit. Vel dicta quis praesentium sit.</body>
+        <recipients>
+            <recipient name="Ms. Laverne Hyatt"/>
+            <recipient name="Miss Rex Trantow"/>
+            <recipient name="Ms. Robin Auer"/>
+            <recipient name="Israel Stark"/>
+            <recipient name="Jospeh Shanahan"/>
+            <recipient name="Michelina Howe III"/>
+            <recipient name="Ashlee Okuneva"/>
+            <recipient name="Roderick Cormier"/>
+            <recipient name="Tanya Bashirian"/>
+            <recipient name="Reba VonRueden"/>
+            <recipient name="Olga Satterfield"/>
+            <recipient name="Alona Olson"/>
+            <recipient name="Izetta Hessel"/>
+            <recipient name="Cody Hettinger"/>
+            <recipient name="Johnnie Bernier"/>
+        </recipients>
+    </message>
+    <message id="9264" from="Barbar Volkman" type="RCS">
+        <heading>No! Marty! We've already agreed that having information about the future can be extremely dangerous. Even if your intentions are good, it can backfire drastically!</heading>
+        <body>Debitis quae et consectetur tempore rerum ut commodi. Quasi a molestiae dolore culpa nobis. Voluptates ea laboriosam voluptatem omnis laboriosam aut. Maxime consequatur quos. Rerum dolorem quia rerum et. Nihil cupiditate omnis non. Recusandae quae illum. Dolorem culpa quos est iusto dolore cumque enim. Ut tenetur sit.</body>
+        <recipients>
+            <recipient name="Kerri Gorczany"/>
+            <recipient name="Miss Tamela West"/>
+            <recipient name="Ms. Hosea Ebert"/>
+            <recipient name="Felipe Roberts"/>
+            <recipient name="Orlando Fadel"/>
+            <recipient name="Dr. Beau Bailey"/>
+            <recipient name="Miss Wendolyn Nicolas"/>
+        </recipients>
+    </message>
+    <message id="7731" from="Blair Wilderman" type="AMQP">
+        <heading>Oh, that's Joey. He cries when we take him out so we just leave him in there.</heading>
+        <body>Blanditiis omnis aut. Molestiae asperiores beatae fugiat. Neque qui ullam eius eveniet in nihil est. Sint amet sunt repellat. Ipsum aliquam non autem enim maiores. Sit minus quasi et quae minus. Quas necessitatibus minus vero ipsum et rem.</body>
+        <recipients>
+            <recipient name="Mrs. Lore Ziemann"/>
+            <recipient name="Ms. Chastity Schimmel"/>
+            <recipient name="Mr. Don Ullrich"/>
+            <recipient name="Leonel Bergstrom"/>
+        </recipients>
+    </message>
+</ns2:messages>

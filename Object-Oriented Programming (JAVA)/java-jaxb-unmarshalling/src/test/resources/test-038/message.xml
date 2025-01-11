@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="3900" from="Melisa Quigley" type="IRC">
+        <heading>You really think I ought to swear?</heading>
+        <body>Quas facilis autem dolor harum omnis. Tenetur praesentium suscipit vero ut tempora atque. Quis est dolor sapiente consequatur. Nihil voluptatem et libero modi quia deserunt autem. Magnam non facere sunt. Iure nobis possimus ut laborum. Quis doloremque quis minima rerum. Modi rem nobis tempora ipsam sed.</body>
+        <recipients>
+            <recipient name="Dean Hand"/>
+            <recipient name="Nathanael Rohan"/>
+            <recipient name="Stacey Streich"/>
+            <recipient name="Madlyn Parisian"/>
+            <recipient name="Gilberto Rutherford I"/>
+            <recipient name="Mr. Vince Walker"/>
+            <recipient name="Miss Everette Schaden"/>
+            <recipient name="Miss Alisa Reynolds"/>
+        </recipients>
+    </message>
+    <message id="7952" from="Ms. Heike Grimes" type="SMTP">
+        <heading>Scram, McFly. I'm cuttin' in.</heading>
+        <body>Natus corporis voluptates. Et alias cum. Perferendis qui velit. Velit facilis voluptatum corporis nihil. Incidunt libero libero ut reprehenderit quia ut. Laboriosam iusto id molestiae quasi non qui. Consectetur incidunt est suscipit odio et.</body>
+        <recipients>
+            <recipient name="Irwin Wehner"/>
+            <recipient name="Wilhemina Powlowski"/>
+            <recipient name="Lizbeth Pfannerstill"/>
+            <recipient name="Karl Deckow"/>
+            <recipient name="Miss Cris Jenkins"/>
+            <recipient name="Britney Willms"/>
+            <recipient name="Margaretta Schmidt"/>
+            <recipient name="Britney Sipes"/>
+            <recipient name="Whitney Effertz"/>
+            <recipient name="Clorinda Corwin"/>
+            <recipient name="Bryce Orn"/>
+            <recipient name="Deandra Lakin"/>
+        </recipients>
+    </message>
+    <message id="1145" from="Malcom Weimann" type="RCS">
+        <heading>I'm gonna get that son of a bitch.</heading>
+        <body>Et unde unde quae distinctio sequi optio. Saepe corporis et. Repellendus amet eos maiores deleniti numquam vero quo. Aliquam delectus quo a debitis. Esse ratione est qui ad optio atque. Aut aut tempora. Exercitationem libero est molestias. Consectetur eveniet qui culpa aut.</body>
+        <recipients>
+            <recipient name="Dr. Chet Bashirian"/>
+            <recipient name="Olive Schulist"/>
+            <recipient name="Arnetta Weissnat Sr."/>
+            <recipient name="Venita Crona"/>
+            <recipient name="Derick Tillman"/>
+            <recipient name="Miss Beverley Schaden"/>
+            <recipient name="Miss Hilton Stark"/>
+            <recipient name="Georgine Pagac"/>
+            <recipient name="Laurence Schaden"/>
+            <recipient name="Maud Feil MD"/>
+            <recipient name="Miss Neville McCullough"/>
+        </recipients>
+    </message>
+    <message id="8377" from="Delphia Reinger" type="XMPP">
+        <heading>Well, you're safe and sound now, back in good old 1955.</heading>
+        <body>Et sed error. Modi dolorum in accusamus in quod voluptatem qui. Eaque dignissimos corporis aut magnam alias tempora sint. Minus atque commodi. Voluptas ut libero dicta explicabo debitis. Vel exercitationem dolores dolorem quia fugit. Commodi dolorum dignissimos excepturi nihil. Ad temporibus at numquam sed rerum similique in.</body>
+        <recipients>
+            <recipient name="Devin Willms"/>
+            <recipient name="Annita Ziemann MD"/>
+            <recipient name="Chong Beatty"/>
+            <recipient name="Ariel Cummings"/>
+            <recipient name="Clyde Koch"/>
+        </recipients>
+    </message>
+    <message id="3420" from="Irina D'Amore III" type="DDS">
+        <heading>Jesus, George, it was a wonder I was even born.</heading>
+        <body>Voluptatem sed aut voluptas est nemo tempora. Soluta perspiciatis id qui eos ut sit. Labore velit voluptatem magnam sapiente doloremque. Ab corrupti ratione est explicabo. Expedita alias voluptas alias aliquam voluptatem. Vitae accusamus sint. Ipsam et nemo.</body>
+        <recipients>
+            <recipient name="Josefina Kris"/>
+            <recipient name="Richie Nader"/>
+            <recipient name="Mrs. Robert Larson"/>
+            <recipient name="Ima Ruecker"/>
+            <recipient name="Anja Klein"/>
+            <recipient name="Miss Merlin Veum"/>
+            <recipient name="Mr. Yoko Miller"/>
+            <recipient name="Robbyn Zulauf Jr."/>
+            <recipient name="Tristan Greenholt"/>
+        </recipients>
+    </message>
+</ns2:messages>

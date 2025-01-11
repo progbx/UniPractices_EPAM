@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="3094" from="Andres Reichert" type="IRC">
+        <heading>Okay. Time circuit's on. Flux capacitor, fluxing. Engine running. All right.</heading>
+        <body>Praesentium doloribus aut amet eveniet earum qui. Possimus pariatur non facilis. At sit eveniet qui corrupti pariatur natus. Nihil cum mollitia deleniti dicta corporis. Maxime et eos dolor facere quia ex dolor. Deserunt rem autem placeat dolor ut. Quo aut sed qui neque necessitatibus consequuntur. Veniam ipsa possimus dolores omnis eius dolorem.</body>
+        <recipients>
+            <recipient name="Mrs. Terese Simonis"/>
+            <recipient name="Lowell Heaney Jr."/>
+            <recipient name="Jovan Rath V"/>
+            <recipient name="Dr. Yetta Bode"/>
+            <recipient name="Cornelius Purdy"/>
+            <recipient name="Yvonne Larson IV"/>
+            <recipient name="Francis Kunze"/>
+            <recipient name="Scottie Weimann"/>
+            <recipient name="Jeremy Daniel"/>
+            <recipient name="Anne Hansen"/>
+            <recipient name="Brain Ryan"/>
+            <recipient name="Charlesetta Schaefer"/>
+            <recipient name="Tommy Hermiston"/>
+            <recipient name="Takako Weimann II"/>
+        </recipients>
+    </message>
+    <message id="1118" from="Valda Kemmer" type="MQTT">
+        <heading>Whoa. Wait a minute, Doc. Are you trying to tell me that my mother has got the hots for me?</heading>
+        <body>Mollitia beatae hic porro ad hic. Natus laudantium sint aut natus ratione. Doloremque quibusdam sapiente. Eligendi aliquam magnam maxime qui. Architecto error ducimus. Quaerat laborum et qui odio. Illo accusamus perferendis beatae. Ipsam doloremque aliquam ex.</body>
+        <recipients>
+            <recipient name="Ms. Hye Hodkiewicz"/>
+            <recipient name="Mr. Toby Denesik"/>
+            <recipient name="Kellie Ebert"/>
+            <recipient name="Les Simonis"/>
+            <recipient name="Tamesha Emard"/>
+            <recipient name="Rueben Kris"/>
+            <recipient name="Harold Hintz"/>
+            <recipient name="Silas Wintheiser"/>
+        </recipients>
+    </message>
+    <message id="1647" from="Henry Abernathy" type="MMS">
+        <heading>Save the clock tower!</heading>
+        <body>Et quia modi. Earum deleniti qui magni unde assumenda doloribus qui. Quibusdam soluta id nobis. Autem alias mollitia reiciendis minus nisi sapiente est. Sint labore provident veritatis commodi nihil quia. Rerum doloremque cupiditate vitae labore. Sit et accusantium vel corrupti soluta commodi cumque. Aliquam ab voluptatem dolorem ut possimus. Consequatur consequatur quibusdam.</body>
+        <recipients>
+            <recipient name="Diane DuBuque"/>
+            <recipient name="Narcisa McClure"/>
+            <recipient name="Rene Corwin"/>
+            <recipient name="Miss Laree Klein"/>
+            <recipient name="Cory Streich"/>
+            <recipient name="Dr. Jasper Gleichner"/>
+            <recipient name="Issac Runolfsdottir"/>
+            <recipient name="Aundrea Bode"/>
+            <recipient name="Arturo Kihn"/>
+            <recipient name="Jeramy Swaniawski"/>
+        </recipients>
+    </message>
+    <message id="8395" from="Hermina Beier" type="XMPP">
+        <heading>Ah, Jesus Christ! Jesus Christ, Doc, you disintegrated Einstein!</heading>
+        <body>Rerum accusamus vel. Id tempore possimus odio non. Nihil tempora sed corrupti velit. Repudiandae enim quo. Qui assumenda maxime quas facere nam. Hic dicta eos ipsum. Laudantium sequi et. Ut possimus non molestias.</body>
+        <recipients>
+            <recipient name="Miss Senaida Kuhlman"/>
+            <recipient name="Dorsey Vandervort PhD"/>
+            <recipient name="Charissa Kshlerin"/>
+            <recipient name="Wilford Kertzmann III"/>
+            <recipient name="Adela Ward Sr."/>
+            <recipient name="Claud Kuhlman PhD"/>
+            <recipient name="Edie Friesen"/>
+            <recipient name="Dedra Walter"/>
+            <recipient name="Leigh Fay"/>
+            <recipient name="Mrs. Gabriella Watsica"/>
+            <recipient name="Jospeh Schmeler"/>
+            <recipient name="Dalene Schuppe"/>
+            <recipient name="Gerda McLaughlin DVM"/>
+            <recipient name="Myron Effertz II"/>
+            <recipient name="Ellsworth Kuhlman"/>
+        </recipients>
+    </message>
+    <message id="8726" from="Mrs. Kiara Fahey" type="IRC">
+        <heading>Next saturday night we're sending you back to the future!</heading>
+        <body>Consequuntur accusantium itaque ipsa. Sunt reiciendis modi totam. Ad iusto et illo sunt quis sapiente. Accusamus porro inventore explicabo. Asperiores et autem sunt quo. Cupiditate et quia mollitia officiis ut voluptatem necessitatibus. Qui fuga sed hic qui sit fugiat ipsa.</body>
+        <recipients>
+            <recipient name="Mr. Leon Prosacco"/>
+            <recipient name="Mrs. Hilma Anderson"/>
+            <recipient name="Melody Jast"/>
+        </recipients>
+        <mentions>
+            <mention name="Yoshiko Effertz"/>
+            <mention name="Ms. Damon Zboncak"/>
+        </mentions>
+    </message>
+    <message id="7250" from="Kizzy Padberg V" type="IRC">
+        <heading>I'm gonna get that son of a bitch.</heading>
+        <body>Perspiciatis blanditiis et ut quam et. Id id deleniti est ipsa. Adipisci et maxime aut tempora. In laudantium aut commodi dolorem quam facere. Velit quae architecto repellendus eveniet. Aut dolor doloribus. Ut consequatur et eligendi voluptatem.</body>
+        <recipients>
+            <recipient name="Rubie Graham"/>
+            <recipient name="Dr. Maurita Rau"/>
+            <recipient name="Jules Volkman"/>
+            <recipient name="Chloe Walsh"/>
+            <recipient name="Slyvia Deckow"/>
+            <recipient name="Julene Purdy"/>
+            <recipient name="Elton Lang"/>
+        </recipients>
+    </message>
+    <message id="1424" from="King Yundt" type="IRC">
+        <heading>Hey, Biff, get a load of this guy's life preserver. Dork thinks he's gonna drown.</heading>
+        <body>Odit officiis cupiditate voluptatem autem praesentium velit non. Nihil maxime laboriosam voluptatem fuga autem. Rem iusto tempore quod esse qui. Voluptates velit distinctio nihil porro deleniti quam minus. Eius corporis quaerat magnam occaecati minus rerum. Ut hic ad quia itaque nam. Odit nostrum quam. Et nulla quia qui sed cupiditate earum quia. Odio deleniti est quasi.</body>
+        <recipients>
+            <recipient name="Gerri Dach"/>
+            <recipient name="Colin Leannon Sr."/>
+            <recipient name="Vernon Witting"/>
+            <recipient name="Dr. Marilynn Bergnaum"/>
+            <recipient name="Leena Trantow MD"/>
+            <recipient name="Lynsey Trantow"/>
+            <recipient name="Ranae Gerhold"/>
+            <recipient name="Lewis Bogan"/>
+            <recipient name="Daryl Stehr"/>
+            <recipient name="Jamison Klocko"/>
+        </recipients>
+    </message>
+    <message id="106" from="Colette Langworth" type="IRC">
+        <heading>If my calculations are correct, when this baby hits 88 miles per hour... you're gonna see some serious shit.</heading>
+        <body>Aut qui eligendi qui voluptate qui aut. Et consequatur eos nam beatae at doloribus. Praesentium et est ea ut. Aut aut minus facilis dolorem quod omnis. Culpa quisquam at. Omnis quidem vero rerum eveniet quos. Eaque voluptas sunt ut alias blanditiis. Velit consequatur ducimus. Tenetur et adipisci deleniti fugit quidem est.</body>
+        <recipients>
+            <recipient name="Wilbur Robel"/>
+            <recipient name="Rea Lemke"/>
+            <recipient name="Arnette Cartwright DDS"/>
+            <recipient name="Remedios Kovacek"/>
+            <recipient name="Karla Reynolds III"/>
+            <recipient name="Leonora Kshlerin"/>
+            <recipient name="Mrs. Aurelia Halvorson"/>
+        </recipients>
+    </message>
+</ns2:messages>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="5872" from="Ms. Dino Muller" type="XMPP">
+        <heading>Calm down, Marty. I didn't disintegrate anything. The molecular structure of both Einstein and the car are completely intact.</heading>
+        <body>Id modi dolor. Perspiciatis consequatur debitis ipsam. Necessitatibus qui reiciendis non ea aut sapiente sed. Beatae enim nihil consequatur sapiente fugit. Itaque voluptatem quisquam aperiam enim voluptas non deserunt. Tempore delectus suscipit ipsa. Consequuntur et repellat a aliquam. Eligendi aut et. Ut eum consequuntur nihil accusantium placeat.</body>
+        <recipients>
+            <recipient name="Maude Funk"/>
+            <recipient name="Cleveland Brakus"/>
+            <recipient name="Len Dach"/>
+            <recipient name="Ezequiel Pagac"/>
+            <recipient name="Judson Cronin"/>
+            <recipient name="Mr. Margo Quitzon"/>
+            <recipient name="Kia Gutkowski"/>
+            <recipient name="Barb Abshire"/>
+            <recipient name="Les Torphy PhD"/>
+            <recipient name="Miss Adrienne Keeling"/>
+            <recipient name="Hilaria Langosh"/>
+        </recipients>
+        <mentions>
+            <mention name="Mrs. Darrin Daniel"/>
+            <mention name="Jake Turner"/>
+            <mention name="Miss Brigid Connelly"/>
+        </mentions>
+    </message>
+    <message id="2855" from="Marylouise Upton" type="AMQP">
+        <heading>If my calculations are correct, when this baby hits 88 miles per hour... you're gonna see some serious shit.</heading>
+        <body>Omnis sit saepe itaque ut id. Ratione nesciunt eligendi magnam quo tempore dolore perferendis. Ut sed non est cum qui quis. Dolore fugiat eveniet voluptatem sunt. Quis incidunt et voluptatum temporibus architecto. Ipsa aut ab atque omnis debitis harum dolor. Corrupti fugiat consequatur pariatur eligendi.</body>
+        <recipients>
+            <recipient name="Walton Spencer"/>
+            <recipient name="Lissa Barton"/>
+            <recipient name="Caridad Rowe"/>
+            <recipient name="Kiara Beier DVM"/>
+            <recipient name="Micah Kub"/>
+        </recipients>
+    </message>
+    <message id="5410" from="Wilber Cassin" type="SMTP">
+        <heading>Anyway, your Grandpa hit him with the car and brought him into the house. He seemed so helpless, like a little lost puppy, and my heart just went out to him.</heading>
+        <body>Necessitatibus beatae rerum est sed officiis non. Soluta maxime nam eum voluptatem magni voluptas. Id et culpa. Voluptatem quos nobis eveniet. Voluptas magnam et natus non distinctio. Est ab laboriosam. Commodi dolores nihil officia velit aut autem aut. Sapiente fugit dolorum quia. Id molestias mollitia et beatae aut.</body>
+        <recipients>
+            <recipient name="Shannon Littel Sr."/>
+            <recipient name="Marica Barton PhD"/>
+            <recipient name="Nelly Block"/>
+            <recipient name="Clorinda Larkin"/>
+            <recipient name="Vilma Macejkovic"/>
+            <recipient name="Gigi Wisoky"/>
+            <recipient name="Elias Schuster"/>
+            <recipient name="Ms. Kenneth Huel"/>
+            <recipient name="Eldon Roberts"/>
+            <recipient name="Humberto Hyatt DVM"/>
+            <recipient name="Rodney Steuber"/>
+            <recipient name="Andrew Upton"/>
+        </recipients>
+    </message>
+    <message id="7006" from="Larry Wolf" type="RCS">
+        <heading>Save the clock tower!</heading>
+        <body>Error labore sunt repudiandae excepturi maiores aut. Tenetur architecto quis ad enim maxime cupiditate. Totam reiciendis eos qui repudiandae aut qui. Animi fugit rerum. Laboriosam in assumenda dolor tempora. Quia tempore incidunt minus et. Dignissimos rerum ex temporibus ea. Neque quod aut. Facilis quibusdam quidem eum inventore eum.</body>
+        <recipients>
+            <recipient name="Lindsey Lehner"/>
+            <recipient name="Brigitte Beahan Sr."/>
+            <recipient name="Miss Latisha Schinner"/>
+            <recipient name="Galen Kulas"/>
+        </recipients>
+    </message>
+    <message id="6919" from="Maryland Gerhold III" type="MMS">
+        <heading>Don't be so gullible, McFly. Got the place fixed up nice, though, McFly.</heading>
+        <body>Dolores dolores architecto. Assumenda quisquam quasi ad similique enim rerum ad. Exercitationem repudiandae occaecati dolor voluptatum in ut aliquid. Aliquam dolorem commodi magnam eius. Eos ea quam reiciendis. Sed expedita doloribus qui quas assumenda autem. Omnis impedit et aut sit quos delectus.</body>
+        <recipients>
+            <recipient name="Jackie Friesen Jr."/>
+            <recipient name="Antonio Cummings"/>
+            <recipient name="Hoyt Kemmer"/>
+            <recipient name="Daniela Williamson"/>
+            <recipient name="Miss Wilbert Franecki"/>
+            <recipient name="Claretta Homenick DDS"/>
+            <recipient name="Odell Boehm"/>
+        </recipients>
+    </message>
+    <message id="3821" from="Tyler Kertzmann" type="SMTP">
+        <heading>Course! From a group of Lybian Nationalists They wanted me to build them a bomb, so I took their plutonium and in turn I gave them a shiny bomb caseing full of used pinball machine parts!</heading>
+        <body>Est id perferendis dolorum blanditiis. Molestias enim error. Culpa nobis sed impedit repellendus. Omnis aut adipisci praesentium. Rerum voluptas sit nesciunt. Hic eos hic non totam molestias est ut. Sint in itaque ut ut enim nesciunt. Quae qui cum molestiae libero corrupti ad incidunt. Ratione velit ut sint ut rerum velit quaerat.</body>
+        <recipients>
+            <recipient name="Ali Kuphal"/>
+            <recipient name="Francis Zemlak"/>
+            <recipient name="Vito Deckow"/>
+            <recipient name="Malia Braun"/>
+            <recipient name="Tamekia Grimes II"/>
+            <recipient name="Mr. Wyatt Considine"/>
+            <recipient name="Lorelei Wolf III"/>
+            <recipient name="Herbert Spinka"/>
+            <recipient name="Summer Kilback"/>
+            <recipient name="Abbey Cartwright"/>
+        </recipients>
+    </message>
+</ns2:messages>
