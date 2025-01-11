@@ -1,0 +1,45 @@
+@import 'mobile.css';
+
+@media screen and (min-width: 1024px) {
+    :root {
+        --basic-background-image: linear-gradient(to right, #2a0845, #6441A5);
+        --basic-background-color: #6441A5;
+      }
+      
+      header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+      
+      header ul {
+        display: flex;
+      }
+      
+      header a {
+        border-top: none;
+      }
+      
+      body {
+        margin: 0;
+      }
+      
+      main {
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+      }
+      
+      article p {
+        padding-right: 1rem;
+      }
+      
+      .cards {
+        display: flex;
+        gap: 1rem;
+      }
+      
+      .cards li {
+        width: 31%;
+        margin-bottom: 0;
+      }
+}
