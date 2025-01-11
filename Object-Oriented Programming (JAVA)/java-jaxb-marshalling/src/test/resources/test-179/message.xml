@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="256" from="Alfreda Davis PhD" type="DDS">
+        <heading>Radiation suit? Of course. 'Cause of all the fallout from the atomic wars.</heading>
+        <body>Repudiandae eum non dolores qui modi dolor enim. Molestiae dolorem non delectus illo fuga possimus. Molestiae corrupti odit nemo voluptatem laboriosam. Dolor ut eius. Non sed aut quis est recusandae molestias. Est aspernatur numquam explicabo quam. Nihil iusto harum aut quasi facilis error. Est culpa laudantium et. Vel eos consectetur sed.</body>
+        <recipients>
+            <recipient name="Brain Wisoky"/>
+            <recipient name="Jaymie Hansen"/>
+            <recipient name="Tad Ebert"/>
+            <recipient name="Ms. Marth Glover"/>
+            <recipient name="Isela Wiegand"/>
+            <recipient name="Rodney Tromp"/>
+            <recipient name="Elsie Murazik"/>
+            <recipient name="Jame Balistreri"/>
+            <recipient name="Earl Roberts"/>
+            <recipient name="Dong Anderson"/>
+            <recipient name="Kristin Fahey"/>
+            <recipient name="Ms. Woodrow Ziemann"/>
+        </recipients>
+        <mentions>
+            <mention name="Dr. Clark Hoeger"/>
+            <mention name="Gabriella Lowe"/>
+        </mentions>
+    </message>
+    <message id="474" from="Greg Stroman" type="RCS">
+        <heading>Marty, will we ever see you again?</heading>
+        <body>Sed sed consectetur at sit. Pariatur non aut iusto voluptatibus deleniti fuga. Autem veniam sunt dolore eaque totam aliquid. Et id ratione hic rerum ut consequatur. Sit nihil repellendus non odio aut iure. Provident impedit ex illo tenetur. Dicta magni reprehenderit officiis. Esse odio enim consequatur delectus.</body>
+        <recipients>
+            <recipient name="Emery Towne"/>
+            <recipient name="Marry Gusikowski MD"/>
+            <recipient name="Providencia O'Conner"/>
+            <recipient name="Tajuana Mayert"/>
+            <recipient name="Mr. Omega Sanford"/>
+        </recipients>
+        <mentions>
+            <mention name="Hunter Bruen Jr."/>
+            <mention name="Chong Feil"/>
+        </mentions>
+    </message>
+    <message id="8007" from="Dr. Melodee Monahan" type="SMS">
+        <heading>Whoa. This is heavy.</heading>
+        <body>Nihil nostrum voluptatem est quos eos. Tempora magni est aut quo. Quia placeat maxime rerum unde. Dolores corrupti nobis porro culpa. Iste saepe voluptas perspiciatis. Quia culpa laborum eius a velit illo. Facilis et consequuntur molestiae voluptatibus.</body>
+        <recipients>
+            <recipient name="Claretha MacGyver"/>
+            <recipient name="Florida Funk MD"/>
+            <recipient name="Leonel Friesen"/>
+            <recipient name="Weldon Bechtelar"/>
+            <recipient name="Kris Reynolds"/>
+            <recipient name="Ryan Lemke"/>
+            <recipient name="Murray Brakus"/>
+            <recipient name="Orville Hudson"/>
+            <recipient name="Sergio Veum MD"/>
+            <recipient name="Dr. Darrin Wunsch"/>
+            <recipient name="Ned Jast MD"/>
+        </recipients>
+        <mentions>
+            <mention name="Elizabeth Barton"/>
+            <mention name="Rico Breitenberg"/>
+            <mention name="Suzanne Ankunding"/>
+            <mention name="Magdalen Brown"/>
+        </mentions>
+    </message>
+    <message id="908" from="Vanesa Waelchi" type="SMTP">
+        <heading>Calm down, Marty. I didn't disintegrate anything. The molecular structure of both Einstein and the car are completely intact.</heading>
+        <body>Ut saepe dolorem. Est minima aut expedita commodi nobis fugit corporis. Possimus consequatur natus. Qui dolorem dolor. Deserunt enim dolores unde qui nihil. Quis sint et explicabo in. Culpa voluptas velit error est.</body>
+        <recipients>
+            <recipient name="Clemente Hermann"/>
+            <recipient name="Shawnna Hane Sr."/>
+            <recipient name="Bud Kunze MD"/>
+            <recipient name="Olivia Lemke"/>
+            <recipient name="Preston Kirlin Sr."/>
+            <recipient name="Danial Borer"/>
+            <recipient name="Mai Hettinger"/>
+            <recipient name="Johnny Considine"/>
+            <recipient name="Debbra Stanton"/>
+            <recipient name="Lisbeth Kozey"/>
+            <recipient name="Hollie Hamill"/>
+        </recipients>
+        <mentions>
+            <mention name="Eduardo Mayert"/>
+            <mention name="Mazie Moore"/>
+            <mention name="Elroy Murphy"/>
+            <mention name="Derek Klein"/>
+        </mentions>
+    </message>
+    <message id="8796" from="Adalberto Rempel" type="SMTP">
+        <heading>It's already mutated into human form! Shoot it!</heading>
+        <body>Velit asperiores explicabo quia consequatur. Quis quo ea aspernatur vitae animi. Nam velit et sint quo sapiente autem et. Facere harum non. Ut animi dicta reprehenderit esse. Velit esse quos tenetur mollitia vero molestias. Dolor ab error quia laborum ut. Qui quia et saepe rerum aut.</body>
+        <recipients>
+            <recipient name="Tommie Prosacco IV"/>
+            <recipient name="Miss Halina Wisozk"/>
+            <recipient name="Gaston Gaylord"/>
+            <recipient name="Manuela Kuhic II"/>
+            <recipient name="Von Kilback"/>
+            <recipient name="Orlando Emmerich"/>
+        </recipients>
+        <mentions>
+            <mention name="Augustine Shanahan"/>
+        </mentions>
+    </message>
+</ns2:messages>

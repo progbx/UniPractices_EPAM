@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="9553" from="Wyatt Turner" type="MMS">
+        <heading>My equipment. That reminds me, Marty. You better not hook up to the amplifier. There's a slight possibility of overload.</heading>
+        <body>Hic quas maxime repudiandae dolore molestiae. Quibusdam consequatur ut eaque non quo consequatur. Et iste in non aperiam eveniet. Qui quia natus eligendi nihil rerum. Enim assumenda nobis rerum pariatur aliquam dolor. Quia rem mollitia ratione ipsam ab qui placeat. Aspernatur labore vitae hic accusantium ea sint molestias. Dicta necessitatibus incidunt perspiciatis accusamus aut blanditiis quia.</body>
+        <recipients>
+            <recipient name="Rossie Muller"/>
+            <recipient name="Chung Howell"/>
+            <recipient name="Chery Zboncak"/>
+            <recipient name="Elvin Stamm"/>
+            <recipient name="Valentin Kemmer"/>
+            <recipient name="Riley Zemlak"/>
+            <recipient name="Mrs. Jaclyn Langosh"/>
+            <recipient name="Sung Daniel"/>
+            <recipient name="Nan Nolan"/>
+        </recipients>
+        <mentions>
+            <mention name="Lincoln Abernathy"/>
+        </mentions>
+    </message>
+    <message id="1407" from="Cecil Welch" type="MMS">
+        <heading>Silence, Earthling. My name is Darth Vader. I am an extraterrestrial from the planet Vulcan!</heading>
+        <body>Assumenda id asperiores placeat. Vero repellendus et reiciendis occaecati amet. Harum libero dolorem. Itaque vel dolores et est. Praesentium odio sed consequuntur repudiandae eum quia. Expedita dolorum reprehenderit molestias assumenda aut veniam doloribus. Est aperiam rerum est voluptatem qui quis facilis. Occaecati necessitatibus asperiores et enim porro molestiae aut.</body>
+        <recipients>
+            <recipient name="Alphonso Kessler"/>
+            <recipient name="Antone Welch"/>
+            <recipient name="Travis Bergnaum"/>
+            <recipient name="Jacques Lockman"/>
+            <recipient name="Voncile Jacobson"/>
+            <recipient name="Karisa Kassulke"/>
+            <recipient name="Josef Mayert"/>
+            <recipient name="Antoinette Lind"/>
+            <recipient name="Antoine Kemmer"/>
+        </recipients>
+    </message>
+    <message id="4198" from="Drema Auer" type="MMS">
+        <heading>Don't be so gullible, McFly. Got the place fixed up nice, though, McFly.</heading>
+        <body>Laudantium laborum sed ab molestias aperiam. Omnis doloremque dicta explicabo dicta. Labore minima reiciendis delectus. Minus officia ullam enim optio expedita. Quod optio vitae iure sed. Molestiae soluta neque quidem qui ut adipisci et. Et iure sed nihil quia similique laborum laudantium. Sunt corrupti voluptates cupiditate. Eaque officia in.</body>
+        <recipients>
+            <recipient name="Korey Osinski"/>
+            <recipient name="Elli Kuhn"/>
+            <recipient name="Pam Dickens"/>
+            <recipient name="Mr. Carrol Skiles"/>
+            <recipient name="Yong Schultz"/>
+            <recipient name="Domingo Streich"/>
+            <recipient name="Johnie Grimes"/>
+            <recipient name="Robbie Kemmer DVM"/>
+            <recipient name="Whitney Fadel"/>
+            <recipient name="Melodie Kris"/>
+            <recipient name="Carlena Stoltenberg"/>
+            <recipient name="Mr. Erlinda Wiza"/>
+            <recipient name="Arron Rippin"/>
+            <recipient name="Boyd Ward DVM"/>
+            <recipient name="Norma Jakubowski"/>
+        </recipients>
+        <mentions>
+            <mention name="Dr. Von Daugherty"/>
+            <mention name="Laverne Wintheiser"/>
+            <mention name="Dr. Fernando Goldner"/>
+        </mentions>
+    </message>
+</ns2:messages>

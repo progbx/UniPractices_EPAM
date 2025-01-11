@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="8216" from="Ms. Shelby Murazik" type="MMS">
+        <heading>Yeah, well, history is gonna change.</heading>
+        <body>Aspernatur voluptatem quis possimus laboriosam excepturi officia et. Atque deserunt qui sapiente. Voluptatum dicta autem et. Id mollitia ullam consequatur et praesentium. Similique molestiae et ex nihil accusamus maxime. Commodi id mollitia aut sed repellat sequi hic. Non ex sint recusandae libero et. Nihil porro fugiat. Ipsum dolores aut vitae perspiciatis eum.</body>
+        <recipients>
+            <recipient name="Dr. Dana Jast"/>
+            <recipient name="Tomas Rosenbaum"/>
+            <recipient name="Ina Hamill"/>
+            <recipient name="Dalene Kemmer"/>
+            <recipient name="Concha Turcotte MD"/>
+            <recipient name="Terrence Marquardt"/>
+            <recipient name="Mrs. Harry Hauck"/>
+            <recipient name="Eboni Senger"/>
+            <recipient name="Korey Erdman"/>
+            <recipient name="Mr. Efrain Will"/>
+        </recipients>
+        <mentions>
+            <mention name="Jordan Romaguera"/>
+            <mention name="Tonisha Kuhlman"/>
+            <mention name="Iris Wisoky"/>
+        </mentions>
+    </message>
+    <message id="992" from="Milissa Jacobson" type="MMS">
+        <heading>Hey, Dad! George! Hey, you on the bike!</heading>
+        <body>Ratione iusto vel. Cupiditate maxime earum amet perferendis id aut. Aliquam voluptate provident odit. Non cumque iste dolor et dolores consequatur. Ipsam quia ab minima et cumque incidunt. Sequi amet nemo nesciunt quia qui. Qui voluptatibus quo quia. Harum in autem. Eligendi neque non et laudantium dolores.</body>
+        <recipients>
+            <recipient name="Milagro Thiel"/>
+            <recipient name="Priscila Wilkinson"/>
+            <recipient name="Melvin Schaefer"/>
+            <recipient name="Ross McClure"/>
+            <recipient name="Adelaide Braun"/>
+            <recipient name="Niesha Bernier"/>
+            <recipient name="Alden Kerluke"/>
+            <recipient name="Dallas Kub Sr."/>
+            <recipient name="Cecil Schaden"/>
+            <recipient name="Lyman Hoppe"/>
+            <recipient name="Ms. Letha Shields"/>
+            <recipient name="Randee Hintz"/>
+            <recipient name="Jessie Sporer DDS"/>
+            <recipient name="Shonda Marks PhD"/>
+            <recipient name="Allyn Gerlach"/>
+        </recipients>
+    </message>
+</ns2:messages>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="5740" from="Dr. Lauri Quitzon" type="SMS">
+        <heading>Oh, honey, he's teasing you. Nobody has two television sets.</heading>
+        <body>Iste autem saepe iure eveniet. Consequatur eius expedita qui reiciendis enim autem eius. Officiis nemo recusandae nihil. Saepe natus inventore et voluptates voluptatum nihil ullam. Vitae tenetur sint officia. Velit quia eos inventore sed. Sint harum aut aliquid eligendi voluptatibus. Accusantium aut exercitationem dignissimos. Sed quia dolorem nemo voluptatem consequatur rerum voluptatem.</body>
+        <recipients>
+            <recipient name="Jami Armstrong"/>
+            <recipient name="Mrs. Rosalina Heidenreich"/>
+            <recipient name="Jamaal Farrell"/>
+            <recipient name="Nicholas Rohan III"/>
+            <recipient name="Ulysses Bruen"/>
+            <recipient name="Cris Veum"/>
+            <recipient name="Flo Kutch"/>
+            <recipient name="Cedrick Wintheiser"/>
+            <recipient name="Fletcher Franecki"/>
+            <recipient name="Antoine Marquardt"/>
+            <recipient name="Mr. Hettie Lindgren"/>
+            <recipient name="Wilber Kuhn"/>
+        </recipients>
+        <mentions>
+            <mention name="Maisie West"/>
+            <mention name="Judie Robel"/>
+        </mentions>
+    </message>
+    <message id="9571" from="Le Konopelski" type="DDS">
+        <heading>Hey, Biff, get a load of this guy's life preserver. Dork thinks he's gonna drown.</heading>
+        <body>Assumenda labore ad itaque praesentium tenetur aut rerum. Nemo fuga accusantium exercitationem sit. Qui nulla autem. Deserunt nam ratione accusantium sunt ab eos. Nesciunt unde quod sed totam nobis. Non error repellat et placeat vero. Dignissimos architecto ut voluptates dignissimos consequatur. Aspernatur odio ex aperiam officiis.</body>
+        <recipients>
+            <recipient name="Antonetta Corkery"/>
+            <recipient name="Theola Reichert"/>
+            <recipient name="Lorriane Collins DVM"/>
+            <recipient name="Edgardo Kihn"/>
+            <recipient name="Gilberte Kozey"/>
+        </recipients>
+    </message>
+    <message id="1911" from="Russel Schmitt" type="MQTT">
+        <heading>Look! There's a rhythmic ceremonial ritual coming up.</heading>
+        <body>Et sit et totam deleniti aut. Corporis commodi qui ullam suscipit. Cum rerum cupiditate voluptate cumque consectetur. Sed hic et magnam rerum sint nisi qui. Provident omnis quos qui amet. Nemo molestiae et. Libero eum labore impedit.</body>
+        <recipients>
+            <recipient name="Dr. Theola Kreiger"/>
+            <recipient name="Sang Kirlin"/>
+            <recipient name="Tony Corkery MD"/>
+            <recipient name="Anita Rosenbaum"/>
+            <recipient name="Miss Earnest Friesen"/>
+            <recipient name="Rosamond Dach"/>
+            <recipient name="Cody Schaden III"/>
+            <recipient name="Tad Skiles"/>
+            <recipient name="Cletus Lockman"/>
+        </recipients>
+    </message>
+    <message id="4970" from="Stephnie Johnston" type="RCS">
+        <heading>Damn! I'm late for school!</heading>
+        <body>Quo corporis dolores eligendi rerum eos qui laboriosam. Dignissimos autem voluptatem vel maiores quia. Quisquam eaque nihil facilis tenetur sunt. Magnam et in autem. Enim et aspernatur quod id aut. Quaerat molestiae voluptatibus iure et. Sequi enim consequatur maxime sit. Nobis aut doloribus repudiandae exercitationem ea fuga. Vel et recusandae.</body>
+        <recipients>
+            <recipient name="Betsey Collier III"/>
+            <recipient name="Mr. Jack Walker"/>
+            <recipient name="Mr. Johnnie Heller"/>
+            <recipient name="Luther O'Conner"/>
+            <recipient name="Rosario Hettinger"/>
+        </recipients>
+        <mentions>
+            <mention name="Dr. Lon Ruecker"/>
+        </mentions>
+    </message>
+</ns2:messages>

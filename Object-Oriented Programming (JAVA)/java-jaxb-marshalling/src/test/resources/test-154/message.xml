@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="9786" from="Porfirio Hauck" type="MMS">
+        <heading>Well, you're safe and sound now, back in good old 1955.</heading>
+        <body>Vel ipsam eum pariatur illum eaque error. Odit dolor fugiat occaecati necessitatibus aut. Vel sed accusantium temporibus. Quia expedita facilis quod laborum. Mollitia rerum exercitationem. Voluptatem ea ad qui delectus sint. Ut est a dolores rerum occaecati. Blanditiis omnis culpa placeat eum nam accusantium ea. Sed nihil quia.</body>
+        <recipients>
+            <recipient name="Melania Breitenberg"/>
+            <recipient name="Ms. Deneen Pouros"/>
+            <recipient name="Armandina Shanahan"/>
+            <recipient name="Claudio Murphy"/>
+            <recipient name="Ashlee Schmitt"/>
+            <recipient name="Kent Bechtelar"/>
+            <recipient name="Gus Beatty Sr."/>
+            <recipient name="Dr. Francoise Corkery"/>
+            <recipient name="Mauricio Tremblay Jr."/>
+            <recipient name="Michel Corwin"/>
+            <recipient name="Tommy Swaniawski"/>
+            <recipient name="Donald Wehner IV"/>
+            <recipient name="Esteban Murazik"/>
+            <recipient name="Manda Abbott"/>
+        </recipients>
+    </message>
+    <message id="7522" from="Ike Nader" type="MMS">
+        <heading>Hello? Hello? Anybody home? Huh? Think, McFly. Think! I gotta have time to get them retyped. Do you realize what would happen if I hand in my reports in your handwriting? I'll get fired. You wouldn't want that to happen, would ya? Would ya?</heading>
+        <body>Deserunt saepe mollitia. Sed reprehenderit nobis. Non adipisci nam maiores et accusantium. Quidem dolorum distinctio quas qui quibusdam quia voluptatum. Nulla culpa nemo molestiae et ipsa beatae voluptatibus. Doloremque et a error optio consequatur et saepe. Quae ut tempore perspiciatis corporis quos. Sed aut molestias eos alias excepturi. Quia dolorem facere sint.</body>
+        <recipients>
+            <recipient name="Dannie O'Reilly Jr."/>
+            <recipient name="Daron Conroy DVM"/>
+            <recipient name="Hipolito Kozey MD"/>
+            <recipient name="Rubi Donnelly DVM"/>
+            <recipient name="Otha Schulist"/>
+            <recipient name="Abel Christiansen"/>
+            <recipient name="Ramiro Runolfsdottir"/>
+            <recipient name="Dorsey Senger"/>
+            <recipient name="Harvey Murray"/>
+            <recipient name="Jung Lind DDS"/>
+            <recipient name="Georgeanna Morar Jr."/>
+            <recipient name="Rozella Kemmer"/>
+            <recipient name="Myrl Kuphal"/>
+            <recipient name="Jeffrey Huel"/>
+            <recipient name="Carlotta Stokes DVM"/>
+        </recipients>
+    </message>
+    <message id="7825" from="Ivory Hagenes" type="MMS">
+        <heading>I've never seen purple underwear before!</heading>
+        <body>Tempore quis eum quaerat. Quia debitis aperiam eveniet velit excepturi est. Ab omnis atque quaerat ratione est. Architecto ad illum amet. Ullam qui reprehenderit odio natus minus. Consectetur mollitia mollitia nulla ut fuga. Est hic amet recusandae.</body>
+        <recipients>
+            <recipient name="Ester Beahan"/>
+            <recipient name="Agustin Konopelski"/>
+            <recipient name="Dick Torphy III"/>
+            <recipient name="Tamala Wolf"/>
+            <recipient name="Kristina Blick"/>
+            <recipient name="Carl Braun"/>
+        </recipients>
+    </message>
+</ns2:messages>

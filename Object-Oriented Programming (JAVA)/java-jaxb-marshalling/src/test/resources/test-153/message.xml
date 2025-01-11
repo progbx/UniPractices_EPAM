@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="99" from="Albertine Hermann" type="SMTP">
+        <heading>We're the, uh... We're the Pinheads.</heading>
+        <body>Totam ea soluta labore sed dolore perspiciatis. Non molestiae magnam aliquid veritatis. Totam id aut veritatis voluptatem quibusdam. Corporis voluptatem ipsum doloribus ipsum. Eveniet fugit sit sunt ab. Repellat distinctio rerum et dolore qui modi saepe. Alias commodi cum dolore iusto magni.</body>
+        <recipients>
+            <recipient name="Marcelino Stroman Jr."/>
+            <recipient name="Octavio Muller"/>
+            <recipient name="Hugo Beatty"/>
+            <recipient name="Suzanna Hintz"/>
+            <recipient name="Chet Gottlieb"/>
+            <recipient name="Lindsey Windler"/>
+            <recipient name="Leslie Kemmer"/>
+            <recipient name="Micha Schoen II"/>
+            <recipient name="Junko Dicki"/>
+            <recipient name="Mr. Violet McKenzie"/>
+            <recipient name="Lonnie Schinner"/>
+            <recipient name="Octavio Lehner"/>
+            <recipient name="Kim DuBuque"/>
+            <recipient name="William Wolf"/>
+            <recipient name="Normand Waters PhD"/>
+        </recipients>
+    </message>
+</ns2:messages>

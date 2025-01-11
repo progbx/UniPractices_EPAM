@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="6215" from="Elia Casper" type="SMS">
+        <heading>Whoa. This is heavy.</heading>
+        <body>Hic quia quia rerum quia mollitia tempora. Quia illum temporibus veniam. Aut quia aut enim commodi excepturi adipisci ut. Illum eligendi ducimus accusantium at nemo. Non nostrum ea. Error id molestiae. In esse aut ex est sed odit commodi.</body>
+        <recipients>
+            <recipient name="Irwin Zulauf"/>
+            <recipient name="Miss Nathaniel Kunze"/>
+            <recipient name="Maricruz Ferry"/>
+            <recipient name="Quinton Daniel Sr."/>
+            <recipient name="Ngan Schmeler"/>
+            <recipient name="Tonette Simonis"/>
+            <recipient name="Dirk Stoltenberg"/>
+            <recipient name="Ms. Bobette Yundt"/>
+            <recipient name="Antione Rowe V"/>
+            <recipient name="Jean Ebert"/>
+            <recipient name="Jamie Koss"/>
+            <recipient name="Mary Becker"/>
+        </recipients>
+    </message>
+    <message id="8667" from="Mrs. Haywood Mayer" type="SMTP">
+        <heading>Marty, I'm sorry, but the only power source capable of generating 1.21 gigawatts of electricity is a bolt of lightning.</heading>
+        <body>Sed fugiat ut eum quo asperiores officiis. In et assumenda quod. Consequuntur vel aut rerum deserunt. Ipsum omnis magni dolor fugit soluta nobis dolor. Quas quis ducimus voluptatem sit necessitatibus fugit. Molestias neque explicabo ullam nulla dolor aut. Dolores sunt non ut. Qui vero et nobis et dignissimos et aspernatur.</body>
+        <recipients>
+            <recipient name="Mr. Dania Armstrong"/>
+            <recipient name="Sandy Oberbrunner IV"/>
+            <recipient name="Mrs. Terisa Shanahan"/>
+            <recipient name="Veola Wilderman"/>
+            <recipient name="Faye Beier"/>
+            <recipient name="Coletta Hammes"/>
+            <recipient name="Jessie Wintheiser Sr."/>
+            <recipient name="Woodrow Braun"/>
+            <recipient name="Librada Schaefer Jr."/>
+            <recipient name="Ms. Vivian Gottlieb"/>
+            <recipient name="Jonas Schmidt"/>
+        </recipients>
+        <mentions>
+            <mention name="Terrance Jenkins"/>
+        </mentions>
+    </message>
+    <message id="1348" from="Pearlie Schinner" type="XMPP">
+        <heading>See you in about 30 years.</heading>
+        <body>Eveniet voluptas sapiente nostrum autem similique non. Inventore ipsam nam a adipisci sapiente. Quaerat ipsa vel. Dicta repudiandae quasi eos omnis porro. Delectus velit enim omnis possimus. Sed sed voluptatem ut accusamus. Amet est minima. Quidem modi soluta doloremque voluptatem eaque. Nisi optio nam.</body>
+        <recipients>
+            <recipient name="Esperanza Feil"/>
+            <recipient name="Laverne Hilpert"/>
+            <recipient name="Calvin Klein"/>
+            <recipient name="Graham Tremblay"/>
+            <recipient name="Lenny Raynor PhD"/>
+            <recipient name="Dee Wyman"/>
+            <recipient name="Hayley Kirlin"/>
+            <recipient name="Lorenzo Rodriguez MD"/>
+            <recipient name="Harvey Veum V"/>
+        </recipients>
+    </message>
+    <message id="2718" from="Robin Rosenbaum IV" type="SMTP">
+        <heading>Calvin? Wh... Why do you keep calling me Calvin?</heading>
+        <body>Itaque expedita sed molestiae eum. Adipisci unde et at perferendis architecto rerum. Atque ex quaerat dolor veniam aut aut impedit. Dicta debitis praesentium. Ad possimus unde harum ut nobis ut accusamus. Exercitationem atque quia eius sint. Sequi reprehenderit aut. Aut dolorem provident quasi ea aliquam quibusdam.</body>
+        <recipients>
+            <recipient name="Silas Hudson"/>
+            <recipient name="Brandon Gottlieb"/>
+            <recipient name="Brunilda Hilpert"/>
+            <recipient name="Angila Ullrich"/>
+            <recipient name="Miss Carlita Auer"/>
+            <recipient name="Vicki Leuschke"/>
+            <recipient name="Jenine Jacobi Sr."/>
+            <recipient name="Tula Fahey"/>
+            <recipient name="Roger Feil Sr."/>
+        </recipients>
+    </message>
+</ns2:messages>

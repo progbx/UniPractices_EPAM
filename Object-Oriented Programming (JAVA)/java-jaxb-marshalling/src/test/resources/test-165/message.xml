@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="7152" from="King Vandervort DVM" type="MMS">
+        <heading>You got a real attitude problem, McFly; you're a slacker. You remind me of your father when he went here; he was a slacker, too.</heading>
+        <body>Voluptate quas non molestiae possimus qui. Ducimus dolor consequuntur provident reprehenderit vitae adipisci explicabo. Placeat mollitia reprehenderit tenetur minus quasi. Quisquam nihil magni amet voluptatem enim aut. Reprehenderit ea pariatur quia maxime. Aperiam iste tempora. Aliquid ea maiores magnam ut dicta.</body>
+        <recipients>
+            <recipient name="Levi Hansen"/>
+            <recipient name="Brynn Prohaska"/>
+            <recipient name="Maryln Jerde"/>
+            <recipient name="Ms. Jillian Harvey"/>
+            <recipient name="Miss Shon White"/>
+            <recipient name="Elroy Kuvalis"/>
+            <recipient name="Birgit Thompson"/>
+            <recipient name="Jerrod Bradtke"/>
+            <recipient name="Allyn Thompson"/>
+            <recipient name="Nichol Willms"/>
+            <recipient name="Teddy Vandervort"/>
+            <recipient name="Mr. Sung Kuhlman"/>
+        </recipients>
+    </message>
+    <message id="3981" from="Luella Anderson MD" type="MMS">
+        <heading>You know, Marty, you look so familiar to me. Do I know your mother?</heading>
+        <body>Ratione labore rerum est molestiae. Beatae veritatis culpa in aspernatur. Iure mollitia temporibus perferendis sit similique occaecati fuga. Eius adipisci aliquam voluptates. Quis cumque amet harum qui officia debitis. Ad aut impedit. Omnis ea et.</body>
+        <recipients>
+            <recipient name="Queenie Nader"/>
+            <recipient name="Tonie Feil"/>
+            <recipient name="Teena Ryan"/>
+            <recipient name="Seymour Konopelski"/>
+            <recipient name="Jeff Johnston"/>
+            <recipient name="Miss Jolanda Batz"/>
+            <recipient name="Lizette Veum"/>
+            <recipient name="Hue White"/>
+            <recipient name="Lacie Lowe"/>
+            <recipient name="Mervin Labadie"/>
+            <recipient name="Randal O'Conner"/>
+            <recipient name="Nicolasa Effertz Jr."/>
+        </recipients>
+    </message>
+</ns2:messages>

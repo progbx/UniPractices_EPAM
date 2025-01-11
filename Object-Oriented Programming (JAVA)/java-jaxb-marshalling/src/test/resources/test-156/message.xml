@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="9814" from="Milan Schroeder" type="SMS">
+        <heading>I'm gonna get that son of a bitch.</heading>
+        <body>Qui error sint sit. Ullam nemo enim ut aut quidem. Error voluptatem architecto enim fugit earum. Minima voluptatem et quibusdam est. Laboriosam quam consequatur officia atque et aut. Sit minus ut vero itaque quo. Maxime maxime totam modi sed voluptates.</body>
+        <recipients>
+            <recipient name="Mr. Nelson Zemlak"/>
+            <recipient name="Byron Schamberger"/>
+            <recipient name="Palmer Corwin V"/>
+            <recipient name="Coleman Stark"/>
+            <recipient name="Aleta Bauch I"/>
+            <recipient name="Louetta Klein"/>
+            <recipient name="Ellie Crona"/>
+            <recipient name="Stuart Hegmann"/>
+            <recipient name="Noble Cartwright"/>
+        </recipients>
+    </message>
+    <message id="5960" from="Moshe Kulas" type="SMS">
+        <heading>Great Scott!</heading>
+        <body>Molestias ut consequatur maxime qui ut aut. Quasi architecto sit rerum corporis. Fuga ut aut eum quis illo. Reprehenderit ducimus explicabo a ut cupiditate. Delectus qui mollitia. Rerum fugit nobis consequuntur eos eum. Doloribus deleniti et fuga pariatur.</body>
+        <recipients>
+            <recipient name="Emilio Weissnat PhD"/>
+            <recipient name="Bridgett Hills"/>
+            <recipient name="Mr. Agustin Tremblay"/>
+            <recipient name="Tatiana Farrell"/>
+            <recipient name="Mrs. Reena Koelpin"/>
+            <recipient name="Mrs. Anamaria Abshire"/>
+            <recipient name="Onie Lynch DDS"/>
+            <recipient name="Herschel Gusikowski"/>
+            <recipient name="Alonso Funk"/>
+            <recipient name="Marina Witting"/>
+            <recipient name="Mr. Tommie Jacobi"/>
+            <recipient name="Olevia Hauck Jr."/>
+        </recipients>
+    </message>
+</ns2:messages>

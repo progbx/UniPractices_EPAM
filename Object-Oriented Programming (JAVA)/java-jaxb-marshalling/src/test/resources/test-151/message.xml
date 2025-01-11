@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="336" from="Harley Heathcote" type="XMPP">
+        <heading>Whoa. Wait a minute, Doc. Are you trying to tell me that my mother has got the hots for me?</heading>
+        <body>Consequuntur commodi ut doloribus ad ab. Fuga in accusamus ut. Accusantium praesentium soluta nemo vitae nesciunt ea officiis. Fugiat voluptatem beatae. Nam dolores cumque. Dolores minus esse. Reprehenderit alias at temporibus iure qui consectetur. Repellat cumque maiores dolores.</body>
+        <recipients>
+            <recipient name="Rashad Brown"/>
+            <recipient name="Nakia Turcotte"/>
+            <recipient name="Starla Christiansen"/>
+        </recipients>
+        <mentions>
+            <mention name="Maryland Brown"/>
+        </mentions>
+    </message>
+    <message id="6231" from="Ladawn Spinka Jr." type="SMS">
+        <heading>Am I to understand you're still hanging around with Dr. Emmett Brown, McFly?</heading>
+        <body>Ipsum dolorem iusto sit voluptatem aut. Unde aut rerum voluptatem. Non reiciendis voluptas. Perspiciatis quod est ut repellendus assumenda labore. Quia sunt at voluptatem aspernatur. Voluptatum tempora nostrum deserunt tempore quod sunt libero. Voluptatem suscipit nulla dolor.</body>
+        <recipients>
+            <recipient name="Shirly Gleason"/>
+            <recipient name="Hayden Pfannerstill"/>
+            <recipient name="Muoi Sawayn"/>
+            <recipient name="Isabel Towne II"/>
+            <recipient name="Delisa Conn"/>
+            <recipient name="Bianca Huel Sr."/>
+            <recipient name="Fernando Wiegand"/>
+            <recipient name="Kris Champlin"/>
+            <recipient name="Svetlana Senger"/>
+            <recipient name="Monet Witting"/>
+            <recipient name="Kenneth Ritchie"/>
+            <recipient name="Chanda Schinner"/>
+        </recipients>
+        <mentions>
+            <mention name="Franchesca Dietrich"/>
+            <mention name="Walter Blanda"/>
+        </mentions>
+    </message>
+</ns2:messages>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="9144" from="Ms. Belle Collier" type="SMTP">
+        <heading>Oh, my God. They found me. I don't know how, but they found me. Run for it, Marty!</heading>
+        <body>Inventore omnis pariatur reprehenderit architecto. Nobis ratione rerum id cupiditate quis ut ratione. Unde quibusdam voluptate et non. Id voluptate delectus quaerat non quia. Alias voluptas magni tenetur harum et. Rerum quia placeat voluptatem rerum. Voluptatem et reiciendis odit corrupti est temporibus. Ab beatae excepturi asperiores magnam facere atque.</body>
+        <recipients>
+            <recipient name="Clora Ledner"/>
+            <recipient name="Mrs. Jerry Kub"/>
+            <recipient name="Ty Ziemann"/>
+            <recipient name="Curt Stroman"/>
+            <recipient name="Marylyn Leannon"/>
+            <recipient name="Tamica Harvey"/>
+            <recipient name="Carl Kutch"/>
+            <recipient name="Mrs. Mel Koch"/>
+            <recipient name="Vickie Heaney"/>
+            <recipient name="Devon Leannon"/>
+            <recipient name="Jackie Keebler"/>
+            <recipient name="Arron Dibbert Sr."/>
+            <recipient name="Federico Brown IV"/>
+        </recipients>
+    </message>
+    <message id="8734" from="Asha Predovic" type="SMTP">
+        <heading>Ah, Jesus Christ! Jesus Christ, Doc, you disintegrated Einstein!</heading>
+        <body>Velit et ut aperiam. Facilis commodi et sequi unde est beatae. Nam quod totam amet consequatur sed eos. Sequi alias minima enim soluta quos dolores. Natus dolor quidem molestias ab dolor provident. Dolorum ducimus quidem ullam aliquid. Atque sunt sint reiciendis dolorem cumque.</body>
+        <recipients>
+            <recipient name="Magdalene Durgan"/>
+            <recipient name="Russel Becker"/>
+            <recipient name="Lura Zboncak"/>
+            <recipient name="Mr. Gale Metz"/>
+            <recipient name="Arnita Considine"/>
+        </recipients>
+    </message>
+</ns2:messages>

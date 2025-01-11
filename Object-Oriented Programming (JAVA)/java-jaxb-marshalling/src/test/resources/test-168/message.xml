@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="4671" from="Miss Elene Gaylord" type="DDS">
+        <heading>Okay. Time circuit's on. Flux capacitor, fluxing. Engine running. All right.</heading>
+        <body>Nam velit porro laborum et. Atque velit nobis sed nostrum consequatur sunt iusto. Dolorem tenetur dicta sapiente repellat rerum. Nulla omnis expedita sit et optio. In assumenda dolor quaerat magni repudiandae fuga. Dignissimos labore magnam magni. Incidunt aut aliquam sed consectetur sint odio quos.</body>
+        <recipients>
+            <recipient name="Justina Emard"/>
+            <recipient name="Carter Hills II"/>
+            <recipient name="Zola Roberts"/>
+            <recipient name="Marcel Collins"/>
+            <recipient name="Loree Bradtke"/>
+            <recipient name="Dr. Monty Kovacek"/>
+            <recipient name="Juliane Mraz"/>
+            <recipient name="Rodger Ebert V"/>
+            <recipient name="Rick Hudson"/>
+            <recipient name="Mrs. Louis Greenfelder"/>
+            <recipient name="Zola Padberg"/>
+        </recipients>
+    </message>
+    <message id="6175" from="China Simonis" type="AMQP">
+        <heading>Whoa. This is heavy.</heading>
+        <body>Aliquam molestiae amet expedita impedit dolor. Repellendus est maxime nam. Inventore consequatur id et. Voluptatem recusandae laboriosam laborum esse et et repellat. Itaque quasi molestias voluptatem dolores accusamus et et. Hic qui distinctio quo. Iste et quaerat sapiente. Blanditiis iure voluptate labore rerum.</body>
+        <recipients>
+            <recipient name="Lia Stehr"/>
+            <recipient name="Walton Hoppe DDS"/>
+            <recipient name="Tommy Orn"/>
+            <recipient name="Ms. Hilton Thompson"/>
+            <recipient name="Tamika Wiza"/>
+            <recipient name="Han Legros"/>
+            <recipient name="Mrs. Kimiko Luettgen"/>
+            <recipient name="Federico Ledner"/>
+            <recipient name="Clifton Thiel"/>
+            <recipient name="Alfred Bailey Sr."/>
+            <recipient name="Zana Rempel III"/>
+            <recipient name="Monroe Wyman"/>
+            <recipient name="Cleo Feeney"/>
+        </recipients>
+    </message>
+    <message id="6179" from="Samantha Fisher IV" type="RCS">
+        <heading>The way I see it, if you're gonna build a time machine into a car, why not do it with some style?</heading>
+        <body>Quaerat aliquam eaque autem nostrum fuga et veritatis. Accusamus voluptas velit voluptate sint distinctio. Quis ullam eveniet alias temporibus sint autem. Quo id in dolorum eos. Quia nobis quisquam. Quaerat laborum soluta. Sit tenetur et nobis accusamus sapiente quibusdam. Vel minima corporis. Ut sed eligendi atque.</body>
+        <recipients>
+            <recipient name="Ms. Rochelle Beer"/>
+            <recipient name="Tyisha Mann Sr."/>
+            <recipient name="Miguel DuBuque"/>
+            <recipient name="Horace Dietrich MD"/>
+            <recipient name="Louella Auer"/>
+            <recipient name="Bee Schneider PhD"/>
+            <recipient name="Sunday Wolf"/>
+            <recipient name="Chanell Mitchell"/>
+            <recipient name="Miss Mason Dicki"/>
+            <recipient name="Del Runolfsson"/>
+            <recipient name="Forest Hermann"/>
+            <recipient name="Karin Keeling DVM"/>
+            <recipient name="Rachell Kohler"/>
+        </recipients>
+        <mentions>
+            <mention name="Korey O'Reilly MD"/>
+            <mention name="Mose Ruecker"/>
+            <mention name="Ms. Kathlene Toy"/>
+            <mention name="Santo Krajcik"/>
+        </mentions>
+    </message>
+    <message id="9585" from="Mr. Genoveva Champlin" type="MQTT">
+        <heading>Silence, Earthling. My name is Darth Vader. I am an extraterrestrial from the planet Vulcan!</heading>
+        <body>Iste dicta veritatis ipsum. Consequuntur eos consequuntur. Nam consequuntur enim exercitationem recusandae tenetur. Quia est facere praesentium explicabo autem. Iste ut nihil ut rem id veritatis. Praesentium sunt sapiente qui sapiente dolores quia beatae. Similique sit et. Et non et cupiditate qui qui aut atque. Id porro et reprehenderit aut at.</body>
+        <recipients>
+            <recipient name="Truman Lehner"/>
+            <recipient name="Domenic Wunsch"/>
+            <recipient name="Earnest Renner MD"/>
+        </recipients>
+    </message>
+    <message id="8164" from="Tod Shields" type="AMQP">
+        <heading>He's a Peeping Tom!</heading>
+        <body>In aut quia saepe voluptatem dolorem beatae reprehenderit. Ad veritatis dolor est consequuntur. Tenetur cupiditate illum maxime excepturi deserunt omnis hic. Veniam consectetur ducimus. Itaque praesentium qui saepe. Possimus ut nihil rerum ad ipsam quo sunt. Velit incidunt nesciunt incidunt corrupti eligendi. Architecto sed ut quis quis nihil quae.</body>
+        <recipients>
+            <recipient name="Nova D'Amore"/>
+            <recipient name="Milan Frami III"/>
+            <recipient name="Jacob Goyette"/>
+            <recipient name="Germaine Mante III"/>
+            <recipient name="Edwin Bins"/>
+            <recipient name="Miss Felicidad Crooks"/>
+            <recipient name="Marcelo Roberts Jr."/>
+            <recipient name="Ms. Verna Kuhlman"/>
+            <recipient name="Giuseppe Bogan"/>
+            <recipient name="Sherwood Fay"/>
+            <recipient name="Alejandro Mayer"/>
+            <recipient name="Anika Okuneva IV"/>
+        </recipients>
+    </message>
+    <message id="7396" from="Curtis Crooks" type="SMTP">
+        <heading>Marty, will we ever see you again?</heading>
+        <body>Sed quo ut dolorem libero eius voluptatem omnis. Sint et quia ut voluptas voluptas inventore similique. Ad blanditiis consequuntur eveniet autem. Nihil aperiam itaque quo est accusantium quo asperiores. Ut architecto dicta eum ut ratione. Omnis quia atque ea vitae ducimus qui. Qui sunt numquam eos repudiandae porro voluptas cupiditate.</body>
+        <recipients>
+            <recipient name="Clayton Towne"/>
+            <recipient name="Neal Rippin"/>
+            <recipient name="Tyler McKenzie Sr."/>
+            <recipient name="Leslie Prosacco"/>
+            <recipient name="Retha Frami"/>
+            <recipient name="Lashawna Jakubowski"/>
+            <recipient name="Tressie Howell"/>
+            <recipient name="Darryl Brown"/>
+            <recipient name="Lea Green"/>
+            <recipient name="Julie Wehner"/>
+            <recipient name="Calvin Wolff"/>
+            <recipient name="Zachariah Durgan"/>
+            <recipient name="Christina Fisher"/>
+            <recipient name="Mrs. Jeanene Zemlak"/>
+            <recipient name="Hollis Gerhold"/>
+        </recipients>
+        <mentions>
+            <mention name="Blake Stroman"/>
+            <mention name="Antione Leffler Jr."/>
+            <mention name="Carter Schumm"/>
+            <mention name="Angeles Stroman"/>
+        </mentions>
+    </message>
+    <message id="1290" from="Oneida Thiel" type="IRC">
+        <heading>Marty, don't be such a square. Everybody who's anybody drinks.</heading>
+        <body>Rem quam voluptatem laboriosam consequatur et numquam. Nulla adipisci quo consectetur. Nihil nisi quis velit aut rerum. Est ut ea voluptates minus. Labore sit voluptatem et rerum non sit. Voluptatum saepe dolorem et qui. Nesciunt quia nesciunt non. Dolor magni architecto atque eos. Iusto minus aut quo voluptas aut.</body>
+        <recipients>
+            <recipient name="Jimmy Shields IV"/>
+            <recipient name="Edmund Stanton MD"/>
+            <recipient name="Ms. Racheal Barrows"/>
+            <recipient name="Jefferey Ward"/>
+            <recipient name="Marylyn Dicki"/>
+            <recipient name="Meaghan Hermann"/>
+            <recipient name="Albertha Witting"/>
+            <recipient name="Dr. Brett Erdman"/>
+        </recipients>
+    </message>
+</ns2:messages>

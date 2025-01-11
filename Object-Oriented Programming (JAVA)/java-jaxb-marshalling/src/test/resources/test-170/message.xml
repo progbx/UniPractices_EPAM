@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="2979" from="Sanora Fadel" type="SMS">
+        <heading>I'm from the future. I came here in a Time Machine that you invented. Now I need your help to get back to the year 1985.</heading>
+        <body>Tempore voluptas laborum ea. Incidunt officia sit culpa sint. Officia qui consectetur omnis. Maxime quia voluptates impedit laboriosam. Numquam sed tempore accusamus voluptas distinctio qui exercitationem. Dolor dolorum expedita et perspiciatis. Consectetur nihil nesciunt dolorem officia facere placeat quos. Sit numquam ipsam animi voluptas.</body>
+        <recipients>
+            <recipient name="Neil White Jr."/>
+            <recipient name="Thanh Koss"/>
+            <recipient name="Mr. Necole Von"/>
+            <recipient name="Claudio Breitenberg"/>
+            <recipient name="Chasidy Hartmann"/>
+            <recipient name="Stewart Jenkins DVM"/>
+            <recipient name="Rashad Feeney"/>
+            <recipient name="Herman Hettinger"/>
+            <recipient name="Kayla Tromp"/>
+            <recipient name="Lane Williamson"/>
+            <recipient name="Joette Braun"/>
+            <recipient name="Ned Brakus"/>
+            <recipient name="Gracie Rutherford"/>
+            <recipient name="Boyd Schaden"/>
+            <recipient name="Vince Sawayn"/>
+        </recipients>
+    </message>
+    <message id="5778" from="Alix Purdy IV" type="SMS">
+        <heading>See you later, Pop. Whoo! Time to change that oil.</heading>
+        <body>Quasi officia nostrum. Non enim velit. Mollitia sunt quis neque facere reiciendis voluptas optio. Voluptatem sit corporis placeat et qui. Quidem odio in est commodi omnis consectetur. Optio aut ut culpa vero quo. Autem eveniet sit molestias voluptas voluptas molestiae.</body>
+        <recipients>
+            <recipient name="Ms. Nicholas Mosciski"/>
+            <recipient name="Buena Welch"/>
+            <recipient name="Gayle Gerhold V"/>
+            <recipient name="Paris Strosin"/>
+            <recipient name="Kathyrn Miller"/>
+            <recipient name="Kieth Krajcik"/>
+            <recipient name="Sid Funk"/>
+            <recipient name="Aron Hammes"/>
+            <recipient name="Wm Grant Jr."/>
+            <recipient name="Britt Treutel"/>
+            <recipient name="Dr. Vernetta Feest"/>
+            <recipient name="Marisha Goldner"/>
+            <recipient name="Ms. Janina Jacobson"/>
+        </recipients>
+        <mentions>
+            <mention name="Jerold D'Amore"/>
+        </mentions>
+    </message>
+    <message id="3522" from="Grady Veum" type="SMS">
+        <heading>I have your car towed all the way to your house and all you got for me is lite beer?</heading>
+        <body>Qui dolore quo porro temporibus. Vel totam id tenetur explicabo est facilis repellat. Mollitia minima consequatur vel maiores harum quis est. Facilis qui maiores nostrum incidunt consequuntur odit omnis. Velit aut neque illo. Rem at exercitationem eveniet earum vel. Earum asperiores dolores et totam sint autem deserunt.</body>
+        <recipients>
+            <recipient name="Vonda Quigley"/>
+            <recipient name="Melvina Romaguera"/>
+            <recipient name="Kyung Kilback"/>
+            <recipient name="Pat Lehner"/>
+            <recipient name="Mrs. Barbera Beahan"/>
+            <recipient name="Tynisha Brakus"/>
+        </recipients>
+    </message>
+</ns2:messages>

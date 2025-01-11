@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="618" from="Devin Koch" type="XMPP">
+        <heading>Next saturday night we're sending you back to the future!</heading>
+        <body>Iusto ea iste unde eos. Qui delectus explicabo. Unde consectetur aut beatae est qui. Voluptatibus assumenda minus incidunt inventore. Quae commodi voluptates fugiat neque. Consequatur est error saepe. Dolore dolores aliquid porro omnis id est.</body>
+        <recipients>
+            <recipient name="Stefan Botsford"/>
+            <recipient name="Garth McLaughlin"/>
+            <recipient name="Kimiko Feil"/>
+            <recipient name="Angel Wunsch"/>
+            <recipient name="Victoria Champlin Jr."/>
+            <recipient name="Miss Zackary Abbott"/>
+            <recipient name="Dr. Renae Crist"/>
+            <recipient name="Annabel Rippin"/>
+            <recipient name="Kelley Heidenreich DDS"/>
+        </recipients>
+    </message>
+    <message id="4659" from="Hortencia Kuvalis" type="AMQP">
+        <heading>Now, remember. According to my theory, you interfered with your parents' first meeting. If they don't meet, they won't fall in love, they won't get married and they won't have kids. That's why your older brother's disappearing from that photograph. Your sister will follow, and unless you repair the damage, you'll be next.</heading>
+        <body>Est ipsam ex. Eligendi reiciendis fuga qui beatae. Sit facilis facere dolore qui molestias adipisci. Quam est iusto architecto veniam sed atque nulla. Molestiae et et ipsum dolor vitae assumenda. Est nisi culpa. Eius error explicabo nesciunt.</body>
+        <recipients>
+            <recipient name="Selina Dare"/>
+            <recipient name="Tama Schumm"/>
+            <recipient name="Mr. Joe Marks"/>
+            <recipient name="Mrs. Stewart Mraz"/>
+        </recipients>
+    </message>
+    <message id="4602" from="Rickey Bailey" type="XMPP">
+        <heading>Things have certainly changed around here. I remember when this was all farmland as far the eye could see. Old man Peabody owned all of this. He had this crazy idea about breeding pine trees.</heading>
+        <body>Mollitia et magnam similique in. Consectetur facere fuga aliquid consequatur. Voluptatem deserunt porro omnis consequatur minima alias. Molestiae eos omnis quia temporibus. Omnis illo tempore nihil recusandae et commodi tempora. Sed nihil iste minima sit est nostrum. Voluptas deserunt labore similique id omnis doloribus.</body>
+        <recipients>
+            <recipient name="Mr. Jeanne Walker"/>
+            <recipient name="Dr. Denese Lind"/>
+            <recipient name="Cleopatra Herzog Sr."/>
+            <recipient name="Jana Parisian"/>
+            <recipient name="Clare Graham"/>
+            <recipient name="Cristobal Tillman"/>
+            <recipient name="Orval Harber"/>
+            <recipient name="Cassey Cummerata Sr."/>
+            <recipient name="Mrs. Johnnie Braun"/>
+        </recipients>
+    </message>
+    <message id="6666" from="Elbert O'Connell" type="DDS">
+        <heading>Calm down, Marty. I didn't disintegrate anything. The molecular structure of both Einstein and the car are completely intact.</heading>
+        <body>Delectus rerum corporis molestiae quia. Id et sequi quia aperiam inventore. Voluptatem corporis ratione aut rerum incidunt ea ducimus. Tenetur sit sed alias itaque cum quos tempora. Id praesentium rem nam accusantium aut. Mollitia distinctio id vel architecto qui dicta quis. Qui quae fugit quibusdam consequatur ratione. Libero itaque numquam cupiditate nihil.</body>
+        <recipients>
+            <recipient name="Cristobal Bogan"/>
+            <recipient name="Danette McLaughlin"/>
+            <recipient name="Mrs. Rochelle Wolff"/>
+            <recipient name="Christian Sporer"/>
+            <recipient name="Lorene O'Connell"/>
+            <recipient name="Brant Kunze"/>
+            <recipient name="Precious Nader"/>
+        </recipients>
+    </message>
+    <message id="1164" from="Eldora Reynolds" type="MQTT">
+        <heading>This is all wrong. I don't know what it is. But when I kiss you, it's like I'm kissing... my brother. I guess that doesn't make any sense, does it?</heading>
+        <body>Quas et ad totam ipsam. Corrupti perspiciatis dolor qui et vitae pariatur sunt. Et veritatis adipisci consequatur velit. Quo eos assumenda illum ipsum. Voluptas excepturi et nisi esse aliquid. Illum cupiditate quisquam non. Quo dicta accusamus explicabo aspernatur provident at. Sit rerum et blanditiis nihil ad.</body>
+        <recipients>
+            <recipient name="Brooke Little"/>
+            <recipient name="Mrs. Magen Reinger"/>
+            <recipient name="Joanna Hintz"/>
+            <recipient name="Shanelle Hettinger"/>
+            <recipient name="Jeana Kautzer V"/>
+            <recipient name="Jodee Tremblay"/>
+            <recipient name="Hedy Klocko"/>
+            <recipient name="Wesley Medhurst"/>
+            <recipient name="Leah Legros"/>
+            <recipient name="Kurtis Schuppe DVM"/>
+            <recipient name="Mr. Marchelle Hamill"/>
+            <recipient name="Dillon Johnston"/>
+        </recipients>
+    </message>
+    <message id="3667" from="Autumn Bashirian" type="MMS">
+        <heading>Hello? Hello? Anybody home? Huh? Think, McFly. Think! I gotta have time to get them retyped. Do you realize what would happen if I hand in my reports in your handwriting? I'll get fired. You wouldn't want that to happen, would ya? Would ya?</heading>
+        <body>Provident sit sint pariatur minima tempora fugiat. Ut velit occaecati officiis quam. Nemo sit libero impedit voluptatum placeat quia dolorum. Et blanditiis quo harum omnis quis enim. Repellat id dolorum optio et. Et laudantium quo magni et inventore quos dolores. Cupiditate consequatur debitis ducimus. Non modi ratione veritatis aut ipsum voluptatem.</body>
+        <recipients>
+            <recipient name="Alphonse Hilll"/>
+            <recipient name="Miss Joe Bartell"/>
+            <recipient name="Dr. Leonard Walker"/>
+            <recipient name="Greg Connelly"/>
+            <recipient name="Patsy Corkery II"/>
+            <recipient name="Nisha Pfeffer"/>
+            <recipient name="Gaylord Reynolds"/>
+        </recipients>
+    </message>
+</ns2:messages>

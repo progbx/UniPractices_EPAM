@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="366" from="Miss Ignacio Harvey" type="SMS">
+        <heading>Whoa. This is heavy.</heading>
+        <body>Labore quo aliquid nulla. Occaecati reprehenderit minima libero. Ut est et distinctio. Fugit cumque ut similique nisi. Dicta rerum corrupti qui quos et. Voluptate ducimus modi. Natus maiores optio soluta.</body>
+        <recipients>
+            <recipient name="Aretha Robel II"/>
+            <recipient name="Dr. Shanon Sporer"/>
+            <recipient name="Hobert Mueller"/>
+            <recipient name="Miss Judie Bartell"/>
+            <recipient name="Lanelle Ullrich"/>
+            <recipient name="Merle Lang"/>
+            <recipient name="Floyd O'Keefe"/>
+            <recipient name="Hollie Emard"/>
+        </recipients>
+    </message>
+    <message id="9749" from="Earline Ward" type="SMS">
+        <heading>And one for you, McFly; I believe that makes four in a row. Now let me give you a nickel's worth of free advice, young man. This so-called Dr. Brown is dangerous. He's a real nutcase. You hang around with him, you're gonna end up in big trouble.</heading>
+        <body>Tenetur temporibus ea. Omnis ullam odio distinctio temporibus quasi a. Aut ab quam quod tenetur sunt. Sit fugit et ut necessitatibus. Ut aut est minima. Non animi placeat. Suscipit repellendus qui autem quisquam amet. Quia dolor a necessitatibus et deleniti ut mollitia. Aut consequatur tempora labore in repudiandae.</body>
+        <recipients>
+            <recipient name="Gertha Kirlin"/>
+            <recipient name="Daisey Kub"/>
+            <recipient name="Rosalina Green III"/>
+            <recipient name="Miss Keli Zboncak"/>
+            <recipient name="Donald Schmitt"/>
+            <recipient name="Shanell Keebler"/>
+            <recipient name="Catina Kautzer II"/>
+            <recipient name="Dr. Genna Spinka"/>
+            <recipient name="Cecila Upton IV"/>
+            <recipient name="Shayla Green"/>
+            <recipient name="Elmo Hand"/>
+        </recipients>
+    </message>
+    <message id="7894" from="Toccara Rowe" type="SMS">
+        <heading>Don't worry. As long as you hit that wire with the connecting hook at precisely 88 miles per hour, the instant the lightning strikes the tower... everything will be fine.</heading>
+        <body>Soluta consequatur maiores ut accusantium sapiente ut. Et et vitae dicta adipisci. Soluta suscipit doloremque ut officia omnis atque. Nam sint labore culpa cum tempora ea ipsum. Explicabo quia vero modi reiciendis. Non corrupti at porro vel. Sapiente autem autem modi voluptatibus earum delectus enim.</body>
+        <recipients>
+            <recipient name="Ms. Seymour Prosacco"/>
+            <recipient name="Jae Collins IV"/>
+            <recipient name="Mrs. Weston Stracke"/>
+            <recipient name="Renita Will"/>
+            <recipient name="Ms. George Conroy"/>
+            <recipient name="Dr. Bernardo Haley"/>
+        </recipients>
+    </message>
+</ns2:messages>

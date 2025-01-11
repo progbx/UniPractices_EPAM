@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="6328" from="Leandro Botsford" type="MMS">
+        <heading>No, get out of town. My mom thinks I'm going camping with the guys. Look, Jennifer, my mother would freak out if she knew I was going out with you, and I'd get the standard lecture about how she never did that kind of stuff when she was a kid. I mean, look, I think the woman was born a nun.</heading>
+        <body>Explicabo et beatae. Sint distinctio dignissimos nulla nemo nihil accusantium porro. Consectetur corporis excepturi aperiam atque at voluptates quasi. Possimus voluptatem repudiandae. Ab dolore tenetur. Voluptatum odio labore nemo dignissimos quos consequatur. Laboriosam eveniet soluta.</body>
+        <recipients>
+            <recipient name="Tyler Hauck"/>
+            <recipient name="Coretta Bode"/>
+            <recipient name="Miss Rachal Bergnaum"/>
+            <recipient name="Loria Muller"/>
+            <recipient name="Tim Roberts Jr."/>
+            <recipient name="Raleigh Cummerata"/>
+            <recipient name="Ms. Lida Mante"/>
+            <recipient name="Francis McCullough Jr."/>
+        </recipients>
+    </message>
+    <message id="6073" from="Mr. Mckinley Will" type="MMS">
+        <heading>I had a horrible nightmare. I dreamed that I went... back in time. It was terrible.</heading>
+        <body>Enim tempore est delectus optio dolor. Dolores impedit explicabo. Voluptatem a saepe labore qui quia et sed. Saepe magni consequatur. Et nam veniam eveniet repellat. Aperiam qui officia quos adipisci. Voluptas possimus earum temporibus eaque omnis laboriosam sed. Quisquam veritatis omnis porro ipsum consequatur et in.</body>
+        <recipients>
+            <recipient name="Miss Osvaldo Bradtke"/>
+            <recipient name="Brooke Hammes"/>
+            <recipient name="Dr. Jina Bergnaum"/>
+            <recipient name="Ms. Julissa Dach"/>
+            <recipient name="Luther Smitham"/>
+            <recipient name="Hollis Bednar V"/>
+            <recipient name="Miss Franklin Rosenbaum"/>
+        </recipients>
+    </message>
+</ns2:messages>

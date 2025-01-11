@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="9015" from="Young Kuhic" type="MQTT">
+        <heading>What-what the hell is a gigawatt?</heading>
+        <body>Cumque qui nulla esse ipsa rem recusandae est. Quia optio optio. Odio nemo sit neque sint rerum possimus deleniti. Quos ducimus vel aut optio non doloribus. Est incidunt perferendis sit eveniet et sed. Ut quo ducimus ipsum quis corrupti sequi. Ut inventore asperiores occaecati eveniet. Amet veniam non.</body>
+        <recipients>
+            <recipient name="Brittaney Bailey"/>
+            <recipient name="Roselle Emmerich"/>
+            <recipient name="Ambrose Davis"/>
+        </recipients>
+        <mentions>
+            <mention name="Rupert Bruen"/>
+            <mention name="Dr. Lon Cole"/>
+            <mention name="Vernon McKenzie"/>
+        </mentions>
+    </message>
+    <message id="7652" from="Ms. Maxwell Hartmann" type="IRC">
+        <heading>All right. This is an oldie, but, uh... well, it's an oldie where I come from.</heading>
+        <body>Quasi dicta dignissimos voluptates. Exercitationem reprehenderit ratione rem fuga dolorem reiciendis. Iusto voluptatum eaque quis. Aut et fuga non iure et. Unde quibusdam et sit natus et. Error aut distinctio sed vitae et. Vitae labore qui aspernatur. Ad dolores magni sit provident deserunt dolor quae. Assumenda adipisci quos consequatur ab omnis nam.</body>
+        <recipients>
+            <recipient name="Carlene Krajcik Jr."/>
+            <recipient name="Mrs. Elsy Heathcote"/>
+            <recipient name="Terry Hamill MD"/>
+            <recipient name="Carol Rutherford"/>
+            <recipient name="Norris Russel"/>
+        </recipients>
+        <mentions>
+            <mention name="Yuki Becker"/>
+            <mention name="Agustin Moen"/>
+            <mention name="Marcus Beier"/>
+            <mention name="Alvaro Bernhard"/>
+        </mentions>
+    </message>
+</ns2:messages>
