@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="4304" from="Dion Kihn" type="DDS">
+        <heading>Anyway, your Grandpa hit him with the car and brought him into the house. He seemed so helpless, like a little lost puppy, and my heart just went out to him.</heading>
+        <body>Cumque in quae rem enim. Accusantium non reiciendis neque vitae. Itaque fuga quod est laudantium. Facilis quod autem similique iure officiis architecto. Maiores consectetur cupiditate. Ut unde est sunt laudantium quasi occaecati eum. Vitae rerum maxime itaque cumque fuga.</body>
+        <recipients>
+            <recipient name="Jonathon Casper"/>
+            <recipient name="Ellyn Kilback DDS"/>
+            <recipient name="Ms. Willie Jacobs"/>
+            <recipient name="Simon Moore"/>
+            <recipient name="Terry Reinger"/>
+            <recipient name="Rima Olson"/>
+            <recipient name="Shawn Trantow Sr."/>
+            <recipient name="Lane Nolan"/>
+            <recipient name="Cathi Emard"/>
+            <recipient name="Lizzette Treutel"/>
+            <recipient name="Georgene Sanford"/>
+            <recipient name="Ilana Moen"/>
+        </recipients>
+        <mentions>
+            <mention name="Kurt Schmeler"/>
+            <mention name="Mason Mraz IV"/>
+        </mentions>
+    </message>
+    <message id="5985" from="Andy Rolfson" type="MQTT">
+        <heading>You know, Marty, you look so familiar to me. Do I know your mother?</heading>
+        <body>Labore impedit dolorem dolores. Nihil ullam vitae culpa. Quo dolorem accusantium culpa ex ipsa ipsa fugit. Nobis aut aspernatur laboriosam ex. Consequatur nihil temporibus ipsam voluptatem numquam. Ut ut a minus. Doloremque et doloremque error labore sed.</body>
+        <recipients>
+            <recipient name="Ok Flatley"/>
+            <recipient name="Wilda Weber"/>
+            <recipient name="Leandro Lehner DVM"/>
+            <recipient name="Chuck Koepp PhD"/>
+        </recipients>
+        <mentions>
+            <mention name="Tim Jaskolski Jr."/>
+            <mention name="Holly O'Hara"/>
+            <mention name="Janelle Gaylord"/>
+            <mention name="Fritz Emmerich Jr."/>
+        </mentions>
+    </message>
+    <message id="3217" from="Mercedez Weber" type="AMQP">
+        <heading>Are you telling me that this sucker is nuclear?</heading>
+        <body>Error quis est sed soluta inventore dolorem. Aut aliquam quas. Aut nesciunt aut. Non in modi. Qui ullam voluptas molestiae qui ea aperiam. Eum enim beatae minima ea. Quia velit enim illum iste quia aut iure. Aut nisi dignissimos et nobis accusantium eum.</body>
+        <recipients>
+            <recipient name="Robin Leuschke"/>
+            <recipient name="Ms. Coralee Swaniawski"/>
+            <recipient name="Bessie Satterfield"/>
+            <recipient name="Theola Paucek"/>
+            <recipient name="Leatha Grimes"/>
+            <recipient name="Elliot Nitzsche DVM"/>
+            <recipient name="Alleen Fay"/>
+            <recipient name="Theo Stoltenberg"/>
+            <recipient name="Norene Braun IV"/>
+            <recipient name="Martine Douglas"/>
+            <recipient name="Reginald Lowe"/>
+            <recipient name="Cornelius Ryan DVM"/>
+            <recipient name="Kathyrn Durgan"/>
+        </recipients>
+        <mentions>
+            <mention name="Norris Gutkowski"/>
+            <mention name="Jermaine Yundt"/>
+            <mention name="Harris Bednar MD"/>
+            <mention name="Jerri Gulgowski"/>
+        </mentions>
+    </message>
+    <message id="1647" from="Weston Schmitt" type="XMPP">
+        <heading>The appropriate question is, 'when the hell are they?' You see, Einstein has just become the world's first time traveler! I sent him into the future. One minute into the future to be exact. And at precisely 1:21 a.m. and zero seconds, we shall catch up with him and the time machine.</heading>
+        <body>Similique qui inventore aperiam quod atque soluta. Eum cumque dicta deleniti eos consequatur dicta. Aspernatur et enim at quia error recusandae. Est vel alias molestias qui necessitatibus. Occaecati dolorem occaecati dolorem commodi aperiam laboriosam. Adipisci blanditiis aut. Aliquam omnis eum. Qui nemo nostrum consequatur aspernatur facilis minus praesentium. Quas dolor non nesciunt magni aut sed temporibus.</body>
+        <recipients>
+            <recipient name="Quincy Kuvalis"/>
+            <recipient name="Jazmin Osinski"/>
+            <recipient name="Leonor Pouros"/>
+            <recipient name="Zachery McDermott"/>
+            <recipient name="Hermila Morar Jr."/>
+            <recipient name="Levi Schimmel"/>
+            <recipient name="Dr. Remedios Ritchie"/>
+            <recipient name="Loriann Hills"/>
+            <recipient name="Quintin Weber"/>
+            <recipient name="Sam Purdy"/>
+            <recipient name="Sylvester Hartmann"/>
+            <recipient name="Denita Denesik"/>
+        </recipients>
+        <mentions>
+            <mention name="Sanda Dach"/>
+        </mentions>
+    </message>
+    <message id="6963" from="Phyliss Doyle V" type="SMTP">
+        <heading>What happens to us in the future? Do we become assholes or something?</heading>
+        <body>Laboriosam quia provident adipisci tenetur. Incidunt illo fuga ipsa. Ex minima nisi esse omnis iusto eos. Non dicta dolor sequi. Enim nobis et. Optio fugit dolor minus libero. Nobis consectetur est officiis in officia vitae laborum. Sed error at amet.</body>
+        <recipients>
+            <recipient name="Sharika Padberg"/>
+            <recipient name="Terresa Cole I"/>
+            <recipient name="Antwan Keeling"/>
+            <recipient name="Winfred Prohaska"/>
+            <recipient name="Reuben Marvin"/>
+        </recipients>
+        <mentions>
+            <mention name="Emory Bernier"/>
+            <mention name="Miss Darryl West"/>
+            <mention name="Lera Sawayn Sr."/>
+            <mention name="Janey Heathcote"/>
+        </mentions>
+    </message>
+    <message id="8486" from="Heide Renner" type="MQTT">
+        <heading>Whoa. Wait a minute, Doc. Are you trying to tell me that my mother has got the hots for me?</heading>
+        <body>Porro nostrum minima natus blanditiis autem quae ut. Eaque vel animi. Enim voluptatem tempore aut. Minus nisi porro reiciendis non ut debitis qui. Soluta consequatur necessitatibus asperiores aut sunt amet nemo. Omnis aliquam et et nihil et est a. Et asperiores mollitia repudiandae. Minus quis pariatur quis repellendus.</body>
+        <recipients>
+            <recipient name="Etta Altenwerth"/>
+            <recipient name="Melvin Reilly"/>
+            <recipient name="Milton Homenick"/>
+            <recipient name="Irvin Renner V"/>
+            <recipient name="Fabian Schulist DVM"/>
+            <recipient name="Luis Ratke"/>
+            <recipient name="Malka Emard"/>
+            <recipient name="Palmira Leannon Jr."/>
+            <recipient name="Tobias Gorczany DVM"/>
+            <recipient name="Mrs. Liza Kling"/>
+        </recipients>
+        <mentions>
+            <mention name="Pinkie Bartell"/>
+        </mentions>
+    </message>
+    <message id="5148" from="Arthur Becker" type="RCS">
+        <heading>Who the hell is John F. Kennedy?</heading>
+        <body>Sed magnam sed voluptatem quia modi occaecati. Necessitatibus tempore soluta facere libero. Quibusdam incidunt ipsa fugit quos aliquam qui. A aut omnis iure voluptas pariatur. Repudiandae repellat qui commodi atque reprehenderit aperiam in. Sit dolor expedita alias quos tenetur quas. Libero illo voluptatem. Sint atque vel hic.</body>
+        <recipients>
+            <recipient name="Sanjuana Romaguera"/>
+            <recipient name="Willene Schroeder V"/>
+            <recipient name="Chiquita Herzog"/>
+            <recipient name="Johnie Hegmann"/>
+            <recipient name="Mrs. Christen Dietrich"/>
+            <recipient name="Mr. Isabell McDermott"/>
+        </recipients>
+        <mentions>
+            <mention name="Colby Lubowitz"/>
+        </mentions>
+    </message>
+    <message id="1279" from="Amado Bailey" type="DDS">
+        <heading>Dear Dr. Brown. On the night that I go back in time, you will be shot by terrorists. Please take whatever precautions are necessary to prevent this terrible disaster. Your friend, Marty.</heading>
+        <body>Ea enim delectus laborum voluptatem architecto harum eum. Laborum illum aperiam id. Temporibus vero in non omnis. Qui commodi placeat voluptas officiis corporis. Beatae fugiat minus architecto voluptatem dicta id. Et odio voluptatem in rerum et. Aspernatur eius reiciendis cupiditate vitae eos. Laboriosam maxime beatae qui ut. Magni itaque et rerum.</body>
+        <recipients>
+            <recipient name="Willian Rodriguez"/>
+            <recipient name="Mrs. Ramiro Gorczany"/>
+            <recipient name="Shirly Leannon PhD"/>
+        </recipients>
+        <mentions>
+            <mention name="Lee Pfannerstill"/>
+            <mention name="Stanford Steuber IV"/>
+            <mention name="Miss Harlan Considine"/>
+        </mentions>
+    </message>
+</ns2:messages>

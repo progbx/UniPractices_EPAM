@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="5252" from="Charity Bruen" type="SMS">
+        <heading>Jesus, George, it was a wonder I was even born.</heading>
+        <body>Laudantium rerum magnam aliquid. Iusto ut perferendis. Repellat omnis optio dolorum iste sunt. Enim quaerat porro velit eius error aliquam doloremque. Facere nihil quia. Corrupti neque cumque unde est voluptatem labore. Esse cumque et quibusdam labore. Quis possimus quae omnis. Dolor harum aut ipsam ut eveniet.</body>
+        <recipients>
+            <recipient name="Antonia Leannon"/>
+            <recipient name="Devorah Fritsch"/>
+            <recipient name="Lana Wunsch"/>
+            <recipient name="Oren Dibbert"/>
+            <recipient name="Russel Daniel"/>
+            <recipient name="Phyliss Morar"/>
+            <recipient name="Colleen Kutch"/>
+            <recipient name="Ardella Kuphal"/>
+            <recipient name="Abigail Schulist"/>
+            <recipient name="Kendall Lynch"/>
+            <recipient name="Federico Mueller"/>
+            <recipient name="Jefferson Keebler"/>
+            <recipient name="Angelo Purdy"/>
+            <recipient name="Sherlyn Aufderhar"/>
+        </recipients>
+    </message>
+    <message id="4383" from="Maxine Collins MD" type="SMS">
+        <heading>Since when can weathermen predict the weather, let alone the future?</heading>
+        <body>Ratione consequatur nihil sed. Minima asperiores accusantium consequatur. Reprehenderit voluptatem reprehenderit doloremque nesciunt aut. Velit dolores voluptates inventore molestiae rerum ipsum. Eum distinctio culpa. Saepe excepturi adipisci a natus rem enim. Possimus ut sed non. Voluptatibus ad magnam debitis et ut culpa iusto. Animi repellendus sunt excepturi perspiciatis voluptatibus incidunt odit.</body>
+        <recipients>
+            <recipient name="Ted Morissette"/>
+            <recipient name="Pandora Emmerich"/>
+            <recipient name="Michel Effertz"/>
+            <recipient name="Ernestine Gibson"/>
+            <recipient name="Roxie Hills"/>
+            <recipient name="Thelma Treutel"/>
+            <recipient name="Edmund Pfannerstill"/>
+            <recipient name="Angelena Collins"/>
+            <recipient name="Garfield Kulas PhD"/>
+            <recipient name="Jed DuBuque"/>
+            <recipient name="Mr. Luis Moen"/>
+        </recipients>
+    </message>
+    <message id="9766" from="Demetrius Pouros V" type="SMS">
+        <heading>Look, you're not gonna be picking a fight, Dad... Dad-Dad-Daddy-O.</heading>
+        <body>Ipsa laborum veniam libero. Unde dolor iure voluptatibus officia aut animi ipsam. Velit ut illum nihil. Soluta sequi rerum voluptatem quia. Ducimus earum tenetur incidunt architecto. Illum error atque suscipit laboriosam cumque consectetur non. Impedit magnam delectus voluptatum quo. Maiores aut exercitationem provident harum qui sint. Temporibus quod sint quia.</body>
+        <recipients>
+            <recipient name="Erasmo Kertzmann DVM"/>
+            <recipient name="Jose Borer"/>
+            <recipient name="Naomi Swift"/>
+            <recipient name="Mrs. Librada Gerlach"/>
+            <recipient name="Pablo Paucek"/>
+            <recipient name="Emmaline Bogisich"/>
+            <recipient name="Ronda Spinka"/>
+            <recipient name="Dave Towne"/>
+            <recipient name="Gaston Steuber"/>
+        </recipients>
+        <mentions>
+            <mention name="Mac D'Amore"/>
+        </mentions>
+    </message>
+</ns2:messages>

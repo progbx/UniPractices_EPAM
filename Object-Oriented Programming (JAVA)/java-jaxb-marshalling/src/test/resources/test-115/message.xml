@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="925" from="Titus Rogahn" type="DDS">
+        <heading>Hey, McFly! I thought I told you never to come in here.</heading>
+        <body>Adipisci deleniti vitae. Quas autem omnis est ut atque consequatur. Quas qui vitae sapiente et rerum. Dolorem in aut blanditiis ab rem corporis. Itaque officiis ut facilis. Nihil dicta fugiat ab qui recusandae. Ut voluptas natus et. Animi id officia molestiae magnam sunt voluptatem. Similique delectus cumque totam et repellat.</body>
+        <recipients>
+            <recipient name="Mr. Colleen Corkery"/>
+            <recipient name="Yee Lehner"/>
+            <recipient name="Barry Auer II"/>
+            <recipient name="Walker Mann"/>
+            <recipient name="Amie Ondricka"/>
+            <recipient name="Neville Schroeder"/>
+            <recipient name="Nicholle Emard"/>
+        </recipients>
+    </message>
+    <message id="8406" from="Winston Veum III" type="MMS">
+        <heading>Hello? Hello? Anybody home? Huh? Think, McFly. Think! I gotta have time to get them retyped. Do you realize what would happen if I hand in my reports in your handwriting? I'll get fired. You wouldn't want that to happen, would ya? Would ya?</heading>
+        <body>Minus maxime itaque est velit assumenda quibusdam. Vitae ipsam ut quia ratione ipsa. Sint cupiditate reprehenderit dicta at unde necessitatibus odit. Ab ipsum autem cum iste. Est quasi eius non in ea laborum. Explicabo sit in similique earum ab voluptatem quis. Dolor deleniti sed. Enim et aut. Voluptas officia nobis deserunt.</body>
+        <recipients>
+            <recipient name="Isela Berge"/>
+            <recipient name="Douglas Hodkiewicz"/>
+            <recipient name="Buster Fadel II"/>
+            <recipient name="Fidelia Donnelly IV"/>
+            <recipient name="Britt Ryan DDS"/>
+            <recipient name="Ingeborg Jakubowski"/>
+            <recipient name="Pat Sipes"/>
+            <recipient name="Jewel Dicki"/>
+        </recipients>
+        <mentions>
+            <mention name="Kemberly Klein"/>
+            <mention name="Talisha Haley IV"/>
+            <mention name="Terri Schuppe"/>
+            <mention name="Fausto Weber"/>
+        </mentions>
+    </message>
+    <message id="7138" from="Jake Rohan" type="SMS">
+        <heading>Are you telling me that this sucker is nuclear?</heading>
+        <body>Magni est inventore explicabo molestias facere sed. Quibusdam aut laborum tenetur sequi. Quam nostrum non eum nisi non maxime. Est culpa quia. Qui dolor incidunt quos aut. Nostrum ipsa nulla velit. Magnam dolore hic.</body>
+        <recipients>
+            <recipient name="Ms. Dexter Carter"/>
+            <recipient name="Felicia Orn"/>
+            <recipient name="Asa Medhurst"/>
+            <recipient name="Nathanial Schiller"/>
+            <recipient name="Eddie Leannon"/>
+            <recipient name="Phillip Crist"/>
+        </recipients>
+    </message>
+    <message id="7171" from="Deon Zieme" type="AMQP">
+        <heading>He's an idiot. Comes from upbringing. His parents are probably idiots, too. Lorraine, you ever have a kid who acts that way, I'll disown you.</heading>
+        <body>Accusantium iure sit sint porro non fugiat. Officia amet repudiandae adipisci odit dignissimos ipsum. Sed neque eaque laborum. Et pariatur debitis odit sunt. Temporibus voluptates fugiat. Cupiditate autem et ut sit facilis. In blanditiis qui.</body>
+        <recipients>
+            <recipient name="Duane Stanton"/>
+            <recipient name="Rod Ondricka"/>
+            <recipient name="Sheldon Kreiger"/>
+            <recipient name="Rena McLaughlin"/>
+            <recipient name="Lucius Hackett"/>
+            <recipient name="Miss Ardell Bode"/>
+            <recipient name="Vern Renner"/>
+            <recipient name="Miss Renita O'Hara"/>
+            <recipient name="Darrick Rippin"/>
+            <recipient name="Tynisha Upton I"/>
+            <recipient name="Natisha Wilkinson"/>
+            <recipient name="Todd Rohan"/>
+        </recipients>
+    </message>
+    <message id="6849" from="Clyde Purdy" type="MMS">
+        <heading>We're the, uh... We're the Pinheads.</heading>
+        <body>Laudantium error sed at. Necessitatibus eius placeat. Omnis delectus voluptatum numquam reiciendis voluptatem cupiditate qui. Eaque ut libero. Repellat molestias ad vitae odio repudiandae blanditiis incidunt. Beatae placeat officia quia dignissimos enim voluptate eos. Et labore laboriosam rem sit tempore. Est nesciunt ut modi et maiores perferendis nesciunt.</body>
+        <recipients>
+            <recipient name="Dr. Malcolm Dibbert"/>
+            <recipient name="Mr. Kymberly Borer"/>
+            <recipient name="Elden McClure"/>
+            <recipient name="Mrs. Andreas Grant"/>
+            <recipient name="Christinia Hagenes"/>
+            <recipient name="Xiao Lynch Sr."/>
+        </recipients>
+    </message>
+    <message id="3544" from="Kenton Bruen DDS" type="SMS">
+        <heading>I can't believe you'd loan me your car without telling me it had a blind spot. I could've been killed!</heading>
+        <body>Ut qui eos qui et est sint. Labore esse assumenda. Mollitia et rem consequatur quod animi et. Aliquid laudantium ut vero qui aliquam corrupti aut. Facilis numquam perspiciatis. Molestiae eum ea voluptatem ut at veritatis. Alias vitae et.</body>
+        <recipients>
+            <recipient name="Eugene Jakubowski"/>
+            <recipient name="August Kilback"/>
+            <recipient name="Thomasina Howe"/>
+            <recipient name="Brook Bernhard"/>
+            <recipient name="Miss Margene Jast"/>
+            <recipient name="Rosette Walsh"/>
+            <recipient name="Everett Rowe"/>
+            <recipient name="Conrad Schamberger"/>
+            <recipient name="Roger Beer"/>
+            <recipient name="Ed Pacocha"/>
+            <recipient name="Joni Schaden"/>
+            <recipient name="Steven Hintz"/>
+        </recipients>
+        <mentions>
+            <mention name="Miss Tanika Sipes"/>
+            <mention name="Franklin Hickle"/>
+        </mentions>
+    </message>
+    <message id="216" from="Corrie Schamberger I" type="SMS">
+        <heading>It's gonna be really hard waiting 30 years before I can talk to you about everything that's happened in the past few days. I'm really gonna miss you, Marty.</heading>
+        <body>Labore earum nesciunt eveniet in reiciendis. Voluptatem qui qui ullam sapiente qui dolores. Consequatur possimus eos. Eligendi laudantium repudiandae dolores doloribus recusandae. Officiis labore ut mollitia aliquam cum aperiam. Iusto velit velit. Itaque necessitatibus adipisci enim iure voluptatibus.</body>
+        <recipients>
+            <recipient name="Ahmed D'Amore"/>
+            <recipient name="Kenna Strosin"/>
+            <recipient name="Mrs. Fredric Beatty"/>
+        </recipients>
+    </message>
+</ns2:messages>

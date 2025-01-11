@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="1096" from="Arlene Haley" type="AMQP">
+        <heading>We're the, uh... We're the Pinheads.</heading>
+        <body>Cupiditate sint voluptatem. Dolor nulla voluptas non. Qui in dolore deserunt non velit rerum. Rem eum veritatis unde ut vel. Qui sint laboriosam inventore qui. Ducimus vero eaque architecto numquam impedit. Quos aut occaecati fuga placeat architecto at. Dolore sed voluptatem nam.</body>
+        <recipients>
+            <recipient name="Norris Treutel"/>
+            <recipient name="Betsey Hirthe DVM"/>
+            <recipient name="Mrs. Lourdes Pollich"/>
+            <recipient name="Dr. Lemuel Weber"/>
+            <recipient name="Fredric Lemke I"/>
+            <recipient name="Shannon Miller"/>
+            <recipient name="Marybeth McLaughlin"/>
+            <recipient name="Ardell Schuster V"/>
+            <recipient name="Matthew Rosenbaum"/>
+            <recipient name="Mrs. Buster Runolfsdottir"/>
+            <recipient name="Chu Schiller Jr."/>
+            <recipient name="Dan Renner"/>
+            <recipient name="Erline Treutel"/>
+            <recipient name="Royce Durgan DDS"/>
+        </recipients>
+        <mentions>
+            <mention name="Shin Mertz"/>
+            <mention name="Nathaniel Carter"/>
+            <mention name="Magaly Hane"/>
+            <mention name="Dallas Lebsack"/>
+        </mentions>
+    </message>
+    <message id="4479" from="Art Leuschke I" type="MQTT">
+        <heading>Marty, will we ever see you again?</heading>
+        <body>Voluptas autem eius dolores. Reiciendis iste illum. Eligendi et aut eum omnis. Magni natus qui voluptas quis ea. Cum ipsum aut hic sed quae eius vitae. Quasi praesentium repellat nostrum voluptatem ex voluptate. Fugit iusto cum atque. Et quo hic eius illum. Qui illum fuga placeat perspiciatis aut.</body>
+        <recipients>
+            <recipient name="Miss Robbin Ruecker"/>
+            <recipient name="Jasmine Koepp"/>
+            <recipient name="Holli Wolff"/>
+            <recipient name="Dino McLaughlin V"/>
+            <recipient name="Dinah Koelpin"/>
+            <recipient name="Mario King"/>
+            <recipient name="Fermin Hansen"/>
+            <recipient name="Tawana Bergstrom"/>
+            <recipient name="Mr. Henrietta Ebert"/>
+        </recipients>
+        <mentions>
+            <mention name="Yaeko Kuhn Sr."/>
+        </mentions>
+    </message>
+    <message id="3972" from="Fritz Dooley" type="RCS">
+        <heading>Yeah, well, history is gonna change.</heading>
+        <body>Consequatur error odit eaque. Commodi possimus sed earum. Explicabo vel in illo. Ipsa maxime iure. Facere illum est quis et dicta impedit. Fuga dicta et laudantium ea pariatur. Laboriosam at quisquam neque explicabo quibusdam similique.</body>
+        <recipients>
+            <recipient name="Vashti Franecki"/>
+            <recipient name="Kiley Feest"/>
+            <recipient name="Lois Hettinger"/>
+            <recipient name="Hunter Hoeger"/>
+            <recipient name="Regena Brown"/>
+            <recipient name="Rey Jast"/>
+            <recipient name="Jesus Ward"/>
+            <recipient name="Kaci Lind"/>
+        </recipients>
+        <mentions>
+            <mention name="Wilburn Monahan"/>
+            <mention name="Damon Pouros"/>
+        </mentions>
+    </message>
+    <message id="9769" from="Toby Hettinger" type="IRC">
+        <heading>Calvin? Wh... Why do you keep calling me Calvin?</heading>
+        <body>Alias iste libero et. Rerum ut sunt ex ullam hic. Tempore commodi ad. Et magni corrupti omnis. Nostrum ea delectus omnis voluptatem cum. Commodi beatae enim aspernatur. Aut facilis iusto adipisci dolor excepturi mollitia facilis.</body>
+        <recipients>
+            <recipient name="Coral Hyatt"/>
+            <recipient name="Kaci Block III"/>
+            <recipient name="Ashton Koelpin DDS"/>
+            <recipient name="Juliann Bailey"/>
+            <recipient name="Chuck Farrell"/>
+            <recipient name="Keena Carter"/>
+            <recipient name="Mrs. Myron Cassin"/>
+            <recipient name="Miss Janeen Wilderman"/>
+            <recipient name="Devon Sipes IV"/>
+            <recipient name="Bryant Weber III"/>
+            <recipient name="Henry Mills"/>
+        </recipients>
+        <mentions>
+            <mention name="Guillermo Miller"/>
+            <mention name="Ronni Nitzsche"/>
+            <mention name="Cheryle Reichel"/>
+            <mention name="Mrs. Elinore Konopelski"/>
+        </mentions>
+    </message>
+</ns2:messages>

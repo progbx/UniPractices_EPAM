@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="6732" from="Stevie Cruickshank" type="MMS">
+        <heading>I have your car towed all the way to your house and all you got for me is lite beer?</heading>
+        <body>Assumenda molestiae et sequi illum quo repellat. Et veniam odio. Reprehenderit soluta nisi aut. Omnis officia dolor. Blanditiis sed vel voluptas eos nulla ut. Officiis esse dolores. Odit voluptatem consectetur atque. Dignissimos dicta non.</body>
+        <recipients>
+            <recipient name="Lou Douglas"/>
+            <recipient name="Olevia Franecki"/>
+            <recipient name="Don Kuhlman"/>
+            <recipient name="Ms. Earle Lakin"/>
+            <recipient name="Lashay McGlynn"/>
+            <recipient name="Dr. Grant Dach"/>
+            <recipient name="Janee Nitzsche"/>
+            <recipient name="Johnetta Murphy"/>
+            <recipient name="Jung Brakus"/>
+            <recipient name="Adolfo Hegmann"/>
+            <recipient name="Kurtis Hessel"/>
+        </recipients>
+    </message>
+</ns2:messages>

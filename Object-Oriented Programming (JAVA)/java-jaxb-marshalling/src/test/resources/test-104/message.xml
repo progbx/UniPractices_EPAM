@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="4901" from="Mrs. Marquita Schamberger" type="SMTP">
+        <heading>Oh, that's Joey. He cries when we take him out so we just leave him in there.</heading>
+        <body>Voluptate consectetur eum est. Blanditiis suscipit deleniti at eveniet odio doloremque. Expedita architecto pariatur neque et. Quis corporis ut optio. Occaecati ullam et quis voluptas quasi cupiditate necessitatibus. Consequatur quasi soluta rem iste assumenda repellendus. Qui autem consectetur et. Eveniet quia sint corporis eum.</body>
+        <recipients>
+            <recipient name="Renea Waters Sr."/>
+            <recipient name="Mrs. Kum Stanton"/>
+            <recipient name="Pearlie Toy"/>
+            <recipient name="Mrs. Genie Paucek"/>
+            <recipient name="Gennie Casper"/>
+            <recipient name="Ms. Kristal Walsh"/>
+            <recipient name="Harry Luettgen"/>
+            <recipient name="Ms. Luigi Ferry"/>
+            <recipient name="Dr. Irving Ernser"/>
+        </recipients>
+        <mentions>
+            <mention name="Mrs. Wynona Pfeffer"/>
+        </mentions>
+    </message>
+    <message id="2388" from="Annice Borer" type="DDS">
+        <heading>He's an absolute dream!</heading>
+        <body>Consequatur omnis non. Et laudantium omnis autem facilis laboriosam in. Consequatur dolor officia assumenda distinctio nisi dolorem beatae. Corrupti officiis non molestias provident reprehenderit eveniet. Perferendis cupiditate numquam temporibus. Rerum repellat velit doloribus molestias. Vero magnam rerum quisquam numquam. Recusandae facere sed porro.</body>
+        <recipients>
+            <recipient name="Ivory Gleichner"/>
+            <recipient name="Jesus Stiedemann Jr."/>
+            <recipient name="Mr. Zackary Schoen"/>
+            <recipient name="Solange Halvorson"/>
+            <recipient name="Bradly Von"/>
+            <recipient name="Von Swaniawski II"/>
+        </recipients>
+        <mentions>
+            <mention name="Zelda Armstrong"/>
+            <mention name="Muriel Spinka"/>
+            <mention name="Reed Christiansen"/>
+        </mentions>
+    </message>
+    <message id="5697" from="Shawn Kuhn" type="DDS">
+        <heading>Hey, McFly! I thought I told you never to come in here.</heading>
+        <body>Suscipit rem error et reiciendis autem occaecati harum. Dolorem numquam aut perspiciatis. Et corrupti omnis earum deleniti. Ex et ducimus inventore quia sed cum. Sit sit quidem. Neque numquam repellat. Non dolorem tempore rerum aliquid. Aspernatur sint itaque molestias et laudantium consectetur quia.</body>
+        <recipients>
+            <recipient name="Mrs. Richie Hyatt"/>
+            <recipient name="Alfred Rutherford"/>
+            <recipient name="Phyliss McDermott"/>
+            <recipient name="Rosetta King"/>
+            <recipient name="Mikki Lakin"/>
+        </recipients>
+        <mentions>
+            <mention name="Edyth Roob"/>
+            <mention name="Celestine Kshlerin"/>
+            <mention name="Isiah Bogan"/>
+            <mention name="Freddie Stoltenberg DVM"/>
+        </mentions>
+    </message>
+</ns2:messages>

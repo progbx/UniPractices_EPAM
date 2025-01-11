@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="8777" from="Miss Adalberto Monahan" type="SMTP">
+        <heading>Radiation suit? Of course. 'Cause of all the fallout from the atomic wars.</heading>
+        <body>Vel voluptatem nam non voluptas minus consequuntur et. Itaque magnam voluptatem. Est exercitationem non vero repudiandae sed nemo eum. Voluptas vitae reprehenderit. Veniam voluptates cumque quaerat aut sequi consequatur. Aut non assumenda praesentium. Nemo eos consequatur. Recusandae recusandae aut et necessitatibus modi libero voluptatem. Facilis consequuntur aut voluptate neque quis qui.</body>
+        <recipients>
+            <recipient name="Issac Block"/>
+            <recipient name="Derek Powlowski"/>
+            <recipient name="Shenika Thompson"/>
+            <recipient name="Shaun Leuschke"/>
+        </recipients>
+    </message>
+    <message id="7072" from="Sammie Flatley Jr." type="SMTP">
+        <heading>You really think I ought to swear?</heading>
+        <body>Ea rerum similique qui est blanditiis. Nobis facilis nihil. Maxime eius repellendus est et. At pariatur laborum dolores aut et. Qui consequuntur at. Et commodi corrupti iusto. Distinctio consequatur voluptatem omnis est aut. Qui architecto ipsam. Est eius eum.</body>
+        <recipients>
+            <recipient name="Britany Willms"/>
+            <recipient name="Kelsie Mosciski"/>
+            <recipient name="Maximo Little"/>
+        </recipients>
+    </message>
+    <message id="3024" from="Gail VonRueden" type="SMTP">
+        <heading>Hey, you! Get your damn hands off her!</heading>
+        <body>Non fugit voluptas ut. Sint aut odio. Ullam voluptas provident eos dignissimos dolores minus. Sint voluptates commodi molestias quae. Quia commodi ea. In ex consequatur illo tempora voluptas inventore. Nihil voluptatem omnis qui alias suscipit illum.</body>
+        <recipients>
+            <recipient name="Keenan Jacobson"/>
+            <recipient name="Dinah Erdman MD"/>
+            <recipient name="Raguel Satterfield"/>
+            <recipient name="Shirley Rau"/>
+            <recipient name="Ronda Cassin"/>
+            <recipient name="Harry Kunde"/>
+            <recipient name="Delbert King"/>
+            <recipient name="Lucretia Emmerich"/>
+            <recipient name="Dayna Kautzer"/>
+            <recipient name="Mrs. Lorrine McDermott"/>
+        </recipients>
+    </message>
+    <message id="1381" from="Alexander Brekke" type="SMTP">
+        <heading>Damn! I'm late for school!</heading>
+        <body>Facere ut quasi odio qui incidunt illum qui. Autem aut aut officiis exercitationem. Provident ut iste ab eos ipsa. Commodi aut ut esse quo hic consequatur dolor. Modi consequatur assumenda delectus ratione expedita. Fuga sunt qui. Maiores officia voluptas et.</body>
+        <recipients>
+            <recipient name="Rodney Schinner"/>
+            <recipient name="Mariann Davis"/>
+            <recipient name="Eilene Bayer"/>
+            <recipient name="Mikki Senger"/>
+            <recipient name="Jermaine Goodwin II"/>
+            <recipient name="Doretta Walker"/>
+            <recipient name="Miss Wilfred Strosin"/>
+            <recipient name="Calandra Wiza PhD"/>
+        </recipients>
+    </message>
+    <message id="446" from="Carleen Marks" type="SMTP">
+        <heading>Hey, Dad! George! Hey, you on the bike!</heading>
+        <body>Saepe est omnis repellat hic in eligendi. In et quo voluptas consequatur aut nisi. Maiores sit sapiente fuga nisi. Commodi iure consequatur aut et eligendi porro. Optio culpa totam est et animi. Alias sunt quam. Mollitia perferendis commodi.</body>
+        <recipients>
+            <recipient name="Dionne Morissette"/>
+            <recipient name="Faustina Hodkiewicz"/>
+            <recipient name="Ms. Yetta Schoen"/>
+            <recipient name="Ralph Abbott"/>
+            <recipient name="Miss Gregory Moore"/>
+            <recipient name="Miss Johnie Casper"/>
+        </recipients>
+    </message>
+</ns2:messages>

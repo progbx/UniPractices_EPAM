@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="859" from="Miss Melba Daniel" type="XMPP">
+        <heading>Course! From a group of Lybian Nationalists They wanted me to build them a bomb, so I took their plutonium and in turn I gave them a shiny bomb caseing full of used pinball machine parts!</heading>
+        <body>Eligendi voluptas suscipit. Ex molestiae impedit porro quos voluptas aspernatur impedit. Nihil porro sint nesciunt suscipit quis ipsum. Ea eaque cupiditate. Id omnis ab blanditiis odio nihil. Harum hic voluptates doloribus et consequatur. Debitis qui repellat vel. Beatae facere dolorem ut dolorem.</body>
+        <recipients>
+            <recipient name="Thao Prosacco"/>
+            <recipient name="Cecile Hegmann"/>
+            <recipient name="Anita Brown"/>
+            <recipient name="Shelton Jacobs III"/>
+            <recipient name="Malcom Stamm"/>
+            <recipient name="Weldon Cruickshank Sr."/>
+            <recipient name="Jeff Gerhold MD"/>
+            <recipient name="Lyman Kemmer"/>
+            <recipient name="Afton Spinka"/>
+            <recipient name="Donn Marks"/>
+            <recipient name="Arlette Champlin DVM"/>
+            <recipient name="Theodore Ward"/>
+            <recipient name="Dr. Marceline Stanton"/>
+            <recipient name="Dr. Kathrine Dare"/>
+        </recipients>
+    </message>
+</ns2:messages>

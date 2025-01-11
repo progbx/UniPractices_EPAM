@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="887" from="Madalyn Harvey" type="SMS">
+        <heading>I finally invent something that works!</heading>
+        <body>Quasi repudiandae laudantium et reprehenderit eveniet. Eum nulla et sed. Eaque delectus delectus. Eos voluptatem velit. Quis accusamus dolorem consequatur. Debitis quo qui. Neque eligendi quasi. Alias laborum et ut.</body>
+        <recipients>
+            <recipient name="Arturo Weimann"/>
+            <recipient name="Pasquale Mante"/>
+            <recipient name="Ms. Casey Lang"/>
+            <recipient name="Mrs. Vinita Bins"/>
+            <recipient name="Ms. Dwain Gibson"/>
+            <recipient name="Ms. Caleb Sipes"/>
+            <recipient name="Mr. Elayne Prosacco"/>
+            <recipient name="Mrs. Coralee Hessel"/>
+        </recipients>
+    </message>
+</ns2:messages>

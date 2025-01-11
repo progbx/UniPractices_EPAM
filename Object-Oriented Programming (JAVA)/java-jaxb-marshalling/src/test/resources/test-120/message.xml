@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="7322" from="Miss Vasiliki Greenholt" type="AMQP">
+        <heading>Ah, Jesus Christ! Jesus Christ, Doc, you disintegrated Einstein!</heading>
+        <body>Quaerat libero aspernatur nisi nobis officia. Molestias ipsam distinctio velit non voluptatem exercitationem. Atque exercitationem rem sunt ad beatae. Tenetur quo molestias. Sint quibusdam voluptatem ipsam. Optio voluptatem quam eum veritatis. Ipsa debitis est blanditiis aut expedita. Voluptatem voluptatem ut accusamus. Id aut nihil ducimus et.</body>
+        <recipients>
+            <recipient name="Maurice Brown"/>
+            <recipient name="Joette Hammes"/>
+            <recipient name="Daniel Kunze"/>
+            <recipient name="Ethan Reilly"/>
+            <recipient name="Roger Huels"/>
+            <recipient name="Helaine Hilpert"/>
+            <recipient name="Mrs. Magan Corkery"/>
+            <recipient name="Zane Schowalter"/>
+            <recipient name="Sebastian Kunze"/>
+            <recipient name="Lawerence Grant"/>
+            <recipient name="Ashley Kozey"/>
+            <recipient name="Jovan Russel"/>
+            <recipient name="Aleida Renner"/>
+            <recipient name="Barry Boyer"/>
+            <recipient name="Mrs. Alfonzo Kessler"/>
+        </recipients>
+        <mentions>
+            <mention name="Danille Bednar"/>
+            <mention name="Ashly Padberg"/>
+            <mention name="Brinda Hills"/>
+        </mentions>
+    </message>
+    <message id="3003" from="Ione Brekke" type="MQTT">
+        <heading>You want a Pepsi, pal, you're gonna pay for it.</heading>
+        <body>Perspiciatis tempore ut soluta. Esse ipsam nesciunt qui voluptas itaque perferendis dicta. Qui eligendi non ut. Qui possimus aut. Distinctio aut expedita rerum laboriosam. Facere iste magnam. Eos eum autem.</body>
+        <recipients>
+            <recipient name="Anastacia Jaskolski"/>
+            <recipient name="Carmella Daniel"/>
+            <recipient name="Belle Monahan"/>
+            <recipient name="Beau Gorczany"/>
+            <recipient name="Coleman Auer"/>
+            <recipient name="Lowell Kulas"/>
+            <recipient name="Rocky Bernier Sr."/>
+            <recipient name="Mr. Guillermina Swift"/>
+        </recipients>
+        <mentions>
+            <mention name="Quyen Grimes"/>
+            <mention name="Ghislaine Kunze PhD"/>
+        </mentions>
+    </message>
+    <message id="1406" from="Dylan Vandervort" type="SMTP">
+        <heading>Lorraine. My density has brought me to you.</heading>
+        <body>Libero consequuntur at suscipit quo minima eos. Suscipit enim nisi saepe nostrum aspernatur illo quasi. Eum et possimus velit a impedit excepturi soluta. Iure in beatae veniam non accusantium sit. Impedit nemo repudiandae. Aut quo dolores eius id voluptatem. Culpa velit vitae saepe eveniet voluptas quia rerum. Id beatae ratione officia molestiae ab tempora.</body>
+        <recipients>
+            <recipient name="Stanford Hodkiewicz"/>
+            <recipient name="Mrs. Domingo Hegmann"/>
+            <recipient name="Mr. Gia Rau"/>
+            <recipient name="Mathew Zemlak"/>
+            <recipient name="Jerry Jones"/>
+            <recipient name="Armando Pollich"/>
+        </recipients>
+        <mentions>
+            <mention name="Valentin Stamm"/>
+            <mention name="Kory Hintz II"/>
+            <mention name="Deena Crooks"/>
+            <mention name="Rosemarie Olson"/>
+        </mentions>
+    </message>
+    <message id="7988" from="Glenna Veum" type="RCS">
+        <heading>Dear Dr. Brown. On the night that I go back in time, you will be shot by terrorists. Please take whatever precautions are necessary to prevent this terrible disaster. Your friend, Marty.</heading>
+        <body>Rerum iure id dolorum officiis explicabo qui. Quo aspernatur fuga architecto et quis maiores omnis. Consequatur molestiae necessitatibus aliquid alias ut accusamus. Quia repellat voluptas nobis. Temporibus totam quis quia quia doloribus. Maxime enim saepe laboriosam rerum. Officiis similique maiores officiis rem est iusto. Ut dignissimos qui autem. Tempora debitis velit cumque et quisquam explicabo.</body>
+        <recipients>
+            <recipient name="Miss Caren Schaden"/>
+            <recipient name="Antoine Fritsch DVM"/>
+            <recipient name="Londa Pfannerstill"/>
+            <recipient name="Jerald Yundt"/>
+            <recipient name="Sol Gottlieb"/>
+            <recipient name="Shandra Heidenreich"/>
+            <recipient name="Garret Durgan II"/>
+            <recipient name="Dr. Fritz Aufderhar"/>
+            <recipient name="Miss Ahmed Schuster"/>
+            <recipient name="Joan Shanahan"/>
+            <recipient name="Susannah Kub"/>
+            <recipient name="Chi Dickinson"/>
+            <recipient name="Vince Grant IV"/>
+            <recipient name="Miss Teressa Carter"/>
+            <recipient name="Dr. Buford Hansen"/>
+        </recipients>
+        <mentions>
+            <mention name="Tyron Casper PhD"/>
+            <mention name="Hortencia Lueilwitz"/>
+            <mention name="Rosy Kris"/>
+        </mentions>
+    </message>
+    <message id="6730" from="Noel Nolan" type="SMS">
+        <heading>Yeah, well, history is gonna change.</heading>
+        <body>Et consequatur tempore. Molestias in alias nisi. Ea nobis ipsum mollitia et cupiditate qui dolores. Ea qui aut numquam doloremque doloremque. Accusantium natus et non autem laboriosam iusto. Ratione maxime ut aut ab numquam. Eum eaque rerum commodi. Modi dolores dolorum. Nulla architecto voluptate velit quis.</body>
+        <recipients>
+            <recipient name="Whitney Hand"/>
+            <recipient name="Darron Glover"/>
+            <recipient name="Micah Lebsack DDS"/>
+            <recipient name="Kenny Davis"/>
+            <recipient name="Milton Spencer III"/>
+            <recipient name="Malia Mante"/>
+        </recipients>
+        <mentions>
+            <mention name="Porfirio Willms"/>
+        </mentions>
+    </message>
+</ns2:messages>

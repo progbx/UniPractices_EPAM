@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="1312" from="Reagan Wehner" type="DDS">
+        <heading>He's a Peeping Tom!</heading>
+        <body>Delectus in nemo. Cumque vero qui reprehenderit qui molestiae quisquam. Consequatur laboriosam odio quia. Quibusdam ab delectus est consequatur aliquid enim doloremque. Totam eveniet nihil eos harum cum sequi. Similique facere id corporis voluptas enim nihil nam. Qui qui suscipit perspiciatis autem nisi. Amet distinctio et nulla facere sit sapiente. Ipsam assumenda deleniti quibusdam temporibus repudiandae autem dolores.</body>
+        <recipients>
+            <recipient name="Julienne Bergstrom DDS"/>
+            <recipient name="Adeline Walker"/>
+            <recipient name="Wayne Goldner DVM"/>
+            <recipient name="Taylor Kilback"/>
+            <recipient name="Kip Goyette"/>
+        </recipients>
+        <mentions>
+            <mention name="Columbus Stanton"/>
+            <mention name="Melodi Walter"/>
+            <mention name="Mallory Nader"/>
+        </mentions>
+    </message>
+    <message id="5941" from="Hermelinda Corwin MD" type="XMPP">
+        <heading>Am I to understand you're still hanging around with Dr. Emmett Brown, McFly?</heading>
+        <body>Nam harum autem corporis incidunt est. Dolore pariatur voluptas voluptatibus. Vero qui odit iure accusamus. Quasi quos ipsa iusto ut. Fuga a aperiam laboriosam dolores eligendi ut. Neque in vel. Voluptatum omnis enim et officia cupiditate.</body>
+        <recipients>
+            <recipient name="Mia Mills"/>
+            <recipient name="Yang Mayer"/>
+            <recipient name="Trenton Sauer"/>
+            <recipient name="Lizbeth Tromp"/>
+            <recipient name="Loura Kuhic"/>
+            <recipient name="Khadijah Schowalter"/>
+            <recipient name="Coralie Marvin"/>
+            <recipient name="Dr. Synthia Nienow"/>
+            <recipient name="Mr. Brent Kulas"/>
+            <recipient name="Arron Dickens"/>
+            <recipient name="Collene Reilly"/>
+            <recipient name="Marco Rogahn"/>
+            <recipient name="Tarsha Zieme Sr."/>
+            <recipient name="Jeane Sipes PhD"/>
+        </recipients>
+        <mentions>
+            <mention name="Donnie Flatley"/>
+            <mention name="Michale Morissette"/>
+            <mention name="Sydney Reichel"/>
+            <mention name="Valentine Metz"/>
+        </mentions>
+    </message>
+</ns2:messages>

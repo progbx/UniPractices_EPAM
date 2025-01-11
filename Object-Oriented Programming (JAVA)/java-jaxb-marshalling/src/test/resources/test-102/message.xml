@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="7100" from="Brooks Upton" type="SMTP">
+        <heading>Oh, honey, he's teasing you. Nobody has two television sets.</heading>
+        <body>Ullam sed et. Eos libero illo rerum qui omnis recusandae rerum. Et error illum. Suscipit ut tempora fugiat autem sit. Non ab veritatis eligendi tempora. Et blanditiis at ea vel laborum est. Sunt eum ut autem ad ut quam sequi.</body>
+        <recipients>
+            <recipient name="Steven Kreiger DDS"/>
+            <recipient name="Shaun Luettgen"/>
+            <recipient name="Rosanna Upton"/>
+            <recipient name="Mack Beier"/>
+            <recipient name="Ronny Parker"/>
+            <recipient name="Dan Fay"/>
+            <recipient name="Gabriele Hessel"/>
+            <recipient name="Perry Bednar"/>
+            <recipient name="Adelaida Carroll"/>
+        </recipients>
+        <mentions>
+            <mention name="Mandy Jerde PhD"/>
+            <mention name="Monty Durgan"/>
+            <mention name="Amina Upton"/>
+        </mentions>
+    </message>
+    <message id="2265" from="Preston Torphy" type="MMS">
+        <heading>Now, Biff, I want to make sure that we get two coats of wax this time, not just one.</heading>
+        <body>Laudantium voluptatem ut veritatis inventore qui aut. Culpa recusandae optio recusandae. Impedit ea eos ea laudantium. Quia veritatis laboriosam sed. Eum dolor ab quas et debitis fugit. Quaerat non sit. Et nobis consequatur omnis quasi fugit.</body>
+        <recipients>
+            <recipient name="Johnson Hirthe"/>
+            <recipient name="Dr. Evan Herzog"/>
+            <recipient name="Dr. Harold Grant"/>
+        </recipients>
+        <mentions>
+            <mention name="Clyde Feil DVM"/>
+            <mention name="Eugenio Waters"/>
+            <mention name="Drew O'Connell III"/>
+        </mentions>
+    </message>
+    <message id="117" from="Kurtis O'Conner" type="IRC">
+        <heading>You're late! Do you have no concept of time?</heading>
+        <body>Optio possimus laborum consequatur debitis. At dolores eos qui odit ea in earum. Aut qui debitis deleniti tempore sit. Alias ipsum eligendi quo fuga libero. Eos esse beatae voluptatibus illum iste ut iste. Sapiente quis consequuntur nihil est fugit. Modi optio dolores. Et cupiditate pariatur aliquid. Id maxime praesentium sit officia ea tempora.</body>
+        <recipients>
+            <recipient name="Pasquale Barrows"/>
+            <recipient name="Cleveland Hauck"/>
+            <recipient name="Migdalia Hammes DVM"/>
+            <recipient name="Dreama Raynor"/>
+        </recipients>
+        <mentions>
+            <mention name="Maisie Gaylord"/>
+        </mentions>
+    </message>
+    <message id="9337" from="Miss Beatrice Yundt" type="XMPP">
+        <heading>You really think I ought to swear?</heading>
+        <body>Quia autem quidem dolor error eveniet debitis et. Velit sunt sed. Magni sunt earum voluptatem nemo. Quo voluptas nulla similique velit illo. Et natus occaecati ea. Quibusdam officia in. Beatae tenetur pariatur voluptas repellendus id ut. Dignissimos magnam nihil.</body>
+        <recipients>
+            <recipient name="Rochel Boehm"/>
+            <recipient name="Jolanda Maggio"/>
+            <recipient name="Frederica Becker"/>
+            <recipient name="Mohammad Hammes"/>
+            <recipient name="Peg Harvey"/>
+            <recipient name="Neville Mertz I"/>
+            <recipient name="Tobie Sipes"/>
+            <recipient name="Nada Zulauf V"/>
+            <recipient name="Margrett Abbott"/>
+            <recipient name="Mrs. Cordell Hammes"/>
+            <recipient name="Gigi Yost"/>
+            <recipient name="Kathryn Roob"/>
+            <recipient name="Dr. Mozell Abshire"/>
+        </recipients>
+        <mentions>
+            <mention name="Errol Franecki"/>
+        </mentions>
+    </message>
+</ns2:messages>

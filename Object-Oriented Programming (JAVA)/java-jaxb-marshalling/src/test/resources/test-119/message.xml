@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="3410" from="Bernadine Schoen PhD" type="SMS">
+        <heading>Hey, hey, listen, guys... Look, I don't wanna mess with no reefer addicts, okay?</heading>
+        <body>Omnis natus sed et. Eum unde laborum magnam qui id. Vero optio earum unde esse officiis modi. Voluptas rerum illum suscipit. Provident modi sed aut ea nemo et. Animi optio eveniet praesentium aut. Aut ut et sit magni ipsam. Et dolores odit soluta. Suscipit maxime a explicabo rerum aperiam ducimus.</body>
+        <recipients>
+            <recipient name="Edgar Marquardt DDS"/>
+            <recipient name="Loni Homenick"/>
+            <recipient name="Mr. Lawrence Koepp"/>
+            <recipient name="Charles Ondricka Sr."/>
+            <recipient name="Ismael Swaniawski"/>
+            <recipient name="Noemi Ziemann"/>
+        </recipients>
+    </message>
+</ns2:messages>

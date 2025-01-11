@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="5897" from="Lon Swaniawski" type="XMPP">
+        <heading>Who's President of the United States in 1985? Ronald Reagan? The actor? Ha! Then whose vice president? Jerry Lewis?</heading>
+        <body>Suscipit dicta et minima. Et repudiandae ut nulla sed quasi. Aut recusandae quidem voluptatem enim in tempora officia. Consequatur voluptatibus cupiditate quis expedita quam aliquid ea. Et sed corrupti iste asperiores mollitia. Et recusandae ea corporis veritatis. Nostrum repudiandae voluptatum. Nobis qui vitae veniam.</body>
+        <recipients>
+            <recipient name="Rodger Stokes"/>
+            <recipient name="Bianca Cummerata"/>
+            <recipient name="Shelby Boyer PhD"/>
+            <recipient name="Miss Earnest Halvorson"/>
+            <recipient name="Dr. Sandi Nader"/>
+            <recipient name="Herman Metz"/>
+            <recipient name="Ms. Sondra Kihn"/>
+            <recipient name="Brendan Johnston"/>
+            <recipient name="Valarie Oberbrunner"/>
+        </recipients>
+        <mentions>
+            <mention name="Dillon VonRueden"/>
+        </mentions>
+    </message>
+    <message id="1434" from="Latisha Goyette" type="IRC">
+        <heading>No, get out of town. My mom thinks I'm going camping with the guys. Look, Jennifer, my mother would freak out if she knew I was going out with you, and I'd get the standard lecture about how she never did that kind of stuff when she was a kid. I mean, look, I think the woman was born a nun.</heading>
+        <body>Nihil quibusdam placeat similique qui totam autem. Dolorum iste consequuntur ad minima est illum accusamus. Nihil ea officiis sint quis reprehenderit ea illo. Tempora sit quia consequatur aut officia voluptate. Ut nihil non. Nihil distinctio repellendus similique qui modi. Qui nostrum est soluta ipsum. Tempora eligendi illum cum facere qui velit aut. Maiores qui neque consequatur quis totam nostrum.</body>
+        <recipients>
+            <recipient name="Marcelo Walker"/>
+            <recipient name="Nestor Johnston"/>
+            <recipient name="Eddy Turner"/>
+        </recipients>
+        <mentions>
+            <mention name="Wilbert Wiza Sr."/>
+            <mention name="Margert Howell"/>
+            <mention name="Kattie Tillman PhD"/>
+        </mentions>
+    </message>
+    <message id="9634" from="Whitney Hartmann MD" type="SMS">
+        <heading>Dear Dr. Brown. On the night that I go back in time, you will be shot by terrorists. Please take whatever precautions are necessary to prevent this terrible disaster. Your friend, Marty.</heading>
+        <body>Aspernatur vero saepe. Et iusto ut. Hic ad et qui sit suscipit et et. Sint molestiae possimus consequatur quas at architecto et. Reiciendis alias quia quod explicabo dolor nisi. Sunt error accusantium cum non corporis hic. Doloremque voluptate omnis quae mollitia possimus aut. Aut quam qui hic tempore.</body>
+        <recipients>
+            <recipient name="Tatyana Orn"/>
+            <recipient name="Tarra McLaughlin III"/>
+            <recipient name="Jonathan Hamill"/>
+            <recipient name="Elias Dooley V"/>
+            <recipient name="Joesph Rutherford"/>
+            <recipient name="Sabra Balistreri"/>
+            <recipient name="Rolland Bernhard"/>
+            <recipient name="Kisha Donnelly"/>
+            <recipient name="Hosea Leuschke V"/>
+            <recipient name="Rachell Cruickshank"/>
+        </recipients>
+        <mentions>
+            <mention name="Rashad O'Hara"/>
+            <mention name="Santana Hackett PhD"/>
+        </mentions>
+    </message>
+    <message id="2065" from="Hung Greenfelder" type="MQTT">
+        <heading>Well, you're safe and sound now, back in good old 1955.</heading>
+        <body>Ullam cumque unde totam. Expedita laudantium distinctio voluptas inventore. Facere adipisci aliquid soluta provident eveniet ex. Totam quia inventore qui ut nobis. Reiciendis dolorem non cupiditate eveniet rerum. Autem doloremque sed. Illum quaerat nihil doloribus modi ad.</body>
+        <recipients>
+            <recipient name="Refugio Frami"/>
+            <recipient name="Ms. Ladonna Spencer"/>
+            <recipient name="Mr. Asley Bode"/>
+            <recipient name="Tuan Wintheiser"/>
+            <recipient name="Drusilla Lakin"/>
+            <recipient name="Edwardo Crooks Jr."/>
+            <recipient name="Earlean Gerlach"/>
+            <recipient name="Rocio Kris Sr."/>
+            <recipient name="Ms. Glen Schoen"/>
+            <recipient name="Arlean Friesen"/>
+            <recipient name="Clayton Bailey"/>
+            <recipient name="Guadalupe Rodriguez"/>
+            <recipient name="Stanford Kemmer"/>
+        </recipients>
+        <mentions>
+            <mention name="Salvatore Batz Jr."/>
+            <mention name="Jonathan Johnston"/>
+        </mentions>
+    </message>
+    <message id="1062" from="Evia Botsford" type="MMS">
+        <heading>Silence, Earthling. My name is Darth Vader. I am an extraterrestrial from the planet Vulcan!</heading>
+        <body>Repellendus nam facere neque debitis rerum placeat atque. Quas nihil iusto quaerat dolor consequuntur quis eum. Alias dolorem corrupti quisquam quam cupiditate sequi in. Dolorem magni consequuntur aut aliquid est. Sint sed quam autem voluptatum alias. Nemo quisquam ut quia. Dolorem qui veritatis dolor. Ipsum saepe qui qui ut dolore.</body>
+        <recipients>
+            <recipient name="Tawnya Mueller"/>
+            <recipient name="Tia Borer"/>
+            <recipient name="Arlen Swift MD"/>
+            <recipient name="Ms. Lahoma Gleason"/>
+            <recipient name="Wm Barton Sr."/>
+            <recipient name="Jess McLaughlin"/>
+            <recipient name="Haywood Carroll"/>
+            <recipient name="Carlie Kuhic"/>
+            <recipient name="Buck Schumm"/>
+            <recipient name="Gianna Swaniawski"/>
+            <recipient name="Mr. Christian Kuhlman"/>
+        </recipients>
+        <mentions>
+            <mention name="Claud Feest"/>
+            <mention name="Walton Kirlin"/>
+        </mentions>
+    </message>
+</ns2:messages>

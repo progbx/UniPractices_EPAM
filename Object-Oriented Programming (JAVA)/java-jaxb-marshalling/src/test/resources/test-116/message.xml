@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="8891" from="Georgianne Carter" type="SMTP">
+        <heading>Hello? Hello? Anybody home? Huh? Think, McFly. Think! I gotta have time to get them retyped. Do you realize what would happen if I hand in my reports in your handwriting? I'll get fired. You wouldn't want that to happen, would ya? Would ya?</heading>
+        <body>Exercitationem hic saepe rerum voluptatum ullam. Sed ut dolorem architecto eveniet et. Provident sequi laborum. Iusto maxime veritatis vero. Aspernatur officiis in voluptatem ipsum labore non consequatur. Aut odit laboriosam sed architecto aut enim. Nostrum et soluta modi corporis. Quas blanditiis maxime.</body>
+        <recipients>
+            <recipient name="Robin Lesch"/>
+            <recipient name="Mary Wehner DVM"/>
+            <recipient name="Ozzie Goodwin"/>
+            <recipient name="Keila Reichert"/>
+            <recipient name="Carl Kub"/>
+            <recipient name="Miss Janay Aufderhar"/>
+            <recipient name="Taryn Jakubowski"/>
+            <recipient name="Tawna Bode"/>
+            <recipient name="Corliss O'Hara"/>
+            <recipient name="Dollie Shields"/>
+            <recipient name="Elicia Wisoky"/>
+            <recipient name="Cira Lowe"/>
+            <recipient name="Dr. Elmer Wolff"/>
+            <recipient name="Milan Wintheiser"/>
+        </recipients>
+        <mentions>
+            <mention name="Rachal Gusikowski"/>
+            <mention name="Malik Gislason"/>
+            <mention name="Soila Huel"/>
+        </mentions>
+    </message>
+    <message id="4431" from="Ms. Kena Schultz" type="SMTP">
+        <heading>It's already mutated into human form! Shoot it!</heading>
+        <body>Quod nostrum sit odio error natus est ex. Qui in optio. Non aut reiciendis quas facilis. Aut dolorum voluptatum. Eius vel at pariatur repellendus eum dolor. Saepe perspiciatis pariatur omnis dolor aut provident. Voluptatem sit asperiores dolor. Consequatur culpa et ut non sed error. Quo aut in.</body>
+        <recipients>
+            <recipient name="Lela Olson I"/>
+            <recipient name="Jessika Adams PhD"/>
+            <recipient name="Luisa Bartoletti"/>
+            <recipient name="Mitchel Hegmann"/>
+            <recipient name="Ramiro Sporer"/>
+            <recipient name="Carmen Ritchie"/>
+            <recipient name="Ludivina Moen"/>
+            <recipient name="Kai Strosin Jr."/>
+            <recipient name="Keisha Weber II"/>
+            <recipient name="Miss Filiberto Ward"/>
+            <recipient name="Jamie Koch"/>
+            <recipient name="Tracey Cole"/>
+        </recipients>
+    </message>
+    <message id="4462" from="Mrs. Tamatha Brown" type="SMTP">
+        <heading>Calvin? Wh... Why do you keep calling me Calvin?</heading>
+        <body>Inventore accusamus iste inventore delectus. Beatae excepturi nobis vitae. Sed accusantium fugit ipsam voluptatem aut nesciunt ut. Facilis quam veritatis quam. Qui aut velit. Maiores sed nobis voluptatem doloribus quo cupiditate. Dolorem mollitia atque facere qui sed qui.</body>
+        <recipients>
+            <recipient name="Edison Kohler DVM"/>
+            <recipient name="Milford Anderson"/>
+            <recipient name="Max Auer"/>
+            <recipient name="Sunni Schaefer"/>
+            <recipient name="Denny Hickle"/>
+            <recipient name="Charis Ondricka"/>
+            <recipient name="Mr. Lilia Cummings"/>
+            <recipient name="Shon Franecki PhD"/>
+            <recipient name="Damian Nolan"/>
+            <recipient name="Lourie Jenkins"/>
+        </recipients>
+    </message>
+</ns2:messages>

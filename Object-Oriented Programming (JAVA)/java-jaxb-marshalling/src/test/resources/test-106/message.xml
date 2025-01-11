@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="8572" from="Perry Miller" type="SMS">
+        <heading>See you in about 30 years.</heading>
+        <body>Ea itaque recusandae fugiat soluta libero expedita natus. Et aut cum. Enim porro voluptates odit tempora quia minus. Sint reprehenderit qui enim excepturi. Numquam ut qui aut recusandae est. Mollitia sint est voluptates voluptate officiis molestias incidunt. Voluptatibus consequatur magnam quas autem. Repellendus consequatur ad est veritatis.</body>
+        <recipients>
+            <recipient name="Kelsi Schamberger"/>
+            <recipient name="Wallace Swift"/>
+            <recipient name="Miki Kuhic"/>
+            <recipient name="Harley Sporer"/>
+            <recipient name="Stephan Gottlieb"/>
+            <recipient name="Clay Simonis"/>
+            <recipient name="Enoch West"/>
+            <recipient name="Buck Little"/>
+            <recipient name="Macy Koepp"/>
+            <recipient name="Taylor Adams"/>
+            <recipient name="Dyan Osinski"/>
+            <recipient name="Devona Beahan"/>
+        </recipients>
+    </message>
+</ns2:messages>

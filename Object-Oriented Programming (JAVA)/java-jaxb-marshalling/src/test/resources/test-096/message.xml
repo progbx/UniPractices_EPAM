@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="9000" from="Sherwood Stark" type="MMS">
+        <heading>He laid out Biff in one punch. I didn't know he had it in him. He's never stood up to Biff in his life!</heading>
+        <body>Quia blanditiis ullam aut facilis non voluptas. Vel ad aliquid perspiciatis. Quae qui labore ut praesentium. Modi quae quia quam nemo repellendus qui. Laudantium voluptatibus est voluptatem eos. Recusandae totam perspiciatis id. Consequatur et consequatur porro. Temporibus et nihil tempore recusandae aut praesentium nulla.</body>
+        <recipients>
+            <recipient name="Cruz Friesen"/>
+            <recipient name="Ashley Pagac"/>
+            <recipient name="Dr. Carlo Ritchie"/>
+            <recipient name="Barry Hintz"/>
+            <recipient name="Alfonso Huels"/>
+            <recipient name="Miss Judie White"/>
+            <recipient name="Mr. Cassey Haag"/>
+            <recipient name="Floy Stamm"/>
+            <recipient name="Odis Cronin"/>
+            <recipient name="Marcelo Medhurst"/>
+            <recipient name="Aletha Ryan"/>
+            <recipient name="Ms. Gilberto Gusikowski"/>
+            <recipient name="Erik Runolfsson"/>
+            <recipient name="Clifford Lehner"/>
+        </recipients>
+    </message>
+</ns2:messages>

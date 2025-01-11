@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="1899" from="Madalene Olson" type="MMS">
+        <heading>You want a Pepsi, pal, you're gonna pay for it.</heading>
+        <body>Ducimus eligendi quia asperiores voluptas rerum. Et consequatur voluptas consequuntur. Necessitatibus non nobis reiciendis magni. Corporis soluta quis culpa asperiores. Quia id vero id. Officiis similique earum debitis eius maxime. Et quia autem ipsam ipsam voluptas nobis facilis. Soluta nihil tenetur harum.</body>
+        <recipients>
+            <recipient name="Wanita Graham III"/>
+            <recipient name="Jacquline Murphy"/>
+            <recipient name="Ed Rohan"/>
+            <recipient name="Tanya Connelly DDS"/>
+            <recipient name="Hosea Harber"/>
+            <recipient name="Micheal Terry"/>
+            <recipient name="Ward Davis"/>
+            <recipient name="Idalia Senger"/>
+        </recipients>
+        <mentions>
+            <mention name="Maryrose Prohaska DVM"/>
+            <mention name="Rozella Brown"/>
+            <mention name="Miss Jewell Howe"/>
+            <mention name="Trey Thompson V"/>
+        </mentions>
+    </message>
+</ns2:messages>
