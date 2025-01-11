@@ -1,0 +1,75 @@
+.hero {
+  position: relative;
+  padding-top: 160px;
+  height: 100vh;
+  background-image: url("../assets/img/main-bg.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+
+  &__block {
+    max-width: 420px;
+    text-align: center;
+
+    h1 {
+      font-family: $font-headings;
+      font-size: 75px;
+      margin-top: 20px;
+      line-height: 84.5px;
+      padding: 16px 0 50px;
+    }
+
+    &-p {
+      color: $rgb-color;
+      margin-top: 20px;
+      font-size: $small-size;
+      text-align: start;
+    }
+
+    &-img {
+      animation: rotate 5s linear infinite;
+    }
+
+    @keyframes rotate {
+      0% {
+        transform: rotateY(0) scale(1);
+      }
+
+      25% {
+        transform: rotateY(0) scale(1);
+      }
+
+      50% {
+        transform: rotateY(180deg) scale(1.2);
+      }
+
+      75% {
+        transform: rotateY(180deg) scale(1.2);
+      }
+
+      100% {
+        transform: rotateY(360deg) scale(1);
+      }
+    }
+  }
+
+  &__ship3 {
+    position: absolute;
+    width: 413px;
+    height: 470px;
+    left: 0;
+    bottom: -13px;
+    opacity: 0.4;
+  }
+
+  &__ship4 {
+    display: none;
+    position: absolute;
+    width: 130px;
+    right: 0;
+    bottom: 150px;
+    color: lightgray;
+  }
+}
+@import "_hero.mobile";

@@ -1,0 +1,56 @@
+@media (max-width: 650px) {
+  .header {
+    position: fixed;
+    background: rgb(83,111,137);
+    background: linear-gradient(90deg, rgba(83,111,137,1) 0%, rgba(83,111,137,1) 48%, rgba(84,111,138,1) 74%, rgba(80,112,137,1) 100%);
+  }
+
+  .menu {
+    display: none;
+
+    &__list {
+      flex-direction: column;
+      position: absolute;
+      right: -18px;
+      top: -30px;
+      background: linear-gradient(190deg, #536f89 34.05%, #060606 161.85%);
+      border-left: 2px solid black;
+      width: 40%;
+      height: 110vh;
+      z-index: 4;
+      padding-top: 100px;
+      transition: linear 2s;
+    }
+
+    &__item {
+      text-align: center;
+      padding: 20px 0;
+
+      &:not(:last-child) {
+        margin: 0;
+      }
+    }
+  }
+
+  [for="burger"] {
+    display: block;
+    position: absolute;
+    right: 20px;
+    top: -6px;
+    z-index: 5;
+  }
+
+  [for="burger"]::before {
+    content: "☰";
+    font-size: 25px;
+  }
+
+  #burger:checked + label + nav {
+    display: block;
+  }
+
+  #burger:checked + [for="burger"]::before {
+    content: "⨯";
+    font-size: 35px;
+  }
+}

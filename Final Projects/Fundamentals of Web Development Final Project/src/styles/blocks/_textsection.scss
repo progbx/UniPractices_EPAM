@@ -1,0 +1,70 @@
+.text {
+  position: relative;
+  color: $grey;
+  padding: 88px 0 98px;
+
+  &__intro {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    &-h2 {
+      max-width: 670px;
+      text-align: center;
+      font-size: $large-size;
+      color: $dark-blue;
+      font-family: $font-headings;
+    }
+
+    &-p {
+      max-width: 426px;
+      text-align: center;
+      font-size: $small-size;
+      margin-top: 39px;
+    }
+  }
+
+  &__block {
+    margin-top: 45px;
+    display: flex;
+    justify-content: space-between;
+
+    &-p {
+      width: 415px;
+      margin-bottom: 54px;
+    }
+  }
+
+  &__btn {
+    display: flex;
+    justify-content: center;
+
+    a {
+      font-size: 14px;
+      padding: 8px 17px;
+      background: $dark-blue;
+      border-radius: 50px;
+      letter-spacing: 1.4px;
+      font-family: $font-btn;
+      transform-origin: left center;
+      transition: transform 0.5s ease-in-out;
+
+      &:hover {
+        transform: rotate(10deg);
+      }
+    }
+  }
+
+  &__logo--left {
+    position: absolute;
+    left: 0;
+    bottom: 30px;
+  }
+
+  &__logo--right {
+    position: absolute;
+    right: 0;
+    top: 35px;
+  }
+}
+@import "_textsection.mobile";

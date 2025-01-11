@@ -1,0 +1,33 @@
+.footer {
+  padding: 50px 0;
+  background: linear-gradient(211deg, #536f89 18.79%, #000 234.52%);
+
+  &__block {
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+  }
+
+  &__left {
+    &-p {
+      margin-bottom: 27px;
+    }
+  }
+
+  &__middle {
+    width: 125px;
+    text-align: center;
+
+    &-logo {
+      width: 112px;
+      height: 60px;
+      margin-bottom: 24px;
+    }
+
+    &-p {
+      font-size: 18px;
+      letter-spacing: 3.6px;
+    }
+  }
+}
+@import "_footer.mobile";

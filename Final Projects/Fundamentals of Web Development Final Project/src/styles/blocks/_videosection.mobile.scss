@@ -1,0 +1,16 @@
+@media (max-width: 650px) {
+  .video {
+    &__block {
+      span {
+        width: 100px;
+        height: 100px;
+        font-size: 45px;
+      }
+
+      &-p {
+        width: 400px;
+        margin-top: 82px;
+      }
+    }
+  }
+}

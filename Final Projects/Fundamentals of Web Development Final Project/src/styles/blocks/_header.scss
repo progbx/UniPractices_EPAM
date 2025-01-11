@@ -1,0 +1,48 @@
+.header {
+  padding: 30px 0;
+
+  &__block {
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+
+  &__logo-text {
+    font-family: $font-logo;
+    padding: 0 15px;
+    font-size: 18px;
+  }
+
+  &--position {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    z-index: 3;
+  }
+}
+
+.menu {
+  margin: auto;
+
+  &__list {
+    display: flex;
+  }
+
+  &__item:not(:last-child) {
+    margin-right: 30px;
+  }
+
+  &__link {
+    &:hover {
+      border-bottom: 2px solid $white;
+    }
+  }
+}
+
+#burger,
+[for="burger"] {
+  display: none;
+  cursor: pointer;
+}
+@import "_header.mobile";

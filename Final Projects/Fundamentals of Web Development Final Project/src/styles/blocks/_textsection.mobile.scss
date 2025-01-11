@@ -1,0 +1,40 @@
+@media (max-width: 880px) {
+  .text {
+    &__block {
+      &-p {
+        max-width: 350px;
+      }
+    }
+  }
+}
+
+@media (max-width: 740px) {
+  .text {
+    &__block {
+      flex-direction: column;
+      align-items: center;
+
+      &-p {
+        max-width: 450px;
+      }
+    }
+  }
+}
+
+@media (max-width: 650px) {
+  .text {
+    &__intro {
+      &-h2 {
+        width: 355px;
+      }
+    }
+
+    &__logo--left {
+      display: none;
+    }
+
+    &__logo--right {
+      display: none;
+    }
+  }
+}

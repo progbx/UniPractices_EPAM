@@ -1,0 +1,30 @@
+{
+  "scripts": {
+    "test": "jest --reporters=jest-junit",
+    "sass": "node-sass -w src/styles/style.scss -o src/dist --recursive",
+    "build": "echo \"Dummy build script for Autocode\"",
+    "format": "prettier --write \"src/**/*.html\" \"src/**/*.scss\"",
+    "lint": "stylelint \"**/*.scss\" --fix",
+    "build-css": "node-sass src/styles/style.scss src/dist/style.min.css --output-style compressed",
+    "minify-css": "cleancss -o src/dist/style.min.css src/dist/style.min.css"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.5",
+    "@babel/preset-env": "^7.23.5",
+    "clean-css-cli": "^5.6.3",
+    "html-validate": "^8.7.4",
+    "jest": "29.7",
+    "jest-junit": "^13.2.0",
+    "jsdom": "^19.0.0",
+    "node-sass": "^9.0.0",
+    "parse-gitignore": "^2.0.0",
+    "prettier": "^3.2.4",
+    "stylelint": "^16.2.0",
+    "stylelint-config-standard-scss": "^13.0.0"
+  },
+  "jest-junit": {
+    "suiteName": "junit test results",
+    "outputDirectory": ".",
+    "outputName": "junit.xml"
+  }
+}

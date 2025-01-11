@@ -1,0 +1,22 @@
+@import "kit/mixins";
+@import "kit/variables";
+@import "blocks/reset";
+@import "blocks/header";
+@import "blocks/hero";
+@import "blocks/textsection";
+@import "blocks/videosection";
+@import "blocks/footer";
+
+body {
+  width: 100%;
+  color: $white;
+  font-size: 16px;
+  font-family: $font-main;
+}
+
+.container {
+  max-width: 920px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 15px;
+}

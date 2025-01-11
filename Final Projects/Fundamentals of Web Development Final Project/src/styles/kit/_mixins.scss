@@ -1,0 +1,18 @@
+$fonts: (
+  ("OswaldB", "Bold", 700),
+  ("OswaldR", "Regular", 400),
+  ("SourceSansR", "Regular", 400),
+  ("SourceSansB", "Semibold", 600)
+);
+
+@each $font in $fonts {
+  $font-name: nth($font, 1);
+  $font-modifier: nth($font, 2);
+  $font-weight: nth($font, 3);
+
+  @font-face {
+    font-family: $font-name;
+    src: url("../assets/fonts/#{$font-name}-#{$font-modifier}.ttf");
+    font-weight: $font-weight;
+  }
+}
