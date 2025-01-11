@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="8308" from="Scottie Stark" type="XMPP">
+        <heading>Since when can weathermen predict the weather, let alone the future?</heading>
+        <body>Molestiae ipsum aperiam id quae. Velit dolore officia deleniti velit qui enim. Aspernatur dolor ipsa esse. In mollitia laudantium. Ut voluptate beatae similique. Repellat qui maxime. Illum quo velit excepturi dolor quam blanditiis. Aut provident placeat.</body>
+        <recipients>
+            <recipient name="Sheldon Marquardt DVM"/>
+            <recipient name="Darwin Boehm"/>
+            <recipient name="Antonia Borer"/>
+            <recipient name="Enid Walker DDS"/>
+            <recipient name="Miss Renaldo Johns"/>
+            <recipient name="Shaniqua Little"/>
+            <recipient name="Mrs. Vicente Schimmel"/>
+            <recipient name="Florence Ledner"/>
+            <recipient name="Miss Arturo Hyatt"/>
+            <recipient name="Dr. Thuy Harvey"/>
+            <recipient name="Jerry Hettinger"/>
+        </recipients>
+    </message>
+</ns2:messages>

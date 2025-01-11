@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="4418" from="Freeda Gaylord" type="RCS">
+        <heading>Oh, that's Joey. He cries when we take him out so we just leave him in there.</heading>
+        <body>Ut optio dolores. Vero corporis soluta impedit occaecati ut et. Consequatur harum tenetur accusamus magnam. Possimus est voluptas. Qui dolores sit voluptate. Est sunt voluptatem fugit veritatis deleniti vero qui. Aut amet sequi corporis molestias consequuntur est quis. Omnis quia adipisci architecto. Et animi corrupti.</body>
+        <recipients>
+            <recipient name="Phung Bauch"/>
+            <recipient name="Cecile Mante"/>
+            <recipient name="Miss Garnett Sawayn"/>
+            <recipient name="Jutta Sanford"/>
+        </recipients>
+    </message>
+    <message id="3032" from="Dulce O'Keefe" type="RCS">
+        <heading>This is all wrong. I don't know what it is. But when I kiss you, it's like I'm kissing... my brother. I guess that doesn't make any sense, does it?</heading>
+        <body>Omnis rerum molestias recusandae. Neque eos est et. Sunt velit culpa explicabo mollitia ab exercitationem. Molestiae ab doloribus. Eligendi aut doloribus consequatur quos quisquam. Magnam tempora blanditiis soluta. Occaecati dolor et.</body>
+        <recipients>
+            <recipient name="Carlton Schowalter"/>
+            <recipient name="Mrs. Charlena Schoen"/>
+            <recipient name="Tanisha Smitham"/>
+            <recipient name="Carolynn Kuvalis"/>
+            <recipient name="Jon Pagac"/>
+            <recipient name="Miss Dusty Hansen"/>
+            <recipient name="Ms. Rigoberto Abshire"/>
+            <recipient name="Miss Yajaira Von"/>
+            <recipient name="Erwin Rodriguez"/>
+            <recipient name="Elisa Romaguera"/>
+            <recipient name="Ms. Reynaldo Block"/>
+            <recipient name="Del Kunze"/>
+            <recipient name="Judson Herzog"/>
+        </recipients>
+    </message>
+    <message id="658" from="Bonny Towne" type="MMS">
+        <heading>What if I send in the tape and they don't like it? I mean, what if they say I'm no good? What if they say 'Get outta here, kid. You got no future'? I mean, I just don't think I can take that kind of rejection. Jesus, I'm starting to sound like my old man!</heading>
+        <body>Voluptates nostrum ratione ea. Cum dicta optio earum ut quo fuga. Eos sunt ullam vel numquam incidunt odit. Modi laudantium hic. Fugit repellat quia qui maxime autem. Repudiandae ipsam sint dicta aliquid rerum. Laboriosam recusandae facere iste.</body>
+        <recipients>
+            <recipient name="Sung Weber"/>
+            <recipient name="Mrs. Eliseo McLaughlin"/>
+            <recipient name="Vincenza Torphy Sr."/>
+            <recipient name="Dagny McLaughlin"/>
+            <recipient name="Marth Purdy"/>
+            <recipient name="Oswaldo Halvorson V"/>
+            <recipient name="Maxine Dickinson"/>
+            <recipient name="Justin Cummerata"/>
+        </recipients>
+        <mentions>
+            <mention name="Farrah McLaughlin"/>
+            <mention name="Kenyetta Rodriguez"/>
+            <mention name="Bobby Hyatt PhD"/>
+        </mentions>
+    </message>
+    <message id="6106" from="Eleonora Nader" type="SMTP">
+        <heading>Well, you're safe and sound now, back in good old 1955.</heading>
+        <body>Nihil sapiente ratione quam rem velit maiores. Omnis quia et. Perferendis laboriosam sit provident eveniet excepturi. Dolores nobis saepe quia qui accusamus est. Quam odio et et consequatur. Non sint omnis modi at et ullam. Ducimus molestias recusandae delectus tempora. Consequuntur est amet.</body>
+        <recipients>
+            <recipient name="Donald Lehner"/>
+            <recipient name="Hortense Mayert"/>
+            <recipient name="Betsey Borer"/>
+            <recipient name="Marybelle Beahan"/>
+            <recipient name="Harvey Stracke"/>
+            <recipient name="Nickolas Kiehn"/>
+            <recipient name="Russell Thompson Jr."/>
+            <recipient name="Ms. Laurinda Bashirian"/>
+            <recipient name="Marylyn Murphy"/>
+            <recipient name="Lela Lueilwitz"/>
+            <recipient name="Lynna Satterfield"/>
+            <recipient name="Delaine Rosenbaum MD"/>
+            <recipient name="Vivian Ratke"/>
+        </recipients>
+    </message>
+</ns2:messages>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="9922" from="Bryant Hirthe" type="RCS">
+        <heading>I'm gonna get that son of a bitch.</heading>
+        <body>Ut quia quas nulla fugiat sint porro magnam. Quia at quo. Libero perspiciatis harum aut laborum. Officia est ut. Laboriosam odio vel. Est amet aliquid non quidem dicta. Et ut voluptatem impedit.</body>
+        <recipients>
+            <recipient name="Hoyt Goyette Sr."/>
+            <recipient name="Shayne Harris"/>
+            <recipient name="Miguel Russel PhD"/>
+            <recipient name="Don Bernhard"/>
+            <recipient name="Ivan Cummings III"/>
+            <recipient name="Cliff Cummerata"/>
+            <recipient name="Moshe Oberbrunner"/>
+            <recipient name="Lachelle Bashirian"/>
+            <recipient name="Angeline Rath"/>
+            <recipient name="Mr. Quiana Russel"/>
+            <recipient name="Dwain Heidenreich IV"/>
+            <recipient name="Delfina Barton"/>
+            <recipient name="Dr. Vanesa Grady"/>
+        </recipients>
+    </message>
+</ns2:messages>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="1551" from="Elana Heaney" type="XMPP">
+        <heading>Look! There's a rhythmic ceremonial ritual coming up.</heading>
+        <body>Recusandae doloremque dolorum natus odio eum. Quis iste quam velit cumque est. Aut possimus possimus et blanditiis qui sunt. Sint amet corporis et in dolores. Earum at rerum. Velit et voluptatem quas dolorum recusandae. Minus eveniet doloribus voluptatibus error qui.</body>
+        <recipients>
+            <recipient name="Mr. Scarlet Gleichner"/>
+            <recipient name="Darell Blanda"/>
+            <recipient name="Anderson Parisian"/>
+            <recipient name="Mr. Hector Halvorson"/>
+            <recipient name="Jestine Hills"/>
+            <recipient name="Korey Okuneva"/>
+            <recipient name="Gaynell Gleason"/>
+            <recipient name="Maryellen Russel"/>
+            <recipient name="Dr. Donovan Kub"/>
+            <recipient name="Mable Grimes"/>
+            <recipient name="Stuart Rosenbaum"/>
+            <recipient name="Tyler Kirlin"/>
+            <recipient name="Florentina Paucek PhD"/>
+            <recipient name="Ignacio Shanahan"/>
+            <recipient name="Herlinda Bailey"/>
+        </recipients>
+        <mentions>
+            <mention name="Jayne Daniel"/>
+            <mention name="Mr. Franklin Dach"/>
+            <mention name="Bo Rowe"/>
+        </mentions>
+    </message>
+</ns2:messages>

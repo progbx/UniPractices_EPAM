@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="4221" from="Kate Feeney" type="SMTP">
+        <heading>He's an idiot. Comes from upbringing. His parents are probably idiots, too. Lorraine, you ever have a kid who acts that way, I'll disown you.</heading>
+        <body>Aspernatur fugiat deserunt. Nam vel aliquam in corrupti aliquam. Aut repellendus excepturi sequi qui aperiam veritatis corrupti. Id in modi voluptas. Earum molestiae nesciunt ea ipsa quidem. Tempora quisquam labore vel. Nemo dolorem quos itaque. Soluta quia velit culpa.</body>
+        <recipients>
+            <recipient name="Johnathon Sanford"/>
+            <recipient name="Mr. Terica Volkman"/>
+            <recipient name="Rich Dickens"/>
+            <recipient name="Sidney Fay"/>
+            <recipient name="Terri Will"/>
+            <recipient name="Natalia Crooks"/>
+            <recipient name="Mitchell Howe"/>
+            <recipient name="Burt Runolfsdottir"/>
+            <recipient name="Reginald Zboncak"/>
+            <recipient name="Alessandra Rempel"/>
+            <recipient name="Cyndi Wiza I"/>
+            <recipient name="Elton Kertzmann MD"/>
+        </recipients>
+    </message>
+    <message id="8069" from="Anabel Pacocha" type="AMQP">
+        <heading>Anyway, your Grandpa hit him with the car and brought him into the house. He seemed so helpless, like a little lost puppy, and my heart just went out to him.</heading>
+        <body>Accusantium et consequatur aspernatur dignissimos eligendi molestiae. Sint voluptas et. Autem eos nesciunt quae laudantium sit et vel. Eveniet maxime praesentium laboriosam nihil qui et. Iste necessitatibus totam ipsa qui consequatur. Nesciunt quos tenetur doloremque tempore aut. Autem ex magni mollitia est est. Dolorum ea pariatur hic temporibus molestiae eos illo. Rerum cupiditate laudantium consequatur.</body>
+        <recipients>
+            <recipient name="Danilo Dietrich"/>
+            <recipient name="Anderson Bogisich"/>
+            <recipient name="Mrs. Dwain Connelly"/>
+            <recipient name="Dr. Yee Conn"/>
+            <recipient name="Yukiko Schmidt"/>
+            <recipient name="Wally Watsica"/>
+            <recipient name="Roger Jakubowski"/>
+            <recipient name="Sherell Smitham"/>
+            <recipient name="Duncan Douglas"/>
+            <recipient name="Alica Nolan"/>
+            <recipient name="Miss Wiley Pouros"/>
+        </recipients>
+        <mentions>
+            <mention name="Devona Carter"/>
+            <mention name="Twila Bruen"/>
+            <mention name="Numbers Swift"/>
+        </mentions>
+    </message>
+    <message id="4758" from="Ezequiel Auer" type="IRC">
+        <heading>We're the, uh... We're the Pinheads.</heading>
+        <body>Molestias voluptas beatae eum quasi accusantium. Animi nesciunt deleniti explicabo id esse. Odio ut eos nihil qui aut. Voluptas adipisci occaecati. Vel dolorem voluptatem voluptatem eveniet non ut. Eveniet dolorem enim. Veritatis dolor sit alias culpa dolorem libero error.</body>
+        <recipients>
+            <recipient name="Ruthie Collier MD"/>
+            <recipient name="Eleonor Mueller"/>
+            <recipient name="Errol Ratke DVM"/>
+            <recipient name="Marion Ziemann"/>
+            <recipient name="Willian Langworth"/>
+            <recipient name="Karma Walsh"/>
+        </recipients>
+        <mentions>
+            <mention name="Keneth Leffler"/>
+            <mention name="Ardelle Witting"/>
+            <mention name="Thu Dach"/>
+        </mentions>
+    </message>
+    <message id="9447" from="Cedrick Miller Sr." type="MMS">
+        <heading>Silence, Earthling. My name is Darth Vader. I am an extraterrestrial from the planet Vulcan!</heading>
+        <body>Neque omnis illum id beatae et earum. Nam qui voluptas dolorem molestiae expedita nisi aut. Ipsum cumque voluptas incidunt. Totam inventore vitae alias. Sed explicabo eos et pariatur tempora perferendis neque. Iste repudiandae sed aut. Molestiae ullam magnam ullam in consequatur nobis fugiat. Qui accusantium sunt quisquam ut qui.</body>
+        <recipients>
+            <recipient name="Gwyn Terry"/>
+            <recipient name="Twana Weber MD"/>
+            <recipient name="Bradly Barrows DDS"/>
+            <recipient name="Garfield Zieme"/>
+            <recipient name="Isiah Jacobs"/>
+            <recipient name="Norris Bashirian Sr."/>
+            <recipient name="Mr. Renae Homenick"/>
+            <recipient name="Stephan Glover DVM"/>
+            <recipient name="Levi Donnelly"/>
+            <recipient name="Sang Krajcik"/>
+            <recipient name="Ward Predovic"/>
+            <recipient name="Ms. Henrietta Fisher"/>
+            <recipient name="Mrs. Maryalice Botsford"/>
+            <recipient name="Fausto Wisozk"/>
+        </recipients>
+    </message>
+</ns2:messages>

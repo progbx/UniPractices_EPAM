@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="8919" from="Alexa Nikolaus" type="MMS">
+        <heading>Things have certainly changed around here. I remember when this was all farmland as far the eye could see. Old man Peabody owned all of this. He had this crazy idea about breeding pine trees.</heading>
+        <body>Accusamus incidunt quis minus fuga nisi nemo deleniti. Dolorem quidem cupiditate eveniet qui eligendi quam non. Tempore debitis occaecati. Voluptas cum minus ad minima molestias. Repellat totam consequatur incidunt. Animi laboriosam similique sit consequatur sed. Ipsa aut quas quos.</body>
+        <recipients>
+            <recipient name="Aron McDermott IV"/>
+            <recipient name="Shirleen Trantow"/>
+            <recipient name="Brent Hahn Jr."/>
+            <recipient name="Sheba Johns"/>
+            <recipient name="Johnnie Deckow"/>
+            <recipient name="Dr. Noelia Powlowski"/>
+            <recipient name="Tam Gutkowski"/>
+            <recipient name="Mrs. Suzanne Haag"/>
+            <recipient name="Domenic Walsh I"/>
+            <recipient name="Kiesha Bode"/>
+            <recipient name="Allan Ondricka"/>
+        </recipients>
+        <mentions>
+            <mention name="Christel Johnston IV"/>
+            <mention name="Dr. Kaitlin Gutmann"/>
+            <mention name="Arminda Mertz"/>
+        </mentions>
+    </message>
+    <message id="9535" from="Reita Streich" type="SMS">
+        <heading>No, no, no, no, no, this sucker's electrical, but I need a nuclear reaction to generate the 1.21 gigawatts of electricity I need.</heading>
+        <body>Eos quasi culpa eum. Placeat culpa et reprehenderit. Aut voluptatem inventore tempore eius ut sit. Omnis est et delectus repellendus accusantium rerum quas. Laboriosam aut non cum aut et suscipit. Quidem voluptatem cumque tempore similique et blanditiis ut. Officia repellat minima ad adipisci aliquam nostrum ipsam. Rerum aliquid eum. Sunt eum quia sed sit quasi necessitatibus.</body>
+        <recipients>
+            <recipient name="Misha Heathcote"/>
+            <recipient name="Christine Powlowski"/>
+            <recipient name="Lane Reilly IV"/>
+            <recipient name="Kory Rau"/>
+            <recipient name="Emmett Mueller"/>
+            <recipient name="Agripina Corwin"/>
+            <recipient name="Lyman Kuhn"/>
+            <recipient name="Kurtis Lueilwitz"/>
+            <recipient name="Latarsha King"/>
+            <recipient name="Liz Wisozk"/>
+            <recipient name="Miss Liane Raynor"/>
+            <recipient name="Juliane Okuneva"/>
+            <recipient name="Many Hickle"/>
+            <recipient name="Shella Sipes Jr."/>
+            <recipient name="Luther Schuppe DDS"/>
+        </recipients>
+    </message>
+</ns2:messages>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="8250" from="Daine DuBuque" type="SMTP">
+        <heading>Hey, McFly! I thought I told you never to come in here.</heading>
+        <body>Consequuntur sit omnis. Distinctio dolores minus. Tenetur quis pariatur provident veritatis. Non non corrupti perferendis. Corporis suscipit ut sed. Ipsum qui est quidem deleniti et possimus qui. Mollitia sint voluptas.</body>
+        <recipients>
+            <recipient name="Christy Prosacco"/>
+            <recipient name="Rosalina Bogisich"/>
+            <recipient name="Paris Jacobs"/>
+            <recipient name="Zachariah Cruickshank"/>
+            <recipient name="Kari Kuhlman"/>
+            <recipient name="Nickole O'Conner III"/>
+            <recipient name="Pasquale Upton V"/>
+            <recipient name="Ambrose Cassin Sr."/>
+            <recipient name="Dale Monahan"/>
+            <recipient name="Diana West"/>
+        </recipients>
+    </message>
+    <message id="4271" from="Mr. Sierra Adams" type="SMTP">
+        <heading>Don't be so gullible, McFly. Got the place fixed up nice, though, McFly.</heading>
+        <body>Debitis delectus nisi ut saepe debitis omnis expedita. Odit in eos qui molestiae in. Vero vel voluptatem. Libero molestiae quasi numquam voluptas tempore laudantium. Qui quisquam ut. Quis molestiae facere aut omnis id sapiente magni. Esse ea rem quam debitis fugit eos qui. Architecto debitis optio eius minima deleniti.</body>
+        <recipients>
+            <recipient name="Clare Waters I"/>
+            <recipient name="Stefan Waelchi IV"/>
+            <recipient name="Miss Claudio Fay"/>
+            <recipient name="Marcel Hansen"/>
+            <recipient name="Sydney Crist"/>
+            <recipient name="Amos Renner"/>
+            <recipient name="Rosy Langosh"/>
+        </recipients>
+        <mentions>
+            <mention name="Dean Kuhn"/>
+            <mention name="Wallace Auer"/>
+            <mention name="Miss Gale Blick"/>
+        </mentions>
+    </message>
+    <message id="7513" from="Gigi Gusikowski" type="RCS">
+        <heading>I'm sure that in 1985, plutonium is available in every corner drugstore, but in 1955, it's a little hard to come by.</heading>
+        <body>Autem sequi porro. Iusto enim quam doloremque. Nesciunt aut iusto corporis aut. Aut sit ut a aliquid quo. Eligendi neque neque et eum soluta. Nisi omnis aliquid. Officia natus quod labore facilis alias sit ut. Omnis fugit facere laboriosam quis. Et laudantium aut illo possimus voluptates quia soluta.</body>
+        <recipients>
+            <recipient name="Miss Shanell Bahringer"/>
+            <recipient name="Mauro Sipes"/>
+            <recipient name="Duncan Schmitt DVM"/>
+            <recipient name="Dr. Nieves Bahringer"/>
+            <recipient name="Issac Ebert"/>
+            <recipient name="Stephenie Prohaska"/>
+            <recipient name="Dagny Conn MD"/>
+            <recipient name="Cordie Mosciski"/>
+            <recipient name="Aracely Gutkowski"/>
+            <recipient name="Andre Heaney"/>
+            <recipient name="Destiny Nitzsche"/>
+            <recipient name="Soo Cummings"/>
+            <recipient name="Shayla Jerde"/>
+            <recipient name="Miss Hobert Runolfsdottir"/>
+            <recipient name="Elizabet Shanahan"/>
+        </recipients>
+        <mentions>
+            <mention name="Corene Wilderman"/>
+            <mention name="Efren Cartwright"/>
+            <mention name="Jorge Hamill"/>
+            <mention name="Marylyn Wiza I"/>
+        </mentions>
+    </message>
+    <message id="9729" from="Aretha Welch V" type="MMS">
+        <heading>Oh, honey, he's teasing you. Nobody has two television sets.</heading>
+        <body>Quisquam nam quae occaecati. Saepe totam corrupti. Adipisci ducimus eveniet eveniet dolores pariatur et. Consequatur assumenda illum necessitatibus et tenetur nobis. Sint sed ad voluptatem. Fugiat rerum quo natus et harum. Dignissimos reiciendis debitis cumque labore numquam sunt libero.</body>
+        <recipients>
+            <recipient name="Sadye Ebert"/>
+            <recipient name="Shona Spencer"/>
+            <recipient name="Mrs. Elinore Schulist"/>
+            <recipient name="Amos Block"/>
+            <recipient name="Cameron Turcotte"/>
+            <recipient name="Jamison Murray"/>
+            <recipient name="Eliseo Kessler"/>
+            <recipient name="Jeffrey Hermann"/>
+            <recipient name="Ana Kulas"/>
+            <recipient name="Lindsay Willms"/>
+            <recipient name="Donny Wilkinson"/>
+            <recipient name="Dr. Julieta King"/>
+            <recipient name="Fernanda Ebert"/>
+        </recipients>
+        <mentions>
+            <mention name="Marcella Fay"/>
+            <mention name="Anibal Turner"/>
+            <mention name="Viki Morar"/>
+        </mentions>
+    </message>
+    <message id="4105" from="Stephan Kuhn" type="XMPP">
+        <heading>Who the hell is John F. Kennedy?</heading>
+        <body>Tenetur expedita ab. Quam quis consequatur officiis molestiae nobis. Et dolores sapiente minima laboriosam. Ab veritatis id dolorem consequatur velit omnis. Est sapiente odit voluptatem et qui. Harum repudiandae molestias velit qui sequi. Dolor dignissimos aliquid pariatur earum id impedit. Molestias soluta consequuntur. Natus iste sequi voluptas nesciunt.</body>
+        <recipients>
+            <recipient name="Mr. Arlen Macejkovic"/>
+            <recipient name="Mathew Mann"/>
+            <recipient name="Miss Jerrod MacGyver"/>
+            <recipient name="Yvonne Reynolds"/>
+            <recipient name="Harlan Schmidt"/>
+            <recipient name="Mr. Rodney Gutkowski"/>
+            <recipient name="Terry Franecki"/>
+            <recipient name="Suzette Reilly PhD"/>
+            <recipient name="Bryanna Ferry"/>
+            <recipient name="Jackelyn Durgan Sr."/>
+            <recipient name="Jeanice Schulist"/>
+        </recipients>
+    </message>
+    <message id="7787" from="Brande Ferry" type="MQTT">
+        <heading>I'm from the future. I came here in a Time Machine that you invented. Now I need your help to get back to the year 1985.</heading>
+        <body>Facere tempore iure quis praesentium distinctio. Id dolor soluta. Fugit architecto nobis. Placeat est quasi et molestias facilis voluptas. Corrupti dicta iusto quis. Quis sit voluptas occaecati ut quaerat atque autem. Deleniti harum cupiditate ipsa.</body>
+        <recipients>
+            <recipient name="Dr. Horacio Okuneva"/>
+            <recipient name="Cary Hansen"/>
+            <recipient name="Kasha Swift MD"/>
+            <recipient name="Danilo Lind"/>
+            <recipient name="Marianela Kassulke Sr."/>
+            <recipient name="Evelyn Lakin DVM"/>
+            <recipient name="Ms. Lenard Fahey"/>
+            <recipient name="Clarice Mosciski"/>
+            <recipient name="Mr. Marianna Carroll"/>
+            <recipient name="Michaela Hamill"/>
+            <recipient name="Dayna Batz"/>
+            <recipient name="Billye Greenfelder"/>
+            <recipient name="Tonita Rodriguez"/>
+            <recipient name="Milton Barrows"/>
+        </recipients>
+    </message>
+    <message id="5320" from="Buford Blick" type="RCS">
+        <heading>Oh, honey, he's teasing you. Nobody has two television sets.</heading>
+        <body>Optio qui non repellendus. Molestiae beatae libero eius sunt eos inventore. Rerum quos facere sed asperiores doloremque mollitia ullam. Provident molestiae atque qui. Ea doloribus voluptatum voluptatibus commodi nostrum velit nobis. Maxime alias doloremque tempora eaque dolorum. Suscipit aut ex ipsum quasi minima dolores velit.</body>
+        <recipients>
+            <recipient name="Owen Kihn"/>
+            <recipient name="Jacquelyne Howell"/>
+            <recipient name="Sammie Osinski IV"/>
+            <recipient name="Ella Waelchi"/>
+            <recipient name="Ms. Felipe Olson"/>
+            <recipient name="Van Von"/>
+            <recipient name="Alfredo White PhD"/>
+            <recipient name="Dorinda Hane"/>
+            <recipient name="Dr. Johnson Donnelly"/>
+            <recipient name="Ms. Annamae Olson"/>
+            <recipient name="Harold Homenick II"/>
+            <recipient name="Emiko Schmidt"/>
+        </recipients>
+    </message>
+</ns2:messages>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="1370" from="Rupert Ondricka" type="SMTP">
+        <heading>There's that word again. 'Heavy.' Why are things so heavy in the future? Is there a problem with the Earth's gravitational pull?</heading>
+        <body>Omnis pariatur voluptatem quos beatae. Beatae ex enim nemo. Beatae voluptatibus iste illo dolorum dicta ducimus voluptatem. Similique est quidem aut in voluptatem voluptas. Accusamus enim aperiam omnis recusandae voluptatem quas voluptas. Sit eveniet nostrum. Beatae consequuntur cum sapiente voluptas repellendus. Ipsum iste dicta quo et ex dignissimos. Nemo aut quisquam.</body>
+        <recipients>
+            <recipient name="Korey Ruecker"/>
+            <recipient name="Tyesha Herman PhD"/>
+            <recipient name="Leigh Ledner V"/>
+            <recipient name="Masako Anderson"/>
+            <recipient name="Sherron Upton"/>
+            <recipient name="Jasper Dicki"/>
+        </recipients>
+    </message>
+    <message id="1725" from="Doreatha Graham Sr." type="SMS">
+        <heading>If you put your mind to it, you can accomplish anything.</heading>
+        <body>Libero beatae omnis itaque aut. Eos illo error culpa culpa sit. Iure qui vel dolor quia reiciendis. Consequatur fuga qui. Rem est ab occaecati. Aut minima exercitationem voluptatem ipsum sint. Consequatur odit omnis ullam. Placeat pariatur voluptatibus impedit numquam quia repellat. Tempore corporis facilis.</body>
+        <recipients>
+            <recipient name="Dr. Alden Armstrong"/>
+            <recipient name="Thu Windler"/>
+            <recipient name="Vernon D'Amore"/>
+            <recipient name="Clair Donnelly"/>
+            <recipient name="Eda Dibbert"/>
+        </recipients>
+    </message>
+    <message id="3036" from="Ernie Kihn PhD" type="RCS">
+        <heading>You want a Pepsi, pal, you're gonna pay for it.</heading>
+        <body>Tenetur impedit facere rem. Rem et officiis facilis culpa corporis id. Sequi consectetur in nesciunt expedita rerum ratione. Deleniti id soluta esse vel. Voluptatum necessitatibus voluptate nisi reprehenderit. Facilis tenetur voluptatem sit voluptatem dolore animi vero. Quo necessitatibus illum est deserunt. Aut quae quis accusantium ut optio aliquam atque. Ea et ex reprehenderit excepturi est.</body>
+        <recipients>
+            <recipient name="Cedric Lueilwitz II"/>
+            <recipient name="Helaine Russel MD"/>
+            <recipient name="Samira Ritchie"/>
+        </recipients>
+    </message>
+    <message id="2089" from="Jordan Rempel" type="RCS">
+        <heading>Since when can weathermen predict the weather, let alone the future?</heading>
+        <body>Sunt inventore dolores id iusto quaerat tempora facilis. Ea excepturi doloribus. Ut aliquid eos minus deserunt culpa. Asperiores est hic repudiandae deserunt. Et id voluptatem quia non omnis nam. Doloremque nihil est voluptas. Quo et sequi fugit doloremque possimus et. Animi exercitationem officiis saepe sed placeat aut. Minus praesentium aut doloribus.</body>
+        <recipients>
+            <recipient name="Bill Predovic"/>
+            <recipient name="Bryon Schaden"/>
+            <recipient name="Ted Hegmann"/>
+            <recipient name="Analisa Jakubowski DDS"/>
+            <recipient name="Olin Quitzon"/>
+            <recipient name="Shonna Schultz I"/>
+        </recipients>
+        <mentions>
+            <mention name="Kenny Gutmann"/>
+            <mention name="Breana Hand"/>
+            <mention name="Chong Batz"/>
+        </mentions>
+    </message>
+</ns2:messages>
