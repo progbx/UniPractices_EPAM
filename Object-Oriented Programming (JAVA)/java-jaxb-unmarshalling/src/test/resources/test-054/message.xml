@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="8363" from="Ginette Ryan" type="XMPP">
+        <heading>Okay, thank you. That's enough. Hold it now. Hold it. Hold it, fellas. I'm afraid you're just too darn loud. Next, please. Bring in the next group, please.</heading>
+        <body>Dolorum dolorem error sed provident quos repudiandae. Saepe voluptate non aliquid omnis libero. Eveniet tempora qui eveniet. Ipsam eum libero et. Architecto dolorum aut voluptatem molestiae asperiores at itaque. Molestias ut eos ut est commodi quis consequatur. Temporibus ut non occaecati. Repellat ea repellat qui quia eveniet voluptatem. Id eveniet et cumque placeat sapiente eveniet.</body>
+        <recipients>
+            <recipient name="Miss Horacio Kozey"/>
+            <recipient name="Dr. Harold Abshire"/>
+            <recipient name="Lyndia Ledner PhD"/>
+        </recipients>
+        <mentions>
+            <mention name="Edgardo Schumm"/>
+            <mention name="Clifton Fadel"/>
+            <mention name="Jacqueline Rippin"/>
+        </mentions>
+    </message>
+    <message id="7091" from="Billy Kshlerin" type="SMS">
+        <heading>You're late! Do you have no concept of time?</heading>
+        <body>Est eos culpa fugit est impedit blanditiis. Pariatur rerum officiis repellendus suscipit dolor. Cum vero aspernatur reiciendis at quo. Velit quam dolor nobis ipsum. Id iusto voluptates corporis praesentium perferendis qui aliquam. Non eaque ducimus rerum blanditiis non. Earum tenetur velit. Et facere placeat iure.</body>
+        <recipients>
+            <recipient name="Candice Jacobson II"/>
+            <recipient name="Alvaro Mante"/>
+            <recipient name="Mrs. Jermaine Jacobi"/>
+            <recipient name="Ms. Gordon Dickens"/>
+            <recipient name="Sergio Goyette"/>
+            <recipient name="Seth O'Hara III"/>
+            <recipient name="Isela Wyman"/>
+            <recipient name="Gus Blanda"/>
+            <recipient name="Phillis Hessel III"/>
+        </recipients>
+        <mentions>
+            <mention name="Clair Kuhn"/>
+            <mention name="Hosea Schaefer"/>
+        </mentions>
+    </message>
+    <message id="9027" from="Malcom Reinger" type="IRC">
+        <heading>You want a Pepsi, pal, you're gonna pay for it.</heading>
+        <body>Assumenda consequatur aut. Omnis repudiandae qui nostrum consequuntur nam consequatur. Omnis provident corrupti. Consectetur explicabo et eos amet blanditiis. Voluptates a et earum dolore eveniet deleniti deleniti. Numquam quaerat dolor est placeat fugit. Debitis molestias inventore nesciunt dolorem tempora. Vitae animi alias qui rerum. Adipisci ex illum.</body>
+        <recipients>
+            <recipient name="Mrs. Eugene Ondricka"/>
+            <recipient name="Errol Leffler"/>
+            <recipient name="Willis Nikolaus"/>
+            <recipient name="Hosea Bashirian"/>
+        </recipients>
+    </message>
+    <message id="2339" from="Nikole Mann" type="IRC">
+        <heading>What if I send in the tape and they don't like it? I mean, what if they say I'm no good? What if they say 'Get outta here, kid. You got no future'? I mean, I just don't think I can take that kind of rejection. Jesus, I'm starting to sound like my old man!</heading>
+        <body>Voluptate nesciunt hic incidunt qui soluta consequatur assumenda. Officia quos est excepturi tenetur autem. Quas hic sunt expedita libero rerum. Et ex incidunt corporis perspiciatis. Consequatur incidunt et quia velit qui. Velit saepe laboriosam cupiditate soluta ut nihil tempore. Doloribus enim maxime porro voluptatem sunt.</body>
+        <recipients>
+            <recipient name="Derick Sipes"/>
+            <recipient name="Reynaldo Hegmann"/>
+            <recipient name="Thi Ledner"/>
+            <recipient name="Darrick Heidenreich"/>
+            <recipient name="Miss Florida Spinka"/>
+            <recipient name="Jody Anderson"/>
+            <recipient name="Lincoln Connelly V"/>
+            <recipient name="Gayle Luettgen"/>
+            <recipient name="Mrs. Stacie Langworth"/>
+            <recipient name="Asa Moen PhD"/>
+            <recipient name="Sachiko O'Kon"/>
+            <recipient name="Kaleigh Kuvalis"/>
+        </recipients>
+        <mentions>
+            <mention name="Hermila Schaefer"/>
+            <mention name="Titus Hodkiewicz"/>
+        </mentions>
+    </message>
+    <message id="6038" from="Ned Turner" type="MQTT">
+        <heading>What happens to us in the future? Do we become assholes or something?</heading>
+        <body>Officiis unde nemo rerum. Aspernatur ut quos ut eum. Enim delectus eius magni dolorem blanditiis perspiciatis eum. Et provident quaerat eum ut dolor. Commodi neque autem sed. Molestiae soluta qui. Nihil voluptate pariatur illum cum nihil.</body>
+        <recipients>
+            <recipient name="Mrs. Raymond Schmitt"/>
+            <recipient name="Myesha Hermiston MD"/>
+            <recipient name="Dr. Huong Hauck"/>
+            <recipient name="Euna Schamberger"/>
+            <recipient name="Thao Kris"/>
+            <recipient name="Deshawn Medhurst"/>
+            <recipient name="Rhett Hodkiewicz"/>
+            <recipient name="Jerry VonRueden Jr."/>
+            <recipient name="Marcelina Lebsack"/>
+            <recipient name="Anabel Haag"/>
+            <recipient name="Elliot Goldner"/>
+            <recipient name="Edmundo Fisher"/>
+        </recipients>
+    </message>
+    <message id="1432" from="Marcelino Stark DDS" type="DDS">
+        <heading>Silence, Earthling. My name is Darth Vader. I am an extraterrestrial from the planet Vulcan!</heading>
+        <body>Sapiente occaecati error necessitatibus qui eum sed magni. Ea occaecati quos voluptatibus nam id ut. Officia veritatis dolores quo voluptas. Quia sequi nihil ut deserunt. Quo nihil mollitia voluptatem. Consequuntur laboriosam ut officiis saepe amet nulla. Rerum ullam quisquam explicabo laboriosam. Qui consequuntur iste. Quam ea non in omnis.</body>
+        <recipients>
+            <recipient name="Jermaine Lang"/>
+            <recipient name="Ramona Mertz"/>
+            <recipient name="Andrew Grimes"/>
+            <recipient name="Dr. Kellie Powlowski"/>
+            <recipient name="Wei Stanton"/>
+            <recipient name="Delphia Koelpin"/>
+            <recipient name="Zana Towne"/>
+            <recipient name="Keeley Cormier DDS"/>
+            <recipient name="Sean Schimmel"/>
+            <recipient name="Irma Reichert"/>
+            <recipient name="Rolland Nicolas"/>
+            <recipient name="Lonny Wilderman"/>
+        </recipients>
+    </message>
+    <message id="3354" from="Lavenia Heller" type="IRC">
+        <heading>I've never seen purple underwear before!</heading>
+        <body>Quo temporibus aspernatur voluptas enim. Veniam illum quisquam velit dolor tempore est. Fuga nihil dolores culpa omnis in. Deserunt enim illum. Ratione soluta ducimus ullam sit rerum maxime rerum. Et et qui praesentium consequatur rerum eos. In deserunt quo reprehenderit ut ut sequi alias. Voluptate mollitia ab quidem facilis accusamus eligendi. Nesciunt in praesentium.</body>
+        <recipients>
+            <recipient name="Freddy Renner I"/>
+            <recipient name="Shirley Bahringer"/>
+            <recipient name="Will O'Reilly"/>
+        </recipients>
+    </message>
+    <message id="5889" from="Alberto Block" type="DDS">
+        <heading>Maybe you were adopted.</heading>
+        <body>Qui ab quisquam deserunt ullam. Aspernatur non id veritatis corporis dolor repellat. Expedita impedit dolores. Dolor quae possimus. Blanditiis nulla quia. Deleniti maiores aut molestias. Soluta perspiciatis et repellendus sunt. Quidem rerum qui sequi vel veniam hic.</body>
+        <recipients>
+            <recipient name="Dr. Rhona Schmidt"/>
+            <recipient name="Franklyn Bins"/>
+            <recipient name="Dia Hansen I"/>
+            <recipient name="Sheilah Ankunding DDS"/>
+            <recipient name="Mrs. Catarina Balistreri"/>
+            <recipient name="Rudy Tillman"/>
+            <recipient name="Sharika Hauck PhD"/>
+            <recipient name="Vance Heathcote"/>
+            <recipient name="Dr. Scotty Stamm"/>
+        </recipients>
+        <mentions>
+            <mention name="Millard Vandervort"/>
+            <mention name="Pete Willms"/>
+            <mention name="Lemuel Durgan MD"/>
+        </mentions>
+    </message>
+    <message id="9832" from="Winston Weissnat" type="AMQP">
+        <heading>You're late! Do you have no concept of time?</heading>
+        <body>Dolor consequuntur nisi aut sed corporis. Et unde fugit laborum occaecati et. Atque aspernatur assumenda nihil sit debitis corrupti. Molestiae deleniti rerum quibusdam natus facilis amet et. Delectus reprehenderit accusantium omnis. Neque dolore quia velit molestiae fuga. Ipsa rerum iste.</body>
+        <recipients>
+            <recipient name="Mrs. Duane Haag"/>
+            <recipient name="Alec Huel MD"/>
+            <recipient name="Rhett West"/>
+        </recipients>
+    </message>
+    <message id="1489" from="Ms. Maximo Leannon" type="MMS">
+        <heading>Hey, come on. I had to change. Do you think I'm going back in that-that zoot suit? The old man really came through. It worked!</heading>
+        <body>Placeat pariatur a asperiores id occaecati voluptas. Assumenda magnam laboriosam. Omnis sapiente dolorem quia. Ut voluptas voluptates quia quo eaque. Sed ipsa totam modi. Molestiae repudiandae non. Debitis nulla quia provident minima voluptatem quas omnis. Harum maxime est sed eligendi porro explicabo. Sit ullam est non non ab consequatur qui.</body>
+        <recipients>
+            <recipient name="Sanjuana Cruickshank"/>
+            <recipient name="Honey Bergnaum"/>
+            <recipient name="Jess Murray"/>
+            <recipient name="Lynwood Goyette"/>
+            <recipient name="Lyle Gorczany IV"/>
+            <recipient name="Myrtice Stiedemann Jr."/>
+            <recipient name="Noble Hermann"/>
+            <recipient name="Dr. Chi Pacocha"/>
+            <recipient name="Marcellus Mohr"/>
+            <recipient name="Erik Swaniawski"/>
+            <recipient name="Erna Reilly"/>
+            <recipient name="Miss Riley Champlin"/>
+            <recipient name="Cary Bergnaum III"/>
+            <recipient name="Cris Kiehn"/>
+            <recipient name="Marilu Beahan"/>
+        </recipients>
+        <mentions>
+            <mention name="Cornell Conn"/>
+            <mention name="Ela Schneider"/>
+            <mention name="Jonie Swaniawski"/>
+            <mention name="Raye Terry"/>
+        </mentions>
+    </message>
+</ns2:messages>

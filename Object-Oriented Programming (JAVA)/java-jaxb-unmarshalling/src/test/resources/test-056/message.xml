@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="4327" from="Rutha Huels" type="MMS">
+        <heading>Marty, will we ever see you again?</heading>
+        <body>Rerum qui distinctio commodi officiis et mollitia id. Et cumque porro doloremque eius. Animi qui dolores sed ducimus sunt. Aut explicabo consequuntur est. Est at itaque sunt ducimus cum. Perspiciatis est eveniet tempore architecto rerum harum dolorum. Nostrum qui odio qui modi et eaque eius. Sint ipsam corrupti soluta modi est quia. Voluptatem nisi eum qui possimus quis doloremque placeat.</body>
+        <recipients>
+            <recipient name="Susy Donnelly"/>
+            <recipient name="Deloras Hammes"/>
+            <recipient name="Wiley Stoltenberg"/>
+            <recipient name="Raymon O'Reilly"/>
+            <recipient name="Pa Jakubowski Jr."/>
+            <recipient name="Sook Spencer"/>
+            <recipient name="Clemmie Gusikowski"/>
+            <recipient name="Olive Hermann"/>
+            <recipient name="Jacque Sanford I"/>
+            <recipient name="Jarvis Powlowski"/>
+        </recipients>
+        <mentions>
+            <mention name="Mohammed Hessel PhD"/>
+            <mention name="Sierra Champlin"/>
+        </mentions>
+    </message>
+    <message id="4213" from="Miss India Rempel" type="MQTT">
+        <heading>Give me a Pepsi Free.</heading>
+        <body>Dolores sint in inventore repellat corrupti culpa iusto. Sunt et et quia saepe quod. Sequi quia accusamus. Id quia sequi vel dolor molestiae. Non distinctio aut est. Delectus omnis voluptas assumenda quos ut. Reiciendis saepe culpa atque.</body>
+        <recipients>
+            <recipient name="Noah Herzog"/>
+            <recipient name="Claris Schulist"/>
+            <recipient name="Osvaldo Lind"/>
+            <recipient name="Karina Muller Sr."/>
+            <recipient name="Aleisha Tremblay"/>
+            <recipient name="Dr. Elliott Wilderman"/>
+        </recipients>
+        <mentions>
+            <mention name="Roscoe Crist"/>
+        </mentions>
+    </message>
+    <message id="8058" from="Dr. Brain Kiehn" type="MQTT">
+        <heading>Oh, my God. They found me. I don't know how, but they found me. Run for it, Marty!</heading>
+        <body>Velit dicta in doloribus dolor. Nihil repellendus quae. Officia voluptatem nulla ipsum et. Consequatur et atque vel facilis. Repellendus eaque voluptatem soluta perferendis dolor aliquid. Ut nostrum dolore consequatur non fugiat qui. Commodi voluptatibus perspiciatis. Quae dolor velit voluptas distinctio quibusdam eum veritatis.</body>
+        <recipients>
+            <recipient name="Myron Lynch"/>
+            <recipient name="Marcell Price"/>
+            <recipient name="Ginger Bahringer Sr."/>
+            <recipient name="Onie Sawayn I"/>
+            <recipient name="Leisha Brakus"/>
+            <recipient name="Markita Reynolds"/>
+            <recipient name="Lashawna Douglas"/>
+            <recipient name="Thanh Mertz"/>
+            <recipient name="Ignacio Yost"/>
+            <recipient name="Ms. Leandro Boyle"/>
+            <recipient name="Mrs. Wonda Yost"/>
+            <recipient name="Timothy Tromp"/>
+            <recipient name="Cristie Doyle"/>
+            <recipient name="Sueann Kuhic"/>
+            <recipient name="Mark Beer PhD"/>
+        </recipients>
+    </message>
+    <message id="3173" from="Yevette Jones" type="DDS">
+        <heading>Let me show you my plan for sending you home. Please excuse the crudity of this model. I didn't have time to build it to scale or paint it.</heading>
+        <body>Repellat sit quam qui dolorem. Quam dolores eius eaque. Et ratione accusamus. Quo non vel repellat unde accusamus. Voluptatum laboriosam quaerat corrupti consequuntur nulla nesciunt et. Perspiciatis eos ut vitae et aut. Aut voluptas ullam et et molestias repellendus. Iure voluptas corrupti voluptatem quaerat. Necessitatibus ipsum consequatur occaecati quae maxime.</body>
+        <recipients>
+            <recipient name="Elbert Stanton"/>
+            <recipient name="Deloise Reinger"/>
+            <recipient name="Yu Shields"/>
+            <recipient name="Annice Price"/>
+            <recipient name="Cary Wilderman"/>
+            <recipient name="Celeste Langworth"/>
+        </recipients>
+    </message>
+    <message id="1037" from="Florencia Beatty" type="RCS">
+        <heading>Great Scott!</heading>
+        <body>Saepe vero tempora magni. Ut minima dolor est accusamus. Quae sapiente iure et natus cumque accusantium placeat. Voluptas dolor reprehenderit minima molestias natus soluta. Iusto excepturi temporibus. Accusamus sint iusto et eveniet. Voluptatem deleniti sed nemo. Voluptatem odio sed.</body>
+        <recipients>
+            <recipient name="Sade Waelchi"/>
+            <recipient name="Scott Emard"/>
+            <recipient name="Nannie Thiel"/>
+        </recipients>
+    </message>
+</ns2:messages>

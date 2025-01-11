@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="2007" from="Meghann Zieme" type="DDS">
+        <heading>Now, remember. According to my theory, you interfered with your parents' first meeting. If they don't meet, they won't fall in love, they won't get married and they won't have kids. That's why your older brother's disappearing from that photograph. Your sister will follow, and unless you repair the damage, you'll be next.</heading>
+        <body>Non soluta ducimus et qui debitis. Magnam maiores dignissimos aperiam nesciunt quis eos itaque. Vel et fugiat harum odit. Vel quo animi vel. Nisi adipisci quod est itaque consequatur. Omnis blanditiis harum et officiis sed iusto. Officia perferendis laboriosam totam quo quaerat. Tenetur sapiente culpa aut vel distinctio odio sapiente.</body>
+        <recipients>
+            <recipient name="Mrs. Trey Dibbert"/>
+            <recipient name="Karima Ankunding"/>
+            <recipient name="Minta Schimmel"/>
+            <recipient name="Latrice Simonis MD"/>
+            <recipient name="Royal Herman"/>
+            <recipient name="Evette Rogahn"/>
+            <recipient name="Garret Williamson"/>
+            <recipient name="Ms. Shayne Jones"/>
+            <recipient name="Chong Barrows"/>
+        </recipients>
+        <mentions>
+            <mention name="Syble Cormier IV"/>
+            <mention name="Francisco Heller"/>
+            <mention name="Wilhemina Mosciski"/>
+        </mentions>
+    </message>
+    <message id="2384" from="Dr. Sirena Fadel" type="RCS">
+        <heading>He's an absolute dream!</heading>
+        <body>Sit voluptatibus aliquid ut velit asperiores harum. Quasi beatae rerum eius eos voluptate maiores. Nihil iusto voluptatem esse placeat provident incidunt. Veniam exercitationem a similique. Tenetur quia neque hic facere est. Quas magnam harum temporibus illo ad. Molestias nam rerum. Mollitia voluptates praesentium. Quam sint beatae.</body>
+        <recipients>
+            <recipient name="Alex Glover"/>
+            <recipient name="Miss Amada Ebert"/>
+            <recipient name="Erick Bernier"/>
+            <recipient name="Ryan Hackett"/>
+            <recipient name="Miss Aurea Weimann"/>
+            <recipient name="Emmanuel Beahan V"/>
+            <recipient name="Selene Rogahn"/>
+            <recipient name="Penni Erdman"/>
+            <recipient name="Margene Predovic"/>
+            <recipient name="Ms. Charlott Feest"/>
+            <recipient name="Cheyenne Turcotte"/>
+            <recipient name="Audry Schuppe Jr."/>
+            <recipient name="Jed Smith II"/>
+        </recipients>
+        <mentions>
+            <mention name="Mrs. Marcelo Glover"/>
+            <mention name="Roberto Lebsack"/>
+            <mention name="Kayce Lesch"/>
+            <mention name="Hoyt Nader"/>
+        </mentions>
+    </message>
+    <message id="5931" from="Antonia Thompson" type="IRC">
+        <heading>No! It requires something with a little more kick...plutonium!</heading>
+        <body>Nesciunt in soluta sequi voluptatibus placeat dolorem quas. Corporis omnis possimus accusamus perferendis ut eos. Ipsa eos et molestiae facere quasi ad. Et ut maxime sit ut dignissimos. Et nihil beatae. Possimus saepe repudiandae. Aut aliquid culpa cumque odio veniam doloremque minima. Et ratione accusantium amet architecto. Veritatis inventore quis quisquam quos modi temporibus.</body>
+        <recipients>
+            <recipient name="Sid Shields"/>
+            <recipient name="Ms. Marguerite Mayer"/>
+            <recipient name="Marcellus Rice MD"/>
+            <recipient name="Mrs. Normand Conroy"/>
+        </recipients>
+    </message>
+    <message id="1810" from="Mr. Fermin Gusikowski" type="SMS">
+        <heading>Course! From a group of Lybian Nationalists They wanted me to build them a bomb, so I took their plutonium and in turn I gave them a shiny bomb caseing full of used pinball machine parts!</heading>
+        <body>Perspiciatis adipisci itaque laborum suscipit voluptate vero. Soluta officia nihil quam nobis adipisci corrupti. Reiciendis non et qui necessitatibus. Itaque delectus cum at ipsum. In sit nemo eligendi dolor et. Et inventore eaque laudantium nemo praesentium maiores. Aperiam assumenda nihil. Soluta qui ut quis illo. Voluptatum et est pariatur occaecati.</body>
+        <recipients>
+            <recipient name="Valentina Upton"/>
+            <recipient name="Lucien Hansen"/>
+            <recipient name="Mrs. Reuben Borer"/>
+            <recipient name="Darron Gibson"/>
+            <recipient name="Emanuel MacGyver"/>
+            <recipient name="Mr. Howard Maggio"/>
+            <recipient name="Myron Glover"/>
+            <recipient name="Josef Luettgen"/>
+            <recipient name="Bryon Ward III"/>
+        </recipients>
+    </message>
+</ns2:messages>

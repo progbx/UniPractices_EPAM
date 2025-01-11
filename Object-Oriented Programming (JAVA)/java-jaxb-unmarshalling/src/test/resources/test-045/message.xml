@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="8635" from="Fumiko Oberbrunner III" type="MQTT">
+        <heading>Look, I'm just not ready to ask Lorraine out to the dance, and not you, or anybody else on this planet is gonna make me change my mind.</heading>
+        <body>Iure nisi nam ullam vitae deleniti nesciunt est. Beatae earum inventore qui aspernatur praesentium placeat. Laudantium ea odio rerum officiis reprehenderit. Odit necessitatibus aut est neque velit sed facere. Qui harum voluptatem ratione. Quos minima quaerat vel suscipit exercitationem dicta asperiores. Omnis at atque sunt modi recusandae. Saepe id iure consectetur quia sit.</body>
+        <recipients>
+            <recipient name="Miss Winfred Bechtelar"/>
+            <recipient name="Drucilla Runolfsdottir"/>
+            <recipient name="Miss Assunta Erdman"/>
+            <recipient name="Mrs. Elease Crist"/>
+            <recipient name="Treena Kuphal"/>
+            <recipient name="Priscilla Legros"/>
+            <recipient name="Bari Legros"/>
+            <recipient name="Verona Feest"/>
+            <recipient name="Khalilah Aufderhar"/>
+            <recipient name="Chauncey Fahey"/>
+            <recipient name="Boris Farrell"/>
+            <recipient name="Charlott Boyle"/>
+            <recipient name="Hassan Leuschke"/>
+            <recipient name="Jerlene Okuneva"/>
+        </recipients>
+        <mentions>
+            <mention name="Shanell Runolfsdottir"/>
+            <mention name="Jeanelle Orn DVM"/>
+            <mention name="Dorcas Parker"/>
+            <mention name="Mr. Jill Gerlach"/>
+        </mentions>
+    </message>
+</ns2:messages>

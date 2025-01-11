@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="3985" from="Arletta Von" type="MQTT">
+        <heading>Now, remember. According to my theory, you interfered with your parents' first meeting. If they don't meet, they won't fall in love, they won't get married and they won't have kids. That's why your older brother's disappearing from that photograph. Your sister will follow, and unless you repair the damage, you'll be next.</heading>
+        <body>Et aperiam rem in non atque. Similique provident excepturi. Eos qui molestiae. Quisquam eaque dolores. Labore eaque et unde. Ullam et ut itaque suscipit. Quas at consectetur voluptatem dolor repellendus commodi. Pariatur dolorum sit sapiente dolores. Perspiciatis nulla harum odio omnis ut sequi.</body>
+        <recipients>
+            <recipient name="Dr. Miki Upton"/>
+            <recipient name="Issac Rempel"/>
+            <recipient name="Herbert Goldner"/>
+            <recipient name="Albina Nienow Jr."/>
+            <recipient name="Nannette Lakin DVM"/>
+            <recipient name="Stuart Breitenberg"/>
+            <recipient name="Joel Rippin"/>
+            <recipient name="Eugenio Keebler"/>
+            <recipient name="Evelina Mayer"/>
+            <recipient name="Gail Grant DDS"/>
+            <recipient name="Wesley Stroman"/>
+            <recipient name="Roseanne Cummerata"/>
+            <recipient name="Mrs. Amada Boyer"/>
+            <recipient name="Ranae Berge"/>
+            <recipient name="Nia Wolff"/>
+        </recipients>
+    </message>
+    <message id="9546" from="Edward Prohaska" type="MQTT">
+        <heading>No wonder your president has to be an actor. He's gotta look good on television.</heading>
+        <body>Illo harum ut quidem accusantium natus. Libero iusto sapiente aliquid ipsa veniam et. Et placeat voluptatem sit dolor error iste hic. Excepturi nesciunt et esse vel est explicabo a. Eum provident distinctio impedit. Ut numquam dolorem. Et ut ratione deleniti voluptas delectus.</body>
+        <recipients>
+            <recipient name="Isaias Hickle"/>
+            <recipient name="Mrs. Fritz Wehner"/>
+            <recipient name="Clemencia Leffler I"/>
+            <recipient name="Jerrold Beier V"/>
+        </recipients>
+    </message>
+    <message id="2470" from="Timothy Beer PhD" type="MMS">
+        <heading>No wonder your president has to be an actor. He's gotta look good on television.</heading>
+        <body>Consequatur molestias maxime unde aut fugiat officia distinctio. Rem dolor maiores doloribus aut earum fugiat voluptatem. Dolor tenetur sed atque voluptate. Asperiores vitae mollitia non. Necessitatibus eaque quo alias enim alias repudiandae. Non consequatur quisquam est. Deleniti ratione dolorum distinctio natus dignissimos. Dolores exercitationem sed voluptatem sed odio veritatis.</body>
+        <recipients>
+            <recipient name="Ethan Maggio"/>
+            <recipient name="Marisha Shields"/>
+            <recipient name="Brock Donnelly"/>
+            <recipient name="Ruben Gusikowski"/>
+            <recipient name="Karl Crist DDS"/>
+            <recipient name="Diann Greenholt"/>
+            <recipient name="Robby Bogisich"/>
+            <recipient name="Gayle Schulist"/>
+            <recipient name="Mrs. Woodrow Becker"/>
+            <recipient name="Marianna Cassin"/>
+            <recipient name="Tristan Kub"/>
+            <recipient name="Major Brekke"/>
+        </recipients>
+    </message>
+    <message id="8193" from="Mayra Tillman V" type="SMS">
+        <heading>Biff. What a character. Always trying to get away with something. I've had to stay on top of Biff ever since high school. Although, if it wasn't for him...</heading>
+        <body>Iste odio ea omnis repudiandae accusantium magnam. Repellendus rem cum ea quia modi error. Occaecati recusandae consectetur cupiditate. Excepturi sunt magnam eligendi rem. Qui et consequatur officia possimus voluptate porro. Dolor impedit iure ut et. Vitae minima quisquam saepe in rem mollitia quia. Expedita porro expedita commodi ut consequatur cupiditate aut.</body>
+        <recipients>
+            <recipient name="Gerard Armstrong"/>
+            <recipient name="Albert Hodkiewicz DVM"/>
+            <recipient name="Collette Hegmann"/>
+            <recipient name="Margarete Gorczany"/>
+        </recipients>
+    </message>
+    <message id="256" from="Victor Bauch" type="IRC">
+        <heading>No, get out of town. My mom thinks I'm going camping with the guys. Look, Jennifer, my mother would freak out if she knew I was going out with you, and I'd get the standard lecture about how she never did that kind of stuff when she was a kid. I mean, look, I think the woman was born a nun.</heading>
+        <body>Odit et eligendi eos nulla in sapiente. Vel debitis pariatur sunt deleniti laudantium. Et dolores dolor mollitia et. Vitae vel voluptatem enim. Quia aut aperiam eaque blanditiis sint rerum non. Neque totam rerum consequatur adipisci molestiae quia. Praesentium sunt dignissimos iusto perferendis occaecati impedit.</body>
+        <recipients>
+            <recipient name="George Treutel"/>
+            <recipient name="Dr. Tawanna Kunze"/>
+            <recipient name="Caron Emard IV"/>
+            <recipient name="Jerrold Monahan"/>
+            <recipient name="Ms. Lorri Goodwin"/>
+            <recipient name="Dirk Braun"/>
+            <recipient name="Jonas Baumbach"/>
+            <recipient name="Lovie Hauck Sr."/>
+            <recipient name="Miss Alton Wehner"/>
+            <recipient name="Jimmy Windler"/>
+            <recipient name="Tessa Rohan PhD"/>
+            <recipient name="Fidela King PhD"/>
+            <recipient name="Eugenio Greenholt"/>
+            <recipient name="Verda Armstrong"/>
+            <recipient name="Emmie Bernier"/>
+        </recipients>
+        <mentions>
+            <mention name="Magan Von"/>
+            <mention name="Hipolito Crist"/>
+            <mention name="Damon Kovacek IV"/>
+        </mentions>
+    </message>
+</ns2:messages>

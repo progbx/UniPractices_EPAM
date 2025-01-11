@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="3575" from="Sharon Bartell" type="MQTT">
+        <heading>Radiation suit? Of course. 'Cause of all the fallout from the atomic wars.</heading>
+        <body>Veritatis voluptate et iusto autem repellendus aut. Ad voluptatibus nesciunt vel ut aperiam. Dolore ut rerum incidunt tempore. Et nihil consequatur. Et sint dolorem necessitatibus exercitationem. Omnis sit quia ducimus. Quia ut fugit.</body>
+        <recipients>
+            <recipient name="Daron Kohler"/>
+            <recipient name="Alfredia Lockman"/>
+            <recipient name="Alison Ondricka"/>
+            <recipient name="Elvina Koch"/>
+            <recipient name="Leone Kautzer MD"/>
+        </recipients>
+    </message>
+    <message id="4877" from="Truman Kuphal" type="AMQP">
+        <heading>No! It requires something with a little more kick...plutonium!</heading>
+        <body>Assumenda ex possimus vel ab fuga molestiae in. Ipsam voluptas harum officiis. Sed non officiis ratione sed. Sequi qui ex nesciunt eum voluptatem quisquam. Quam ad quasi. Possimus a sed quia reprehenderit. Animi neque voluptates in ad atque. Omnis temporibus dolore.</body>
+        <recipients>
+            <recipient name="Melia Treutel"/>
+            <recipient name="Mrs. Nisha Franecki"/>
+            <recipient name="Jestine Farrell"/>
+            <recipient name="Lucy Adams"/>
+            <recipient name="Sam Smith I"/>
+            <recipient name="Jonas Flatley"/>
+            <recipient name="Casey Stehr"/>
+            <recipient name="Mr. Adell Kihn"/>
+            <recipient name="Carol Reinger"/>
+        </recipients>
+    </message>
+    <message id="8365" from="Jonie Yundt" type="MMS">
+        <heading>Since you're new here, I-I'm gonna cut you a break, today. So, why don't you make like a tree and get outta here?</heading>
+        <body>Corporis laboriosam ullam ex. Fugiat aspernatur nesciunt atque sed. Qui eum consequatur debitis qui consequuntur qui reiciendis. Itaque et dolores. Vel eos unde quas. Repellat consequatur laboriosam et. Sunt nobis veniam quia odit.</body>
+        <recipients>
+            <recipient name="Dr. Wendi Waters"/>
+            <recipient name="Blake Considine"/>
+            <recipient name="Dr. Temika Becker"/>
+        </recipients>
+    </message>
+    <message id="3247" from="Ike Maggio PhD" type="SMS">
+        <heading>No, get out of town. My mom thinks I'm going camping with the guys. Look, Jennifer, my mother would freak out if she knew I was going out with you, and I'd get the standard lecture about how she never did that kind of stuff when she was a kid. I mean, look, I think the woman was born a nun.</heading>
+        <body>Ut voluptates mollitia. Sed minima reiciendis qui itaque laboriosam libero ab. Asperiores neque consequatur molestiae. Unde occaecati consequatur. Aut eum aspernatur in eos dolorem debitis inventore. Ducimus perferendis aliquid vel tempora sapiente. Temporibus sed facere voluptatibus exercitationem. Et possimus voluptas sed nisi perferendis et. Exercitationem nihil unde deserunt assumenda iste laboriosam.</body>
+        <recipients>
+            <recipient name="Ms. Marcie Schmeler"/>
+            <recipient name="Arron Kovacek"/>
+            <recipient name="Cole Hintz"/>
+            <recipient name="Madge Kshlerin"/>
+        </recipients>
+    </message>
+    <message id="1858" from="Mr. Nicky Wiza" type="DDS">
+        <heading>I noticed your band is on the roster for the dance auditions after school today. Why even bother, McFly? You don't have a chance. You're too much like your old man. No McFly ever amounted to anything in the history of Hill Valley!</heading>
+        <body>Et eveniet id et. Iste dolore aut. Ea iste rerum inventore porro deleniti ea repellat. Doloribus similique voluptates excepturi inventore nemo. Suscipit incidunt est enim doloremque saepe. Sit odio adipisci quo itaque quibusdam quisquam hic. Harum enim et qui iusto nemo.</body>
+        <recipients>
+            <recipient name="Basil Gutkowski"/>
+            <recipient name="Sherise Ziemann DVM"/>
+            <recipient name="Blair Price"/>
+            <recipient name="Ms. Kristofer Hettinger"/>
+            <recipient name="Shemeka Rohan"/>
+            <recipient name="Mr. Tristan Romaguera"/>
+            <recipient name="Eliz Dare"/>
+            <recipient name="Elke Conn"/>
+            <recipient name="Albert Miller"/>
+            <recipient name="Mr. Elfreda Baumbach"/>
+            <recipient name="Robin Howe"/>
+            <recipient name="Willian West DDS"/>
+            <recipient name="Catherina Wolf"/>
+        </recipients>
+    </message>
+    <message id="3625" from="Francesca Schmidt" type="RCS">
+        <heading>Don't be so gullible, McFly. Got the place fixed up nice, though, McFly.</heading>
+        <body>Praesentium voluptas exercitationem consequatur ullam. Aliquam rem magni amet autem dolores quaerat. Voluptas ullam et est modi necessitatibus omnis iusto. Laboriosam repellendus ut aperiam velit. Iure nulla velit enim similique mollitia quia vitae. Sed facilis inventore. Neque consequuntur natus molestiae nemo vel.</body>
+        <recipients>
+            <recipient name="Antonia Morar"/>
+            <recipient name="Gilda Bergnaum"/>
+            <recipient name="Sam Herman IV"/>
+            <recipient name="Craig Durgan I"/>
+            <recipient name="Mr. Angela Borer"/>
+            <recipient name="Alfred Kling"/>
+            <recipient name="Morton Jerde"/>
+            <recipient name="Lamont Lang"/>
+            <recipient name="Dr. Dominique Swaniawski"/>
+            <recipient name="Stephen Rath DDS"/>
+            <recipient name="Zandra Lueilwitz"/>
+            <recipient name="Naomi Jenkins"/>
+            <recipient name="Latonia Kub V"/>
+            <recipient name="Nigel Howell DDS"/>
+        </recipients>
+        <mentions>
+            <mention name="Maida Gottlieb III"/>
+            <mention name="Denyse Torp"/>
+        </mentions>
+    </message>
+    <message id="2036" from="Jonelle Corwin" type="MQTT">
+        <heading>If my calculations are correct, when this baby hits 88 miles per hour... you're gonna see some serious shit.</heading>
+        <body>Est itaque at sit ipsum. Neque assumenda in. Ullam rerum accusamus doloremque. Nihil ab dolor quasi aut. Dignissimos animi iure voluptatem. Cumque voluptas distinctio sunt ad voluptatem magni quam. Unde excepturi et mollitia amet quam quam. At est incidunt est. Praesentium illum necessitatibus repudiandae dolorem est dolor.</body>
+        <recipients>
+            <recipient name="Nakisha Hermann"/>
+            <recipient name="Doug Harvey V"/>
+            <recipient name="Romana Kuphal"/>
+            <recipient name="Stephaine Cruickshank"/>
+            <recipient name="Loyd Hartmann"/>
+            <recipient name="Leo Muller DVM"/>
+            <recipient name="Chris Moen"/>
+            <recipient name="Hae Kub"/>
+            <recipient name="Mitzi Ward"/>
+        </recipients>
+    </message>
+    <message id="8025" from="Justin Goyette" type="MQTT">
+        <heading>Lorraine. My density has brought me to you.</heading>
+        <body>Temporibus animi eum. Necessitatibus omnis vel laboriosam. In et aut eaque voluptate nisi laborum. Vel rem aut. Sunt optio tempore. Non vitae quo est excepturi dicta. Perferendis molestias libero et. Aut molestias explicabo totam hic quasi.</body>
+        <recipients>
+            <recipient name="Ms. Gabriela Paucek"/>
+            <recipient name="Randolph Bartell Sr."/>
+            <recipient name="Cletus Crona"/>
+            <recipient name="Rocco Nader"/>
+            <recipient name="Kurtis Schroeder"/>
+            <recipient name="Rachell Sanford"/>
+            <recipient name="Elmer Thiel V"/>
+            <recipient name="Donny Fahey"/>
+        </recipients>
+    </message>
+</ns2:messages>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="6216" from="Jason Witting II" type="MQTT">
+        <heading>I'm from the future. I came here in a Time Machine that you invented. Now I need your help to get back to the year 1985.</heading>
+        <body>Sequi omnis saepe atque maxime ad dolore. Autem ducimus tempora aliquid fugit voluptate et nemo. Aut distinctio qui et. Nemo quia qui cumque aut. Voluptatem voluptatem magni quos inventore similique. Occaecati non sunt. Magnam totam ut.</body>
+        <recipients>
+            <recipient name="Daryl Howe"/>
+            <recipient name="Marylyn Dicki"/>
+            <recipient name="Leon Beahan"/>
+            <recipient name="Perla Bartoletti III"/>
+            <recipient name="Felipe DuBuque"/>
+            <recipient name="Shelba Cummings"/>
+            <recipient name="Ross Schowalter I"/>
+        </recipients>
+    </message>
+    <message id="778" from="Bennie Volkman I" type="MQTT">
+        <heading>He's a Peeping Tom!</heading>
+        <body>Aperiam voluptatem magni aperiam. Odio accusamus non reiciendis recusandae. Dicta dolorum necessitatibus soluta soluta est. Rerum quis et atque. Pariatur ipsum quo odit. Voluptas qui enim sapiente velit nihil ipsa alias. Iusto assumenda culpa rerum sed possimus autem.</body>
+        <recipients>
+            <recipient name="Levi Howe III"/>
+            <recipient name="Steven Kuhlman"/>
+            <recipient name="Dr. Mae Johnson"/>
+        </recipients>
+    </message>
+    <message id="3316" from="Dagmar Moore" type="RCS">
+        <heading>Oh, honey, he's teasing you. Nobody has two television sets.</heading>
+        <body>Ut rem ut asperiores maiores nisi ut. Et unde ut. Earum alias et ut possimus velit sit eius. Deleniti in autem quibusdam voluptatem voluptatibus sit. Dolor saepe enim at dignissimos pariatur nesciunt iusto. Dignissimos aut eum laboriosam fuga veritatis voluptates doloremque. Sunt non est et.</body>
+        <recipients>
+            <recipient name="Imelda Willms PhD"/>
+            <recipient name="Wilber Durgan"/>
+            <recipient name="Ms. Mignon Ward"/>
+            <recipient name="Oscar Nikolaus"/>
+            <recipient name="Eugene Ziemann"/>
+            <recipient name="Lavonia Hayes"/>
+            <recipient name="Lane Sanford"/>
+            <recipient name="Gregorio Volkman DDS"/>
+            <recipient name="Tai Jacobs MD"/>
+            <recipient name="Shanon Schneider"/>
+            <recipient name="Mrs. Maddie Fisher"/>
+        </recipients>
+        <mentions>
+            <mention name="Chantal Langosh"/>
+            <mention name="Marge King"/>
+        </mentions>
+    </message>
+    <message id="4783" from="Hassan Quitzon II" type="MMS">
+        <heading>Let me show you my plan for sending you home. Please excuse the crudity of this model. I didn't have time to build it to scale or paint it.</heading>
+        <body>Qui rerum asperiores corrupti nihil et. Voluptatem enim sed. Dolores qui consequatur quisquam ratione aut nisi et. Illo est nesciunt sed rerum possimus soluta. Fugiat nam quis quidem. Laboriosam eius fugiat repudiandae. Ducimus voluptas eveniet explicabo quia dolores provident distinctio. Dolore ea suscipit non ipsa cumque incidunt sed.</body>
+        <recipients>
+            <recipient name="Devon Rolfson"/>
+            <recipient name="Ms. Lindsy Sipes"/>
+            <recipient name="Hiroko Goodwin"/>
+            <recipient name="Marcellus Pollich II"/>
+            <recipient name="Steven Heidenreich"/>
+            <recipient name="Mrs. Eloy Sauer"/>
+            <recipient name="Modesta Welch"/>
+            <recipient name="Marlo Macejkovic DDS"/>
+            <recipient name="Kittie Glover"/>
+            <recipient name="Anthony Pacocha"/>
+        </recipients>
+    </message>
+    <message id="1514" from="Wilton Lemke" type="MMS">
+        <heading>Maybe you were adopted.</heading>
+        <body>Sit illum eum commodi est nihil placeat. Et quis dolores temporibus et ipsam. Et sed nostrum quia. Quis sunt rerum aut et. Aut natus provident ut quia ut occaecati. Modi adipisci ea. Enim deleniti voluptatibus aut quasi reprehenderit distinctio commodi. Placeat quia totam quae nihil accusamus.</body>
+        <recipients>
+            <recipient name="Esperanza Schowalter"/>
+            <recipient name="Bernardo Block"/>
+            <recipient name="Maximo Walter"/>
+            <recipient name="Min Veum"/>
+        </recipients>
+    </message>
+    <message id="5873" from="Mr. Drusilla Skiles" type="AMQP">
+        <heading>The way I see it, if you're gonna build a time machine into a car, why not do it with some style?</heading>
+        <body>Sint atque eos quibusdam dolores. Iste natus repellendus consequuntur corrupti. Magni facere rerum ut voluptas qui. Ut facilis ad quos maxime et ut omnis. Dolore ut assumenda aut tenetur excepturi sit est. Eveniet molestias ea sit quo rem ipsam porro. Tempore commodi incidunt animi maxime.</body>
+        <recipients>
+            <recipient name="Benjamin Shanahan"/>
+            <recipient name="Randolph Hermiston"/>
+            <recipient name="Mrs. Deborah Lueilwitz"/>
+        </recipients>
+        <mentions>
+            <mention name="Carter Parisian"/>
+            <mention name="Russ Kub V"/>
+        </mentions>
+    </message>
+    <message id="5388" from="Toccara Kohler" type="IRC">
+        <heading>Roads? Where we're going, we don't need roads.</heading>
+        <body>Quia iure voluptatem cum sapiente. Neque non aut quia earum iusto. Aut modi tempore temporibus voluptatem non sunt tempore. Vel dolorum accusamus et suscipit hic dicta. Provident adipisci beatae magni. Mollitia eaque hic debitis. Est enim dolorem et dignissimos expedita asperiores. Alias porro voluptatem.</body>
+        <recipients>
+            <recipient name="Ruben Becker DDS"/>
+            <recipient name="Madlyn Bahringer Sr."/>
+            <recipient name="Pamela Collins"/>
+            <recipient name="Helen Schaden"/>
+        </recipients>
+    </message>
+</ns2:messages>

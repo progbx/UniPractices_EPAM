@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="4098" from="Margarito Lesch" type="AMQP">
+        <heading>He laid out Biff in one punch. I didn't know he had it in him. He's never stood up to Biff in his life!</heading>
+        <body>Fuga et quae. Debitis porro rerum quo beatae praesentium alias. Perferendis dolores laboriosam et sint sit. Molestiae non voluptas aut facilis est earum voluptates. Nisi quas quis voluptatem. Vel quis atque sit doloribus perspiciatis. Perferendis id possimus. Sint esse dignissimos blanditiis natus necessitatibus est ut. Consequatur ut deleniti dolorum quae ut eos sit.</body>
+        <recipients>
+            <recipient name="Lavette Abernathy"/>
+            <recipient name="Helena Boyle"/>
+            <recipient name="Nerissa Dooley"/>
+            <recipient name="Adan Spencer"/>
+            <recipient name="Cesar Kuhn"/>
+            <recipient name="Antione Wisoky"/>
+            <recipient name="Dr. Lizbeth Schoen"/>
+            <recipient name="Dr. Halley Olson"/>
+            <recipient name="Yang Schultz"/>
+            <recipient name="Ralph Thiel"/>
+            <recipient name="Chester O'Conner"/>
+            <recipient name="Emerson Cartwright"/>
+            <recipient name="Dr. Teodora Grady"/>
+            <recipient name="Van Stroman DVM"/>
+            <recipient name="Mrs. Valda Lang"/>
+        </recipients>
+    </message>
+    <message id="8693" from="Rory Lueilwitz" type="SMTP">
+        <heading>Hey, Dad! George! Hey, you on the bike!</heading>
+        <body>Autem et eius. Excepturi facilis sunt placeat hic beatae eius. Minima minima quo et explicabo. Cumque et commodi molestias in totam. Corporis illo cupiditate accusantium dicta. Repellendus possimus maxime nulla earum beatae provident. Esse distinctio in alias enim ut.</body>
+        <recipients>
+            <recipient name="Dr. Thao Schaefer"/>
+            <recipient name="Maricela Harvey PhD"/>
+            <recipient name="Torie Kozey"/>
+            <recipient name="Madelyn Labadie PhD"/>
+            <recipient name="Wesley Dooley"/>
+            <recipient name="Maryjo Schulist"/>
+            <recipient name="Autumn Pouros"/>
+            <recipient name="Alec Labadie"/>
+            <recipient name="Mrs. Roxanna Dibbert"/>
+            <recipient name="Ms. Keith Schulist"/>
+            <recipient name="Raul McDermott"/>
+            <recipient name="Tamica Maggio"/>
+            <recipient name="Tierra Mayert"/>
+        </recipients>
+    </message>
+    <message id="3707" from="Lois O'Reilly" type="IRC">
+        <heading>Hey, Biff, get a load of this guy's life preserver. Dork thinks he's gonna drown.</heading>
+        <body>Fugit velit consequatur dicta. Ea qui aut. Ea quod ea eligendi molestiae voluptatem. Enim quia quas. Quo et aliquam. Nostrum cumque fugit. Molestias non exercitationem quam. Cumque odit sapiente aut aut voluptas odit qui.</body>
+        <recipients>
+            <recipient name="Gia Gaylord"/>
+            <recipient name="Elliott Schmitt"/>
+            <recipient name="Brittni Quigley"/>
+            <recipient name="Roxana Green"/>
+            <recipient name="Dr. Clarinda Dietrich"/>
+            <recipient name="Mel Streich"/>
+            <recipient name="Pearly Dibbert"/>
+            <recipient name="Lorna Gerhold Jr."/>
+            <recipient name="Irvin Rempel IV"/>
+            <recipient name="Beau Rowe"/>
+            <recipient name="Dustin Altenwerth"/>
+        </recipients>
+    </message>
+    <message id="6335" from="Cordell Stehr" type="MQTT">
+        <heading>We're the, uh... We're the Pinheads.</heading>
+        <body>Blanditiis reiciendis voluptas expedita sapiente veritatis. Eaque voluptas soluta sint ab totam dicta. Totam culpa culpa cumque rerum. Nesciunt veritatis suscipit possimus occaecati enim. Et nesciunt enim sed iste nemo. Tempora et alias expedita cupiditate nisi. Quis maiores omnis.</body>
+        <recipients>
+            <recipient name="Brandee Douglas"/>
+            <recipient name="Layla Fay"/>
+            <recipient name="Ebonie Schmidt"/>
+            <recipient name="Herschel Rodriguez"/>
+            <recipient name="Floyd Weber"/>
+            <recipient name="Roscoe Blick"/>
+            <recipient name="Arturo McGlynn"/>
+            <recipient name="Virgil Yundt"/>
+            <recipient name="Marvin Effertz"/>
+            <recipient name="Noe Halvorson"/>
+        </recipients>
+        <mentions>
+            <mention name="Kathey Moore"/>
+            <mention name="Horacio Larkin"/>
+            <mention name="Karl Daugherty"/>
+            <mention name="Daron Williamson"/>
+        </mentions>
+    </message>
+    <message id="4299" from="Melani Auer" type="XMPP">
+        <heading>All right. This is an oldie, but, uh... well, it's an oldie where I come from.</heading>
+        <body>Ab cum eum tempora et voluptas. Est aliquid quisquam suscipit. Rem veniam dolor rerum blanditiis. Sed qui numquam illo aut qui explicabo labore. Esse nihil quasi vitae dolor. Cum debitis rem assumenda vel nostrum. Ducimus est voluptatibus voluptate sed. Laborum rerum qui iste minima in ut commodi. Distinctio sequi accusantium praesentium aspernatur.</body>
+        <recipients>
+            <recipient name="Joey Russel"/>
+            <recipient name="Roderick McLaughlin"/>
+            <recipient name="Eliza Orn"/>
+            <recipient name="Marty Franecki"/>
+            <recipient name="Maxwell Jacobi MD"/>
+            <recipient name="Samantha Kiehn DDS"/>
+            <recipient name="Lowell Hartmann"/>
+            <recipient name="Golden Greenholt"/>
+            <recipient name="Emilee Lueilwitz"/>
+            <recipient name="Nerissa Collier"/>
+            <recipient name="Na Nader"/>
+            <recipient name="Barbra O'Reilly DVM"/>
+            <recipient name="Mr. Bonny Jacobi"/>
+            <recipient name="Shirlene Wunsch Sr."/>
+        </recipients>
+        <mentions>
+            <mention name="Andy Stehr MD"/>
+            <mention name="Gino Parker"/>
+        </mentions>
+    </message>
+    <message id="5081" from="Estrella Lebsack" type="RCS">
+        <heading>Calm down, Marty. I didn't disintegrate anything. The molecular structure of both Einstein and the car are completely intact.</heading>
+        <body>Quae architecto sequi ut est in quo deleniti. In placeat ratione error est fuga molestias. Error dolorem aut sapiente. Similique rerum perspiciatis id odit error. Velit voluptatem debitis. Possimus distinctio provident quasi sunt accusantium non occaecati. Aut a velit error est. Eligendi consequatur blanditiis.</body>
+        <recipients>
+            <recipient name="Lauretta Cassin III"/>
+            <recipient name="Ollie Weissnat Sr."/>
+            <recipient name="James Hane"/>
+            <recipient name="Victor Anderson"/>
+            <recipient name="Weston Jacobs"/>
+            <recipient name="Hilario Breitenberg"/>
+        </recipients>
+    </message>
+    <message id="6315" from="Ms. Rachael Douglas" type="SMS">
+        <heading>Let me show you my plan for sending you home. Please excuse the crudity of this model. I didn't have time to build it to scale or paint it.</heading>
+        <body>Veritatis reprehenderit quasi. Et voluptatem nulla excepturi impedit. Iure similique commodi sequi officiis sed blanditiis ullam. Vitae corporis quae soluta. Alias error sint et nobis sit voluptate voluptate. Fugiat dolor impedit repellendus enim. Dolor laborum ad. Aliquid quis tenetur sapiente quo doloribus vel.</body>
+        <recipients>
+            <recipient name="Fred Conroy"/>
+            <recipient name="Golden Kunze"/>
+            <recipient name="Lashawn Mante"/>
+            <recipient name="Louis Roberts DDS"/>
+            <recipient name="Ezra Lowe III"/>
+            <recipient name="Bryon Sawayn"/>
+            <recipient name="Edmundo Williamson"/>
+            <recipient name="David Bayer"/>
+            <recipient name="Rudolph Kilback"/>
+            <recipient name="Norris Denesik"/>
+            <recipient name="Winona Hilpert V"/>
+            <recipient name="Fiona Wilkinson DVM"/>
+            <recipient name="Morton Wehner"/>
+            <recipient name="Tad Lynch II"/>
+        </recipients>
+        <mentions>
+            <mention name="Dr. Curt Lowe"/>
+        </mentions>
+    </message>
+</ns2:messages>

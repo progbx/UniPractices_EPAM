@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="2888" from="Quentin Williamson" type="SMS">
+        <heading>That's Strickland. Jesus, didn't that guy ever have hair?</heading>
+        <body>Modi quas eum ut molestiae occaecati unde dignissimos. Incidunt atque nam fugiat. Explicabo enim ab sunt unde. Omnis at sit illo consequatur. Eum nulla nobis reprehenderit quis soluta. Eveniet maiores quos. Ut atque dolore unde sint aut dolores tempore.</body>
+        <recipients>
+            <recipient name="Gilberto Mueller"/>
+            <recipient name="Ouida Doyle"/>
+            <recipient name="Delilah Braun I"/>
+            <recipient name="Ms. Dick Goyette"/>
+            <recipient name="Danae Schinner"/>
+            <recipient name="Molly Thompson"/>
+            <recipient name="Curt Dickens"/>
+            <recipient name="Jame Adams"/>
+            <recipient name="Ethan Ward"/>
+            <recipient name="Humberto Paucek DDS"/>
+            <recipient name="Ms. Blake D'Amore"/>
+            <recipient name="Tarsha Strosin"/>
+        </recipients>
+    </message>
+    <message id="8122" from="Nam Wuckert" type="MQTT">
+        <heading>He's a Peeping Tom!</heading>
+        <body>Qui dolorem beatae sunt voluptatem. Non qui tempore eum. Maiores nesciunt sed fuga laboriosam eum. Explicabo delectus sunt voluptatum accusantium. Voluptatem rerum qui neque. Corporis omnis voluptatum officia id pariatur dolorem. Est debitis fugit quia ut suscipit in.</body>
+        <recipients>
+            <recipient name="Jermaine Rutherford"/>
+            <recipient name="Ms. Chanda Gibson"/>
+            <recipient name="Candice Little I"/>
+            <recipient name="Burton Corkery"/>
+            <recipient name="Jeremy Altenwerth"/>
+            <recipient name="Neville Dietrich"/>
+            <recipient name="Celeste Kuvalis"/>
+            <recipient name="Rhoda Hoeger MD"/>
+            <recipient name="Jamison Gerhold"/>
+            <recipient name="Ms. Gaynell Trantow"/>
+            <recipient name="Brock Harris"/>
+            <recipient name="Evan Pfannerstill"/>
+            <recipient name="Miriam Wintheiser"/>
+        </recipients>
+        <mentions>
+            <mention name="Kyoko Rolfson IV"/>
+        </mentions>
+    </message>
+    <message id="6341" from="Quintin Moore" type="IRC">
+        <heading>Let me show you my plan for sending you home. Please excuse the crudity of this model. I didn't have time to build it to scale or paint it.</heading>
+        <body>Explicabo pariatur enim nesciunt aliquam. Odio aut minus qui ut repudiandae. Quibusdam cum esse est optio libero incidunt voluptatum. Voluptas quis nihil eligendi similique occaecati. Vel et quidem. Sed delectus similique fugiat qui voluptatem iusto. Impedit vitae saepe quia.</body>
+        <recipients>
+            <recipient name="Jeanna Schumm"/>
+            <recipient name="Mr. Sal Rau"/>
+            <recipient name="Takako Goyette II"/>
+            <recipient name="Bobbye Hettinger"/>
+            <recipient name="Renay O'Reilly"/>
+            <recipient name="Woodrow Jaskolski III"/>
+        </recipients>
+    </message>
+    <message id="1611" from="Derrick Bins" type="DDS">
+        <heading>You want a Pepsi, pal, you're gonna pay for it.</heading>
+        <body>Culpa qui velit qui et voluptas quia. Non modi qui. Aliquid ex sit aliquam. Mollitia nobis totam harum doloremque non officiis. Fuga aut qui harum ut sunt. Qui eveniet consequatur. Rem debitis suscipit voluptas recusandae aut aperiam. Aut dolorem quod non provident quidem sapiente quam.</body>
+        <recipients>
+            <recipient name="Sebrina Kuhic"/>
+            <recipient name="Ms. Terrie Waters"/>
+            <recipient name="Mammie Dickinson II"/>
+            <recipient name="Elida Schulist Jr."/>
+            <recipient name="Vernita Rolfson"/>
+            <recipient name="Noe Stracke"/>
+            <recipient name="Marion Ernser"/>
+            <recipient name="Sharee Roob Jr."/>
+            <recipient name="Margaret Homenick"/>
+            <recipient name="Zenaida Hessel"/>
+        </recipients>
+        <mentions>
+            <mention name="Andre Kuhlman"/>
+            <mention name="Carmine Ebert"/>
+            <mention name="Gary Barrows"/>
+            <mention name="Jonathan Hyatt"/>
+        </mentions>
+    </message>
+    <message id="5421" from="Lawrence Farrell" type="SMS">
+        <heading>If you put your mind to it, you can accomplish anything.</heading>
+        <body>Repellat quisquam ex eos dolorem ducimus. Recusandae enim deserunt esse ipsa. Qui in omnis inventore modi. Quisquam enim similique rerum eos unde beatae. Adipisci minima est veniam aperiam consequatur. Quos sed dignissimos accusamus voluptatem non. Sapiente possimus rerum nesciunt est at. Consequatur eos vitae.</body>
+        <recipients>
+            <recipient name="Heike Beier"/>
+            <recipient name="Ruthann Hyatt"/>
+            <recipient name="Mrs. Natalie Wunsch"/>
+            <recipient name="Buck Jast"/>
+            <recipient name="Miss Cornell Wiegand"/>
+            <recipient name="Nova McKenzie"/>
+            <recipient name="Marvella Johns DDS"/>
+        </recipients>
+    </message>
+</ns2:messages>

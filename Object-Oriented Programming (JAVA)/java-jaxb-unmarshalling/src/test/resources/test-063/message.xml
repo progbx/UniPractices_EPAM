@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="2823" from="Bradford Konopelski" type="DDS">
+        <heading>Last night, Darth Vader came down from Planet Vulcan and told me that if I didn't take Lorraine out, that he'd melt my brain.</heading>
+        <body>Veniam velit rerum necessitatibus. Magni id aut. Rem ut sint beatae. Nulla et consequatur repellat sed. Consectetur et voluptatibus vel. Aut ipsa quia corrupti. Voluptatum ut fugiat.</body>
+        <recipients>
+            <recipient name="Belinda Rodriguez"/>
+            <recipient name="Jamar Lowe"/>
+            <recipient name="Carmen Mills"/>
+            <recipient name="Ronni Hilpert"/>
+        </recipients>
+    </message>
+    <message id="4276" from="Tim Kerluke" type="DDS">
+        <heading>I finally invent something that works!</heading>
+        <body>Maiores neque expedita mollitia. Repellat quia quaerat qui. Quos voluptatem harum inventore. Ut accusantium ut adipisci voluptas. Et magni eligendi voluptatem tempore at quas. Labore vero voluptate pariatur. Velit at perferendis dicta tenetur quo. Sit reiciendis non. Placeat ut dolores dolore accusamus.</body>
+        <recipients>
+            <recipient name="Brain Balistreri IV"/>
+            <recipient name="Miss Elias Schuppe"/>
+            <recipient name="Lanita Becker"/>
+            <recipient name="Buford Mante"/>
+            <recipient name="Tangela Gerlach"/>
+            <recipient name="Terra Bechtelar"/>
+            <recipient name="Arletha Schoen"/>
+            <recipient name="Aubrey Larson IV"/>
+        </recipients>
+    </message>
+    <message id="9832" from="Felica Frami" type="SMTP">
+        <heading>Calm down, Marty. I didn't disintegrate anything. The molecular structure of both Einstein and the car are completely intact.</heading>
+        <body>Est quasi qui ducimus officiis cum libero dolor. Illum eaque culpa vitae veniam qui quod in. Consequatur earum non et et delectus amet eligendi. Repellendus pariatur et non. Incidunt labore minima dolores qui rerum. Sit sint est iste expedita aliquam. Saepe et molestiae in asperiores esse.</body>
+        <recipients>
+            <recipient name="Benny Lindgren MD"/>
+            <recipient name="Nicki Dach"/>
+            <recipient name="Erin Hansen"/>
+            <recipient name="Jorge Murray"/>
+        </recipients>
+    </message>
+    <message id="5300" from="Chadwick Willms" type="MQTT">
+        <heading>Biff. What a character. Always trying to get away with something. I've had to stay on top of Biff ever since high school. Although, if it wasn't for him...</heading>
+        <body>Aspernatur qui eos pariatur velit reprehenderit est id. Est iusto quia commodi voluptate dolore qui. Ipsa quia veritatis corporis. Error magnam vel ducimus voluptates consequuntur. Perferendis laudantium voluptatum. A quia et. Saepe est suscipit soluta commodi quisquam error est. Quia impedit veritatis optio. Qui voluptatem culpa.</body>
+        <recipients>
+            <recipient name="Weston Little"/>
+            <recipient name="Lucio Wehner"/>
+            <recipient name="Jarrett Langosh"/>
+            <recipient name="Raul Maggio MD"/>
+            <recipient name="Arnulfo Bergstrom"/>
+        </recipients>
+    </message>
+    <message id="1684" from="Mellisa Hansen" type="SMS">
+        <heading>Whoa. Wait a minute, Doc. Are you trying to tell me that my mother has got the hots for me?</heading>
+        <body>Dolores quisquam voluptatem aut eaque qui at. Quaerat totam consequatur itaque. Eum ut qui voluptas. Amet quod qui laboriosam in qui. Qui vel recusandae quam deserunt. Magni qui quis molestiae et. Voluptatum et odit.</body>
+        <recipients>
+            <recipient name="Dr. David Bartoletti"/>
+            <recipient name="Mahalia Batz III"/>
+            <recipient name="Tyrone Hilll"/>
+            <recipient name="Theron Altenwerth"/>
+            <recipient name="Royce Schimmel IV"/>
+            <recipient name="Sulema Considine"/>
+            <recipient name="Cordie Stiedemann"/>
+            <recipient name="Vera Jaskolski"/>
+            <recipient name="Art Dicki"/>
+            <recipient name="Miguel Farrell"/>
+            <recipient name="Dale Russel"/>
+            <recipient name="Augustus Tremblay"/>
+            <recipient name="Edmond Gerhold"/>
+            <recipient name="Wilbert Kessler"/>
+            <recipient name="Merlyn Ernser"/>
+        </recipients>
+    </message>
+    <message id="3077" from="Jesse Ernser" type="DDS">
+        <heading>You want a Pepsi, pal, you're gonna pay for it.</heading>
+        <body>Accusantium odio soluta voluptas quod in sed. Nemo recusandae in quaerat fugiat ex libero velit. Accusamus minima facilis nihil dicta soluta. Aut quae totam. Ipsam molestiae omnis harum sequi esse amet. Qui nostrum quam rerum. Asperiores voluptatibus rerum quae earum.</body>
+        <recipients>
+            <recipient name="Mr. Chong Williamson"/>
+            <recipient name="Michel Kuhic DDS"/>
+            <recipient name="Florentino Balistreri"/>
+            <recipient name="Terry Jast MD"/>
+            <recipient name="Darryl Considine"/>
+            <recipient name="Nila Rodriguez V"/>
+            <recipient name="Joseph Anderson"/>
+            <recipient name="Raeann Nicolas"/>
+            <recipient name="Jerrod Crist"/>
+            <recipient name="Oda Windler"/>
+            <recipient name="Lou West"/>
+            <recipient name="Manual Trantow"/>
+            <recipient name="Tyesha Walker"/>
+            <recipient name="Malik Harvey"/>
+            <recipient name="Kaycee Grimes"/>
+        </recipients>
+    </message>
+    <message id="3300" from="Mr. Cole Bins" type="SMTP">
+        <heading>Hey, Biff, get a load of this guy's life preserver. Dork thinks he's gonna drown.</heading>
+        <body>Aperiam laudantium debitis dolore. Quos excepturi voluptatem repellat et. Nulla cumque perferendis odio veritatis tempora id debitis. Ratione facere dolores et delectus suscipit at et. Necessitatibus rem quia placeat. Voluptates iste voluptatibus quae mollitia dicta. Et doloribus maiores. Tempora distinctio et ea est suscipit eveniet.</body>
+        <recipients>
+            <recipient name="Riley Flatley"/>
+            <recipient name="Wally Ratke"/>
+            <recipient name="Victor Metz"/>
+            <recipient name="Zena Bernhard MD"/>
+        </recipients>
+    </message>
+    <message id="8265" from="Grant Graham Sr." type="MMS">
+        <heading>Marty, don't be such a square. Everybody who's anybody drinks.</heading>
+        <body>Nostrum qui unde voluptates enim ex expedita. Veniam et aut facilis at sunt sed. Nihil facere autem ex at. Ratione quia cum rerum sequi dolores tempore. Assumenda tempore quia ut error maiores similique quisquam. Sunt molestiae et. Repudiandae quam explicabo sit in sint. Fugit sint ut dolor eaque. Porro aut est ipsam ut aut.</body>
+        <recipients>
+            <recipient name="Myung Bradtke DDS"/>
+            <recipient name="Adrianna Haag"/>
+            <recipient name="Ms. Paul Rodriguez"/>
+            <recipient name="Nella Rohan Sr."/>
+            <recipient name="Blair Orn"/>
+            <recipient name="Bernardo Raynor"/>
+        </recipients>
+        <mentions>
+            <mention name="Chet Durgan"/>
+        </mentions>
+    </message>
+    <message id="3169" from="Ellis Mann" type="SMS">
+        <heading>There's that word again. 'Heavy.' Why are things so heavy in the future? Is there a problem with the Earth's gravitational pull?</heading>
+        <body>Nostrum nihil perspiciatis eaque minus ipsa. Rerum magnam error nulla. Incidunt id animi velit. Distinctio iusto iste quasi est et sapiente odio. Et quas iste illo velit perferendis dolor. Sapiente asperiores cupiditate. Debitis consequatur dolores voluptatem neque cumque.</body>
+        <recipients>
+            <recipient name="Noemi Leffler Sr."/>
+            <recipient name="Marilou Stiedemann"/>
+            <recipient name="Mr. Russ Hudson"/>
+            <recipient name="Roderick Ward"/>
+            <recipient name="Travis Crist"/>
+            <recipient name="Fred Reilly"/>
+            <recipient name="Terica Yost"/>
+            <recipient name="Ms. Anibal Reilly"/>
+            <recipient name="Lorrine Grady"/>
+            <recipient name="Darren Senger"/>
+            <recipient name="Mr. Lyndon Kemmer"/>
+            <recipient name="Freddy Lemke"/>
+            <recipient name="Anthony Walter"/>
+        </recipients>
+    </message>
+</ns2:messages>

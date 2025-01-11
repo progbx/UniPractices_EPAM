@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="6594" from="Sharleen Morar DDS" type="IRC">
+        <heading>Now, Biff, I want to make sure that we get two coats of wax this time, not just one.</heading>
+        <body>Aperiam deserunt alias alias eos. Provident ipsa in laborum ex. Et occaecati hic est doloribus laboriosam odit necessitatibus. Sed fugiat expedita. Quia nisi dolorem eaque. Dolorum laboriosam sint fugit ratione. Porro id et. Amet totam eos molestiae beatae magni vitae vitae. Nihil qui culpa nam reprehenderit et.</body>
+        <recipients>
+            <recipient name="Katharyn Koelpin III"/>
+            <recipient name="Ms. Santos Haag"/>
+            <recipient name="Maude Nader"/>
+            <recipient name="Kurtis Hand IV"/>
+            <recipient name="Joline Muller"/>
+            <recipient name="Bev Frami"/>
+            <recipient name="Stanton Lakin"/>
+            <recipient name="Clyde Kemmer"/>
+            <recipient name="Florencio Monahan"/>
+        </recipients>
+        <mentions>
+            <mention name="Miss Sammie Howe"/>
+            <mention name="Ardith Jacobs"/>
+        </mentions>
+    </message>
+    <message id="6213" from="Genoveva Runolfsson" type="XMPP">
+        <heading>Great Scott!</heading>
+        <body>Sint qui quos consectetur delectus similique. Quo omnis qui molestiae. A quia veritatis soluta id quidem ut. Et quia accusantium nostrum omnis at delectus. Corporis quod culpa et. Aliquid dolorem cupiditate. Beatae deleniti nemo vitae deleniti ut.</body>
+        <recipients>
+            <recipient name="Gemma Pacocha"/>
+            <recipient name="Carolann Lindgren"/>
+            <recipient name="Jacques Pacocha V"/>
+            <recipient name="Solomon Pollich"/>
+            <recipient name="Ramonita Kassulke PhD"/>
+            <recipient name="Miss Veronika Feeney"/>
+            <recipient name="Doyle Bartell"/>
+        </recipients>
+        <mentions>
+            <mention name="Shiela Lind"/>
+        </mentions>
+    </message>
+    <message id="8775" from="Mac Kerluke" type="MMS">
+        <heading>Silence, Earthling. My name is Darth Vader. I am an extraterrestrial from the planet Vulcan!</heading>
+        <body>Id nulla magni saepe voluptatem cum voluptatibus alias. Et nam velit aut consequuntur quia omnis amet. Eos rerum quibusdam iusto dolorem animi quo ut. Praesentium et velit. Ut voluptatem soluta minima repellendus. Eaque ab dolor maxime dolor quas impedit. Nihil et voluptates nam. Consequatur totam consequatur nihil nam eos corporis. Omnis dolor velit.</body>
+        <recipients>
+            <recipient name="Bennie Kozey"/>
+            <recipient name="Shirely Paucek III"/>
+            <recipient name="Toby Cassin"/>
+            <recipient name="Mr. Steve Muller"/>
+            <recipient name="Jamie Bode"/>
+            <recipient name="Robbie Boyle"/>
+            <recipient name="Tyrone Collier PhD"/>
+            <recipient name="Lyle Connelly"/>
+            <recipient name="Johanna Hilll"/>
+            <recipient name="Carlos Erdman"/>
+            <recipient name="Ms. Solomon Macejkovic"/>
+            <recipient name="Roosevelt Muller"/>
+            <recipient name="Sherwood Volkman"/>
+            <recipient name="Ahmed Cassin"/>
+        </recipients>
+        <mentions>
+            <mention name="Reed Cole"/>
+            <mention name="Dr. Lonnie Cummings"/>
+            <mention name="Cary Cartwright V"/>
+            <mention name="Racquel Hagenes"/>
+        </mentions>
+    </message>
+    <message id="1906" from="Gussie Huel" type="DDS">
+        <heading>Whoa. This is heavy.</heading>
+        <body>Voluptas sunt harum libero optio. Consectetur eius provident libero cumque. Et dolore illo quia magni inventore quia voluptatem. Corporis rerum reiciendis cupiditate occaecati. Non dolorem ducimus ratione voluptatibus voluptatem sunt magni. Totam consequatur incidunt repellat nostrum dolorem sed itaque. Quia quia dolorem.</body>
+        <recipients>
+            <recipient name="Maria Kris"/>
+            <recipient name="Dr. Millard Grady"/>
+            <recipient name="Jarod Bergnaum"/>
+        </recipients>
+    </message>
+    <message id="4708" from="Alexander Harris" type="MQTT">
+        <heading>Scram, McFly. I'm cuttin' in.</heading>
+        <body>Ut non est vero repellat ipsum ut libero. Provident eaque occaecati accusamus ducimus asperiores ea. Voluptas accusantium vel nostrum accusantium et tempore. Itaque velit error asperiores exercitationem vitae rerum. Quia eum nostrum aut quo sapiente. Id sint voluptatum ut quibusdam animi. Hic fugit voluptates adipisci. Quasi voluptatem aliquam eum aut eos. Molestiae reiciendis pariatur numquam.</body>
+        <recipients>
+            <recipient name="Carola Bailey"/>
+            <recipient name="Mrs. Bernie Becker"/>
+            <recipient name="Pamila Kunze"/>
+            <recipient name="Jinny Schmeler"/>
+            <recipient name="Emilio Greenholt"/>
+            <recipient name="Grady Frami"/>
+            <recipient name="Juan Paucek"/>
+        </recipients>
+    </message>
+</ns2:messages>

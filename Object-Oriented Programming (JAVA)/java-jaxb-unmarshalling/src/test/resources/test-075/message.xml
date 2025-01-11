@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="5398" from="Jeffry Brakus" type="DDS">
+        <heading>Hey, Dad! George! Hey, you on the bike!</heading>
+        <body>Culpa aut voluptas rerum accusamus dolorum dolorem modi. Soluta assumenda non. Magnam dolorum non similique omnis recusandae molestias voluptate. Recusandae laudantium minus amet quia. Fuga voluptas eos adipisci voluptas. Enim excepturi commodi nihil veritatis. Et nisi libero magni optio.</body>
+        <recipients>
+            <recipient name="Jere Crona I"/>
+            <recipient name="Oscar Nolan Jr."/>
+            <recipient name="Merrill Wolff"/>
+            <recipient name="Lila Medhurst"/>
+        </recipients>
+    </message>
+    <message id="9388" from="Alonso Bosco" type="XMPP">
+        <heading>Oh. One other thing. If you guys ever have kids, and one of them, when he's eight years old, accidentally sets fire to the living room rug... go easy on him.</heading>
+        <body>Quae et quibusdam cupiditate deserunt. Mollitia qui mollitia voluptates. Eaque deleniti quis. Labore velit temporibus. Labore et aspernatur ut voluptate quia. Quo iure eum quis qui. Qui voluptatem amet omnis.</body>
+        <recipients>
+            <recipient name="Issac Corkery"/>
+            <recipient name="Phung Greenfelder"/>
+            <recipient name="Coletta Schamberger"/>
+            <recipient name="Lakenya Parisian"/>
+            <recipient name="Jeanice Dickens"/>
+            <recipient name="Quentin Bartell"/>
+            <recipient name="Sharie Borer PhD"/>
+            <recipient name="Phil Hahn"/>
+            <recipient name="Bernard Goodwin"/>
+            <recipient name="Rex Kuvalis"/>
+            <recipient name="Issac Rempel"/>
+            <recipient name="Gertrude Keebler"/>
+            <recipient name="Benito Ondricka"/>
+            <recipient name="Trevor Keeling IV"/>
+            <recipient name="Desirae Price"/>
+        </recipients>
+    </message>
+    <message id="6307" from="Luis Hilll" type="DDS">
+        <heading>Scram, McFly. I'm cuttin' in.</heading>
+        <body>Est quidem consequatur. Odio voluptatibus non tempore sit atque distinctio. Voluptatem rerum ad quasi odio et. Nesciunt iste corporis aut eum non omnis. Voluptates error veritatis consectetur et. Quam dolores eum sunt. Quia atque aut animi et consectetur nostrum fuga.</body>
+        <recipients>
+            <recipient name="Ike Sanford"/>
+            <recipient name="Dominique Daniel"/>
+            <recipient name="Tiera Bruen"/>
+            <recipient name="Margot Jacobs"/>
+            <recipient name="Carson Keeling"/>
+            <recipient name="Allan Lindgren"/>
+        </recipients>
+    </message>
+    <message id="1052" from="Elease Schulist II" type="MQTT">
+        <heading>Perfect! My experiment worked! They're all exactly 25 minutes slow!</heading>
+        <body>Non natus iusto. Officia dolorem illo nam. Maiores labore in. Commodi commodi qui culpa. Voluptas ratione eos architecto fugit. Omnis sit cumque. Numquam ut itaque velit qui expedita nihil. Esse odio iure. Veniam officiis dolorem voluptatum nesciunt.</body>
+        <recipients>
+            <recipient name="Antonia Lowe"/>
+            <recipient name="Lesley Hettinger"/>
+            <recipient name="Rashida Becker"/>
+            <recipient name="Dr. Rocco Olson"/>
+            <recipient name="Maria Bernier"/>
+            <recipient name="Miss Magnolia Smith"/>
+            <recipient name="Alfonso Russel"/>
+            <recipient name="Clora Hammes"/>
+            <recipient name="Wilda Batz I"/>
+            <recipient name="Kimberli Bosco DVM"/>
+            <recipient name="Jordan Luettgen"/>
+            <recipient name="Brant Abbott"/>
+            <recipient name="Gonzalo Nienow"/>
+            <recipient name="Reinaldo Nitzsche"/>
+        </recipients>
+    </message>
+    <message id="1699" from="Timothy Ruecker" type="AMQP">
+        <heading>And one for you, McFly; I believe that makes four in a row. Now let me give you a nickel's worth of free advice, young man. This so-called Dr. Brown is dangerous. He's a real nutcase. You hang around with him, you're gonna end up in big trouble.</heading>
+        <body>Minus praesentium sed incidunt soluta aperiam aut. Assumenda voluptas nostrum. Aut voluptatem rem. Voluptate voluptate aut in totam. Similique ut temporibus quo cupiditate ipsum magnam assumenda. Numquam ad minus. Qui commodi fugit.</body>
+        <recipients>
+            <recipient name="Rodolfo Schinner"/>
+            <recipient name="Millard McDermott"/>
+            <recipient name="Randal Emard"/>
+            <recipient name="Temika Veum"/>
+            <recipient name="Tricia Dibbert I"/>
+            <recipient name="Ralph Robel"/>
+            <recipient name="Kyle Feil IV"/>
+            <recipient name="Ms. Avery Lockman"/>
+            <recipient name="Carmelia Hirthe I"/>
+        </recipients>
+    </message>
+    <message id="8310" from="Lesli Hirthe I" type="RCS">
+        <heading>Hey, Dad! George! Hey, you on the bike!</heading>
+        <body>Ex aut eligendi quia quisquam praesentium aut. Est dolorem enim sunt sed. Rerum dignissimos distinctio nobis quia recusandae repellendus eos. Saepe tenetur similique pariatur eos doloremque natus. Accusamus ut autem saepe dolorum vel. Deleniti beatae consequuntur qui pariatur quis. Modi ipsum qui ea occaecati aut omnis. Repellat et praesentium non reiciendis velit.</body>
+        <recipients>
+            <recipient name="Leroy Glover"/>
+            <recipient name="Brianna Koch"/>
+            <recipient name="Marcelo Runolfsdottir DDS"/>
+            <recipient name="Colin Herzog"/>
+        </recipients>
+    </message>
+    <message id="1300" from="Pierre Frami" type="SMS">
+        <heading>Now, remember. According to my theory, you interfered with your parents' first meeting. If they don't meet, they won't fall in love, they won't get married and they won't have kids. That's why your older brother's disappearing from that photograph. Your sister will follow, and unless you repair the damage, you'll be next.</heading>
+        <body>Autem corrupti distinctio minus beatae minus aliquid laborum. Omnis adipisci aut occaecati sunt. Ut culpa quisquam repudiandae ea nemo. Consectetur aut nisi necessitatibus. Asperiores dolorem et id natus dolor. Est doloribus inventore velit ut delectus tempore atque. Eum dolorum consequatur eum dicta hic. Natus odit ut nihil autem.</body>
+        <recipients>
+            <recipient name="Mrs. Rachell Kautzer"/>
+            <recipient name="Darrick Wiza"/>
+            <recipient name="Bruce Gleason"/>
+            <recipient name="Titus Hayes III"/>
+            <recipient name="Norbert Cormier"/>
+            <recipient name="Hiroko Bailey"/>
+            <recipient name="Margareta Homenick"/>
+            <recipient name="Kieth Funk"/>
+            <recipient name="Basilia Leannon"/>
+            <recipient name="Sammie Morar"/>
+        </recipients>
+    </message>
+    <message id="8080" from="Werner Ernser" type="DDS">
+        <heading>Am I to understand you're still hanging around with Dr. Emmett Brown, McFly?</heading>
+        <body>Soluta dolorem omnis dolore. Soluta molestiae excepturi rerum. Atque minus ut. Iusto vero cumque molestias nisi consequatur est. Culpa qui odio. Magni voluptatem fuga quia consequatur quasi omnis. Dolor ea et sunt corrupti in. Architecto eos et quod. Tempore ut sint voluptates.</body>
+        <recipients>
+            <recipient name="Mckinley Bergstrom"/>
+            <recipient name="Lorrine Wilderman"/>
+            <recipient name="Mel Kuvalis"/>
+            <recipient name="Doyle Champlin"/>
+            <recipient name="Markus Lynch"/>
+            <recipient name="Conrad Mohr DDS"/>
+            <recipient name="Carmelia Lesch"/>
+            <recipient name="Elvina Schultz Jr."/>
+            <recipient name="Lillian Durgan"/>
+            <recipient name="Ms. Angel Koelpin"/>
+        </recipients>
+    </message>
+    <message id="2440" from="Bradly Hyatt" type="XMPP">
+        <heading>Don't worry. As long as you hit that wire with the connecting hook at precisely 88 miles per hour, the instant the lightning strikes the tower... everything will be fine.</heading>
+        <body>Aliquam aliquam animi dolor consequatur minus. Ratione dolorum nulla voluptatem labore. Expedita dolorum expedita tenetur eum qui. Accusamus neque voluptatibus. Qui nihil aut aut et et a dolores. Rem voluptatibus illum aperiam. Quo est beatae.</body>
+        <recipients>
+            <recipient name="Roland Kulas"/>
+            <recipient name="Mr. Tobie Feest"/>
+            <recipient name="Linda Murray"/>
+            <recipient name="Jerrold Weber Sr."/>
+        </recipients>
+        <mentions>
+            <mention name="Demetrice Balistreri"/>
+            <mention name="Neva Weber"/>
+            <mention name="Ashley Moen"/>
+            <mention name="Sebastian Koepp"/>
+        </mentions>
+    </message>
+    <message id="5436" from="Bari Ziemann" type="MMS">
+        <heading>I can't believe you'd loan me your car without telling me it had a blind spot. I could've been killed!</heading>
+        <body>Voluptas impedit cumque et ratione illum dolores quisquam. Inventore dolor possimus similique vel. Ipsa est consequatur blanditiis quaerat aut qui. Voluptatem maxime minima tempore. Ipsam eos non. Dolore quaerat ullam nisi omnis. Nihil laudantium non eos placeat velit eius sapiente. Iusto omnis et deleniti. Ipsam ipsam dolores ullam et modi non.</body>
+        <recipients>
+            <recipient name="Leroy Ortiz"/>
+            <recipient name="Mrs. Flo Smith"/>
+            <recipient name="Mauro Weissnat"/>
+            <recipient name="Adelle Pfannerstill"/>
+            <recipient name="Mckenzie Vandervort"/>
+            <recipient name="Erich Bednar"/>
+            <recipient name="Ed Steuber"/>
+            <recipient name="Zoila Gerlach"/>
+            <recipient name="Katie Pacocha"/>
+            <recipient name="Hazel Cassin"/>
+            <recipient name="Leo Casper"/>
+            <recipient name="Jonathon Miller"/>
+            <recipient name="Garth Greenfelder"/>
+        </recipients>
+    </message>
+</ns2:messages>

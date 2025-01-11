@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="6667" from="Jaunita Hodkiewicz" type="DDS">
+        <heading>I've never seen purple underwear before!</heading>
+        <body>Enim nulla dolores eum a. Non pariatur quaerat. Explicabo voluptas minima illo sapiente modi est adipisci. Aperiam quia earum porro blanditiis quis. Id beatae pariatur. Est ea alias sapiente quos illo. Rem harum suscipit consequuntur et ducimus est.</body>
+        <recipients>
+            <recipient name="Dorothea Bode"/>
+            <recipient name="Enrique Hudson"/>
+            <recipient name="Julee Mertz"/>
+            <recipient name="Jonas Labadie Sr."/>
+            <recipient name="Theda Denesik"/>
+            <recipient name="Lamar Hahn PhD"/>
+            <recipient name="Grant Buckridge"/>
+            <recipient name="Willian Stehr"/>
+            <recipient name="Rutha Bosco"/>
+            <recipient name="Ms. Fausto Spinka"/>
+            <recipient name="Olene Wilderman"/>
+        </recipients>
+    </message>
+    <message id="2430" from="Mrs. Alba Bergnaum" type="MQTT">
+        <heading>What are you looking at, butthead?</heading>
+        <body>Mollitia qui quaerat eos. Omnis repellendus molestias adipisci occaecati est. Itaque rerum impedit in perferendis. Animi aut repudiandae modi provident voluptas ullam cum. Dolore in sapiente assumenda et dolorem qui. Sunt dolorem amet. Placeat quod nostrum. Voluptas eveniet debitis voluptatum aut inventore quis.</body>
+        <recipients>
+            <recipient name="Weldon Okuneva MD"/>
+            <recipient name="Raina Leuschke II"/>
+            <recipient name="Audrea Hills"/>
+            <recipient name="Cathi Kuvalis"/>
+            <recipient name="Tyler Fahey Sr."/>
+            <recipient name="Trevor Rempel"/>
+            <recipient name="Sanford Rutherford"/>
+            <recipient name="Kati Kertzmann"/>
+            <recipient name="Wayne Swaniawski MD"/>
+            <recipient name="Charles Marks V"/>
+            <recipient name="Lauren Harris"/>
+        </recipients>
+    </message>
+</ns2:messages>

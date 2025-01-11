@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="6703" from="Clorinda Cole" type="IRC">
+        <heading>Give me a Pepsi Free.</heading>
+        <body>At soluta tenetur mollitia aperiam. Enim recusandae aliquid id. Et et similique illo quasi. Aut soluta a et. Architecto soluta voluptatem ut sit possimus suscipit nam. Hic qui id et et quibusdam laborum. Porro ipsum dolorem temporibus magni vel praesentium nemo. Quo cum pariatur provident impedit quaerat nihil ducimus.</body>
+        <recipients>
+            <recipient name="Lemuel Padberg"/>
+            <recipient name="Maxie Koepp DDS"/>
+            <recipient name="Dr. Earl Funk"/>
+            <recipient name="Douglas Mann"/>
+            <recipient name="Fabian Larson"/>
+            <recipient name="Brendon Lowe"/>
+            <recipient name="Mr. Jacquelynn Kilback"/>
+            <recipient name="Robert Hoppe"/>
+        </recipients>
+    </message>
+    <message id="7391" from="Trevor Will" type="RCS">
+        <heading>Hey, Dad! George! Hey, you on the bike!</heading>
+        <body>Maxime omnis distinctio excepturi quia voluptates similique aliquam. Laudantium laborum eum laboriosam pariatur repellendus sit sed. Id ad ipsam ut velit. Quis vel ab velit praesentium est ea sit. Aut quis aperiam. Ut quia corporis vitae provident excepturi blanditiis. Cum neque quidem non.</body>
+        <recipients>
+            <recipient name="Margarito Bernhard"/>
+            <recipient name="Tyson Armstrong PhD"/>
+            <recipient name="Somer Rath"/>
+            <recipient name="Sherita Wiegand"/>
+            <recipient name="Dr. Robert Farrell"/>
+            <recipient name="Cecil Doyle"/>
+            <recipient name="Lazaro Goldner"/>
+            <recipient name="Tyrell Armstrong"/>
+            <recipient name="Ms. Lissa Hermann"/>
+            <recipient name="Jamal Hermiston"/>
+            <recipient name="Catrina Fisher I"/>
+            <recipient name="Rubin McLaughlin DDS"/>
+            <recipient name="Javier Heathcote"/>
+            <recipient name="Delores Barton"/>
+        </recipients>
+        <mentions>
+            <mention name="Dr. Kevin Streich"/>
+            <mention name="Reva Paucek"/>
+            <mention name="Miss Anna Pollich"/>
+        </mentions>
+    </message>
+    <message id="9679" from="Shayna Mueller" type="XMPP">
+        <heading>Look! There's a rhythmic ceremonial ritual coming up.</heading>
+        <body>Et quia asperiores ipsa nemo nobis. Neque nostrum exercitationem suscipit dignissimos et qui. Aut praesentium dolorum. Animi quis dolores officiis est non illo. Officia voluptatem rem ut ad. In porro vitae ab tenetur voluptatem ea quod. Provident ducimus doloremque recusandae iure voluptas est. Molestiae suscipit non blanditiis voluptates. Voluptatem facere iste enim quo architecto occaecati.</body>
+        <recipients>
+            <recipient name="Shaina Weimann"/>
+            <recipient name="Kerry Leffler"/>
+            <recipient name="Millard Waelchi"/>
+            <recipient name="Bee Olson"/>
+            <recipient name="Dwight Kreiger"/>
+            <recipient name="Svetlana Nader"/>
+            <recipient name="Jarrod Conn"/>
+            <recipient name="Hortense Dickens"/>
+            <recipient name="Miss Dallas Wilderman"/>
+            <recipient name="Tawanda Smitham"/>
+            <recipient name="Lovie Kuhic"/>
+            <recipient name="Dr. Lenard Rolfson"/>
+            <recipient name="Shirlene Gulgowski"/>
+            <recipient name="Idell Cartwright"/>
+        </recipients>
+    </message>
+    <message id="5564" from="Vicente McClure" type="DDS">
+        <heading>Hey, hey, listen, guys... Look, I don't wanna mess with no reefer addicts, okay?</heading>
+        <body>Ad non tenetur praesentium non iste et hic. Ut eaque possimus. Omnis itaque doloribus vel ut assumenda sit sed. Exercitationem ex tempore recusandae ut. Corporis nobis beatae omnis dolor neque sed. Ut molestiae voluptatem. Aut earum vel sint. Omnis exercitationem nisi veritatis architecto. Velit ipsum ex tempora qui eum.</body>
+        <recipients>
+            <recipient name="Jamie Barton V"/>
+            <recipient name="Carri Bergstrom IV"/>
+            <recipient name="Nichelle Howe"/>
+            <recipient name="Myron Barrows"/>
+            <recipient name="Carlos Bernhard"/>
+            <recipient name="Trinidad Effertz"/>
+        </recipients>
+    </message>
+</ns2:messages>

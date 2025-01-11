@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="7321" from="Alysa Anderson" type="SMTP">
+        <heading>Damn! I'm late for school!</heading>
+        <body>Et saepe nulla dignissimos. Mollitia consectetur sit. Voluptatum reiciendis fugit voluptate. Inventore doloribus debitis odio et. Id voluptatibus voluptatibus pariatur ducimus et ea harum. Aperiam est aut. Qui consequuntur sit rerum in.</body>
+        <recipients>
+            <recipient name="Mr. Leif Hammes"/>
+            <recipient name="Carroll Runte"/>
+            <recipient name="Brian Schroeder"/>
+            <recipient name="Mr. Roberto Beahan"/>
+            <recipient name="Latonia Bechtelar"/>
+            <recipient name="Reggie Ankunding"/>
+            <recipient name="Nakesha Cruickshank"/>
+            <recipient name="Carol Stroman"/>
+        </recipients>
+    </message>
+    <message id="9980" from="Kristi Cruickshank" type="SMS">
+        <heading>Don't worry. As long as you hit that wire with the connecting hook at precisely 88 miles per hour, the instant the lightning strikes the tower... everything will be fine.</heading>
+        <body>Aliquam dolore saepe aperiam. Recusandae voluptatibus repudiandae inventore nostrum est blanditiis quo. Quo perspiciatis optio qui repellat cumque. Dicta rerum impedit necessitatibus. Illo explicabo corporis. Quo animi officiis consequatur quo recusandae ea facere. Corporis et excepturi tempore magnam rerum dolor.</body>
+        <recipients>
+            <recipient name="Louie Stiedemann"/>
+            <recipient name="Lester McGlynn"/>
+            <recipient name="Clinton Leuschke"/>
+            <recipient name="Oswaldo Kuhic Jr."/>
+            <recipient name="Miss Horace Douglas"/>
+            <recipient name="Billie Runolfsdottir"/>
+            <recipient name="Ula Gleason"/>
+            <recipient name="Margarett Schmidt"/>
+            <recipient name="Dori Leffler"/>
+            <recipient name="Damon Powlowski"/>
+            <recipient name="Lavinia Beier"/>
+            <recipient name="Miss Jean Muller"/>
+            <recipient name="Kyung Davis PhD"/>
+            <recipient name="Mirian Schroeder"/>
+        </recipients>
+    </message>
+    <message id="5414" from="Adrianne Nienow" type="IRC">
+        <heading>He's a Peeping Tom!</heading>
+        <body>Dolores aut et eveniet. Repudiandae id expedita et aut mollitia. Unde et harum voluptatem perspiciatis numquam id. Aut libero voluptas delectus sed sequi consequuntur. In voluptatum unde pariatur non accusamus quis. Ducimus nesciunt sint. Molestiae velit et dolores distinctio autem voluptate quis. Pariatur commodi omnis ratione ullam accusamus. Error sequi reprehenderit ut et.</body>
+        <recipients>
+            <recipient name="Tyson Harber"/>
+            <recipient name="Eryn Dickens"/>
+            <recipient name="Ms. Seema Spencer"/>
+            <recipient name="Noah Schaefer"/>
+            <recipient name="Patrica Nicolas"/>
+            <recipient name="Mr. Sherise Bauch"/>
+            <recipient name="Ria Legros DVM"/>
+            <recipient name="Ms. Fredia Russel"/>
+            <recipient name="Eldon Little"/>
+        </recipients>
+    </message>
+    <message id="622" from="Mrs. Jody Farrell" type="AMQP">
+        <heading>Perfect! My experiment worked! They're all exactly 25 minutes slow!</heading>
+        <body>Ipsum sint aperiam. Autem sint ut molestiae aut non. Quo excepturi perferendis qui delectus natus. Est repudiandae tempore ut sunt quisquam. Maxime cum fugiat ea molestiae mollitia. Inventore voluptas corporis ut reiciendis voluptate quasi molestias. Asperiores laudantium atque facere expedita error est. Consequuntur dolores rerum sit et qui. Modi itaque quasi enim ut iusto.</body>
+        <recipients>
+            <recipient name="Earle Zemlak"/>
+            <recipient name="Edgar Koch"/>
+            <recipient name="Jason Kuphal"/>
+            <recipient name="Dr. Delaine Blanda"/>
+            <recipient name="Dr. Renate Stehr"/>
+            <recipient name="Sonia Muller"/>
+            <recipient name="Corrine Purdy"/>
+            <recipient name="Mrs. Anabel Hodkiewicz"/>
+            <recipient name="Cornelius Davis"/>
+            <recipient name="Ayanna Stiedemann"/>
+            <recipient name="Henrietta Yost"/>
+        </recipients>
+    </message>
+    <message id="5340" from="Kera Renner" type="IRC">
+        <heading>Look, Marvin, you gotta play. See, that's where they kiss for the first time on the dance floor. And if there's no music, they can't dance. If they can't dance, they can't kiss. If they can't kiss they can't fall in love, and I'm history.</heading>
+        <body>A autem molestiae consequuntur corrupti voluptatem explicabo maxime. Quia rerum nihil architecto non consequuntur. At eos est. Excepturi laboriosam nostrum. Dolor iusto id sint ipsum eum ut est. Eos saepe quasi molestias sed enim vitae consequatur. Maxime facere pariatur iste autem et sint.</body>
+        <recipients>
+            <recipient name="Maud Erdman"/>
+            <recipient name="Bulah Streich"/>
+            <recipient name="Piedad Ward II"/>
+            <recipient name="Melvin Schultz"/>
+            <recipient name="Melonie Dibbert"/>
+            <recipient name="Dusty Ebert"/>
+            <recipient name="Matthew D'Amore"/>
+            <recipient name="Alessandra Jakubowski"/>
+            <recipient name="Demetrius Carroll"/>
+            <recipient name="Elmo Wiegand III"/>
+            <recipient name="Tommy Bogisich I"/>
+        </recipients>
+        <mentions>
+            <mention name="Gricelda Heathcote"/>
+        </mentions>
+    </message>
+</ns2:messages>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="8995" from="Carlton Kuhn DVM" type="XMPP">
+        <heading>Let's see if you bastards can do 90.</heading>
+        <body>Officia libero inventore rerum vel. Ut consequatur esse quia doloremque quia. Amet rerum quis ut necessitatibus facere vel iure. Rerum harum quia. Exercitationem doloremque recusandae nesciunt qui dolorum ut aut. Saepe ut nam ut excepturi ad at. Vitae voluptas ut aliquam rerum. Ab voluptatibus non rem.</body>
+        <recipients>
+            <recipient name="Gianna Torphy I"/>
+            <recipient name="Sook Block"/>
+            <recipient name="Cesar Rodriguez"/>
+            <recipient name="Arie Haley"/>
+        </recipients>
+    </message>
+    <message id="1776" from="Brad Parisian" type="SMS">
+        <heading>Oh, honey, he's teasing you. Nobody has two television sets.</heading>
+        <body>Molestiae vel aliquam dolor eaque aut non. Voluptas ex quo. Ipsa itaque qui ea error et et mollitia. Sint quis est tempora quas. Ut quaerat dolores veniam. Id perspiciatis placeat natus voluptatem. Quo unde nemo. Quo sed blanditiis. Repudiandae dolorum rerum.</body>
+        <recipients>
+            <recipient name="Terica Feest"/>
+            <recipient name="Yong Lockman"/>
+            <recipient name="Joel Lemke DDS"/>
+            <recipient name="Alfred Nicolas"/>
+            <recipient name="Gaylord Kautzer"/>
+            <recipient name="Elmer Watsica"/>
+            <recipient name="Miss India Kuvalis"/>
+            <recipient name="Mrs. Meta Erdman"/>
+        </recipients>
+    </message>
+    <message id="9957" from="Connie Medhurst Sr." type="IRC">
+        <heading>Marty, I'm sorry, but the only power source capable of generating 1.21 gigawatts of electricity is a bolt of lightning.</heading>
+        <body>Dolore laborum voluptatum ut id et magni. Suscipit cumque doloribus accusamus. Odio recusandae quidem sed. Similique qui provident doloremque rem. Corrupti quia provident mollitia. Aliquam molestias voluptatum. Illo rerum eveniet voluptatem dolorem ducimus maiores.</body>
+        <recipients>
+            <recipient name="Timmy Lind DVM"/>
+            <recipient name="Lashawnda Jacobs"/>
+            <recipient name="Rich Denesik"/>
+        </recipients>
+    </message>
+    <message id="9160" from="Erik Kuhn" type="MQTT">
+        <heading>What happens to us in the future? Do we become assholes or something?</heading>
+        <body>Non voluptatum sunt. Minima tempora facere sint magni quam. Quo praesentium suscipit earum quos sed accusamus qui. Recusandae minima et et. Ipsum rerum voluptatem assumenda quisquam reprehenderit consequuntur. Sit voluptas unde. Ipsa perferendis libero ut modi assumenda eos exercitationem. Distinctio in fugit eum.</body>
+        <recipients>
+            <recipient name="Jayson Runolfsson"/>
+            <recipient name="Willy Rohan"/>
+            <recipient name="Voncile Fritsch"/>
+            <recipient name="Aurea Abshire"/>
+            <recipient name="Dr. Theron Herman"/>
+            <recipient name="Zonia Morar"/>
+            <recipient name="Dr. Arla Grant"/>
+            <recipient name="Ileana Lakin"/>
+            <recipient name="Carolina Cremin"/>
+        </recipients>
+    </message>
+    <message id="8883" from="Dr. Marlene Luettgen" type="MQTT">
+        <heading>Stella! Another one of these damn kids jumped in front of my car! Come on out here! Help me take him in the house!</heading>
+        <body>Aliquam voluptatem dicta delectus quis. Quia fugit repudiandae vero aut et non. Et ratione voluptatibus. Minima harum recusandae voluptatibus. Reprehenderit enim qui sint. Non et perspiciatis maiores. Dolore animi neque.</body>
+        <recipients>
+            <recipient name="Hershel Bergstrom"/>
+            <recipient name="Jazmine Fahey MD"/>
+            <recipient name="Holly Pacocha"/>
+            <recipient name="Stephine Bogan I"/>
+        </recipients>
+        <mentions>
+            <mention name="Hyo Powlowski"/>
+            <mention name="Stanford Purdy"/>
+        </mentions>
+    </message>
+    <message id="4207" from="Norbert Williamson" type="MQTT">
+        <heading>Maybe you were adopted.</heading>
+        <body>Reiciendis in soluta consequuntur omnis sed quod. Quidem corporis est aut ut. Aut sequi id et aut velit voluptatem. Officia possimus qui aliquam ducimus voluptates. Similique non enim quisquam. Quo alias ratione placeat quia illum praesentium beatae. Blanditiis omnis placeat saepe perspiciatis facere. Omnis molestias quas ut odio qui dolorem. Quae id sint voluptate et beatae omnis.</body>
+        <recipients>
+            <recipient name="Johana Kuhic"/>
+            <recipient name="Courtney Block V"/>
+            <recipient name="Benjamin King PhD"/>
+        </recipients>
+    </message>
+</ns2:messages>
