@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="junit test results" tests="19" failures="18" errors="0" time="3.612">
+  <testsuite name="CSS Grid" errors="0" failures="18" skipped="0" timestamp="2023-12-20T14:46:10" time="3.53" tests="19">
+    <testcase classname="CSS Grid html page should be valid" name="CSS Grid html page should be valid" time="0.502">
+    </testcase>
+    <testcase classname="CSS Grid Page sceleton should add &quot;grid-template-columns&quot; property to body" name="CSS Grid Page sceleton should add &quot;grid-template-columns&quot; property to body" time="0.133">
+      <failure>TypeError: Cannot read properties of null (reading &apos;grid-template-columns&apos;)
+    at Object.&lt;anonymous&gt; (D:\Epam\autocode practise\web\css-grid\src\index.test.js:45:36)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)</failure>
+    </testcase>
+    <testcase classname="CSS Grid Page sceleton should add &quot;grid-template-rows&quot; property to body" name="CSS Grid Page sceleton should add &quot;grid-template-rows&quot; property to body" time="0.057">
+      <failure>TypeError: Cannot read properties of null (reading &apos;grid-template-rows&apos;)
+    at Object.&lt;anonymous&gt; (D:\Epam\autocode practise\web\css-grid\src\index.test.js:51:36)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)</failure>
+    </testcase>
+    <testcase classname="CSS Grid Page sceleton should add &quot;grid-area`&quot; property to header" name="CSS Grid Page sceleton should add &quot;grid-area`&quot; property to header" time="0.063">
+      <failure>TypeError: Cannot read properties of null (reading &apos;grid-area&apos;)
+    at Object.&lt;anonymous&gt; (D:\Epam\autocode practise\web\css-grid\src\index.test.js:57:36)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)</failure>
+    </testcase>
+    <testcase classname="CSS Grid Page sceleton should add &quot;grid-area`&quot; property to footer" name="CSS Grid Page sceleton should add &quot;grid-area`&quot; property to footer" time="0.072">
+      <failure>Error: expect(received).toBe(expected) // Object.is equality
+
+Expected: &quot;footer&quot;
+Received: undefined
+    at Object.toBe (D:\Epam\autocode practise\web\css-grid\src\index.test.js:63:51)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)</failure>
+    </testcase>
+    <testcase classname="CSS Grid Page sceleton should add &quot;grid-area`&quot; property to main" name="CSS Grid Page sceleton should add &quot;grid-area`&quot; property to main" time="0.068">
+      <failure>TypeError: Cannot read properties of null (reading &apos;grid-area&apos;)
+    at Object.&lt;anonymous&gt; (D:\Epam\autocode practise\web\css-grid\src\index.test.js:69:36)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)</failure>
+    </testcase>
+    <testcase classname="CSS Grid Page sceleton should add &quot;grid-area`&quot; property to sidebar" name="CSS Grid Page sceleton should add &quot;grid-area`&quot; property to sidebar" time="0.049">
+      <failure>TypeError: Cannot read properties of null (reading &apos;grid-area&apos;)
+    at Object.&lt;anonymous&gt; (D:\Epam\autocode practise\web\css-grid\src\index.test.js:75:36)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)</failure>
+    </testcase>
+    <testcase classname="CSS Grid Page sceleton should add &quot;grid-template-areas&quot; property to body" name="CSS Grid Page sceleton should add &quot;grid-template-areas&quot; property to body" time="0.048">
+      <failure>TypeError: Cannot read properties of null (reading &apos;grid-template-areas&apos;)
+    at Object.&lt;anonymous&gt; (D:\Epam\autocode practise\web\css-grid\src\index.test.js:81:36)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)</failure>
+    </testcase>
+    <testcase classname="CSS Grid &quot;Client Stories&quot; section should make `div` in `.client_stories` to display as a 3-columns grid" name="CSS Grid &quot;Client Stories&quot; section should make `div` in `.client_stories` to display as a 3-columns grid" time="0.054">
+      <failure>TypeError: Cannot read properties of null (reading &apos;display&apos;)
+    at Object.&lt;anonymous&gt; (D:\Epam\autocode practise\web\css-grid\src\index.test.js:93:36)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)</failure>
+    </testcase>
+    <testcase classname="CSS Grid &quot;Client Stories&quot; section should place first grid item properly" name="CSS Grid &quot;Client Stories&quot; section should place first grid item properly" time="0.053">
+      <failure>TypeError: Cannot read properties of null (reading &apos;grid-column-start&apos;)
+    at Object.&lt;anonymous&gt; (D:\Epam\autocode practise\web\css-grid\src\index.test.js:100:36)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)</failure>
+    </testcase>
+    <testcase classname="CSS Grid &quot;Client Stories&quot; section should add gap between grid rows" name="CSS Grid &quot;Client Stories&quot; section should add gap between grid rows" time="0.054">
+      <failure>TypeError: Cannot read properties of null (reading &apos;grid-gap&apos;)
+    at Object.&lt;anonymous&gt; (D:\Epam\autocode practise\web\css-grid\src\index.test.js:109:41)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)</failure>
+    </testcase>
+    <testcase classname="CSS Grid &quot;Client Stories&quot; section should align grid items to reduce extra space at the right" name="CSS Grid &quot;Client Stories&quot; section should align grid items to reduce extra space at the right" time="0.038">
+      <failure>TypeError: Cannot read properties of null (reading &apos;justify-content&apos;)
+    at Object.&lt;anonymous&gt; (D:\Epam\autocode practise\web\css-grid\src\index.test.js:116:36)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)</failure>
+    </testcase>
+    <testcase classname="CSS Grid &quot;Features&quot; section should display &quot;div&quot; in Features section to display grid" name="CSS Grid &quot;Features&quot; section should display &quot;div&quot; in Features section to display grid" time="0.053">
+      <failure>TypeError: Cannot read properties of null (reading &apos;display&apos;)
+    at Object.&lt;anonymous&gt; (D:\Epam\autocode practise\web\css-grid\src\index.test.js:124:36)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)</failure>
+    </testcase>
+    <testcase classname="CSS Grid &quot;Features&quot; section should create 3 columns in grid container and size them properly" name="CSS Grid &quot;Features&quot; section should create 3 columns in grid container and size them properly" time="0.053">
+      <failure>TypeError: Cannot read properties of null (reading &apos;grid-template-columns&apos;)
+    at Object.&lt;anonymous&gt; (D:\Epam\autocode practise\web\css-grid\src\index.test.js:130:36)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)</failure>
+    </testcase>
+    <testcase classname="CSS Grid &quot;Features&quot; section should order grid items properly" name="CSS Grid &quot;Features&quot; section should order grid items properly" time="0.042">
+      <failure>TypeError: Cannot read properties of null (reading &apos;order&apos;)
+    at Object.&lt;anonymous&gt; (D:\Epam\autocode practise\web\css-grid\src\index.test.js:142:44)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)</failure>
+    </testcase>
+    <testcase classname="CSS Grid &quot;Features&quot; section should place grid items properly" name="CSS Grid &quot;Features&quot; section should place grid items properly" time="0.048">
+      <failure>TypeError: Cannot read properties of null (reading &apos;grid-row-start&apos;)
+    at Object.&lt;anonymous&gt; (D:\Epam\autocode practise\web\css-grid\src\index.test.js:159:44)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)</failure>
+    </testcase>
+    <testcase classname="CSS Grid Sidebar should align items in sidebar properly" name="CSS Grid Sidebar should align items in sidebar properly" time="0.045">
+      <failure>TypeError: Cannot read properties of null (reading &apos;align-content&apos;)
+    at Object.&lt;anonymous&gt; (D:\Epam\autocode practise\web\css-grid\src\index.test.js:195:36)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)</failure>
+    </testcase>
+    <testcase classname="CSS Grid Grid and Flexbox layout combination should make first grid item of Client Stories section flexible" name="CSS Grid Grid and Flexbox layout combination should make first grid item of Client Stories section flexible" time="0.04">
+      <failure>TypeError: Cannot read properties of null (reading &apos;display&apos;)
+    at Object.&lt;anonymous&gt; (D:\Epam\autocode practise\web\css-grid\src\index.test.js:203:36)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)</failure>
+    </testcase>
+    <testcase classname="CSS Grid Grid and Flexbox layout combination should align content in created flex container" name="CSS Grid Grid and Flexbox layout combination should align content in created flex container" time="0.049">
+      <failure>TypeError: Cannot read properties of null (reading &apos;flex-direction&apos;)
+    at Object.&lt;anonymous&gt; (D:\Epam\autocode practise\web\css-grid\src\index.test.js:209:36)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)</failure>
+    </testcase>
+  </testsuite>
+</testsuites>
