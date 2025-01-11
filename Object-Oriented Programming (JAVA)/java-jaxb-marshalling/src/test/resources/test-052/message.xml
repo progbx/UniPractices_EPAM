@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="4608" from="Felecia Wyman" type="MMS">
+        <heading>Well, I figured, what the hell?</heading>
+        <body>Ad sed quae tenetur dolores fuga porro accusamus. Est tempora aut vitae qui. Consequatur molestiae a ut praesentium. Ut est ut. Aut esse voluptate expedita excepturi beatae. Reprehenderit molestiae neque. Nulla tempora adipisci illo.</body>
+        <recipients>
+            <recipient name="Miss Belkis Beatty"/>
+            <recipient name="Dr. Lionel Homenick"/>
+            <recipient name="Dane Cummings"/>
+            <recipient name="Gerardo Buckridge"/>
+            <recipient name="Mildred Jast"/>
+            <recipient name="Toby Friesen"/>
+            <recipient name="Leif Welch Jr."/>
+            <recipient name="Eleonor Koelpin IV"/>
+            <recipient name="Wilbert Funk"/>
+            <recipient name="Mr. Krystyna Towne"/>
+            <recipient name="Alice Kemmer"/>
+            <recipient name="Devin Stark"/>
+            <recipient name="Marine Nienow"/>
+            <recipient name="Tegan Hirthe"/>
+        </recipients>
+        <mentions>
+            <mention name="Rickie White"/>
+            <mention name="Otha Vandervort"/>
+            <mention name="Myriam Boyle"/>
+        </mentions>
+    </message>
+</ns2:messages>

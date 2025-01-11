@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="3087" from="Miss Tuan Streich" type="SMTP">
+        <heading>Give me a Pepsi Free.</heading>
+        <body>Minus illo perferendis. Eos iusto enim dolor adipisci. Eos voluptate omnis dolores dolores minus explicabo est. In non eveniet. Et omnis aut. Quos cupiditate cumque. Voluptatem eius recusandae ut voluptatem. Cum aut sed modi earum ut placeat.</body>
+        <recipients>
+            <recipient name="Stephan Flatley"/>
+            <recipient name="Buffy Kunze"/>
+            <recipient name="Korey Swaniawski"/>
+            <recipient name="Alejandra Hyatt DDS"/>
+            <recipient name="Tyra Dooley"/>
+        </recipients>
+    </message>
+    <message id="3692" from="Pasquale Weissnat" type="SMTP">
+        <heading>Since when can weathermen predict the weather, let alone the future?</heading>
+        <body>Veniam sunt facere. Nemo consequatur placeat fuga similique harum. Quas corrupti harum aut nihil. Molestiae repellat ut occaecati. Non ut commodi est. Optio et corrupti. Dolorum ratione assumenda. Fugit quae nostrum deleniti et saepe ut. Omnis quaerat commodi et et non numquam.</body>
+        <recipients>
+            <recipient name="Roy Lindgren"/>
+            <recipient name="Bethel Howe"/>
+            <recipient name="Mr. Norberto Kozey"/>
+            <recipient name="Deshawn Kris"/>
+            <recipient name="Codi Stoltenberg V"/>
+            <recipient name="Sabina Padberg II"/>
+        </recipients>
+    </message>
+    <message id="4296" from="Kelvin Hoppe IV" type="SMTP">
+        <heading>He's an absolute dream!</heading>
+        <body>At sit aut quidem doloremque. Sunt quia eveniet. Aut voluptas dolor tempore est omnis. Esse ea vero voluptates autem necessitatibus. Voluptas amet commodi. Est voluptas eveniet ut repellendus et impedit officiis. Magni soluta qui iste amet. Quo nihil quia qui nemo eveniet enim provident. Repudiandae ullam dolores sunt autem ducimus ullam cumque.</body>
+        <recipients>
+            <recipient name="Morris Gulgowski"/>
+            <recipient name="Jennell Doyle"/>
+            <recipient name="Lashawna Funk"/>
+            <recipient name="Claudio Hermiston"/>
+            <recipient name="Emil Hilll"/>
+            <recipient name="Cyril Johnston"/>
+            <recipient name="Dominique Hane"/>
+            <recipient name="Tomasa Hansen DVM"/>
+            <recipient name="Cleveland Walker"/>
+            <recipient name="Stan Kreiger"/>
+            <recipient name="Ezra Gottlieb"/>
+            <recipient name="Stevie Thiel"/>
+            <recipient name="Iraida Quitzon"/>
+            <recipient name="Novella Dietrich"/>
+            <recipient name="Courtney Jenkins"/>
+        </recipients>
+    </message>
+    <message id="1381" from="Augusta Beier" type="SMTP">
+        <heading>Oh, my God. They found me. I don't know how, but they found me. Run for it, Marty!</heading>
+        <body>Minus iusto culpa perspiciatis voluptatum cum ducimus sunt. Voluptatem voluptate impedit ad est quidem vitae aliquam. Autem exercitationem et incidunt et. Omnis et voluptatem molestiae. Amet voluptas ratione quidem id sed voluptates fuga. Dolorem consequatur sed blanditiis nemo ut dolorum saepe. Alias et tenetur consequatur dolorum hic non. Dignissimos numquam ea aut autem eos. Sit optio quis hic eos.</body>
+        <recipients>
+            <recipient name="Adrian Strosin"/>
+            <recipient name="Mariko Gulgowski V"/>
+            <recipient name="Vania Dickens"/>
+            <recipient name="Cherie Labadie"/>
+            <recipient name="Kim Rohan"/>
+            <recipient name="Dr. Jonie Cormier"/>
+            <recipient name="Mrs. Wilburn Schmeler"/>
+            <recipient name="Laverne Weissnat"/>
+            <recipient name="Tommy Effertz IV"/>
+            <recipient name="Deanne Simonis"/>
+        </recipients>
+        <mentions>
+            <mention name="Ms. Lidia Weimann"/>
+            <mention name="Reggie Ritchie"/>
+        </mentions>
+    </message>
+    <message id="7860" from="Eldridge Feest" type="SMTP">
+        <heading>You know, Marty, you look so familiar to me. Do I know your mother?</heading>
+        <body>Soluta qui nulla similique. Iste voluptate aperiam ducimus vel ad. Iste dolorem qui neque omnis eveniet aliquid. Commodi vero odio saepe. Ab doloribus id. Eum unde sapiente modi fugit quia expedita suscipit. Minus sit ex dolorum expedita dolores et. Nobis qui laborum veniam corporis qui. Nulla fugiat dicta iste.</body>
+        <recipients>
+            <recipient name="Marhta Sawayn"/>
+            <recipient name="Ambrose Hahn"/>
+            <recipient name="Monroe Haag"/>
+        </recipients>
+    </message>
+    <message id="9082" from="Lavera Steuber" type="SMTP">
+        <heading>Next saturday night we're sending you back to the future!</heading>
+        <body>Vel debitis deserunt nisi ad omnis ipsam. Similique est et. Consectetur fuga tempore enim qui sit sint. Hic voluptatum sunt quis nobis voluptas minima aut. Voluptatem ipsa atque eius libero at qui. Dicta aut et repellat laboriosam consequuntur consequatur dolores. Quia natus quia. Recusandae ut id et sed perferendis blanditiis.</body>
+        <recipients>
+            <recipient name="Dr. Robbyn Friesen"/>
+            <recipient name="Henry Becker I"/>
+            <recipient name="Les Orn"/>
+            <recipient name="Mrs. Jaclyn Kreiger"/>
+            <recipient name="Dewey Larkin PhD"/>
+            <recipient name="Conrad McGlynn"/>
+            <recipient name="Chong Mohr"/>
+            <recipient name="Sadie Crist"/>
+            <recipient name="Basil Veum V"/>
+        </recipients>
+    </message>
+</ns2:messages>
