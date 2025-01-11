@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="9784" from="Gerald O'Connell" type="MMS">
+        <heading>Silence, Earthling. My name is Darth Vader. I am an extraterrestrial from the planet Vulcan!</heading>
+        <body>Nihil accusamus repellat. Sit ratione quod iusto a rerum rerum. Qui sit tempora. Necessitatibus ut ut eius pariatur aliquid. Quia aut eum dicta sed officiis. Ut perspiciatis sit ducimus hic reprehenderit. Consectetur voluptas tempore deserunt.</body>
+        <recipients>
+            <recipient name="Jenise Lakin"/>
+            <recipient name="Lauren Roberts"/>
+            <recipient name="Dr. Yoshie VonRueden"/>
+            <recipient name="Jenna Ondricka"/>
+        </recipients>
+        <mentions>
+            <mention name="Eliseo Collier"/>
+            <mention name="Corinne Marquardt"/>
+            <mention name="Ismael Beahan"/>
+        </mentions>
+    </message>
+</ns2:messages>

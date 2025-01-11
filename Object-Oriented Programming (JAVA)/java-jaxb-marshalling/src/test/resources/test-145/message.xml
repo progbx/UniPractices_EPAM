@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="2605" from="Reginald Shields" type="SMTP">
+        <heading>Let me show you my plan for sending you home. Please excuse the crudity of this model. I didn't have time to build it to scale or paint it.</heading>
+        <body>In quo architecto. Nihil exercitationem id quod. Laboriosam autem consequatur animi voluptas. Sed aspernatur deserunt et. Doloribus doloribus harum. Ea consequatur libero nobis dicta velit. Ut voluptate consequatur vero cum enim ea quae. Provident quis quod et molestiae ut aut.</body>
+        <recipients>
+            <recipient name="Shawana Reilly"/>
+            <recipient name="Nathanael Leffler"/>
+            <recipient name="Valeri Labadie"/>
+            <recipient name="Romaine Sawayn"/>
+            <recipient name="Suzanna Bosco"/>
+        </recipients>
+    </message>
+</ns2:messages>

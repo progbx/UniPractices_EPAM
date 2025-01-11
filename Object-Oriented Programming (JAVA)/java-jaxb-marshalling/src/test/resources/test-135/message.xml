@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="3543" from="Cedric Buckridge DDS" type="XMPP">
+        <heading>Next saturday night we're sending you back to the future!</heading>
+        <body>Debitis voluptatem vel similique. Eligendi animi vel ullam itaque quia. Aperiam dolor ut. Aspernatur voluptatem nemo deserunt officia reiciendis tempore suscipit. Illo distinctio non sint. Voluptatem tenetur et quas earum rerum. Culpa consequatur voluptatem temporibus ipsa.</body>
+        <recipients>
+            <recipient name="Miss Mohammad Schmitt"/>
+            <recipient name="Miss Rich O'Hara"/>
+            <recipient name="Mrs. Thanh Wehner"/>
+        </recipients>
+        <mentions>
+            <mention name="Alejandro Funk IV"/>
+            <mention name="Clifford Ferry"/>
+            <mention name="Stacy Rolfson Sr."/>
+            <mention name="Emerson Trantow Jr."/>
+        </mentions>
+    </message>
+    <message id="5405" from="Carmel Jacobson" type="SMS">
+        <heading>Damn! I'm late for school!</heading>
+        <body>In velit et enim deserunt. Voluptatem iure esse quidem. Maxime sequi labore distinctio. Qui voluptas iure officia magnam rerum. Accusantium sequi dolor recusandae dignissimos delectus odio. Eaque eligendi et at adipisci incidunt et iusto. Exercitationem consequatur incidunt dolore quibusdam aut numquam illum. Ut suscipit nihil. Voluptas quam eligendi nesciunt assumenda.</body>
+        <recipients>
+            <recipient name="Miss Isaias Rippin"/>
+            <recipient name="Alaine Langosh Sr."/>
+            <recipient name="Maryetta Koss"/>
+            <recipient name="Luba Paucek"/>
+            <recipient name="Julian Barrows"/>
+            <recipient name="Jermaine Raynor"/>
+            <recipient name="Jack Rutherford"/>
+            <recipient name="Francene Brakus"/>
+            <recipient name="Donetta Moen"/>
+            <recipient name="Whitney Ward"/>
+            <recipient name="Manuela Luettgen DDS"/>
+            <recipient name="Christiane Walker II"/>
+        </recipients>
+        <mentions>
+            <mention name="Alene Pfannerstill DDS"/>
+            <mention name="Stacia Kunde"/>
+            <mention name="Jasmin Cummerata"/>
+        </mentions>
+    </message>
+    <message id="2296" from="Blanca McGlynn" type="XMPP">
+        <heading>Don't worry. As long as you hit that wire with the connecting hook at precisely 88 miles per hour, the instant the lightning strikes the tower... everything will be fine.</heading>
+        <body>Ut consequuntur veniam vel itaque. Et iusto eum. Architecto dolorem harum non in. Et impedit quos tenetur magnam. Laudantium cupiditate deleniti consequuntur necessitatibus. Sunt eveniet natus itaque. Iusto odio cupiditate esse sapiente architecto reiciendis. Ut praesentium ab molestiae est.</body>
+        <recipients>
+            <recipient name="Vanesa Wyman"/>
+            <recipient name="Mrs. Eugena Kuphal"/>
+            <recipient name="Ivory Fadel"/>
+        </recipients>
+        <mentions>
+            <mention name="Magan Balistreri Jr."/>
+            <mention name="Brant Ryan Sr."/>
+        </mentions>
+    </message>
+</ns2:messages>

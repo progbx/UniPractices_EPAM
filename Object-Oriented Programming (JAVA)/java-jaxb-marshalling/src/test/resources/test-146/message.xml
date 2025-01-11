@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="8350" from="Vicente Williamson" type="RCS">
+        <heading>Calm down, Marty. I didn't disintegrate anything. The molecular structure of both Einstein and the car are completely intact.</heading>
+        <body>Eos itaque nostrum qui dolor quisquam voluptas esse. Repellendus deleniti iusto sint iure quaerat. Porro rerum qui inventore ducimus id. Dolores velit commodi unde soluta laudantium iusto. Voluptatem repudiandae impedit vero. Non nemo ducimus illum. Laboriosam nostrum quae sit.</body>
+        <recipients>
+            <recipient name="Cammy Willms"/>
+            <recipient name="Kimberlie Lowe"/>
+            <recipient name="Hobert Spencer PhD"/>
+            <recipient name="Gene Kshlerin"/>
+            <recipient name="Minna Graham"/>
+        </recipients>
+        <mentions>
+            <mention name="Lurlene Lebsack"/>
+            <mention name="Walter Durgan"/>
+        </mentions>
+    </message>
+    <message id="7903" from="Vince Toy" type="XMPP">
+        <heading>Hey, Dad! George! Hey, you on the bike!</heading>
+        <body>Dolorem sunt deserunt numquam vero. Qui dolorum velit. Et est consectetur. Culpa cumque vero facere perferendis et reiciendis et. Architecto facilis omnis perferendis vitae. Excepturi ex porro omnis temporibus sit incidunt. Omnis et consequatur sed.</body>
+        <recipients>
+            <recipient name="Terrell Daniel DDS"/>
+            <recipient name="Barry Brekke DDS"/>
+            <recipient name="Gordon Collins"/>
+            <recipient name="Tanna Hessel"/>
+            <recipient name="Miguel Dibbert"/>
+            <recipient name="Eusebio Hintz"/>
+            <recipient name="Mrs. Ronald McKenzie"/>
+            <recipient name="Cedrick Stiedemann"/>
+            <recipient name="Ned Funk"/>
+            <recipient name="Thomas Hartmann II"/>
+            <recipient name="Skye Steuber IV"/>
+            <recipient name="Scottie Adams"/>
+        </recipients>
+        <mentions>
+            <mention name="Shawn Raynor"/>
+        </mentions>
+    </message>
+    <message id="5993" from="Ms. Alishia Stokes" type="AMQP">
+        <heading>Oh. One other thing. If you guys ever have kids, and one of them, when he's eight years old, accidentally sets fire to the living room rug... go easy on him.</heading>
+        <body>Non ipsum voluptatum facere illo. Ab nobis unde laborum tempora officiis molestiae. Et et qui. Qui consequatur sed qui esse voluptatum. Quia quia cumque. Aliquid nostrum culpa omnis quasi. Quia aut eveniet. Et maiores cum aut. Vitae sit autem.</body>
+        <recipients>
+            <recipient name="Sean Nienow"/>
+            <recipient name="Mrs. Hortensia McKenzie"/>
+            <recipient name="Miss Blythe Braun"/>
+            <recipient name="Ariana Batz"/>
+            <recipient name="Constance Cormier PhD"/>
+            <recipient name="Jacob Streich"/>
+        </recipients>
+    </message>
+    <message id="996" from="Isaias Marvin" type="XMPP">
+        <heading>You really think I ought to swear?</heading>
+        <body>Nulla tenetur esse perferendis repudiandae. A temporibus est qui quasi culpa ut. Minima ducimus dolorem modi unde recusandae voluptate. Accusantium quia voluptatem exercitationem cum voluptate. Repellendus ab vel et est eveniet doloribus. Hic id voluptas occaecati vero qui. Et iure soluta commodi quasi eos. Et eius voluptates consequatur.</body>
+        <recipients>
+            <recipient name="Jewel Bartoletti"/>
+            <recipient name="Vivien Harris"/>
+            <recipient name="Issac Bailey"/>
+            <recipient name="Ms. Alina Bailey"/>
+            <recipient name="Floyd Maggio PhD"/>
+            <recipient name="Anya Torphy"/>
+            <recipient name="Rose McDermott"/>
+            <recipient name="Salvatore Gorczany"/>
+            <recipient name="Darnell Nicolas Jr."/>
+            <recipient name="Kip Bogan"/>
+            <recipient name="Lawrence Hettinger"/>
+            <recipient name="Rory Zemlak"/>
+            <recipient name="Kassie Hayes"/>
+            <recipient name="Haywood Cruickshank"/>
+        </recipients>
+        <mentions>
+            <mention name="Van Rippin"/>
+            <mention name="Corrina Fisher"/>
+            <mention name="Gail Bode"/>
+        </mentions>
+    </message>
+    <message id="8637" from="Denis Swift" type="AMQP">
+        <heading>Hey, Biff, get a load of this guy's life preserver. Dork thinks he's gonna drown.</heading>
+        <body>Possimus ea explicabo. Quod amet dolor occaecati nihil adipisci. Autem aperiam delectus eveniet culpa et. Aut quis necessitatibus ut. Architecto quia cupiditate. Eum maxime nihil sit. Maxime excepturi modi. Numquam tenetur dolorem consequuntur nesciunt officiis. Deleniti asperiores sed unde non molestiae sequi.</body>
+        <recipients>
+            <recipient name="Mohammed Hilpert"/>
+            <recipient name="Romaine Borer III"/>
+            <recipient name="Carmelo Langworth"/>
+        </recipients>
+    </message>
+    <message id="323" from="Mr. Jonah Douglas" type="MQTT">
+        <heading>Last night, Darth Vader came down from Planet Vulcan and told me that if I didn't take Lorraine out, that he'd melt my brain.</heading>
+        <body>Est veritatis repellendus quas sapiente soluta sit. Ut maxime optio saepe dicta nemo illum totam. Inventore accusamus ipsum reprehenderit. Libero ut ea quam dolores ut. Voluptas repellat minima praesentium aut sunt quis. Rem est eius. Officiis vitae accusamus quas vitae aspernatur ut temporibus.</body>
+        <recipients>
+            <recipient name="Joe Conn"/>
+            <recipient name="Mrs. Boyce Douglas"/>
+            <recipient name="Carmel Rutherford"/>
+            <recipient name="Christina Fadel"/>
+            <recipient name="Mr. Beverly Runolfsson"/>
+        </recipients>
+    </message>
+    <message id="5581" from="Mr. Foster Maggio" type="RCS">
+        <heading>It's gonna be really hard waiting 30 years before I can talk to you about everything that's happened in the past few days. I'm really gonna miss you, Marty.</heading>
+        <body>Aut maxime dolor molestias vel nihil ipsam. Cumque eum consequatur sed est itaque placeat consequatur. Rerum dolorem mollitia rem quia magni. Tenetur et ipsum possimus. Et dolor expedita quo a ut explicabo consequatur. Quaerat qui non voluptas et porro. Eos doloremque delectus ipsum ducimus a laborum.</body>
+        <recipients>
+            <recipient name="Vonnie Larkin"/>
+            <recipient name="Meredith Sawayn"/>
+            <recipient name="Marina Kozey"/>
+            <recipient name="Dusty Klein"/>
+            <recipient name="Tonda Bode"/>
+        </recipients>
+    </message>
+    <message id="1220" from="Shanti Rau" type="AMQP">
+        <heading>I had a horrible nightmare. I dreamed that I went... back in time. It was terrible.</heading>
+        <body>Sunt voluptatem sed libero sit tenetur. Dicta voluptas veniam eum neque rerum. Quis ipsam totam consequuntur veritatis et beatae dolores. Exercitationem natus cupiditate totam voluptatem atque. Dolorum perspiciatis accusamus rerum qui. Qui aperiam sed esse aliquid vel dignissimos. Ipsam quos quo consequatur labore. Perferendis qui vitae a. Et consequatur modi sit.</body>
+        <recipients>
+            <recipient name="Devon Runte"/>
+            <recipient name="Chante Williamson"/>
+            <recipient name="Efren Murphy"/>
+            <recipient name="Idella Lowe"/>
+            <recipient name="Luke Nader"/>
+            <recipient name="Miss Danny Simonis"/>
+            <recipient name="Franklyn Dickinson DDS"/>
+            <recipient name="Brain Wintheiser"/>
+            <recipient name="Dawne Schneider I"/>
+            <recipient name="August Volkman"/>
+            <recipient name="Devin Hessel II"/>
+        </recipients>
+    </message>
+    <message id="1349" from="Gino Will I" type="SMS">
+        <heading>Who's President of the United States in 1985? Ronald Reagan? The actor? Ha! Then whose vice president? Jerry Lewis?</heading>
+        <body>Atque enim fugit laborum ea fuga dignissimos doloremque. Corporis nisi aut eligendi voluptatibus accusamus perspiciatis et. Nostrum accusantium voluptates aut eius alias molestias. Quas eius doloribus et quod qui et. Amet omnis qui provident. Aut placeat et libero illum. Blanditiis doloribus qui. Quod occaecati consequatur autem corrupti voluptate voluptatem aut. Consequatur beatae et ex maiores enim.</body>
+        <recipients>
+            <recipient name="Dan Zemlak"/>
+            <recipient name="Joel Heidenreich"/>
+            <recipient name="Darcy Gorczany Sr."/>
+            <recipient name="Paul Collier DVM"/>
+            <recipient name="Zackary Hudson I"/>
+            <recipient name="Mr. Russell Schiller"/>
+            <recipient name="Ricki Wintheiser"/>
+            <recipient name="Ted Feest DDS"/>
+            <recipient name="Dudley Hane"/>
+            <recipient name="Milly Langworth"/>
+        </recipients>
+    </message>
+    <message id="7368" from="Charlsie Gusikowski III" type="DDS">
+        <heading>Who's President of the United States in 1985? Ronald Reagan? The actor? Ha! Then whose vice president? Jerry Lewis?</heading>
+        <body>Aperiam nisi omnis. Tempore perferendis veritatis non quae error expedita accusantium. Nisi voluptates adipisci. Qui quibusdam est voluptatum. Ad qui sequi architecto error esse aut. Perferendis illo laudantium vitae qui fugit ipsum. Impedit dicta saepe perferendis repellat.</body>
+        <recipients>
+            <recipient name="Araceli Green"/>
+            <recipient name="Adolph Schimmel"/>
+            <recipient name="Agnus Bernhard"/>
+            <recipient name="Noble Hirthe"/>
+            <recipient name="Luella Boyle"/>
+            <recipient name="Steven Kub"/>
+            <recipient name="Pamala Fahey"/>
+            <recipient name="Arnold Mraz III"/>
+            <recipient name="Dallas Langosh"/>
+            <recipient name="Miss Nathanial Berge"/>
+            <recipient name="Eva Kuhn"/>
+        </recipients>
+    </message>
+    <message id="6412" from="Emelda Lubowitz" type="MMS">
+        <heading>Jesus, George, it was a wonder I was even born.</heading>
+        <body>Et harum sit. Consectetur facilis sed totam quisquam occaecati. Tempore doloribus aut ut eius nisi. Voluptatem harum soluta explicabo aspernatur error. Et facilis ea. Eveniet possimus facilis laudantium. Ut id vitae rerum est odio.</body>
+        <recipients>
+            <recipient name="Evan Morar"/>
+            <recipient name="Michal Will"/>
+            <recipient name="Arianna Carroll"/>
+        </recipients>
+    </message>
+    <message id="3155" from="Tiesha Wolf" type="MQTT">
+        <heading>Who's President of the United States in 1985? Ronald Reagan? The actor? Ha! Then whose vice president? Jerry Lewis?</heading>
+        <body>Necessitatibus repellat incidunt beatae corrupti sint quam. Aspernatur ea ut aut eius quod numquam sapiente. Praesentium rerum accusamus est iusto. Labore ea qui suscipit. Veniam rerum asperiores aut est ad voluptas. Temporibus dolores odio aspernatur qui consequatur rerum. Vitae sint vero quos.</body>
+        <recipients>
+            <recipient name="Joey Kreiger V"/>
+            <recipient name="Everett Waelchi"/>
+            <recipient name="Arden Bode"/>
+            <recipient name="Jonie Ullrich"/>
+            <recipient name="Brady Connelly"/>
+            <recipient name="Vernita Hammes"/>
+            <recipient name="Alexis Hammes"/>
+            <recipient name="Edna Price MD"/>
+        </recipients>
+    </message>
+    <message id="2963" from="Leola Hand" type="XMPP">
+        <heading>That's Strickland. Jesus, didn't that guy ever have hair?</heading>
+        <body>Consequatur nobis est at. Facilis accusamus qui perspiciatis. Quisquam consequatur eos sit doloribus dicta. Autem ut est. Reiciendis voluptatem neque vel. Deleniti accusamus omnis et excepturi ut sunt odio. Dolorem veniam at quas doloremque eaque.</body>
+        <recipients>
+            <recipient name="Ms. Cathy O'Keefe"/>
+            <recipient name="Mr. Shiela O'Keefe"/>
+            <recipient name="Chang Gulgowski"/>
+            <recipient name="Ms. Mai Wyman"/>
+            <recipient name="Aura Klocko"/>
+            <recipient name="Mrs. Rashad Daugherty"/>
+        </recipients>
+        <mentions>
+            <mention name="Dylan Ziemann"/>
+            <mention name="Aliza Williamson"/>
+            <mention name="Christin Jacobs"/>
+        </mentions>
+    </message>
+    <message id="285" from="Rheba Grimes" type="SMTP">
+        <heading>Yes. Yes. I'm George. George McFly. I'm your density. I mean, your destiny.</heading>
+        <body>Dicta suscipit et eligendi laboriosam quisquam. Inventore quod laborum odio non. Sunt dicta rem debitis libero iure rem ducimus. Facilis accusamus quos neque error. Consequatur quo assumenda illum sint. Blanditiis maxime nisi modi. At nihil iste quibusdam deserunt fugit. Autem harum dicta dolorum. Blanditiis omnis quia rem consequatur nam rem dolorem.</body>
+        <recipients>
+            <recipient name="Mariela Brakus"/>
+            <recipient name="Fern Kiehn Jr."/>
+            <recipient name="Miss Margareta Romaguera"/>
+            <recipient name="Ms. Glenn McKenzie"/>
+            <recipient name="Darnell Friesen III"/>
+            <recipient name="Felisa Reichert"/>
+            <recipient name="Eve Heaney"/>
+            <recipient name="Alena Fritsch"/>
+        </recipients>
+    </message>
+</ns2:messages>

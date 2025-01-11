@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="3751" from="Wilbert Marquardt" type="MMS">
+        <heading>Oh. One other thing. If you guys ever have kids, and one of them, when he's eight years old, accidentally sets fire to the living room rug... go easy on him.</heading>
+        <body>Officia nemo distinctio et veniam libero. Et architecto nisi et velit. At qui in placeat atque animi atque possimus. Id officia totam assumenda officiis sint. Voluptate assumenda labore quia vel. Harum veniam veritatis consequatur. Beatae in ullam.</body>
+        <recipients>
+            <recipient name="Laurinda Kling"/>
+            <recipient name="Letitia Bergstrom IV"/>
+            <recipient name="Maia Abernathy DDS"/>
+            <recipient name="Ms. Marlena Bernier"/>
+            <recipient name="Jerri Schiller"/>
+            <recipient name="Wilson Collins"/>
+            <recipient name="Murray Streich"/>
+            <recipient name="Gustavo Herzog"/>
+            <recipient name="Miss Roseline Waters"/>
+        </recipients>
+    </message>
+    <message id="642" from="Al Dooley DDS" type="MMS">
+        <heading>He's an absolute dream!</heading>
+        <body>Qui atque aliquid est ipsum delectus voluptatem. Voluptatem quidem voluptate exercitationem impedit. Eius ut veritatis repudiandae. Incidunt dolor atque rerum rem et. Commodi dolorem quasi exercitationem vero quo maxime. Officiis quis qui dolorum dignissimos sit autem laboriosam. Sunt neque eligendi. Consequatur id dolor dolorem dolore. Necessitatibus non tempora.</body>
+        <recipients>
+            <recipient name="Cornell Moore"/>
+            <recipient name="Ms. Maren Bahringer"/>
+            <recipient name="Sonia Nolan"/>
+        </recipients>
+        <mentions>
+            <mention name="Carlita Price"/>
+        </mentions>
+    </message>
+    <message id="4820" from="Adolph Stroman" type="MMS">
+        <heading>My equipment. That reminds me, Marty. You better not hook up to the amplifier. There's a slight possibility of overload.</heading>
+        <body>Labore qui non ea quis. Nihil cumque porro qui. Facilis aut enim est. Vel excepturi sed dolor ea suscipit eligendi. Voluptates omnis quae asperiores. Neque quia quidem voluptatibus. Qui sit perferendis fugit voluptate nam.</body>
+        <recipients>
+            <recipient name="Curtis Jaskolski Sr."/>
+            <recipient name="Kip Koss"/>
+            <recipient name="Jon Turcotte"/>
+            <recipient name="Miss Love Kshlerin"/>
+            <recipient name="Hulda Zemlak"/>
+            <recipient name="Derrick Von"/>
+            <recipient name="Marcellus Klein"/>
+            <recipient name="Alaina Rodriguez"/>
+            <recipient name="Cleo Boyle"/>
+            <recipient name="Zachary Streich"/>
+            <recipient name="Arianna Jacobson"/>
+            <recipient name="Avis Daniel MD"/>
+            <recipient name="Lucile Koch"/>
+            <recipient name="Bernardo Ebert I"/>
+            <recipient name="Dr. Jessia Deckow"/>
+        </recipients>
+    </message>
+</ns2:messages>

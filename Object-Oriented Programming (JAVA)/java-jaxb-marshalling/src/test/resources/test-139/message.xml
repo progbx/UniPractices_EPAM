@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="1678" from="Herb Bode" type="SMTP">
+        <heading>Whoa. Wait a minute, Doc. Are you trying to tell me that my mother has got the hots for me?</heading>
+        <body>Voluptas aut et quod modi laboriosam. Vitae in velit error ad rem. Reiciendis vel rerum. Enim laboriosam non et placeat nemo. Laudantium nemo alias nihil. Voluptates totam dolorem fugiat consectetur architecto provident. Quaerat minima doloribus dolores officia et voluptate. Quasi laboriosam et hic deleniti occaecati.</body>
+        <recipients>
+            <recipient name="Ms. Mohamed VonRueden"/>
+            <recipient name="Tenesha Doyle"/>
+            <recipient name="Vicente Hessel"/>
+            <recipient name="Francisca Waelchi"/>
+            <recipient name="Perry Grant"/>
+        </recipients>
+        <mentions>
+            <mention name="Miss Mckinley Halvorson"/>
+            <mention name="Joey Fritsch"/>
+            <mention name="Dawne Bashirian Jr."/>
+            <mention name="Ivey Quitzon"/>
+        </mentions>
+    </message>
+</ns2:messages>

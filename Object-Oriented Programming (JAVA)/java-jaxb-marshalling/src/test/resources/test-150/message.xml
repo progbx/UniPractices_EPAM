@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="4945" from="Theda Reichert" type="SMS">
+        <heading>See you later, Pop. Whoo! Time to change that oil.</heading>
+        <body>Asperiores facilis culpa reiciendis ut quasi. Expedita soluta qui voluptas. Quas quod mollitia expedita laboriosam. Dolores adipisci quam atque quisquam enim in qui. Ab delectus omnis reprehenderit pariatur deserunt architecto qui. Voluptatem est eligendi. Assumenda vel et. Aliquam soluta exercitationem quas dolores nam. Asperiores ullam quia.</body>
+        <recipients>
+            <recipient name="Mrs. Nida Volkman"/>
+            <recipient name="Miss Stuart Lesch"/>
+            <recipient name="Donnell Ankunding"/>
+            <recipient name="Mr. Sandy Abbott"/>
+        </recipients>
+    </message>
+</ns2:messages>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="2776" from="Ms. Beatris Vandervort" type="MMS">
+        <heading>I finally invent something that works!</heading>
+        <body>Voluptatem eligendi assumenda veniam. Nisi aliquid et dicta est harum vel. Enim pariatur tempore voluptas est dolorum voluptate. Consequatur omnis reiciendis sed voluptatem. Nostrum culpa officiis. Nisi alias in tempora. Nam aut sequi corporis harum animi.</body>
+        <recipients>
+            <recipient name="Ali Kreiger Jr."/>
+            <recipient name="Rae Stiedemann"/>
+            <recipient name="Violette Klein"/>
+            <recipient name="Rachal Konopelski III"/>
+            <recipient name="Oscar Kreiger"/>
+            <recipient name="Leif Runolfsson"/>
+            <recipient name="Dr. Dewey Spinka"/>
+            <recipient name="Carmella Fahey"/>
+            <recipient name="Nelia Cruickshank Jr."/>
+            <recipient name="Kieth Wolff"/>
+            <recipient name="Sharee Zemlak"/>
+        </recipients>
+    </message>
+    <message id="2497" from="Jeanie Bashirian" type="MMS">
+        <heading>Okay. Time circuit's on. Flux capacitor, fluxing. Engine running. All right.</heading>
+        <body>Ipsa omnis dolor ipsum dolorum ipsum blanditiis. In est qui porro non et voluptatem. Inventore est totam modi sed officiis nihil. Libero consequatur delectus accusamus voluptatem sit. Sapiente occaecati ut non eius eos ut exercitationem. Facere commodi rerum enim laborum. Perspiciatis voluptate placeat accusamus labore impedit. Mollitia aut aperiam quo nulla dolore delectus exercitationem. Aliquid aut nisi modi omnis.</body>
+        <recipients>
+            <recipient name="Owen Kris"/>
+            <recipient name="Ellamae Wolff IV"/>
+            <recipient name="Curtis Pacocha"/>
+            <recipient name="Vernon O'Kon"/>
+            <recipient name="Miss Lawanda Blick"/>
+            <recipient name="Jed Lind"/>
+            <recipient name="Theron Lebsack"/>
+            <recipient name="Leeanna Boehm"/>
+            <recipient name="Dominic Herzog"/>
+            <recipient name="Chia Cormier"/>
+            <recipient name="Sonia Schroeder"/>
+        </recipients>
+    </message>
+</ns2:messages>

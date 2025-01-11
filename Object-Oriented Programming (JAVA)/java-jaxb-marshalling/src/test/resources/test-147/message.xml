@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="3346" from="Danna Quitzon" type="SMS">
+        <heading>Are you telling me that this sucker is nuclear?</heading>
+        <body>Iure consectetur fuga sint officia. Occaecati impedit sequi. Pariatur ex est exercitationem nemo. At voluptate dolorum. Et sunt commodi cum itaque odio. Et ipsam et cumque assumenda asperiores. Eligendi et quis et impedit. Modi at deserunt. Recusandae inventore architecto eum qui sit.</body>
+        <recipients>
+            <recipient name="Raymond Schaden I"/>
+            <recipient name="Earlean Osinski"/>
+            <recipient name="Estrella Dickinson"/>
+            <recipient name="Miss Doyle Goodwin"/>
+            <recipient name="Collen Hansen"/>
+            <recipient name="Marie Parisian"/>
+        </recipients>
+    </message>
+    <message id="5137" from="Ozzie Bergnaum" type="SMS">
+        <heading>My equipment. That reminds me, Marty. You better not hook up to the amplifier. There's a slight possibility of overload.</heading>
+        <body>Nobis et aliquam tempora ea amet. A ut placeat beatae consequuntur ut. Omnis sint iusto enim ut natus iusto ut. Perspiciatis sint eum a provident delectus autem. Itaque et et est et sit aliquid ea. Blanditiis doloribus aut eos illo consectetur quas. Dolorum ab rem cumque ipsa doloremque itaque possimus. Ut sit voluptatem.</body>
+        <recipients>
+            <recipient name="Mr. Eugene Waters"/>
+            <recipient name="Johnathan Greenfelder"/>
+            <recipient name="Rudolph Runte"/>
+            <recipient name="Lael Marvin"/>
+            <recipient name="Alexis Huel"/>
+            <recipient name="Perla Konopelski II"/>
+            <recipient name="Mindi Turcotte Jr."/>
+            <recipient name="Kelsie Bartoletti"/>
+        </recipients>
+    </message>
+</ns2:messages>

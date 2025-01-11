@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="4583" from="Dr. Kyle Ward" type="SMTP">
+        <heading>Yeah, well, history is gonna change.</heading>
+        <body>Ut voluptas nemo et. Ut nulla et quae. Eos voluptas reiciendis nihil. Fuga rerum sint unde. Autem quos ratione est non a. Repellat laborum quis aliquam omnis dolore unde. Rerum rerum assumenda eum et aut facilis pariatur.</body>
+        <recipients>
+            <recipient name="Major Wiza"/>
+            <recipient name="Tyree Kuhic"/>
+            <recipient name="Roman Spencer"/>
+            <recipient name="Neta Batz"/>
+            <recipient name="Luigi Howell"/>
+            <recipient name="Ms. Twyla Bailey"/>
+            <recipient name="Columbus Cremin"/>
+            <recipient name="Julian Buckridge"/>
+            <recipient name="Alida Graham"/>
+        </recipients>
+        <mentions>
+            <mention name="Herma Durgan"/>
+            <mention name="Sigrid Purdy MD"/>
+        </mentions>
+    </message>
+</ns2:messages>

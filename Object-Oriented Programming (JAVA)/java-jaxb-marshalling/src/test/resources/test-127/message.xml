@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="1647" from="Sang Kerluke" type="XMPP">
+        <heading>Wait a minute. Wait a minute, Doc. Ah... Are you telling me that you built a time machine... out of a DeLorean?</heading>
+        <body>Autem placeat sint cupiditate porro quis vel. Numquam eos deserunt animi facilis. Ad reiciendis vel voluptatibus repellat et. Veniam quia provident optio reiciendis. Et ex laboriosam. Vel blanditiis maxime sed sit eum nam hic. Ex inventore aut sit ullam sit fugit repudiandae. Quaerat aut cupiditate. Est maxime ullam vel quidem optio laborum voluptas.</body>
+        <recipients>
+            <recipient name="Cassey Collins"/>
+            <recipient name="Nichole Gaylord"/>
+            <recipient name="Sharen Runolfsson III"/>
+            <recipient name="Henry Lebsack"/>
+            <recipient name="Erminia Kunde IV"/>
+            <recipient name="Lavenia Ritchie Sr."/>
+            <recipient name="Ms. Sook Simonis"/>
+        </recipients>
+    </message>
+</ns2:messages>

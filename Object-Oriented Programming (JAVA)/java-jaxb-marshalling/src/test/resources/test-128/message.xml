@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="7967" from="Armandina Russel" type="MQTT">
+        <heading>Hey, hey, listen, guys... Look, I don't wanna mess with no reefer addicts, okay?</heading>
+        <body>Non ratione ipsa veniam libero quam. Velit rerum non explicabo nisi quos. Aut omnis dolor assumenda asperiores neque. Quod quos nostrum. Quis vero vel quos dolore sequi. Repellendus qui cum incidunt porro ut in quae. Qui excepturi at. Quia nihil dolor ut et. Reprehenderit magnam suscipit.</body>
+        <recipients>
+            <recipient name="Brett Rohan"/>
+            <recipient name="Paulita Kihn IV"/>
+            <recipient name="Buddy Rosenbaum"/>
+            <recipient name="Oscar Reichel"/>
+            <recipient name="Phillis Miller"/>
+            <recipient name="Gabriel Doyle DDS"/>
+            <recipient name="Ronna Cartwright"/>
+        </recipients>
+    </message>
+    <message id="5454" from="Shawn Luettgen" type="IRC">
+        <heading>Perfect! My experiment worked! They're all exactly 25 minutes slow!</heading>
+        <body>Et et architecto quae consequatur non. Sit corrupti non ullam nisi vero. Quibusdam sed rerum corrupti. Tempore consectetur officia dolorem saepe est dicta. Consectetur aperiam ab. Adipisci dolores dolorem doloremque voluptas distinctio repellendus veniam. Est et fuga. Vel vitae dolores. Nam quos quis iste dicta.</body>
+        <recipients>
+            <recipient name="Basil Kozey"/>
+            <recipient name="Man Wiza"/>
+            <recipient name="Keneth Champlin Jr."/>
+            <recipient name="Jess Kub"/>
+            <recipient name="Ronald Wisoky Sr."/>
+        </recipients>
+        <mentions>
+            <mention name="Reginald Metz"/>
+        </mentions>
+    </message>
+    <message id="7554" from="Mercedez Corwin" type="DDS">
+        <heading>Maybe you were adopted.</heading>
+        <body>Quisquam fugiat asperiores earum est recusandae iure et. Ullam et maxime quas quidem. Vel minima aperiam asperiores. Earum corporis dolorum odio quis error quo. Expedita necessitatibus enim. Officia tenetur voluptas aut. Ipsum veniam est quas culpa facilis nam. Qui consequatur et.</body>
+        <recipients>
+            <recipient name="Gonzalo Sauer"/>
+            <recipient name="Elyse Beer V"/>
+            <recipient name="Oma Senger"/>
+            <recipient name="Darren Cummerata"/>
+        </recipients>
+    </message>
+    <message id="6943" from="Jeannetta Kozey" type="SMS">
+        <heading>I've had enough practical jokes for one evening. Good night, future boy!</heading>
+        <body>Alias quia aut quibusdam odio ut. Iste officia vel id qui incidunt perferendis ut. Minus ut eos voluptas. Ipsa est dignissimos ea. Sunt omnis ut dolorum. Consequuntur natus vitae. Sit quidem placeat et qui natus. Totam consectetur est magnam vel. Enim et est aut recusandae quibusdam et.</body>
+        <recipients>
+            <recipient name="Cheree Goodwin DDS"/>
+            <recipient name="Ms. Rosella Daugherty"/>
+            <recipient name="Marion Leuschke"/>
+            <recipient name="Mrs. Eustolia Watsica"/>
+            <recipient name="Mrs. Mason Padberg"/>
+            <recipient name="Beau Tremblay"/>
+            <recipient name="Mr. Jenell Littel"/>
+            <recipient name="Miss Julian Howell"/>
+            <recipient name="Mrs. Guy Wolff"/>
+            <recipient name="Teri Lakin"/>
+            <recipient name="Jimmie Hills"/>
+            <recipient name="Dario Ritchie DDS"/>
+        </recipients>
+    </message>
+</ns2:messages>

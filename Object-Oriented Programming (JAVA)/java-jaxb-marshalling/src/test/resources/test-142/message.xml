@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="7206" from="Tillie Mayert" type="SMTP">
+        <heading>Ah, Jesus Christ! Jesus Christ, Doc, you disintegrated Einstein!</heading>
+        <body>Reprehenderit ut maiores consequatur id corrupti ullam. Voluptas unde quis odit possimus at aut. Eum et nam occaecati beatae nostrum. Repudiandae fugiat sint voluptatem dolor perferendis. Pariatur provident unde distinctio et itaque ipsam at. At excepturi dolorem dolorem quis dignissimos aut. Iusto eos nihil placeat voluptatibus ea dicta delectus. Reiciendis rerum et. Mollitia ipsam velit excepturi voluptates rerum.</body>
+        <recipients>
+            <recipient name="Betsey Lesch Sr."/>
+            <recipient name="Genny Zemlak"/>
+            <recipient name="Linnea Gottlieb PhD"/>
+            <recipient name="Ms. Liane Crona"/>
+            <recipient name="Sue DuBuque"/>
+            <recipient name="Hubert Gorczany"/>
+            <recipient name="Miss Reyes Douglas"/>
+            <recipient name="Louisa Mueller"/>
+            <recipient name="Donald O'Kon"/>
+            <recipient name="Madeleine Macejkovic"/>
+            <recipient name="Emerald Mills"/>
+            <recipient name="Aaron Pollich"/>
+            <recipient name="Federico Barrows"/>
+            <recipient name="Lynn Bauch"/>
+            <recipient name="Roselee Bechtelar"/>
+        </recipients>
+        <mentions>
+            <mention name="Miss Audra Frami"/>
+        </mentions>
+    </message>
+</ns2:messages>
