@@ -1,0 +1,67 @@
+@import '_variables';
+@import '_placeholders';
+@import '_functions';
+
+
+main {
+
+    @include flexible-box(row, space-between, flex-start);  
+    width: sum($small, $medium, $large, multiply(6, $block-margin));
+    margin: 0 auto; 
+}
+
+ .block {   
+&--small {
+  @extend %block; 
+  width: $small; 
+   
+}
+  
+&--medium {
+    @extend %block;
+   
+    width: $medium;
+   
+}
+  
+&--large {
+    @extend %block; 
+   
+    width: $large; 
+}
+  
+&__title
+{
+    margin: 0;
+    font-size: 2rem;
+    padding: $elem-padding;
+    color: $white-color;
+    border-radius: 5px 5px 0 0; 
+
+
+&--green { 
+    @extend .block__title;
+    background: $green-color; 
+}
+
+&--blue {
+    @extend .block__title;
+    background:$blue-color; 
+}
+
+&--orange {
+    @extend .block__title;
+    background: $orange-color; 
+} 
+}
+  
+&__description {
+    padding: $elem-padding;
+}
+  
+&__notes {
+    padding: $elem-padding;
+    background: $grey-color;
+    font-style:  italic; 
+} 
+ }

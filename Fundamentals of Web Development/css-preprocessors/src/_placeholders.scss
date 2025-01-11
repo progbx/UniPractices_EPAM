@@ -1,0 +1,10 @@
+@import '_mixins';
+@import '_variables';
+
+%block {
+    @include flexible-box(column, space-between, center);   
+    margin: 20px;
+    border: 2px solid $grey-color;
+    background: $white-color;
+    border-radius: 5px; 
+} 
