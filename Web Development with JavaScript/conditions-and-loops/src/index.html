@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
+    <head>
+        <title>Basic HTML page</title>
+        <meta charset="UTF-8">
+        <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <section class="code-section">
+            <h1>Hello, world!</h1>
+
+            <p class="code-section__note">To see your JavaScript code output, please, open browser console by pressing F12.</p>
+        </section>
+
+        <script src="script.js"></script>
+
+        <script>
+            //1
+            console.log("isEvenOrOdd(4): ", isEvenOrOdd(4));
+            console.log("isEvenOrOdd(7): ", isEvenOrOdd(7));
+    
+            //2
+            console.log("rangeSum(2,8): ", rangeSum(2,8));
+            console.log("rangeSum(-2,5): ", rangeSum(-2,5));
+
+            //3
+            console.log("sumExclude(5,2): ", sumExclude(5,2));
+            console.log("sumExclude(5,3): ", sumExclude(5,3));
+    
+            //4
+            console.log("calcSimple(3, 5, '+'): ", calcSimple(3, 5, '+'));
+            console.log("calcSimple(12, 2, '-'): ", calcSimple(12, 2, '-'));
+            console.log("calcSimple(4, 2, '*'): ", calcSimple(4, 2, '*'));
+            console.log("calcSimple(15, 5, '/'): ", calcSimple(15, 5, '/'));
+    
+            //5
+            console.log("makeRulerStr(1): ", makeRulerStr(1));
+            console.log("makeRulerStr(2): ", makeRulerStr(2));
+            console.log("makeRulerStr(3): ", makeRulerStr(3));   
+        </script>
+    </body>
+</html>
