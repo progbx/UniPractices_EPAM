@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
+
+<head>
+    <title>Basic HTML page</title>
+    <meta charset="UTF-8">
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>JavaScript Lodash and date-fns libraries</h1>
+
+    <p>To see your JavaScript code output, please, open browser console by pressing F12.</p>
+
+    <div class="tasks-row">
+        <section class="code-section">
+          <h2>Function "findLongestWord"</h2>
+        </section>
+        <section class="code-section">
+            <h2>Function "getAverageAge"</h2>
+        </section>
+    </div>
+    
+    <div class="tasks-row">
+        <section class="code-section">
+          <h2>Function "getTimeBetween"</h2>
+        </section>
+        <section class="code-section">
+          <h2>Function "customIncludes"</h2>
+        </section>
+    </div>
+
+    <script type="module">
+        import { findLongestWord } from "./findLongestWord.js";
+        //console.clear();
+
+        const phrase_1 = 'JavaScript is a programming language.';
+        const phrase_2 = 'The Lodash library is exported as Node.js modules.';
+
+        const res_1 = findLongestWord(phrase_1); 
+        const res_2 = findLongestWord(phrase_2);
+
+        console.log(`findLongestWord(${phrase_1}): `, res_1);
+        console.log(`findLongestWord(${phrase_2}): `, res_2);
+    </script>
+
+    <script type="module">
+        import { getAverageAge } from "./getAverageAge.js";
+
+        const users = [
+            {name: 'John', age: 30},
+            {name: 'Mike', age: 28},
+            {name: 'Jack', age: 29}
+        ]
+
+        const newUsers = [
+            {name: 'Jane', age: 20},
+            {name: 'Ann', age: 24},
+            {name: 'Mary', age: 28},
+            {name: 'Jane', age: 20},
+        ]
+
+        const age_1 = getAverageAge(users);
+        const age_2 = getAverageAge(newUsers);
+
+        console.log("getAverageAge(users): ", age_1);
+        console.log("getAverageAge(newUsers): ", age_2);
+    </script>
+
+    <script type="module">
+        import { getTimeBetween } from "./getTimeBetween.js";
+        
+        const date_1 = new Date(2023, 3, 28, 12, 0, 0);
+        const date_2 = new Date(2023, 4, 7, 14, 30, 0);
+
+        const dif_days = getTimeBetween(date_1, date_2, "days");  
+        const dif_hours = getTimeBetween(date_1, date_2, "hours");
+        const dif_minutes = getTimeBetween(date_1, date_2, "minutes"); 
+        const dif_seconds = getTimeBetween(date_1, date_2, "seconds"); 
+
+        console.log(`getTimeBetween(in days): `, dif_days);
+        console.log(`getTimeBetween(in hours): `, dif_hours);
+        console.log(`getTimeBetween(in minutes): `, dif_minutes);
+        console.log(`getTimeBetween(in seconds): `, dif_seconds);   
+    </script>
+
+    <script type="module">
+        import { customIncludes } from "./customIncludes.js";
+
+        const arr = [1,2,3,4,5];
+
+        console.log("customIncludes([1,2,3,4,5], 1): ", customIncludes(arr, 1));
+        console.log("customIncludes([1,2,3,4,5], 6): ", customIncludes(arr, 6));
+        console.log("customIncludes([1,2,3,4,5], 2, 2): ", customIncludes(arr, 2, 2));
+    </script>
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/date-fns@2.28.0/dist/date-fns.min.js"></script>
+<script src="src/app.js"></script>
+</body>
+
+</html>

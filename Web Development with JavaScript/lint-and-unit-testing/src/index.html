@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
+
+<head>
+  <title>Basic HTML page</title>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/x-icon" href="images/favicon.ico" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <section class="code-section">
+    <h1>Hello, world!</h1>
+
+    <p class="code-section__note">
+      To see your JavaScript code output, please, open browser console by
+      pressing F12.
+    </p>
+  </section>
+
+  <script type="module">
+    console.clear();
+    import { calculateTotalCost } from './script.js';
+
+    // Scenario 1: Valid inputs and premium member
+    const totalPrice1 = 100;
+    const discountPercentage1 = 20;
+    const isPremiumMember1 = true;
+    const result1 = calculateTotalCost(totalPrice1, discountPercentage1, isPremiumMember1);
+    console.log(`Scenario 1: Total cost for premium member: $${result1}`);
+
+    // Scenario 2: Valid inputs and non-premium member
+    const totalPrice2 = 100;
+    const discountPercentage2 = 20;
+    const isPremiumMember2 = false;
+    const result2 = calculateTotalCost(totalPrice2, discountPercentage2, isPremiumMember2);
+    console.log(`Scenario 2: Total cost for non-premium member: $${result2}`);
+
+    // Scenario 3: Invalid total price
+    const totalPrice3 = -100;
+    const discountPercentage3 = 20;
+    const isPremiumMember3 = true;
+    const result3 = calculateTotalCost(totalPrice3, discountPercentage3, isPremiumMember3);
+    console.log(`Scenario 3: Invalid total price, result: ${result3}`);
+
+    // Scenario 4: Invalid discount percentage
+    const totalPrice4 = 100;
+    const discountPercentage4 = 120;
+    const isPremiumMember4 = true;
+    const result4 = calculateTotalCost(totalPrice4, discountPercentage4, isPremiumMember4);
+    console.log(`Scenario 4: Invalid discount percentage, result: ${result4}`);
+
+    // Scenario 5: Invalid inputs (non-numeric)
+    const totalPrice5 = '100';
+    const discountPercentage5 = '20';
+    const isPremiumMember5 = 'true';
+    const result5 = calculateTotalCost(totalPrice5, discountPercentage5, isPremiumMember5);
+    console.log(`Scenario 5: Non-numeric inputs, result: ${result5}`);
+  </script>
+</body>
+
+</html>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
+  <head>
+    <title>Basic HTML page</title>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <section class="code-section">
+      <h1>Hello, world!</h1>
+
+      <p class="code-section__note">
+        To see your JavaScript code output, please, open browser console by
+        pressing F12.
+      </p>
+    </section>
+
+    <script src="script.js"></script>
+
+    <script>
+      // selectionTypes
+      let obj = ["a", 1, 2, false, "b"];
+      console.log(selectionTypes(obj));
+
+      //multiply
+      console.log(multiply(2)(4)(6));
+
+      //smartMultiply
+      const multiply1 = smartMultiply(2);
+      console.log(multiply1(2));
+
+      //getNumberOfItems
+
+      let arr = [
+        ["Ball", 5],
+        ["Bicycle", 100],
+        ["Teddybear", 10],
+        ["Kite", 3],
+        ["Ball", 3],
+      ];
+      console.log(arr);
+      //createStack
+
+      const stack = createStack();
+      stack.push(1);
+      stack.push(2);
+      console.log(stack.pop());
+      console.log(stack.items);
+      console.log(stack.peek());
+    </script>
+  </body>
+</html>
