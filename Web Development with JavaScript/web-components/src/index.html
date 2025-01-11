@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
+
+<head>
+    <title>Basic HTML page</title>
+    <meta charset="UTF-8">
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <section class="code-section container">
+        <h1>Hello, world!</h1>
+
+        <p class="code-section__note">Create appropriate custom elements to see results.</p>
+
+        <div class="task">
+            <my-counter></my-counter>
+        </div>
+
+        <div class="task">
+            <draw-square></draw-square>
+        </div>
+
+        <div class="task">
+            <user-card>
+                <span slot="firstname"> John </span>
+                <span slot="lastname"> Smith </span>
+            </user-card>
+        </div>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
