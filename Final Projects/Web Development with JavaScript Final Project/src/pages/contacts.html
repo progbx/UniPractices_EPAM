@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contacts</title>
+    <link rel="stylesheet" href="../dist/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <header class="header-general">
+        <img class="header-general__img" src="../images/img/contacts.jpg" alt="contacts">
+        <div class="container">
+            <div id="header__nav"><!-- space for navbar.html --></div>
+            <h1>Contact Us</h1>
+        </div>
+    </header>
+    <main>
+        <section class="contacts">
+            <div class="container">
+                <div class="tabs-container">
+                    <!-- Tabs -->
+                    <ul class="tabs">
+                        <li class="tab active" onclick="showTab('telegram')"><i class="fa-brands fa-telegram"></i></li>
+                        <li class="tab" onclick="showTab('instagram')"><i class="fa-brands fa-instagram"></i></li>
+                        <li class="tab" onclick="showTab('facebook')"><i class="fa-brands fa-facebook"></i></li>
+                        <li class="tab" onclick="showTab('youtube')"><i class="fa-brands fa-youtube"></i></li>
+                    </ul>
+            
+                    <!-- Tab content -->
+                    <div class="tab-content active" id="telegram">
+                        <h2>Telegram</h2>
+                        <img src="../images/img/tg.png" alt="Telegram">
+                        <p>Click the link below</p>
+                        <a href="https://telegram.org/">Welcome to our Telegram page!</a>
+                    </div>
+                    <div class="tab-content" id="instagram">
+                        <h2>Instagram</h2>
+                        <img src="../images/img/inst.png" alt="Instagram">
+                        <p>Click the link below</p>
+                        <a href="https://www.instagram.com/">Check out our Instagram feed!</a>
+                    </div>
+                    <div class="tab-content" id="facebook">
+                        <h2>Facebook</h2>
+                        <img src="../images/img/face.png" alt="Facebook">
+                        <p>Click the link below</p>
+                        <a href="https://www.facebook.com/">Join us on Facebook for updates!</a>
+                    </div>
+                    <div class="tab-content" id="youtube">
+                        <h2>YouTube</h2>
+                        <img src="../images/img/yt.png" alt="YouTube">
+                        <p>Click the link below</p>
+                        <a href="https://www.youtube.com/">Watch our latest videos on YouTube!</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="office">
+            <img src="../images/img/office.jpg" alt="office">
+            <div class="office__text"><h3>Feel free to visit our office and let us <br> help you plan your next unforgettable adventure!</h3></div>
+        </section>
+        <section class="map">
+            <div class="container">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2997.272266003277!2d69.31353836601915!3d41.302940268036636!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38aef51ea93c6349%3A0xf0c3799c97ac3bdd!2sIT%20Park%20University!5e0!3m2!1sen!2s!4v1734965407164!5m2!1sen!2s" width="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+        </section>
+    </main>
+    <footer class="footer">
+        <div class="container">
+            <div id="footer__block" class="footer__block"><!-- space for footer.html --></div>
+        </div>
+    </footer>
+    <script src="../scripts/main.js"></script>
+    <script src="../scripts/contacts.js"></script>
+</body>
+</html>

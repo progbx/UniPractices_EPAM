@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Packages</title>
+    <link rel="stylesheet" href="../dist/styles.css">
+</head>
+<body>
+    <header class="header-general">
+        <img class="header-general__img" src="../images/img/packages.jpg" alt="contacts">
+        <div class="container">
+            <div id="header__nav"><!-- space for navbar.html --></div>
+            <h1>Travel with us</h1>
+        </div>
+    </header>
+    <section class="ntours__packages">
+        <div class="container">
+            <h2>Available Tours</h2>
+            <div class="filters">
+                <label for="sort-by">Sort by:</label>
+                <select id="sort-by">
+                    <option value="name-asc">Name (A-Z)</option>
+                    <option value="name-desc">Name (Z-A)</option>
+                    <option value="duration-asc">Duration (Low to High)</option>
+                    <option value="duration-desc">Duration (High to Low)</option>
+                    <option value="price-asc">Price (Low to High)</option>
+                    <option value="price-desc">Price (High to Low)</option>
+                    <option value="reviews-asc">Reviews (Low to High)</option>
+                    <option value="reviews-desc">Reviews (High to Low)</option>
+                </select>
+            </div>
+            <div id="tour-list" class="tour-list"></div>
+        </div>
+    </section>
+    <footer class="footer">
+        <div class="container">
+            <div id="footer__block" class="footer__block"><!-- space for footer.html --></div>
+        </div>
+    </footer>
+    <script src="../scripts/main.js"></script>
+    <script src="../scripts/packages.js"></script>
+</body>
+</html>

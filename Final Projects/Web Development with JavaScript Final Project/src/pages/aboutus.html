@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About us</title>
+    <link rel="stylesheet" href="../dist/styles.css">
+</head>
+<body>
+    <header class="header-general">
+        <img class="header-general__img" src="../images/img/aboutus.png" alt="contacts">
+        <div class="container">
+            <div id="header__nav"><!-- space for navbar.html --></div>
+            <h1>About Us</h1>
+        </div>
+    </header>
+    <main>
+        <section class="sightseeing">
+            <div class="container">
+                <div class="sightseeing__block">
+                    <div class="sightseeing__block-1">
+                       <h3 class="h3-default">PROMOTION</h3>
+                        <h2 class="h2-default">We Provide You Best Europe Sightseeing Tours</h2>
+                        <p class="destinations__block-p">Et labore harum non nobis ipsum eum molestias mollitia et corporis praesentium a laudantium internos. Non quis eius quo eligendi corrupti et fugiat nulla qui soluta recusandae in maxime quasi aut ducimus illum aut optio quibusdam!</p>
+                        <button class="def-btn"><a href="packages.html">View Packages</a></button> 
+                    </div>
+                    <div class="sightseeing__block-1">
+                        <img src="../images/img/rounded.png" alt="Illustration">
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="wanderlust">
+            <img src="../images/img/wanderlust.png" alt="wanderlust-image">
+        </section>
+        <section class="destinations">
+            <div class="container">
+                <div class="destinations__block">
+                    <div class="destinations__block-1">
+                        <img src="../images/img/paris-pic.png" alt="Illustration">
+                    </div>
+                    <div class="destinations__block-1">
+                        <h3 class="h3-default">TREND</h3>
+                        <h2 class="h2-default">Our Popular Tour Plans</h2>
+                        <p class="destinations__block-p">Et labore harum non nobis ipsum eum molestias mollitia et corporis praesentium a laudantium internos. Non quis eius quo eligendi corrupti et fugiat nulla qui soluta recusandae in maxime quasi aut ducimus illum aut optio quibusdam!</p>
+                        <div class="percentage-block">
+                          <img src="../images/img/percentage.png" alt="percentage">  
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="clients">
+            <img class="clients__image1" src="../images/img/clients1.jpg" alt="clients__image">
+            <img class="clients__image2" src="../images/img/clients2.jpg" alt="clients__image">
+            <div class="container">
+                <div class="clients__block">
+                    <h3 class="h3-mid">PROMOTION</h3>
+                    <h2 class="h2-mid">See What Our Clients Say <br>   About Us</h2>
+                    <div class="clients__slider">
+                        <div class="clients__slider-wrapper" id="slider-wrapper">
+                            <!-- space for clients data -->
+                        </div>
+                        <button class="clients__prev" onclick="moveSlide(-1)">&#10094;</button>
+                        <button class="clients__next" onclick="moveSlide(1)">&#10095;</button>
+                    </div>                    
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer class="footer">
+        <div class="container">
+            <div id="footer__block" class="footer__block"><!-- space for footer.html --></div>
+        </div>
+    </footer>
+
+    <script src="../scripts/main.js"></script>
+    <script src="../scripts/clients.js"></script>
+</body>
+</html>

@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "sass": "sass src/scss/styles.scss src/dist/styles.css --style=expanded --no-source-map && sass src/scss/styles.scss src/dist/styles.min.css --style=compressed --no-source-map",
+    "lint": "eslint ."
+  },
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "JS Final Project",
+  "main": "index.html",
+  "author": "Bahromboy",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^9.17.0",
+    "globals": "^15.14.0",
+    "sass": "^1.83.0"
+  }
+}

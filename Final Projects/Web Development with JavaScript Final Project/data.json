@@ -1,0 +1,122 @@
+{
+  "clients": [
+    {
+      "name": "Client 1",
+      "image": "../images/img/people1.jpg",
+      "testimonial": "This tour was absolutely amazing! The guides were incredibly knowledgeable and made the whole experience unforgettable. The locations were stunning, and we had plenty of time to explore each place. I would highly recommend this tour to anyone looking to make the most of their vacation!"
+    },
+    {
+      "name": "Client 2",
+      "image": "../images/img/people2.jpg",
+      "testimonial": "I had an incredible time on this tour! The itinerary was perfectly planned, and every day brought something new and exciting. The tour guides were friendly and went above and beyond to ensure we had a great time. I'll definitely be booking another tour with them!"
+    },
+    {
+      "name": "Client 3",
+      "image": "../images/img/people3.jpg",
+      "testimonial": "This tour exceeded all my expectations! I felt like I truly got to experience the culture and history of each destination. The tour was well-organized, and the group was small, so we were able to enjoy more personal attention. I'm so glad I chose this trip for my holiday!"
+    },
+    {
+      "name": "Client 4",
+      "image": "../images/img/people4.jpg",
+      "testimonial": "What an unforgettable adventure! From the breathtaking views to the expert guides, every part of the tour was exceptional. I've been on several tours before, but this one was by far the best. I'm already planning my next trip with this company!"
+    }
+  ],
+  "tours": [
+    {
+      "name": "Paris",
+      "duration": 3,
+      "price": 500,
+      "date": "2025-01-10",
+      "reviews": 5,
+      "image": "../images/img/paris.jpg"
+    },
+    {
+      "name": "Rome",
+      "duration": 5,
+      "price": 700,
+      "date": "2025-01-15",
+      "reviews": 4,
+      "image": "../images/img/rome.jpg"
+    },
+    {
+      "name": "Barcelona",
+      "duration": 7,
+      "price": 400,
+      "date": "2025-01-25",
+      "reviews": 5,
+      "image": "../images/img/barcelona.jpg"
+    },
+    {
+      "name": "London",
+      "duration": 4,
+      "price": 600,
+      "date": "2025-02-13",
+      "reviews": 3,
+      "image": "../images/img/london.jpg"
+    },
+    {
+      "name": "Amsterdam",
+      "duration": 9,
+      "price": 450,
+      "date": "2025-02-20",
+      "reviews": 4,
+      "image": "../images/img/amsterdam.jpg"
+    },
+    {
+      "name": "Las-Vegas",
+      "duration": 12,
+      "price": 1350,
+      "date": "2025-02-23",
+      "reviews": 5,
+      "image": "../images/img/lasvegas.jpg"
+    },
+    {
+      "name": "Los-Angeles",
+      "duration": 4,
+      "price": 560,
+      "date": "2025-03-03",
+      "reviews": 4,
+      "image": "../images/img/losangeles.jpg"
+    },
+    {
+      "name": "Maldives",
+      "duration": 6,
+      "price": 670,
+      "date": "2025-02-17",
+      "reviews": 5,
+      "image": "../images/img/maldives.jpg"
+    },
+    {
+      "name": "Toronto",
+      "duration": 3,
+      "price": 350,
+      "date": "2025-02-26",
+      "reviews": 3,
+      "image": "../images/img/toronto.jpg"
+    },
+    {
+      "name": "China",
+      "duration": 7,
+      "price": 950,
+      "date": "2025-04-13",
+      "reviews": 2,
+      "image": "../images/img/china.jpg"
+    },
+    {
+      "name": "Africa",
+      "duration": 5,
+      "price": 1550,
+      "date": "2025-01-09",
+      "reviews": 3,
+      "image": "../images/img/africa.jpg"
+    },
+    {
+      "name": "Switzerland",
+      "duration": 16,
+      "price": 2350,
+      "date": "2025-04-15",
+      "reviews": 5,
+      "image": "../images/img/switzerland.jpg"
+    }
+  ]
+}
