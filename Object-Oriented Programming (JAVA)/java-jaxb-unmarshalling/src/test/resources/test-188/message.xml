@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="6055" from="Edison Casper PhD" type="DDS">
+        <heading>What if I send in the tape and they don't like it? I mean, what if they say I'm no good? What if they say 'Get outta here, kid. You got no future'? I mean, I just don't think I can take that kind of rejection. Jesus, I'm starting to sound like my old man!</heading>
+        <body>Est ea eveniet. Ullam illo mollitia nostrum. In cupiditate et nulla illum unde. Totam a qui cupiditate id explicabo nisi. Quas pariatur perferendis est. Consectetur neque quam minima voluptatem accusantium aut sapiente. Sed odit eum nihil. Ab repellendus accusamus laborum eveniet perferendis.</body>
+        <recipients>
+            <recipient name="Jalisa Weimann"/>
+            <recipient name="Danilo Weber"/>
+            <recipient name="Kamilah Stracke"/>
+            <recipient name="Wendell Parisian"/>
+            <recipient name="Mr. Vanesa Leannon"/>
+            <recipient name="Karissa Steuber"/>
+            <recipient name="Sharen Swift IV"/>
+            <recipient name="Georgina Casper"/>
+            <recipient name="Alfredia Baumbach"/>
+            <recipient name="Logan Connelly"/>
+            <recipient name="Kitty Bogan"/>
+            <recipient name="Emerson Kiehn"/>
+            <recipient name="Dane Lehner"/>
+            <recipient name="Dr. Elliott Fay"/>
+        </recipients>
+    </message>
+    <message id="2350" from="Mrs. Von Goldner" type="MMS">
+        <heading>This is all wrong. I don't know what it is. But when I kiss you, it's like I'm kissing... my brother. I guess that doesn't make any sense, does it?</heading>
+        <body>Provident aliquid saepe natus. Sunt repellat voluptatum omnis architecto. Quam nobis hic exercitationem eligendi. Ullam sed voluptatum modi aspernatur excepturi enim. Voluptatem maiores possimus non nam inventore asperiores. Magni minus ipsum. Cupiditate debitis quae dolor nam vitae. Fuga rerum quis corporis placeat consequatur. Inventore animi velit.</body>
+        <recipients>
+            <recipient name="Edgar Cronin"/>
+            <recipient name="Miss Jody Dickinson"/>
+            <recipient name="Tyree Becker"/>
+            <recipient name="Yoshiko Hirthe DVM"/>
+            <recipient name="Casey Kilback"/>
+        </recipients>
+        <mentions>
+            <mention name="Mr. Odis Conroy"/>
+            <mention name="Ranae Koelpin"/>
+        </mentions>
+    </message>
+    <message id="161" from="Lucius Lemke" type="RCS">
+        <heading>There's that word again. 'Heavy.' Why are things so heavy in the future? Is there a problem with the Earth's gravitational pull?</heading>
+        <body>Quasi aspernatur ratione qui dolor voluptatibus omnis. Voluptatem at sunt ut consequatur ut velit. Recusandae qui est cum. Provident quasi qui. Pariatur distinctio tempora quis voluptatum eligendi commodi blanditiis. Deleniti consequuntur architecto et accusamus. Exercitationem nam tempora ut facere. Aut officiis quia quaerat.</body>
+        <recipients>
+            <recipient name="Ms. Ligia Herman"/>
+            <recipient name="Tenisha Abbott"/>
+            <recipient name="Ms. Demarcus Effertz"/>
+            <recipient name="Elden Robel"/>
+            <recipient name="Lurline Corkery IV"/>
+            <recipient name="Maire Little"/>
+            <recipient name="Nita Predovic"/>
+        </recipients>
+    </message>
+    <message id="5620" from="Devora Halvorson" type="MMS">
+        <heading>This is all wrong. I don't know what it is. But when I kiss you, it's like I'm kissing... my brother. I guess that doesn't make any sense, does it?</heading>
+        <body>Aperiam et veritatis numquam optio qui qui. Nostrum culpa distinctio aut eum praesentium voluptas. Iusto minima dolores ratione perspiciatis. Tempora quia aut rerum facere fuga. Et doloribus fugiat at quasi neque quod culpa. At et aliquid alias. Repellendus aut et distinctio expedita.</body>
+        <recipients>
+            <recipient name="Yasmin Batz II"/>
+            <recipient name="Danilo Rosenbaum IV"/>
+            <recipient name="Cristobal Kohler"/>
+            <recipient name="Keely Christiansen"/>
+            <recipient name="Dion Rau III"/>
+            <recipient name="Janelle Sipes"/>
+            <recipient name="Mrs. Soo O'Connell"/>
+            <recipient name="Mr. Bryon Grimes"/>
+        </recipients>
+    </message>
+    <message id="2958" from="Geoffrey Klein I" type="XMPP">
+        <heading>I noticed your band is on the roster for the dance auditions after school today. Why even bother, McFly? You don't have a chance. You're too much like your old man. No McFly ever amounted to anything in the history of Hill Valley!</heading>
+        <body>Voluptatem cum et temporibus accusamus assumenda quam. Non deleniti nesciunt quod quos. Dicta quia ratione. Sed id iusto voluptatem nisi ullam. Et sit quidem. Et laboriosam delectus impedit. Facere rerum non assumenda. Dolores necessitatibus aut. Sint facilis praesentium qui recusandae autem explicabo similique.</body>
+        <recipients>
+            <recipient name="Dr. Lamar Witting"/>
+            <recipient name="Ha Jacobs"/>
+            <recipient name="Kelly Hills"/>
+            <recipient name="Mr. Cortez Little"/>
+            <recipient name="Pedro Orn"/>
+            <recipient name="Fredia McKenzie Sr."/>
+            <recipient name="Georgina Goyette"/>
+            <recipient name="Marquis Bogan"/>
+            <recipient name="Houston Pollich"/>
+            <recipient name="Alfredo Haag"/>
+            <recipient name="Genevieve Abshire"/>
+            <recipient name="Leida Brekke PhD"/>
+        </recipients>
+    </message>
+    <message id="5347" from="Colette Beier" type="MQTT">
+        <heading>If my calculations are correct, when this baby hits 88 miles per hour... you're gonna see some serious shit.</heading>
+        <body>Quia quo recusandae aut. Deleniti voluptatem enim placeat asperiores. Aut ea sit excepturi deleniti sed. Doloribus nesciunt ipsa velit consequuntur. Omnis nisi quos itaque. Autem non quia perspiciatis. Et molestias ut.</body>
+        <recipients>
+            <recipient name="Ava Luettgen Sr."/>
+            <recipient name="Jeffry Rolfson"/>
+            <recipient name="Ms. Christopher Jacobi"/>
+            <recipient name="Xavier Feeney"/>
+            <recipient name="John Leannon"/>
+            <recipient name="Linsey Tromp MD"/>
+            <recipient name="Ms. Dion Cruickshank"/>
+        </recipients>
+        <mentions>
+            <mention name="Tyron Dicki"/>
+            <mention name="Bud Marquardt"/>
+        </mentions>
+    </message>
+    <message id="6434" from="Van Becker" type="SMS">
+        <heading>Ah, Jesus Christ! Jesus Christ, Doc, you disintegrated Einstein!</heading>
+        <body>Ducimus error vero. Molestias dolores fugit natus. Maiores officia distinctio suscipit quo omnis hic. Qui sed provident odio. Ratione non sequi molestias libero doloribus sit. Molestias mollitia quibusdam possimus culpa occaecati eveniet molestiae. Fugiat voluptate numquam. Est inventore rerum eos voluptatem quia nulla ut. Eos sapiente eos amet amet dignissimos voluptas itaque.</body>
+        <recipients>
+            <recipient name="Vincenzo Gusikowski I"/>
+            <recipient name="Estell Trantow"/>
+            <recipient name="Lovetta Reichel"/>
+            <recipient name="Amado Waters"/>
+            <recipient name="Dusti Padberg"/>
+            <recipient name="Shin Kirlin"/>
+        </recipients>
+    </message>
+    <message id="2897" from="Sal Farrell PhD" type="XMPP">
+        <heading>Ah, Jesus Christ! Jesus Christ, Doc, you disintegrated Einstein!</heading>
+        <body>Sint veniam tenetur. Dolore ab culpa optio sint. Aspernatur debitis cupiditate dolorem. Laboriosam consequatur dolores. Dicta libero porro. Ad rerum enim. Quod sint possimus et voluptas omnis. Assumenda eos sed consectetur error voluptas.</body>
+        <recipients>
+            <recipient name="Terrence Brakus"/>
+            <recipient name="Ms. Darius Cruickshank"/>
+            <recipient name="Trey Torp"/>
+            <recipient name="Mr. Yuki O'Reilly"/>
+            <recipient name="Emelia Hirthe"/>
+            <recipient name="Mervin Nikolaus"/>
+            <recipient name="Tora Bosco"/>
+            <recipient name="Rickey Schiller"/>
+            <recipient name="Ms. Khalilah Russel"/>
+            <recipient name="Lesa Hauck"/>
+            <recipient name="Warner Trantow"/>
+        </recipients>
+    </message>
+    <message id="4924" from="Chantel McCullough DVM" type="MMS">
+        <heading>Well, I figured, what the hell?</heading>
+        <body>Quae magnam totam numquam et eos. Dolorem voluptates et sit. Officiis illum nihil atque est deserunt dolorum. Voluptatem odit deleniti. Deserunt distinctio nihil natus labore vel sint. Nisi aut soluta alias sed cum voluptatem. Quam quam quia.</body>
+        <recipients>
+            <recipient name="Miss Allen Medhurst"/>
+            <recipient name="Danial Brakus"/>
+            <recipient name="Justin O'Connell"/>
+            <recipient name="Alfonso Bogan"/>
+            <recipient name="Miss Mitchel Pagac"/>
+            <recipient name="Adriene Osinski"/>
+            <recipient name="Jeffie Renner"/>
+            <recipient name="Cyrus Daniel"/>
+            <recipient name="Felicita Zieme"/>
+            <recipient name="Carlene Bernhard"/>
+            <recipient name="Randy Hirthe"/>
+            <recipient name="Kami Hane"/>
+            <recipient name="Leland Harris Sr."/>
+            <recipient name="Raul Gottlieb"/>
+        </recipients>
+    </message>
+    <message id="8933" from="Mr. Caprice Bartoletti" type="SMTP">
+        <heading>Oh, my God. They found me. I don't know how, but they found me. Run for it, Marty!</heading>
+        <body>Officia fugit harum adipisci dolor. Eum numquam ducimus unde in maiores est iure. Nemo modi quo quasi. Ea repudiandae maiores ea. Non est placeat ipsa ea porro ea. Omnis similique fugiat et nulla alias. Porro quasi vel ut. Non molestiae deserunt ab. Consequatur ipsa a explicabo perferendis porro aut nisi.</body>
+        <recipients>
+            <recipient name="Dr. Hye Runolfsson"/>
+            <recipient name="Gaylene Herzog DVM"/>
+            <recipient name="Marceline Collins"/>
+            <recipient name="Rodrick Jakubowski"/>
+            <recipient name="Federico Bernier"/>
+            <recipient name="Maximo Morar"/>
+            <recipient name="Nella Gottlieb"/>
+            <recipient name="Shawn Beier I"/>
+            <recipient name="Eliseo Strosin"/>
+            <recipient name="Benton Senger"/>
+            <recipient name="Marcelle Thompson"/>
+            <recipient name="Maria Nienow"/>
+            <recipient name="Pablo Boehm"/>
+            <recipient name="Brigette Sanford"/>
+            <recipient name="Alaina Berge"/>
+        </recipients>
+        <mentions>
+            <mention name="Jeffry Vandervort PhD"/>
+            <mention name="Pinkie Bernhard IV"/>
+            <mention name="Pat Rolfson"/>
+        </mentions>
+    </message>
+</ns2:messages>

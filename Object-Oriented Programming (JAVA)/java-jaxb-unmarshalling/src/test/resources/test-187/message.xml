@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="3324" from="Jamie Leannon" type="RCS">
+        <heading>Ah, Jesus Christ! Jesus Christ, Doc, you disintegrated Einstein!</heading>
+        <body>Omnis repellat sequi et commodi eius suscipit beatae. Incidunt tempora ut vitae. Ea excepturi ex ipsum deserunt. Alias ut inventore accusantium quo enim odio. Autem fugit et laboriosam esse cumque atque praesentium. Atque et quidem est iure sed. Voluptatem velit dolores quae blanditiis. Tempora aut omnis autem excepturi non excepturi.</body>
+        <recipients>
+            <recipient name="Evan Kuphal"/>
+            <recipient name="George Skiles"/>
+            <recipient name="Josiah Feest"/>
+            <recipient name="Lucille Spinka"/>
+            <recipient name="Cortez Heathcote"/>
+            <recipient name="Dr. Mack Bergstrom"/>
+            <recipient name="Fausto Kilback"/>
+            <recipient name="Valentine Weissnat PhD"/>
+            <recipient name="Cliff Halvorson PhD"/>
+            <recipient name="Freeman Wisoky"/>
+            <recipient name="Miss Roxanna Streich"/>
+            <recipient name="Bianca Torphy"/>
+            <recipient name="Wm Ferry"/>
+        </recipients>
+    </message>
+    <message id="1858" from="Donnell Beatty" type="AMQP">
+        <heading>Stella! Another one of these damn kids jumped in front of my car! Come on out here! Help me take him in the house!</heading>
+        <body>Inventore sit magnam voluptatem. Et nemo qui ut. Itaque eum architecto accusantium eum voluptate et ipsam. Repellendus quo mollitia. Quia sequi impedit. Suscipit perspiciatis culpa distinctio et iusto voluptas non. Pariatur et quisquam et illo.</body>
+        <recipients>
+            <recipient name="Cornell Kohler I"/>
+            <recipient name="Gerri Carroll"/>
+            <recipient name="Sheri Rath"/>
+            <recipient name="Lance Wyman Sr."/>
+            <recipient name="Loan Rau"/>
+            <recipient name="Shani Rempel"/>
+            <recipient name="Tonisha Tromp III"/>
+            <recipient name="Miss Hwa Kertzmann"/>
+            <recipient name="Afton O'Reilly"/>
+            <recipient name="Felipe Larson"/>
+        </recipients>
+        <mentions>
+            <mention name="Judson Jaskolski"/>
+        </mentions>
+    </message>
+    <message id="8667" from="Eliseo Beier" type="XMPP">
+        <heading>Stella! Another one of these damn kids jumped in front of my car! Come on out here! Help me take him in the house!</heading>
+        <body>Praesentium sunt rem optio voluptates perferendis. Qui molestiae quod ut dolorem qui rem. Iure cupiditate vitae dolorem quos. Quos qui nostrum. Suscipit ratione harum impedit ipsum in odit. Ut ea et laudantium. Consequuntur ea aspernatur numquam praesentium dolorum. Id voluptas dolorem temporibus excepturi aliquid voluptatem quisquam.</body>
+        <recipients>
+            <recipient name="Ms. Leonor Kreiger"/>
+            <recipient name="Lucius Kuhic DDS"/>
+            <recipient name="Silvana Mohr"/>
+            <recipient name="Shamika Buckridge"/>
+            <recipient name="Dina Rath"/>
+            <recipient name="Phyliss Howell"/>
+            <recipient name="Dustin Jakubowski"/>
+            <recipient name="Pierre McLaughlin"/>
+            <recipient name="Miss Rob Cassin"/>
+            <recipient name="Miss Elicia Lakin"/>
+            <recipient name="Broderick Gottlieb DDS"/>
+        </recipients>
+    </message>
+    <message id="4691" from="Deon Friesen DDS" type="XMPP">
+        <heading>You know, Marty, you look so familiar to me. Do I know your mother?</heading>
+        <body>Quo et molestiae. Enim laudantium aspernatur rerum. Consequatur cum illum blanditiis. Numquam nostrum animi dignissimos facilis voluptas neque fugiat. Ipsum odio voluptatem ab sunt vel ut. Qui est reiciendis culpa quidem est esse nemo. Sit sint laboriosam quae.</body>
+        <recipients>
+            <recipient name="Keneth Kassulke"/>
+            <recipient name="Mr. Tanja Deckow"/>
+            <recipient name="Claudio Schultz"/>
+            <recipient name="Mr. Erich Willms"/>
+            <recipient name="Georgann Roberts"/>
+            <recipient name="Miss Jayme Casper"/>
+            <recipient name="Claude Frami"/>
+            <recipient name="Tanner Ritchie"/>
+            <recipient name="Tanja Gleason"/>
+            <recipient name="Melani Kozey"/>
+            <recipient name="Shawanda DuBuque"/>
+            <recipient name="Miss Burl Hartmann"/>
+        </recipients>
+    </message>
+    <message id="9371" from="Miss Dorcas Muller" type="MQTT">
+        <heading>Next saturday night we're sending you back to the future!</heading>
+        <body>Architecto unde quidem excepturi maxime alias. Aut aliquam nulla placeat unde ab. Labore deleniti sed quod. Culpa dolorem qui aut. Earum molestias architecto. Reprehenderit odit quibusdam voluptas fugit omnis dolorem eos. Ut rerum sed ipsa.</body>
+        <recipients>
+            <recipient name="Tommie Smith"/>
+            <recipient name="Gabriel Lowe"/>
+            <recipient name="Yahaira Raynor"/>
+            <recipient name="Cameron Barton"/>
+            <recipient name="Quincy Gleason"/>
+            <recipient name="Lisa Thompson"/>
+            <recipient name="Kassandra Pagac"/>
+            <recipient name="Yesenia Schiller IV"/>
+            <recipient name="Mammie Harris"/>
+            <recipient name="Marcie Veum Sr."/>
+            <recipient name="Rosia Terry"/>
+        </recipients>
+    </message>
+    <message id="6446" from="Harmony Muller" type="MQTT">
+        <heading>Oh, that's Joey. He cries when we take him out so we just leave him in there.</heading>
+        <body>Et aut est minima veritatis aut illum. Ad qui sequi. Quis nisi nesciunt tempora molestiae ipsam labore. Similique ad molestiae. Vero temporibus iure minus laborum. Veniam dolorem doloribus. Quis quis tenetur enim unde.</body>
+        <recipients>
+            <recipient name="Carolynn Cole"/>
+            <recipient name="Jeanette Emmerich"/>
+            <recipient name="Josef Kunze"/>
+        </recipients>
+    </message>
+</ns2:messages>

@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="8520" from="George Nader" type="AMQP">
+        <heading>You're late! Do you have no concept of time?</heading>
+        <body>Omnis omnis aut rerum placeat minima. Repellat ullam tempora et iste. Distinctio cumque minima magni. Perferendis ab laudantium debitis. Quia omnis dicta at. Voluptatum eaque est. Dolorem recusandae aliquam et qui vero ipsum excepturi. Voluptate illo a at et.</body>
+        <recipients>
+            <recipient name="Marylynn Ernser"/>
+            <recipient name="Aron Huels"/>
+            <recipient name="Libbie Mante"/>
+            <recipient name="Marquis Will"/>
+            <recipient name="Vernon Kshlerin"/>
+            <recipient name="Donnie Dare DDS"/>
+            <recipient name="Jacqualine Kirlin"/>
+            <recipient name="Berenice Zemlak"/>
+            <recipient name="Miss Tilda Bogan"/>
+            <recipient name="Carmine Kutch"/>
+            <recipient name="Lorraine Littel I"/>
+        </recipients>
+        <mentions>
+            <mention name="Art Rath"/>
+            <mention name="Noe Murray"/>
+            <mention name="Quinn O'Connell"/>
+        </mentions>
+    </message>
+    <message id="8834" from="Miss Leigh Lynch" type="SMTP">
+        <heading>I'm sure that in 1985, plutonium is available in every corner drugstore, but in 1955, it's a little hard to come by.</heading>
+        <body>Eius soluta consectetur quod. Adipisci qui iure nulla et. Excepturi quis et. Dolorem deserunt voluptatibus sint fugiat. Cum omnis voluptate inventore aspernatur possimus error. Vero quibusdam aut sint maiores. Sit qui quo.</body>
+        <recipients>
+            <recipient name="Russel Steuber II"/>
+            <recipient name="Antwan Greenholt"/>
+            <recipient name="Dr. Scotty Shanahan"/>
+            <recipient name="Clayton Heller PhD"/>
+            <recipient name="Arthur Pfeffer"/>
+            <recipient name="Elwood Halvorson"/>
+            <recipient name="Jerrell Crist"/>
+            <recipient name="Abby Mertz PhD"/>
+            <recipient name="Michal Runte"/>
+            <recipient name="Cory Lueilwitz"/>
+            <recipient name="Mauricio Bode"/>
+            <recipient name="Sophia Koelpin II"/>
+            <recipient name="Dr. Sidney Schmitt"/>
+            <recipient name="Miss Shiloh Heathcote"/>
+            <recipient name="Seth Wyman"/>
+        </recipients>
+    </message>
+    <message id="2711" from="Ricky Kohler" type="AMQP">
+        <heading>Give me a Pepsi Free.</heading>
+        <body>Et enim harum sequi sed doloremque quis. Labore nemo maiores sed placeat ab. Illum omnis provident. Aliquid quia nihil mollitia. Corporis reprehenderit et aliquam. Autem saepe doloribus officia reprehenderit non. Animi et consequatur laborum. Suscipit velit earum praesentium.</body>
+        <recipients>
+            <recipient name="Tori Bahringer"/>
+            <recipient name="Marcelo Haag"/>
+            <recipient name="Pablo Schulist"/>
+        </recipients>
+    </message>
+    <message id="9366" from="Kelvin Mraz" type="DDS">
+        <heading>Look, Marvin, you gotta play. See, that's where they kiss for the first time on the dance floor. And if there's no music, they can't dance. If they can't dance, they can't kiss. If they can't kiss they can't fall in love, and I'm history.</heading>
+        <body>Natus ut dolore sed rerum. Aut excepturi explicabo. Ut ipsa perspiciatis quasi animi nobis aut. Aut dolore id autem reiciendis non. Veniam autem dolorum assumenda sit amet voluptas. Dolorum rerum magnam pariatur occaecati labore dignissimos et. Natus et libero aspernatur sit voluptas corporis assumenda. Voluptatem rerum dolores. Dolores est aut animi.</body>
+        <recipients>
+            <recipient name="Adalberto Cassin"/>
+            <recipient name="Mose Ferry"/>
+            <recipient name="Leonore Pagac"/>
+            <recipient name="Miss Russel Smitham"/>
+            <recipient name="Haley Willms"/>
+        </recipients>
+    </message>
+    <message id="3778" from="France Schaefer" type="MQTT">
+        <heading>Wait a minute. Wait a minute, Doc. Ah... Are you telling me that you built a time machine... out of a DeLorean?</heading>
+        <body>Sint rerum natus repellendus inventore saepe aut. Natus quidem dolorem. Enim accusamus enim placeat ad totam et. Dolorem molestiae ut qui. Quis ut in dolores aperiam est. Laborum autem odio dolores. Neque laborum distinctio minima blanditiis.</body>
+        <recipients>
+            <recipient name="Fabian Yost"/>
+            <recipient name="Marty Mraz"/>
+            <recipient name="Dollie Franecki"/>
+            <recipient name="Velma Trantow"/>
+            <recipient name="Alexis Kulas IV"/>
+            <recipient name="Karren Spinka"/>
+            <recipient name="Stepanie Pfeffer"/>
+            <recipient name="Miss Lael Swaniawski"/>
+            <recipient name="Colette Fisher DVM"/>
+            <recipient name="Donald Friesen DVM"/>
+        </recipients>
+    </message>
+    <message id="9679" from="Taneka Keeling" type="MQTT">
+        <heading>It's gonna be really hard waiting 30 years before I can talk to you about everything that's happened in the past few days. I'm really gonna miss you, Marty.</heading>
+        <body>Nostrum occaecati natus. Consequatur facere id deleniti. Quaerat quos et. Animi aut id. Voluptate voluptates quo adipisci vel dignissimos vel facilis. Maxime pariatur aut. Ut consequatur voluptate et ea sed enim. Soluta qui voluptate sequi ipsum.</body>
+        <recipients>
+            <recipient name="Damaris Hermiston IV"/>
+            <recipient name="Mrs. Shantay Ritchie"/>
+            <recipient name="Cody Prohaska"/>
+            <recipient name="Charis Kunze"/>
+            <recipient name="Darin Wilkinson"/>
+            <recipient name="Preston Durgan"/>
+            <recipient name="Darrin Mayer"/>
+            <recipient name="Erich Barton"/>
+        </recipients>
+    </message>
+    <message id="6038" from="Clarita Grant" type="XMPP">
+        <heading>Look, Marvin, you gotta play. See, that's where they kiss for the first time on the dance floor. And if there's no music, they can't dance. If they can't dance, they can't kiss. If they can't kiss they can't fall in love, and I'm history.</heading>
+        <body>Aspernatur quo dicta ut ut molestias iste. Natus delectus ea et error. Magni minus minus consectetur alias. Aut qui quos voluptatibus aspernatur ducimus aut accusamus. Ea magnam mollitia porro. Voluptatem doloribus mollitia recusandae omnis corrupti amet. Accusamus voluptatibus soluta cupiditate soluta vero quaerat. Est non sapiente perspiciatis ea quo quam. Laborum nam laboriosam voluptatem dolor unde.</body>
+        <recipients>
+            <recipient name="Carmela Parisian"/>
+            <recipient name="Marcelino Gaylord"/>
+            <recipient name="Eleanora Hermann"/>
+            <recipient name="Vinita VonRueden"/>
+            <recipient name="Leigh Greenfelder"/>
+            <recipient name="Mrs. Joan Mante"/>
+            <recipient name="Zachary Stamm"/>
+            <recipient name="Donovan Schumm"/>
+            <recipient name="Dr. Wilmer Friesen"/>
+        </recipients>
+    </message>
+    <message id="6026" from="Mariam Hilll" type="SMTP">
+        <heading>Since you're new here, I-I'm gonna cut you a break, today. So, why don't you make like a tree and get outta here?</heading>
+        <body>Omnis omnis facilis eum dolor assumenda a. Provident accusamus atque. Natus vel impedit est maxime est exercitationem. Suscipit quam eos. Enim possimus quia qui incidunt quo. Quae minima voluptatem. Consectetur similique occaecati numquam magnam aut ut.</body>
+        <recipients>
+            <recipient name="Tameka Flatley MD"/>
+            <recipient name="Graig Heathcote"/>
+            <recipient name="Ellsworth Becker"/>
+            <recipient name="Alexander Kreiger"/>
+        </recipients>
+    </message>
+    <message id="8472" from="Billy Mante" type="AMQP">
+        <heading>No! Marty! We've already agreed that having information about the future can be extremely dangerous. Even if your intentions are good, it can backfire drastically!</heading>
+        <body>Iure deserunt et quia placeat sint est et. Cum sit aut sit ut inventore. Expedita ut porro placeat. Est impedit et minima. Qui qui incidunt fuga et soluta eos in. Ad aspernatur quisquam impedit ipsam. Laudantium sunt labore et reiciendis mollitia a. Ducimus error nostrum aliquam optio non voluptate in. Neque non ipsam voluptate sed distinctio tempora accusantium.</body>
+        <recipients>
+            <recipient name="Ms. Bibi Zieme"/>
+            <recipient name="Ollie Stiedemann"/>
+            <recipient name="Darnell Boehm"/>
+            <recipient name="Tony Marks"/>
+            <recipient name="Robbyn Schroeder"/>
+            <recipient name="Miss Sharika Boyer"/>
+            <recipient name="Winston Grady"/>
+            <recipient name="Wally Rath"/>
+            <recipient name="Neida Larkin"/>
+            <recipient name="Dell Nolan"/>
+            <recipient name="Richard Gislason"/>
+            <recipient name="Tomika Hayes"/>
+            <recipient name="Amos Schmeler"/>
+            <recipient name="Carlee Hudson"/>
+            <recipient name="Filiberto Ernser"/>
+        </recipients>
+    </message>
+    <message id="1724" from="Delcie Crona" type="MQTT">
+        <heading>Give me a Pepsi Free.</heading>
+        <body>Corrupti et officiis illum iusto perspiciatis. Distinctio quia unde ad quibusdam et. Nesciunt sint a voluptas accusamus. Consequatur rerum ipsa officiis est. Dolore et perferendis quibusdam. Expedita exercitationem est. Laboriosam quia dolores placeat. Et debitis sunt quia atque aut. Alias recusandae occaecati beatae commodi omnis.</body>
+        <recipients>
+            <recipient name="Donte Waelchi MD"/>
+            <recipient name="Mrs. Bess Schinner"/>
+            <recipient name="Verdie Conn V"/>
+        </recipients>
+    </message>
+    <message id="6092" from="Miss Luana Balistreri" type="DDS">
+        <heading>I have your car towed all the way to your house and all you got for me is lite beer?</heading>
+        <body>Itaque harum officia. Atque pariatur odio rerum at magni. Blanditiis earum sint culpa. Occaecati eum illum consequuntur. Recusandae tempore ea necessitatibus vitae. Quia autem in voluptatem aut voluptas. Veritatis quia sunt recusandae porro officia eius.</body>
+        <recipients>
+            <recipient name="Avis Flatley"/>
+            <recipient name="Scottie Ziemann"/>
+            <recipient name="Loyd Muller MD"/>
+            <recipient name="Marisha Baumbach"/>
+            <recipient name="Miss Georgiann Lynch"/>
+            <recipient name="Veta Beahan"/>
+            <recipient name="Kimberlie Dibbert DVM"/>
+            <recipient name="Mr. Roseanne Connelly"/>
+            <recipient name="Ruthanne Breitenberg"/>
+            <recipient name="Dr. Clifford Ferry"/>
+        </recipients>
+        <mentions>
+            <mention name="Marinda O'Hara"/>
+        </mentions>
+    </message>
+    <message id="6555" from="Eloy Champlin" type="SMS">
+        <heading>Ah, Jesus Christ! Jesus Christ, Doc, you disintegrated Einstein!</heading>
+        <body>Excepturi consequatur necessitatibus. Molestias sit eaque voluptatem. Est repellat sint officia repellat voluptatibus sequi qui. Debitis ratione ut natus aspernatur necessitatibus debitis eos. Velit sed inventore earum ea aut. Non dolorum nobis autem dolores hic nostrum itaque. Dolorum animi eum vitae et. Qui ut delectus sit cupiditate.</body>
+        <recipients>
+            <recipient name="Marcellus Stamm Sr."/>
+            <recipient name="Mrs. Diamond Prosacco"/>
+            <recipient name="Derrick Ratke"/>
+            <recipient name="Darin Haley I"/>
+            <recipient name="Valeri Wisoky"/>
+            <recipient name="Mrs. Christinia Wiza"/>
+            <recipient name="Jason Monahan"/>
+            <recipient name="Ashli Mills"/>
+            <recipient name="Vilma Champlin"/>
+            <recipient name="Margeret Macejkovic"/>
+            <recipient name="Kamilah Blick"/>
+            <recipient name="Dr. Hwa Haag"/>
+        </recipients>
+        <mentions>
+            <mention name="Ahmad Bartell"/>
+        </mentions>
+    </message>
+    <message id="7221" from="Rosanna Champlin" type="MQTT">
+        <heading>If my calculations are correct, when this baby hits 88 miles per hour... you're gonna see some serious shit.</heading>
+        <body>Eum dolor voluptatem. Ut consectetur aut repudiandae quia aut. Animi quia est nihil libero mollitia quia in. Qui exercitationem qui id maiores tempore. Facilis non qui eum delectus. Repellat voluptatem consequatur. Voluptate blanditiis necessitatibus officiis autem corporis. Corporis qui ex cumque autem nemo sed odit. Voluptatibus et unde est natus omnis.</body>
+        <recipients>
+            <recipient name="Samuel Blanda"/>
+            <recipient name="Sharan Gulgowski"/>
+            <recipient name="Seth Friesen"/>
+            <recipient name="Paulina Schiller"/>
+            <recipient name="Rod Bauch"/>
+            <recipient name="Bobby Hagenes"/>
+            <recipient name="Nicholas Upton"/>
+            <recipient name="Margarito Hettinger I"/>
+            <recipient name="Shyla Williamson"/>
+            <recipient name="Seth Wiegand"/>
+        </recipients>
+        <mentions>
+            <mention name="Mrs. Mitsue Mertz"/>
+        </mentions>
+    </message>
+    <message id="637" from="Dr. Maximo Marvin" type="MMS">
+        <heading>Hey, McFly! I thought I told you never to come in here.</heading>
+        <body>Quidem quo est corporis. Accusamus quia dolores ut asperiores. Neque quae voluptate. Ducimus vel dolore ipsam qui. Quia omnis velit dicta quasi temporibus quas. Exercitationem ab aut eos et at modi repellat. Aliquam alias et.</body>
+        <recipients>
+            <recipient name="Tammie Zieme II"/>
+            <recipient name="Lindsey Glover"/>
+            <recipient name="Kindra Pollich"/>
+            <recipient name="Susannah Adams"/>
+            <recipient name="Ezekiel Davis MD"/>
+            <recipient name="Miss Valene Kunze"/>
+            <recipient name="Dustin Kessler"/>
+            <recipient name="Wendi Bartell"/>
+            <recipient name="Lindsay Schneider"/>
+            <recipient name="Guillermina Mitchell"/>
+            <recipient name="Brendan Will"/>
+            <recipient name="Dr. Glenn Lind"/>
+        </recipients>
+        <mentions>
+            <mention name="Tashina Hartmann"/>
+            <mention name="Caryn Botsford"/>
+            <mention name="Lillian Gerhold I"/>
+            <mention name="Dr. Eddie Corkery"/>
+        </mentions>
+    </message>
+    <message id="9637" from="Harriett Bergnaum" type="SMTP">
+        <heading>Since you're new here, I-I'm gonna cut you a break, today. So, why don't you make like a tree and get outta here?</heading>
+        <body>Quaerat vero nisi in error enim labore quos. A nobis ut rerum dolorem saepe et. Deleniti quas harum officia voluptatem. Rem cumque nam consequatur. Qui aperiam ratione repellat excepturi et. Sint enim distinctio autem excepturi. Fugiat consequuntur pariatur quis fugit ut eius neque. Ut itaque voluptatum similique non numquam expedita sunt. Nesciunt qui molestiae dolores minima voluptatem voluptatibus magni.</body>
+        <recipients>
+            <recipient name="Lillian Mohr"/>
+            <recipient name="Mr. Lovie Langosh"/>
+            <recipient name="Austin Hyatt"/>
+            <recipient name="Mr. Chadwick Heathcote"/>
+            <recipient name="Wendi Veum II"/>
+            <recipient name="Roger Abbott"/>
+            <recipient name="Shantae Terry"/>
+        </recipients>
+    </message>
+</ns2:messages>
