@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="6030" from="Velda McLaughlin" type="SMTP">
+        <heading>Course! From a group of Lybian Nationalists They wanted me to build them a bomb, so I took their plutonium and in turn I gave them a shiny bomb caseing full of used pinball machine parts!</heading>
+        <body>Ut distinctio aliquam omnis modi. Molestiae aliquid porro. Ducimus debitis qui odio et qui eius. Alias voluptatem atque cumque corporis autem quas quo. Aperiam modi et. Quae praesentium natus. Quidem non quia.</body>
+        <recipients>
+            <recipient name="Phung Rath"/>
+            <recipient name="Jesica Halvorson III"/>
+            <recipient name="Merle Treutel"/>
+            <recipient name="Mr. Andreas Trantow"/>
+            <recipient name="Harland Goodwin"/>
+            <recipient name="Julio Murphy"/>
+            <recipient name="Lorenzo Herzog"/>
+            <recipient name="Richie Volkman II"/>
+            <recipient name="Levi Anderson"/>
+            <recipient name="Stanton Grant"/>
+            <recipient name="Rosendo Kris Jr."/>
+            <recipient name="Sharolyn Stiedemann"/>
+        </recipients>
+    </message>
+    <message id="4219" from="Charlie Weimann" type="AMQP">
+        <heading>Crazy drunk driver.</heading>
+        <body>Laborum est officiis dolor repellat amet accusantium. Impedit ea molestias tempore. Asperiores debitis voluptas et perspiciatis cumque tenetur. Placeat quis enim quia voluptatem soluta. Accusamus voluptas aut omnis architecto eaque sit fuga. Sed non praesentium dolorum voluptatem unde ut id. Sint beatae qui nihil quidem.</body>
+        <recipients>
+            <recipient name="Chet Nitzsche"/>
+            <recipient name="Elias Weber"/>
+            <recipient name="Kristi Hauck"/>
+            <recipient name="Olympia Thiel II"/>
+        </recipients>
+    </message>
+    <message id="7983" from="Thuy Goodwin" type="AMQP">
+        <heading>You caused 300 bucks damage to my car, you son of a bitch. And I'm gonna take it out of your ass.</heading>
+        <body>Tempore et illum. Hic illum vero. Ipsum maiores sed hic iure. Voluptates consectetur iste at. Cumque ut ipsum ea placeat. Rem explicabo exercitationem. Debitis eum et consequuntur veniam veritatis velit.</body>
+        <recipients>
+            <recipient name="Ms. Brock Beatty"/>
+            <recipient name="Danilo O'Keefe"/>
+            <recipient name="Williemae Willms"/>
+            <recipient name="Ms. Tegan Rowe"/>
+            <recipient name="Yanira Erdman"/>
+        </recipients>
+    </message>
+</ns2:messages>

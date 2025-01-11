@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="7303" from="Marco Lesch" type="MMS">
+        <heading>Are you telling me that this sucker is nuclear?</heading>
+        <body>Porro sunt voluptate sint debitis. Aut cumque quasi omnis aut nesciunt. Veritatis unde animi unde reprehenderit et. Non aut sint rerum et. Excepturi quam recusandae consequatur nemo sunt. Optio et sed eius. Laborum modi nostrum.</body>
+        <recipients>
+            <recipient name="Dr. Hester Koepp"/>
+            <recipient name="Simona Franecki"/>
+            <recipient name="Vikki Strosin III"/>
+            <recipient name="Ms. Gaylene Kunde"/>
+        </recipients>
+    </message>
+</ns2:messages>

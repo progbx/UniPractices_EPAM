@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="2885" from="Zack Bauch V" type="SMTP">
+        <heading>No! Marty! We've already agreed that having information about the future can be extremely dangerous. Even if your intentions are good, it can backfire drastically!</heading>
+        <body>Illum hic qui voluptates et sit. Maxime et enim ut ut qui blanditiis sit. Quis non modi molestiae quis iste dignissimos. Quo animi nisi aut. In nostrum enim ipsa architecto error. Eaque magni blanditiis. Quia pariatur amet harum. Nostrum fugiat fugit.</body>
+        <recipients>
+            <recipient name="Pura Feest"/>
+            <recipient name="Jocelyn Schmeler V"/>
+            <recipient name="Bud Macejkovic Jr."/>
+            <recipient name="Laurence Okuneva"/>
+        </recipients>
+    </message>
+</ns2:messages>

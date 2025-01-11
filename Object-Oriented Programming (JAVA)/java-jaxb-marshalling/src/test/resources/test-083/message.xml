@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="6406" from="Ms. Bradford Lebsack" type="MMS">
+        <heading>You caused 300 bucks damage to my car, you son of a bitch. And I'm gonna take it out of your ass.</heading>
+        <body>Ea eius eligendi. Voluptas voluptates assumenda tempore ut alias. Sit recusandae in molestiae vel. Doloribus quia nisi rerum odit. Excepturi nam voluptates. At ad illo. Quia est alias unde. Repudiandae sint temporibus quisquam incidunt nihil velit sed.</body>
+        <recipients>
+            <recipient name="Mrs. Constance Ullrich"/>
+            <recipient name="Mr. Deanna Wuckert"/>
+            <recipient name="Hung Pouros"/>
+        </recipients>
+    </message>
+    <message id="7633" from="Tyrell Torp" type="MMS">
+        <heading>Great Scott!</heading>
+        <body>Dolorem rerum qui. Rem aliquam minima delectus et facilis deserunt. Nobis magnam adipisci suscipit autem. Exercitationem ea et excepturi id. Ab quo deleniti omnis et consequatur. Excepturi quisquam possimus reprehenderit odio. Error libero esse.</body>
+        <recipients>
+            <recipient name="Jacques Wehner"/>
+            <recipient name="Asuncion Kreiger"/>
+            <recipient name="Gwenn Dibbert IV"/>
+            <recipient name="Hilario Jacobs"/>
+            <recipient name="Mr. Melony Baumbach"/>
+            <recipient name="Jeromy Grimes"/>
+            <recipient name="Jospeh Abernathy"/>
+        </recipients>
+        <mentions>
+            <mention name="Caroll Sanford"/>
+        </mentions>
+    </message>
+</ns2:messages>

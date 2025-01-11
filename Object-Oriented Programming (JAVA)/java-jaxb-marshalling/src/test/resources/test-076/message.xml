@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="2044" from="Trish Hoppe" type="SMTP">
+        <heading>Hey, Biff, get a load of this guy's life preserver. Dork thinks he's gonna drown.</heading>
+        <body>Asperiores atque numquam deserunt beatae deserunt maxime. Omnis eum unde quis harum ipsum veniam. Iure sit explicabo necessitatibus et. Quo occaecati rem et. Libero ex voluptatem aut qui iure laboriosam commodi. Impedit eaque accusamus perferendis iusto et autem. Aliquid odit atque et in quia. Quaerat illum placeat sit temporibus.</body>
+        <recipients>
+            <recipient name="Dr. Adriane Reichel"/>
+            <recipient name="Mrs. Denis Johns"/>
+            <recipient name="Willetta Lesch Sr."/>
+            <recipient name="Carmelina Fahey"/>
+            <recipient name="Garfield Olson"/>
+            <recipient name="Sherwood Grant"/>
+            <recipient name="Jude Schoen"/>
+            <recipient name="Tamatha Gleichner"/>
+            <recipient name="Colton Schimmel"/>
+            <recipient name="Miss Bernard Bernhard"/>
+            <recipient name="Mercedez Greenholt"/>
+            <recipient name="Valeri Toy"/>
+        </recipients>
+    </message>
+    <message id="9114" from="Dr. Norbert Hand" type="SMTP">
+        <heading>I can't believe you'd loan me your car without telling me it had a blind spot. I could've been killed!</heading>
+        <body>Veniam vel vero sit. Ipsum nobis voluptas et. Hic est omnis incidunt aut. Repellendus quia vel culpa temporibus est. Non possimus sed fuga alias. Corporis nobis totam recusandae iusto. Alias molestias voluptatem repellat ratione et pariatur. Illum facere ducimus minus.</body>
+        <recipients>
+            <recipient name="Horace VonRueden"/>
+            <recipient name="Lincoln Reichert"/>
+            <recipient name="Mrs. Sunny Beier"/>
+            <recipient name="Victorina Dach"/>
+            <recipient name="Benedict Kuhic"/>
+            <recipient name="Allen Cormier"/>
+            <recipient name="Adrien Miller Sr."/>
+        </recipients>
+        <mentions>
+            <mention name="Winnifred Crona"/>
+            <mention name="Davis Donnelly"/>
+        </mentions>
+    </message>
+</ns2:messages>

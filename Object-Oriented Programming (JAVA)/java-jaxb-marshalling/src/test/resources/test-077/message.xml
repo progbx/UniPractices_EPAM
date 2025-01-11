@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="208" from="Ms. Cyndi Kemmer" type="SMS">
+        <heading>That's Strickland. Jesus, didn't that guy ever have hair?</heading>
+        <body>Nemo aspernatur repellendus quia omnis ad. Numquam ipsum culpa. Enim earum delectus. Iure quod sed consequatur sit quisquam. Dolorum voluptate dolorum atque ipsum. Et cum unde molestias officia. Itaque sunt quaerat. Architecto quaerat ut molestiae ab.</body>
+        <recipients>
+            <recipient name="Jeannine Waelchi"/>
+            <recipient name="Tynisha Lind"/>
+            <recipient name="Donald Harvey"/>
+            <recipient name="Almeda Pouros IV"/>
+            <recipient name="Freddie Adams"/>
+            <recipient name="Ms. David Keebler"/>
+            <recipient name="Issac Kerluke"/>
+            <recipient name="Miss Latanya Stehr"/>
+            <recipient name="Shon Metz"/>
+            <recipient name="Sherwood Kemmer"/>
+            <recipient name="Cherri Rempel Jr."/>
+        </recipients>
+    </message>
+</ns2:messages>

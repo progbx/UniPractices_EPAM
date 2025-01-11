@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="5884" from="Marlana Rodriguez" type="MMS">
+        <heading>Who the hell is John F. Kennedy?</heading>
+        <body>Impedit impedit ad ad dolorem quod odio. Labore nam explicabo sint labore. Illum reiciendis magni quia. Dolorem assumenda exercitationem. Repudiandae provident dolores nemo. Assumenda debitis ea quae. Consectetur animi qui.</body>
+        <recipients>
+            <recipient name="Kelvin Koch"/>
+            <recipient name="Hilda Champlin III"/>
+            <recipient name="Scott Mayer"/>
+            <recipient name="Vannessa Lockman"/>
+        </recipients>
+        <mentions>
+            <mention name="Ms. Diego Gleason"/>
+            <mention name="Colton Hansen"/>
+            <mention name="Mrs. Roderick Lockman"/>
+            <mention name="Yolando Pagac"/>
+        </mentions>
+    </message>
+    <message id="8155" from="Kenia Ebert" type="RCS">
+        <heading>Who the hell is John F. Kennedy?</heading>
+        <body>Sint quo accusantium voluptate. Et ratione eius iste soluta quae praesentium. Sed quia odit harum non neque quo debitis. Qui ducimus ipsum quia ut dolores. Saepe laboriosam qui nihil non impedit cumque. Quia aut omnis sed sint. Iste asperiores et qui. Et odio commodi placeat. Maxime unde ut quod deleniti quo enim earum.</body>
+        <recipients>
+            <recipient name="Chassidy O'Keefe"/>
+            <recipient name="Fredrick Zieme"/>
+            <recipient name="Blake Jacobi"/>
+            <recipient name="Mr. Ferdinand Runolfsson"/>
+            <recipient name="Ms. Reuben Graham"/>
+            <recipient name="Vania Heidenreich"/>
+            <recipient name="Celina D'Amore"/>
+            <recipient name="Mr. Leonida O'Kon"/>
+            <recipient name="Maddie Jacobi"/>
+            <recipient name="Virgil Beatty"/>
+            <recipient name="Nichole Kub"/>
+            <recipient name="Freddy Haley Sr."/>
+            <recipient name="Dave Nicolas IV"/>
+            <recipient name="Christie Nader"/>
+        </recipients>
+        <mentions>
+            <mention name="Evan McClure"/>
+        </mentions>
+    </message>
+</ns2:messages>

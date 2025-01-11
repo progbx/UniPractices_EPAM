@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:messages xmlns:ns2="http://www.fop.epam.edu/messages">
+    <message id="707" from="Matilde Harber Sr." type="AMQP">
+        <heading>Maybe you were adopted.</heading>
+        <body>Modi voluptatibus impedit error quam quo. Dolorem ex et asperiores ducimus. Aut tempora excepturi nisi qui cum. Voluptatem reiciendis et fugiat maxime architecto et. Ullam adipisci est corporis est et quia. Facilis soluta illo temporibus impedit nulla rem. Error officia enim asperiores eaque in. Aut ea voluptatibus repudiandae neque in.</body>
+        <recipients>
+            <recipient name="Moises Wilkinson"/>
+            <recipient name="Kristle Lemke"/>
+            <recipient name="Ben Keeling II"/>
+            <recipient name="Clifton Borer"/>
+            <recipient name="Consuelo Bradtke II"/>
+        </recipients>
+        <mentions>
+            <mention name="Marco Kerluke"/>
+        </mentions>
+    </message>
+    <message id="8347" from="Mrs. Belle Kris" type="AMQP">
+        <heading>Hello? Hello? Anybody home? Huh? Think, McFly. Think! I gotta have time to get them retyped. Do you realize what would happen if I hand in my reports in your handwriting? I'll get fired. You wouldn't want that to happen, would ya? Would ya?</heading>
+        <body>Repudiandae sed assumenda. Eum officiis ipsa voluptate officia ipsa voluptatum neque. Hic non ut ut a amet error. Sit consequatur voluptate mollitia dolorem. Ipsum voluptas repellat sed qui voluptatem maiores aut. Non fugit delectus doloribus non facere laudantium fugit. Totam nulla eligendi est ad sit inventore maxime.</body>
+        <recipients>
+            <recipient name="Dr. Galen Murazik"/>
+            <recipient name="Trudy Feeney DDS"/>
+            <recipient name="Augusta King"/>
+            <recipient name="Dr. Lynelle MacGyver"/>
+        </recipients>
+        <mentions>
+            <mention name="Herman Denesik"/>
+        </mentions>
+    </message>
+    <message id="1873" from="Lavern Batz Jr." type="IRC">
+        <heading>If you put your mind to it, you can accomplish anything.</heading>
+        <body>Sunt quibusdam voluptas velit aut illo veniam. Ipsum error eaque. Amet at quos repellendus. Mollitia odio distinctio et. Mollitia non omnis ut blanditiis. Voluptate laudantium blanditiis et distinctio. Rerum sit facilis et ut qui dolore. Reprehenderit vel quisquam ut vero qui.</body>
+        <recipients>
+            <recipient name="Micki Turner"/>
+            <recipient name="Vanita Von DDS"/>
+            <recipient name="Verline Walsh"/>
+            <recipient name="Elmo Mills"/>
+            <recipient name="Maxwell Schiller"/>
+            <recipient name="Christopher Wunsch"/>
+            <recipient name="Wanetta Lakin DDS"/>
+        </recipients>
+        <mentions>
+            <mention name="Ellis Davis"/>
+        </mentions>
+    </message>
+    <message id="4777" from="Carson Lowe" type="DDS">
+        <heading>See you in about 30 years.</heading>
+        <body>Ut vitae sed temporibus itaque hic sint exercitationem. Pariatur rerum quia ut earum doloremque eligendi iusto. Ad nam est. Dolor est animi itaque. Est numquam itaque deserunt est. Ullam veniam laudantium. Et sint aliquam quos tenetur eos sequi. Qui sunt illo dolores soluta quia eos. Est ut aut minus quia exercitationem molestias repudiandae.</body>
+        <recipients>
+            <recipient name="Tiffaney Mosciski"/>
+            <recipient name="Thomas Schaden"/>
+            <recipient name="Jamel Lind"/>
+            <recipient name="Glennie Herman"/>
+            <recipient name="Yung Krajcik"/>
+            <recipient name="Kris Barrows"/>
+            <recipient name="Jackie Satterfield DDS"/>
+            <recipient name="Carlton Buckridge"/>
+            <recipient name="Miss Bo Smith"/>
+            <recipient name="Devora Effertz IV"/>
+            <recipient name="Suk Nicolas I"/>
+            <recipient name="Dr. Truman Bradtke"/>
+        </recipients>
+        <mentions>
+            <mention name="Esteban Rutherford"/>
+            <mention name="Tameka VonRueden"/>
+            <mention name="Mr. Fidela Lebsack"/>
+            <mention name="Lashonda Brekke"/>
+        </mentions>
+    </message>
+    <message id="4115" from="Wallace Jones" type="SMTP">
+        <heading>No! Marty! We've already agreed that having information about the future can be extremely dangerous. Even if your intentions are good, it can backfire drastically!</heading>
+        <body>Illum nihil tempore. Rerum dolor dolores dolorem facilis asperiores sed quos. Quis dolorum dolores distinctio omnis amet vitae. Quo consequatur ut ullam. Dolores qui et minus veniam voluptate. Pariatur sapiente aut similique voluptas ab perferendis exercitationem. Recusandae voluptas ut a.</body>
+        <recipients>
+            <recipient name="Maynard Wehner"/>
+            <recipient name="Laverne Herman"/>
+            <recipient name="Ms. Kim Harris"/>
+            <recipient name="Dr. Renato Jacobs"/>
+            <recipient name="Mr. Toshia Stracke"/>
+            <recipient name="Yuko Crist"/>
+            <recipient name="Daysi Gutmann"/>
+            <recipient name="Shellie Sanford DVM"/>
+            <recipient name="Kathrin Sporer"/>
+            <recipient name="Luna Purdy"/>
+            <recipient name="Duane Casper"/>
+            <recipient name="Benedict Grady"/>
+        </recipients>
+        <mentions>
+            <mention name="Mr. Terese Mante"/>
+            <mention name="Ms. Wilber Witting"/>
+            <mention name="Giuseppina Langworth"/>
+        </mentions>
+    </message>
+</ns2:messages>
